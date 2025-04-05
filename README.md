@@ -125,3 +125,133 @@
 - [4.8. Database Design](#48-database-design)
   - [4.8.1. Database Diagram](#481-database-diagram)
 
+  [Conclusiones](#conclusiones-1)
+
+- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+
+[Bibliografía](#bibliografc3ada-1)
+
+[Anexos](#anexos-1)
+
+<div style="page-break-after: always;"></div>
+
+# Student Outcome
+
+|Criterio específico| Acciones realizadas | Conclusiones |
+|:------ | :--------------------------- | :--------- |
+|1|2|3|
+
+<div style="page-break-after: always;"></div>
+
+# Capitulo I: Introduccion
+
+## 1.1. StartUp Profile
+
+### 1.1.1. Description de la StartUp
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+| Integrantes | Descripción | Conocimientos |
+| :--- | :--- | :--- |
+|Nombre|Descripción|Conocimientos|
+
+## 1.2. Solution Profile
+
+### 1.2.1. Antecedentes y problemática
+
+**Antecedentes**
+
+**Problemática**
+
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+#### 1.2.2.2. Lean UX Assumptions
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+#### 1.2.2.4. Lean UX Canvas
+
+# 1.3. Segmentos Objetivo
+
+**Segmento #1:**
+
+**Segmento #2:**
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+En este capítulo se realizará el proceso de Análisis competitivo y Needfinding necesario para la identificación de las necesidades de nuestro segmento objetivo.
+
+## 2.1. Competidores
+
+### 2.1.1. Análisis Competitivo
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+**Preguntas Generales**
+
+- ¿Cuál es su nombre?
+- ¿Cuántos años tiene usted?
+- ¿En que ciudad y distrito reside?
+- ¿A qué se dedica o cual es su ocupación?
+
+**Preguntas Específicas**
+
+**Segmento #1:**
+
+**Segmento #2:**
+
+**Preguntas sobre la idea del proyecto**
+
+### 2.2.2. Registro de entrevistas
+
+### 2.2.3. Análisis de entrevistas
+
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+### 2.3.2. User Task Matrix
+
+### 2.3.3. User Journey Mapping
+
+### 2.3.4. Empathy Mapping
+
+### 2.3.5. As-is Scenario Mapping
+
+## 2.4. Ubiquitous Language
+
+# Capítulo III: Requirements Specification
+
+## 3.1. To-Be Scenario Mapping
+
+## 3.2. User Stories
+
+## 3.3. Impact Mapping
+
+## 3.4. Product Backlog
+
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+### 4.1.1. General Style Guidelines
+
+### 4.1.2. Web Style Guidelines
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+### 4.2.2. Labeling Systems
+
+### 4.2.3. SEO Tags and Meta Tags
+
+### 4.2.4. Searching Systems
+
+
