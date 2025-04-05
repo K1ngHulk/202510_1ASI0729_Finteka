@@ -175,9 +175,9 @@
 
 # 1.3. Segmentos Objetivo
 
-**Segmento #1:**
+**Segmento #1: Solicitante de Servicios**
 
-**Segmento #2:**
+**Segmento #2: Proveedores de Servicios**
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -202,9 +202,9 @@ En este capítulo se realizará el proceso de Análisis competitivo y Needfindin
 
 **Preguntas Específicas**
 
-**Segmento #1:**
+**Segmento #1: Solicitante de Servicios**
 
-**Segmento #2:**
+**Segmento #2: Proveedores de Servicios**
 
 **Preguntas sobre la idea del proyecto**
 
@@ -214,9 +214,23 @@ En este capítulo se realizará el proceso de Análisis competitivo y Needfindin
 
 ## 2.3. Needfinding
 
+En esta sección se muestra el proceso de análisis de la información recolectada en las entrevistas. Se incluyen los User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+
 ### 2.3.1. User Personas
 
+A continuación brindamos las fichas de User Persona elaboradas a partir del análisis de las entrevistas realizadas.
+
+**Segmento #1: Solicitante de Servicios**
+
+<img src="./img/user1.png" width="1050" height="1289">
+
+**Segmento #2: Proveedores de Servicios**
+
+<img src="./img/user2.png" width="1050" height="1289">
+
 ### 2.3.2. User Task Matrix
+
+A continuación se muestra el proceso para la realizacion del User Task Matrix para comprender las tareas que realizan los User Persona para cumplir sus objetivos.
 
 ### 2.3.3. User Journey Mapping
 
