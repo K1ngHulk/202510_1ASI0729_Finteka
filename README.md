@@ -260,6 +260,26 @@ Coincidencias:
 
 A continuación se muestra el proceso para la realización del User Journey Mapping para los User Persona con el fin de entender las experiencias del usuario sin nuestra solución.
 
+**Segmento #1: Solicitante de Servicios**
+
+| Fase                         | Acción    | Emoción     | Puntos de Contacto |
+|-------------------------------|----------------|----------------|---------------| 
+|Conciencia | El usuario se da cuenta de que necesita ayuda profesional | Curiosidad, inseguridad inicial| Publicidad en redes, recomendaciones, boca a boca |
+|Consideración | Explora la app, busca profesionales, revisa perfiles y precios | Interés, algo de duda	| Página de inicio, buscador |
+|Decisión| Se comunica con el profesional, concreta el servicio | Expectativa, confianza moderada | Chat interno, agenda, botón de reserva |
+|Uso | 	Recibe el servicio | Satisfacción o frustración (según resultado) | Notificaciones, seguimiento, sección de reseñas |
+
+**Segmento #2: Proveedores de Servicios**
+
+| Fase                         | Acción    | Emoción     | Puntos de Contacto |
+|-------------------------------|----------------|----------------|---------------| 
+|Conciencia | El usuario busca plataformas para ofrecer sus servicios | Motivación, expectativa| Campañas de captación, redes, recomendacione |
+|Consideración | Crea su perfil en la app, publica sus servicios | Esperanza, concentración	| Sección de publicaciones |
+|Decisión| Acepta una solicitud, coordina con el cliente | Compromiso, ligera ansiedad | Chat con el cliente, calendario |
+|Uso | 	Realiza el servicio | Orgullo o decepción (según resultado) | Sección de reseñas, |
+
+
+
 ### 2.3.4. Empathy Mapping
 
 A continuación se muestra el proceso para la realización del Empathy Mapping para los User Persona con el fin de entender lo que piensa, siente, oye, hace y observa.
