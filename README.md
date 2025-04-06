@@ -349,6 +349,14 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 ## 3.2. User Stories
 
+| Epic ID                        | Epic          | User Story ID  | User Stories   |
+|-------------------------------|----------------|----------------|----------------|
+|EP01 |Registro de clientes|US001|Registrar un profesional|
+|EP01 |Registro de clientes|US004|Registrar un usuario|
+|EP02 |Búsqueda de servicios|US002|Buscar profesionales disponibles|
+|EP03 |Perfil del profesional|US003|Ver detalles del profesional|
+|EP03 |Perfil del profesional|US005|Calificar a un profesional|
+
 <table>
     <thead>
         <tr style="text-align:center">
@@ -393,6 +401,60 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
                 <strong>Entonces</strong> puedo ver su información completa, experiencia, calificaciones, disponibilidad y tarifas.
             </td>
             <td>EP02</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr style="text-align:center">
+            <td>HU03</td>
+            <td>Ver detalles del profesional</td>
+            <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder ver el perfil completo de un profesional. <strong>Para</strong>  conocer su experiencia, especialidades, disponibilidad, tarifas y calificaciones antes de tomar una decisión.</td>
+            <td>
+                <h5>Escenario 01:  Visualización de experiencia y especialidades.</h5>
+                <strong>Dado</strong>  que estoy viendo el perfil de un consultor.<br>
+                <strong>Cuando</strong>   navego por la sección de descripción profesional.<br>
+                <strong>Entonces</strong>  puedo leer su formación, experiencia laboral y áreas de especialización.
+                <h5>Escenario 02: Visualización de disponibilidad y tarifas.</h5>
+                <strong>Dado</strong> que estoy en el perfil de un profesional.<br>
+                <strong>Cuando</strong> reviso su disponibilidad.<br>
+                <strong>Entonces</strong> puedo ver los horarios libres para agendar una sesión y el costo por cada servicio.
+            </td>
+            <td>EP03</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr style="text-align:center">
+            <td>HU01</td>
+            <td>Registrar un usuario</td>
+            <td><strong>Como</strong>  persona que busca asesoría profesional. <strong>Quiero</strong> poder registrarme fácilmente en la plataforma como usuario. <strong>Para</strong>  acceder al listado de consultores disponibles, agendar sesiones y recibir asesoría especializada.</td>
+            <td>
+                <h5>Escenario 01:   Registro exitoso.</h5>
+                <strong>Dado</strong>  que soy un nuevo usuario que desea registrarse.<br>
+                <strong>Cuando</strong>    completo correctamente el formulario de registro con mis datos.<br>
+                <strong>Entonces</strong>  el sistema crea mi cuenta, me muestra un mensaje de bienvenida y me redirige al panel de usuario o inicio.
+                <h5>Escenario 02:  Registro con errores o campos incompletos.</h5>
+                <strong>Dado</strong> que intento registrarme con un correo ya registrado.<br>
+                <strong>Cuando</strong> ingreso el correo electrónico y lo envío.<br>
+                <strong>Entonces</strong> el sistema me notifica que ya existe una cuenta con ese correo y me sugiere iniciar sesión o recuperar la contraseña.
+            </td>
+            <td>EP04</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr style="text-align:center">
+            <td>HU03</td>
+            <td>Calificar a un profesional</td>
+            <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder calificar y dejar un comentario sobre el profesional. <strong>Para</strong> compartir mi experiencia con otros usuarios y contribuir a la reputación del consultor.</td>
+            <td>
+                <h5>Escenario 01:    Acceso a la opción de calificación tras una sesión completada.</h5>
+                <strong>Dado</strong>  que he completado una sesión con un profesional.<br>
+                <strong>Cuando</strong>    accedo a mi historial de sesiones.<br>
+                <strong>Entonces</strong>   el sistema me muestra la opción de calificar al consultor correspondiente.
+                <h5>Escenario 02:   Envío de calificación y comentario.</h5>
+                <strong>Dado</strong> que tengo disponible la opción de calificación.<br>
+                <strong>Cuando</strong> selecciono una puntuación y escribo un comentario.<br>
+                <strong>Entonces</strong> el sistema guarda la calificación y la muestra públicamente en el perfil del profesional.
+            </td>
+            <td>EP05</td>
         </tr>
     </tbody>
 </table>
