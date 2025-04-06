@@ -295,11 +295,11 @@ A continuación se muestra el proceso para la realización del As-Is Scenario Ma
 
 **Segmento #1: Solicitante de Servicios**
 
-<img src="./img/asis1.png" width="900" height="900">
+<img src="./img/asis1.png" width="1400" height="900">
 
 **Segmento #2: Proveedores de Servicios**
 
-<img src="./img/asis2.png" width="900" height="900">
+<img src="./img/asis2.png" width="1400" height="900">
 
 
 ## 2.4. Ubiquitous Language
@@ -341,11 +341,11 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 **Segmento #1: Solicitante de Servicios**
 
-<img src="./img/tobe1.png" width="1100" height="900">
+<img src="./img/tobe1.png" width="1400" height="900">
 
 **Segmento #2: Proveedores de Servicios**
 
-<img src="./img/tobe2.png" width="1100" height="900">
+<img src="./img/tobe2.png" width="1400" height="900">
 
 ## 3.2. User Stories
 
