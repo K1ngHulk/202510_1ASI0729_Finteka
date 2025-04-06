@@ -349,6 +349,54 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 ## 3.2. User Stories
 
+<table>
+    <thead>
+        <tr style="text-align:center">
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Criterios de aceptación</th>
+            <th>Épica</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="text-align:center">
+            <td>HU01</td>
+            <td>Registrar un profesional</td>
+            <td><strong>Como</strong> profesional. <strong>Quiero</strong> poder registrarme fácilmente en la plataforma como consultor. <strong>Para</strong> ofrecer mis servicios, gestionar mis horarios y comenzar a brindar asesoría a personas o empresas interesadas.</td>
+            <td>
+                <h5>Escenario 01: Registro exitoso.</h5>
+                <strong>Dado</strong>  que soy un profesional interesado en ofrecer mis servicios.<br>
+                <strong>Cuando</strong>  completo correctamente el formulario de registro con mis datos y lo envío.<br>
+                <strong>Entonces</strong> el sistema guarda la información, envía una notificación de recepción y muestra un mensaje indicando que el perfil será revisado.
+                <h5>Escenario 02: Fallo en el registro.</h5>
+                <strong>Dado</strong> que soy un profesional que intenta registrarse.<br>
+                <strong>Cuando</strong> dejo campos obligatorios vacíos o ingreso datos inválidos.<br>
+                <strong>Entonces</strong> el sistema muestra mensajes de error y no permite enviar el formulario hasta corregir los datos.
+            </td>
+            <td>EP01</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr style="text-align:center">
+            <td>HU02</td>
+            <td>Buscar profesionales disponibles</td>
+            <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder buscar y filtrar profesionales disponibles según mi necesidad. <strong>Para</strong>  encontrar al experto más adecuado y reservar una sesión fácilmente.</td>
+            <td>
+                <h5>Escenario 01: Filtros por disponibilidad.</h5>
+                <strong>Dado</strong>  que estoy buscando un profesional.<br>
+                <strong>Cuando</strong>  aplico un filtro por fecha y hora.<br>
+                <strong>Entonces</strong> el sistema me muestra solo aquellos consultores que tienen horarios disponibles en ese rango.
+                <h5>Escenario 02: Visualización de perfil profesional.</h5>
+                <strong>Dado</strong> que encontré un profesional que me interesa.<br>
+                <strong>Cuando</strong> hago clic en su perfil.<br>
+                <strong>Entonces</strong> puedo ver su información completa, experiencia, calificaciones, disponibilidad y tarifas.
+            </td>
+            <td>EP02</td>
+        </tr>
+    </tbody>
+</table>
+
 ## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog
