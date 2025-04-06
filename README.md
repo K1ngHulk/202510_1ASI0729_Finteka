@@ -291,11 +291,61 @@ A continuación se muestra el proceso para la realización del Empathy Mapping p
 
 ### 2.3.5. As-is Scenario Mapping
 
+A continuación se muestra el proceso para la realización del As-Is Scenario Mapping para los User Persona.
+
+**Segmento #1: Solicitante de Servicios**
+
+<img src="./img/asis1.png" width="900" height="900">
+
+**Segmento #2: Proveedores de Servicios**
+
+<img src="./img/asis2.png" width="900" height="900">
+
+
 ## 2.4. Ubiquitous Language
+
+A continuación se especifican los términos y conceptos usadas en nuestro business domain.
+
+- Usuario (User): Persona o entidad que busca acceder a servicios de consultoría. Puede ser un individuo o una empresa.
+Términos relacionados: Cuenta de usuario, Reserva de sesión.
+
+- Consultor (Consultant): Profesional que ofrece sus servicios de asesoría a través de la plataforma.
+Términos relacionados: Perfil de consultor, Agenda.
+
+- Sesión de Consultoría (Consultation Session): Interacción programada entre un usuario y un consultor para brindar asesoría.
+Términos relacionados: Reserva, Duración de la sesión.
+
+- Reserva (Booking): Acción realizada por un usuario para agendar una sesión con un consultor.
+Términos relacionados: Confirmación de reserva, Calendario del consultor.
+
+- Consultoría Personalizada (Personalized Consulting): Asesoría adaptada a las necesidades específicas de un usuario.
+Términos relacionados: Temática de la sesión, Objetivos del usuario.
+
+- Plataforma (Platform): El sistema digital que facilita la conexión entre usuarios y consultores, permitiendo gestionar reservas y pagos de manera segura.
+Términos relacionados: Interfaz de usuario, Funcionalidades de la plataforma.
+
+- Verificación de Consultores (Consultant Verification): Proceso que valida la experiencia y los credenciales de los consultores antes de ofrecer sus servicios en la plataforma.
+Términos relacionados: Validación, Certificación.
+
+- Pago (Payment): Transacción realizada por un usuario para pagar por la sesión de consultoría.
+Términos relacionados: Método de pago, Confirmación de pago.
+
+- Perfil de Usuario (User Profile): Espacio donde el usuario puede gestionar su información personal, historial de sesiones y preferencias dentro de la plataforma.
+Términos relacionados: Cuenta de usuario, Configuración de cuenta.
 
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
+A continuación se presenta la realizacion del To-Be Scenario Mapping por cada user persona.
+
+**Segmento #1: Solicitante de Servicios**
+
+<img src="./img/tobe1.png" width="900" height="900">
+
+**Segmento #2: Proveedores de Servicios**
+
+<img src="./img/tobe2.png" width="900" height="900">
 
 ## 3.2. User Stories
 
