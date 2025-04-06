@@ -232,29 +232,26 @@ A continuación brindamos las fichas de User Persona elaboradas a partir del an�
 
 A continuación se muestra el proceso para la realizacion del User Task Matrix para comprender las tareas que realizan los User Persona para cumplir sus objetivos.
 
-| Tarea                         | Daniela    | Paolo     |
+**Segmento #1: Solicitante de Servicios**
+
+| Tarea                         | Frecuencia    | Importancia      |
 |-------------------------------|----------------|----------------|
-| Buscar servicios o clientes | Alta - Media   | Baja - Media   |
-| Negociar detalles del servicio | Media - Alta   | Baja - Alta    |
-| Calificar o dejar reseña | Media - Media    | Media - Media   |
-| Seguridad y monitoreo | Alta - Alta    | Baja - Alta    |
-| Coordinar fechas o entregas | Media - Alta    | Media - MeAlta   |
+| Buscar profesionales | Alta   | Alta   |
+| Crear y configurar su perfil | Baja   | Alta    |
+| Realizar pagos por el servicio | Alta    | ALta   |
+| Calificar al profesional | Media   | Media   |
+| Coordinar fechas o entregas | Media  | Media  |
 
-Tareas con mayor frecuencia e importancia:
+**Segmento #2: Proveedores de Servicios**
 
-- Seguridad y monitoreo: Esta es la tarea más importante y frecuentemente realizada tanto para Daniela como para Paolo. Ambos valoran altamente la confianza y seguridad en las interacciones dentro de la plataforma. Daniela necesita sentirse segura al contratar un servicio profesional, mientras que Paolo desea garantizar que sus servicios sean bien valorados, evitando malas experiencias o fraudes.
+| Tarea                         | Frecuencia    | Importancia      |
+|-------------------------------|----------------|----------------|
+| Crear y configurar su perfil | Baja   | Alta   |
+| Publicar servicios y actualizar info | Alta  | Alta    |
+| Responder mensajes y consultaso | Alta    | ALta   |
+| Recibir pagos | Media   | Media   |
+| Promocionar su perfil | Media  | Media  |
 
-- Negociar detalles del servicio: Esta tarea también es clave para ambos perfiles. Daniela quiere tener claridad sobre lo que está contratando, en qué plazo y con qué calidad. Paolo, por su parte, necesita asegurarse de que las expectativas del cliente coincidan con lo que él puede ofrecer, evitando malos entendidos.
-
-Principales diferencias:
-
-- Buscar servicios o clientes: Daniela realiza esta tarea con mucha más frecuencia, ya que depende de la plataforma para encontrar al profesional adecuado para su necesidad puntual. Paolo, en cambio, no busca clientes activamente todo el tiempo; una vez publicado su servicio, espera ser contactado.
-
-- Coordinar fechas o entregas: Aunque importante para ambos, Daniela suele hacerlo de forma puntual por necesidad inmediata. Paolo lo hace de forma más constante para organizar su carga de trabajo y mantener su agenda actualizada con diferentes solicitudes.
-
-Coincidencias:
-
-- Tanto Daniela como Paolo comparten una fuerte preocupación por la seguridad y la transparencia, aunque desde perspectivas distintas. Daniela busca garantías y reseñas confiables antes de contratar. Paolo se preocupa por proteger su reputación profesional y asegurar que el trato sea justo. Esto destaca la necesidad de que la aplicación ofrezca mecanismos de verificación, mensajería segura y calificaciones claras, elementos esenciales para una experiencia confiable para ambos lados.
 
 ### 2.3.3. User Journey Mapping
 
@@ -283,6 +280,14 @@ A continuación se muestra el proceso para la realización del User Journey Mapp
 ### 2.3.4. Empathy Mapping
 
 A continuación se muestra el proceso para la realización del Empathy Mapping para los User Persona con el fin de entender lo que piensa, siente, oye, hace y observa.
+
+**Segmento #1: Solicitante de Servicios**
+
+<img src="./img/empathy1.png" width="900" height="900">
+
+**Segmento #2: Proveedores de Servicios**
+
+<img src="./img/empathy2.png" width="900" height="900">
 
 ### 2.3.5. As-is Scenario Mapping
 
