@@ -463,6 +463,8 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 Impact map de nuestros segmentos objetivos:
 
+<img src="./img/imp.png" width="1400" height="900">
+
 ## 3.4. Product Backlog
 
 Utilizamos la escala de Fibonacci para la estimación de los Story Points.
