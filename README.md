@@ -461,7 +461,57 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 ## 3.3. Impact Mapping
 
+Impact map de nuestros segmentos objetivos:
+
 ## 3.4. Product Backlog
+
+Utilizamos la escala de Fibonacci para la estimación de los Story Points.
+
+<table>
+    <thead>
+        <tr>
+            <th>Epic / Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Story Points (1/2/3/5/8)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>HU01</td>
+            <td>Registrar un profesional</td>
+            <td>Como profesional, quiero poder registrarme fácilmente en la plataforma como consultor, para ofrecer mis servicios y gestionar mis horarios.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>HU02</td>
+            <td>Buscar profesionales disponibles</td>
+            <td>Como usuario, quiero poder buscar y filtrar profesionales según mi necesidad, para encontrar al experto adecuado y reservar una sesión.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>HU03</td>
+            <td>Ver detalles del profesional</td>
+            <td>Como usuario, quiero ver el perfil completo de un profesional para conocer su experiencia, especialidades, tarifas y disponibilidad.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>HU04</td>
+            <td>Registrar un usuario</td>
+            <td>Como persona que busca asesoría profesional, quiero registrarme fácilmente para acceder al listado de consultores y agendar sesiones.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>HU05</td>
+            <td>Calificar a un profesional</td>
+            <td>Como usuario, quiero calificar y dejar un comentario sobre un profesional para compartir mi experiencia y aportar a su reputación.</td>
+            <td>3</td>
+        </tr>
+    </tbody>
+</table>
+
+<div style="page-break-after: always;"></div>
+
 
 # Capítulo IV: Product Design
 
