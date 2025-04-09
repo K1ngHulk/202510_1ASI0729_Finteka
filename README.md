@@ -566,6 +566,97 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
             <td>EP05</td>
         </tr>
     </tbody>
+    <tbody>
+    <tr style="text-align:center">
+        <td>HU06</td>
+        <td>Realizar reserva de sesión</td>
+        <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder reservar una sesión con un profesional disponible. <strong>Para</strong> asegurarme de recibir la asesoría que necesito en un horario conveniente.</td>
+        <td>
+            <h5>Escenario 01: Selección de fecha y hora.</h5>
+            <strong>Dado</strong> que estoy interesado en reservar una sesión.<br>
+            <strong>Cuando</strong> elijo un profesional y selecciono una fecha y hora disponibles.<br>
+            <strong>Entonces</strong> puedo confirmar mi reserva y recibir una notificación de confirmación.
+            <h5>Escenario 02: Sesión no disponible.</h5>
+            <strong>Dado</strong> que estoy intentando reservar una sesión.<br>
+            <strong>Cuando</strong> intento seleccionar una hora que no está disponible.<br>
+            <strong>Entonces</strong> el sistema me muestra un mensaje de error y me sugiere elegir otra hora.
+        </td>
+        <td>EP06</td>
+    </tr>
+</tbody>
+<tbody>
+    <tr style="text-align:center">
+        <td>HU07</td>
+        <td>Ver historial de sesiones</td>
+        <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder ver mi historial de sesiones. <strong>Para</strong> llevar un registro de las asesorías recibidas y tener acceso a las recomendaciones previas.</td>
+        <td>
+            <h5>Escenario 01: Acceso al historial de sesiones.</h5>
+            <strong>Dado</strong> que soy un usuario registrado.<br>
+            <strong>Cuando</strong> accedo a mi perfil y selecciono la opción "Historial de sesiones".<br>
+            <strong>Entonces</strong> puedo ver todas las sesiones que he reservado, junto con sus detalles y fechas.
+            <h5>Escenario 02: Visualización de detalles de cada sesión.</h5>
+            <strong>Dado</strong> que tengo un historial de sesiones.<br>
+            <strong>Cuando</strong> selecciono una sesión en mi historial.<br>
+            <strong>Entonces</strong> puedo ver los detalles completos de la sesión, como el nombre del profesional, fecha, hora y comentarios previos.
+        </td>
+        <td>EP07</td>
+    </tr>
+</tbody>
+<tbody>
+    <tr style="text-align:center">
+        <td>HU08</td>
+        <td>Recibir notificaciones de disponibilidad de profesionales</td>
+        <td><strong>Como</strong> usuario. <strong>Quiero</strong> recibir notificaciones cuando un profesional que me interesa tenga disponibilidad para agendar una sesión. <strong>Para</strong> no perder la oportunidad de reservar cuando haya horarios libres.</td>
+        <td>
+            <h5>Escenario 01: Notificación de disponibilidad.</h5>
+            <strong>Dado</strong> que estoy siguiendo a un profesional.<br>
+            <strong>Cuando</strong> el profesional actualiza su disponibilidad.<br>
+            <strong>Entonces</strong> recibo una notificación de que hay un horario disponible para reservar.
+            <h5>Escenario 02: Notificación de horario lleno.</h5>
+            <strong>Dado</strong> que he sido notificado sobre la disponibilidad de un profesional.<br>
+            <strong>Cuando</strong> el horario ya ha sido ocupado por otro usuario.<br>
+            <strong>Entonces</strong> recibo una notificación informándome de que el horario ya no está disponible.
+        </td>
+        <td>EP08</td>
+    </tr>
+</tbody>
+<tbody>
+    <tr style="text-align:center">
+        <td>HU09</td>
+        <td>Actualizar perfil de usuario</td>
+        <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder actualizar mi perfil en la plataforma. <strong>Para</strong> mantener mis datos actualizados y poder personalizar mi experiencia de usuario.</td>
+        <td>
+            <h5>Escenario 01: Actualización de datos personales.</h5>
+            <strong>Dado</strong> que soy un usuario registrado.<br>
+            <strong>Cuando</strong> accedo a mi perfil y modifico mis datos, como nombre o correo electrónico.<br>
+            <strong>Entonces</strong> el sistema guarda los cambios y me muestra un mensaje de confirmación.
+            <h5>Escenario 02: Actualización de preferencias de notificación.</h5>
+            <strong>Dado</strong> que soy un usuario que quiere personalizar sus notificaciones.<br>
+            <strong>Cuando</strong> modifico las preferencias de notificación en mi perfil.<br>
+            <strong>Entonces</strong> el sistema guarda mis preferencias y ajusta las notificaciones según mi configuración.
+        </td>
+        <td>EP09</td>
+    </tr>
+</tbody>
+<tbody>
+    <tr style="text-align:center">
+        <td>HU10</td>
+        <td>Cancelar una sesión</td>
+        <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder cancelar una sesión programada con un profesional. <strong>Para</strong> poder gestionar imprevistos o cambios de horario.</td>
+        <td>
+            <h5>Escenario 01: Cancelación dentro del plazo permitido.</h5>
+            <strong>Dado</strong> que tengo una sesión programada con un profesional.<br>
+            <strong>Cuando</strong> decido cancelar la sesión con tiempo suficiente.<br>
+            <strong>Entonces</strong> el sistema permite la cancelación y me muestra una notificación de confirmación.
+            <h5>Escenario 02: Cancelación fuera del plazo permitido.</h5>
+            <strong>Dado</strong> que tengo una sesión programada.<br>
+            <strong>Cuando</strong> intento cancelar la sesión pasadas las 24 horas previas.<br>
+            <strong>Entonces</strong> el sistema muestra un mensaje de advertencia indicando que la cancelación no es posible o podría generar una penalización.
+        </td>
+        <td>EP10</td>
+    </tr>
+</tbody>
+
 </table>
 
 ## 3.3. Impact Mapping
