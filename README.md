@@ -273,7 +273,8 @@ Creemos que si incorporamos funciones de seguimiento post-sesión y canales de c
 **Feature**: Chat interno, historial de sesiones y herramientas para agendar seguimientos.
 
 #### 1.2.2.4. Lean UX Canvas
-
+![Lean UX Canvas](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/bb8ee7e476b63b9271fffe43220a38015a9b64de/img/Lean%20UX%20Canvas.jpg)
+[Link del Miro](https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxIdHVPSDJRbUZ5cHdYOTdTTExUQkFhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=632309792327)
 # 1.3. Segmentos Objetivo
 
 **Segmento #1: Solicitante de Servicios**
