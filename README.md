@@ -240,6 +240,37 @@ El producto se utiliza cuando una persona o empresa necesita asesoría especiali
 **Finteka** debe tener una interfaz clara, amigable y profesional. El diseño debe transmitir confianza, accesibilidad y orden, tanto para quien busca ayuda como para quien ofrece servicios. La navegación debe ser sencilla, los tiempos de respuesta rápidos y cada paso debe estar acompañado por mensajes claros que guíen al usuario sin fricción.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+#### Hipótesis 1:
+Creemos que al desarrollar una plataforma digital que conecte a profesionales expertos con usuarios que necesitan asesoría en diversas áreas, lograremos facilitar el acceso a servicios especializados de manera más rápida y segura. Esto resultará en una mayor eficiencia en la contratación de servicios profesionales y en un aumento de la satisfacción del usuario final.
+
+**Business Outcome**: Aumento en el número de sesiones reservadas y pagos procesados.  
+**Users**: Personas naturales que buscan asesoría confiable en temas como legales, contables, psicológicos, etc.  
+**User Outcome**: Mayor acceso a expertos y mejora en la experiencia de obtener ayuda profesional.  
+**Feature**: Motor de búsqueda por categoría y especialidad, sistema de reservas y pagos integrados.  
+
+#### Hipótesis 2:
+Consideramos que si proporcionamos a los expertos una plataforma para ofrecer sus servicios de forma digital, con herramientas de gestión de agenda, pagos y portafolio profesional, aumentará su visibilidad, productividad y generación de ingresos.
+
+**Business Outcome**: Mayor cantidad de expertos registrados y mayor recurrencia en el uso de la plataforma.  
+**Users**: Consultores y profesionales independientes en diversas áreas.  
+**User Outcome**: Más oportunidades de captar clientes y mejor gestión de su negocio de asesorías.  
+**Feature**: Panel de administración para expertos, perfiles profesionales detallados, integración con calendario y sistema de pago seguro.  
+
+#### Hipótesis 3:
+Suponemos que al permitir valoraciones y reseñas públicas por parte de los usuarios, se generará un ecosistema de confianza que incentive a nuevos clientes a contratar servicios y a los expertos a mantener altos estándares de calidad.
+
+**Business Outcome**: Incremento en la tasa de conversión y retención de usuarios.  
+**Users**: Usuarios en búsqueda de asesoría y expertos ofreciendo sus servicios.  
+**User Outcome**: Mayor confianza al elegir a un experto y mayor reputación para quienes brindan un buen servicio.  
+**Feature**: Sistema de calificaciones, comentarios y reseñas públicas en los perfiles de expertos.  
+
+#### Hipótesis 4:
+Creemos que si incorporamos funciones de seguimiento post-sesión y canales de comunicación directa entre clientes y expertos, mejorará la calidad de las asesorías y fortalecerá la fidelización.
+
+**Business Outcome**: Aumento en la repetición de sesiones con el mismo experto y mejores tasas de satisfacción.  
+**Users**: Usuarios que requieren asesorías continuas o seguimiento profesional.  
+**User Outcome**: Relación más sólida con los expertos y procesos de mejora continua.  
+**Feature**: Chat interno, historial de sesiones y herramientas para agendar seguimientos.
 
 #### 1.2.2.4. Lean UX Canvas
 
