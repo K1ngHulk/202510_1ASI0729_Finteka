@@ -17,14 +17,14 @@
 
 <h3 align="center"> Docente: Hugo Allan Mori Paiva </h3>
 
-<h3> Product: NOMBRE STARTUP</h3>
+<h3> Product: FinTeka</h3>
 
 <h3> Team Members: </h3>
 
 | Member                           |    Code    |
 | :------------------------------- | :--------: |
 |  |  |
-|  |  |
+| Javier Murillo, Mathias | U202022211 |
 | Oshiro Yamashita, Daiki Oscar | U20201F846 |
 |  |  |
 |  |  |
