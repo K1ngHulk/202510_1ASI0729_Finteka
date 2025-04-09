@@ -276,6 +276,17 @@ Creemos que si incorporamos funciones de seguimiento post-sesión y canales de c
 ![Lean UX Canvas](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/bb8ee7e476b63b9271fffe43220a38015a9b64de/img/Lean%20UX%20Canvas.jpg)
 [Link del Miro](https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxIdHVPSDJRbUZ5cHdYOTdTTExUQkFhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=632309792327)
 # 1.3. Segmentos Objetivo
+#### 1. Personas Naturales (usuario en búsqueda de asesoría profesional)
+- Jóvenes profesionales que requieren orientación en su carrera o emprendimientos.
+- Emprendedores y freelancers que buscan asesoría en áreas legales, contables, financieras o tecnológicas.
+- Personas que desean acceder a consultas psicológicas, coaching personal o desarrollo de habilidades.
+- Usuarios que necesitan ayuda puntual en temas específicos (como impuestos, contratos, trámites, etc.).
+
+#### 2. Consultores y Profesionales (proveedores de asesoría)
+- Profesionales independientes en áreas como derecho, contabilidad, psicología, finanzas, TI, coaching, etc.
+- Consultores con experiencia que desean digitalizar y escalar sus servicios.
+- Especialistas que buscan generar ingresos extra ofreciendo su conocimiento por sesión.
+- Expertos que ya ofrecen asesoría pero carecen de una plataforma organizada y segura para gestión de clientes y pagos.
 
 **Segmento #1: Solicitante de Servicios**
 
