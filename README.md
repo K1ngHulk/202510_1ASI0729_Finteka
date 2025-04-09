@@ -288,10 +288,6 @@ Creemos que si incorporamos funciones de seguimiento post-sesión y canales de c
 - Especialistas que buscan generar ingresos extra ofreciendo su conocimiento por sesión.
 - Expertos que ya ofrecen asesoría pero carecen de una plataforma organizada y segura para gestión de clientes y pagos.
 
-**Segmento #1: Solicitante de Servicios**
-
-**Segmento #2: Proveedores de Servicios**
-
 # Capítulo II: Requirements Elicitation & Analysis
 
 En este capítulo se realizará el proceso de Análisis competitivo y Needfinding necesario para la identificación de las necesidades de nuestro segmento objetivo.
