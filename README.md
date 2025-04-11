@@ -393,6 +393,16 @@ Preguntas principales:
 
 
 ### 2.2.2. Registro de entrevistas
+Segmento 1: Personas Naturales
+Entrevista 1:
+Nombre: Sara Giovanna Qwistgaard Horna
+Edad: 53
+Distrito: San Miguel
+![image](https://github.com/user-attachments/assets/0e0c9687-49cf-4163-bb94-7e8062090cac)
+Link: https://drive.google.com/file/d/1g7qPFidkdi3HhZL68eMncep9jIPlTOmC/view?usp=drive_link 
+
+En la entrevista, la señora Sara Qwistgaard menciona que busca asesoría en el área de marketing. Además, nos cuenta cómo le gustaría su página de asesoría ideal y su mayor problema con las asesorías en general: los horarios. 
+
 
 ### 2.2.3. Análisis de entrevistas
 
