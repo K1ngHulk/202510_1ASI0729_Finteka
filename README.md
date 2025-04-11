@@ -345,21 +345,6 @@ Preguntas principales:
 - Piensa en la última vez que buscaste un experto para resolver un problema, ¿qué te molestó más del proceso y qué te habría facilitado la búsqueda?
 
 
-Preguntas complementarias:
-- ¿Qué tipo de contenido educativo o motivacional te gustaría que la plataforma ofreciera para prepararte mejor antes de tu asesoría?
-
-
-- Si pudieras recibir una notificación antes de tu sesión con algo que te preparara mejor, ¿qué información te gustaría recibir?
-
-
-- ¿Cómo te imaginas una plataforma que haga que la asesoría no solo resuelva un problema, sino que también te ayude a crecer o aprender algo nuevo en el proceso?
-
-
-- Si un asesor fuera capaz de hacerte sentir más seguro de tomar decisiones en tu vida, ¿qué tipo de detalles personales necesitaría saber sobre ti para lograrlo?
-
-
-
-
 2. Consultores y Profesionales (Proveedores de asesoría)
 Preguntas principales:
 - Si pudieras organizar tu negocio de asesoría de la manera más eficiente posible, ¿cómo te gustaría que fuera el proceso de encontrar clientes y organizar tus sesiones?
