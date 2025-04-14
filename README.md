@@ -297,6 +297,60 @@ En este capítulo se realizará el proceso de Análisis competitivo y Needfindin
 ### 2.1.1. Análisis Competitivo
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+1. Aprovechar la Fortaleza: Verificación de Expertos y Asesoría Profesional Personalizada
+Estrategia: Diferenciar tu plataforma mediante un sistema de verificación más riguroso de los expertos y la oferta de asesorías personalizadas de alta calidad.
+Táctica:
+
+
+Resaltar la verificación de expertos: En comparación con plataformas como Clarity.fm, que dependen más de la comunidad general de expertos, tu plataforma destacará el proceso de selección y verificación de los expertos. Asegurarse de que los usuarios sepan que solo los profesionales más calificados y verificados están disponibles.
+
+
+Promocionar la asesoría personalizada: Desarrollar campañas de marketing que subrayen la capacidad de tu plataforma para ofrecer soluciones específicas y personalizadas según las necesidades de cada usuario, a diferencia de plataformas más orientadas a una oferta de servicios general.
+
+
+Valor añadido: Esto genera confianza entre los usuarios, lo que aumenta la tasa de retención y fidelización.
+2. Aprovechar la Oportunidad: Crecimiento de la Demanda de Asesoría Remota
+Estrategia: Posicionar tu plataforma como una solución clave para la asesoría remota, aprovechando el crecimiento de la demanda post-pandemia por este tipo de servicios.
+Táctica:
+
+
+Campañas educativas sobre la asesoría remota: Crear contenido en redes sociales, blogs y webinars que expliquen los beneficios de utilizar tu plataforma para asesoría remota. Esto ayudará a consolidar tu imagen como una opción accesible y eficiente.
+
+
+Alianzas con empresas y asociaciones profesionales: Establecer relaciones estratégicas con asociaciones, colegios profesionales y empresas que necesiten asesoría constante. Estos acuerdos también podrían generar ingresos adicionales mediante suscripciones o acceso preferencial a expertos.
+
+
+Incorporación de herramientas interactivas de alta calidad: Implementar funciones como videoconferencias, mensajería en tiempo real y un sistema de pago seguro, asegurando que la experiencia de usuario sea eficiente y profesional.
+
+
+3. Afrontar la Amenaza de Competidores Consolidados con Base de Usuarios Grandes (e.g., Clarity.fm, Superpeer)
+Estrategia: Aplicar un enfoque de marketing centrado en la seguridad, confianza y valor agregado de tu plataforma frente a competidores consolidados.
+Táctica:
+
+
+Resaltar la seguridad de la plataforma: Resaltar el sistema de verificación de expertos y el control de calidad de las sesiones. Asegúrate de comunicar que los usuarios no solo están contratando un servicio de asesoría, sino que están garantizando una experiencia segura y de alta calidad.
+
+
+Modelo freemium para atraer usuarios: Ofrecer una versión básica de la plataforma de forma gratuita para atraer usuarios iniciales, con la opción de obtener más características o acceso a expertos premium mediante suscripciones. Este enfoque permitirá atraer a usuarios de competidores que aún no se han decidido a pagar por servicios completos.
+
+
+Segmentación y personalización de servicios: Diferenciarte de competidores como Superpeer y Clarity.fm al ofrecer servicios más especializados y adaptados a sectores como asesoría legal, empresarial o financiera, lo que atraerá a un público que busque soluciones más específicas.
+
+
+4. Aprovechar la Debilidad de la Dependencia de Posicionamiento en Buscadores (SEO) y la Visibilidad Inicial
+Estrategia: Implementar estrategias de marketing digital avanzadas para aumentar la visibilidad y atraer usuarios rápidamente, a pesar de la competencia en términos de SEO y marketing.
+Táctica:
+
+
+Marketing de contenido de valor: Crear contenido relevante y valioso para atraer tráfico orgánico, como artículos, videos y estudios de caso que aborden problemas comunes en la industria de asesoría. La educación y el contenido práctico atraerán a usuarios que buscan respuestas a sus preguntas o soluciones a sus problemas.
+
+
+Publicidad dirigida y marketing en redes sociales: Implementar campañas de publicidad en redes sociales dirigidas específicamente a profesionales y empresas en sectores clave como tecnología, salud, derecho, y negocios, destacando los beneficios de usar tu plataforma en comparación con competidores más generalistas.
+
+
+SEO local y alianzas con instituciones clave: Optimizar el sitio web para búsquedas locales y establecer alianzas con colegios profesionales o empresas 
+clave para aumentar la visibilidad de la plataforma en nichos específicos.
+
 
 ## 2.2. Entrevistas
 
