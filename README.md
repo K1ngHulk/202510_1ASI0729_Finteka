@@ -28,6 +28,7 @@
 | Oshiro Yamashita, Daiki Oscar | U20201F846 |
 | Aguirre Castillo, Sergio Cesar | U202310425  |
 | Russell Stephen Romero Qwistgaard | U202211043 |
+| Luis Angel Montañez Moreno | U202223811 |
 
 <h3 align="center">Abril, 2025</h3>
 
