@@ -297,7 +297,6 @@ En este capítulo se realizará el proceso de Análisis competitivo y Needfindin
 ### 2.1.1. Análisis Competitivo
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-# Estrategias y Tácticas para la Plataforma de Consultoría Digital
 
 ## 1. Aprovechar la Fortaleza: Verificación de Expertos y Asesoría Profesional Personalizada
 
