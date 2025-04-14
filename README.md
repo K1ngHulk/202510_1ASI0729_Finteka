@@ -454,7 +454,7 @@ Preguntas principales:
 - Distrito: San Miguel
   
 ![image](https://github.com/user-attachments/assets/0e0c9687-49cf-4163-bb94-7e8062090cac)
-- Link: https://drive.google.com/file/d/1g7qPFidkdi3HhZL68eMncep9jIPlTOmC/view?usp=drive_link 
+**Link**: [**Entrevista \- Sara Qwistgaard**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EVYdPYP9cX9MiTBSGHLo4GUBJtHK2wys0_JpZmdVYRUM0w?e=fs9CDq)
 
 En la entrevista, la señora Sara Qwistgaard menciona que busca asesoría en el área de marketing. Además, nos cuenta cómo le gustaría su página de asesoría ideal y su mayor problema con las asesorías en general: los horarios. 
 
@@ -464,7 +464,9 @@ En la entrevista, la señora Sara Qwistgaard menciona que busca asesoría en el 
 - Distrito: San Miguel
   
 ![image](https://github.com/user-attachments/assets/10ba027c-e24e-43aa-9cb2-c8bb14c064be)
-- Link: https://drive.google.com/file/d/1Oq5BEjp9upbPF2pyd6bpIWh-a6sT-Z_O/view?usp=drive_link 
+**Link: [Entrevista \- Orlando Romero](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EYP9U3OGc01Gujd5mFLQbX0BpU9LbBkQxUcc4cTjnzzlow?e=w2r4b6)**
+
+El entrevistado Orlando Romero, quien busca asesoría para administración de equipos de redes, nos relata cómo le gustaría que fuera su experiencia con asesorías online y con la plataforma en general, además de explicar cómo debería funcionar el foco principal de la plataforma.
 
 - Entrevista 3:
 - Nombre: Ingrid Noelia Zabala Lasso
@@ -472,8 +474,9 @@ En la entrevista, la señora Sara Qwistgaard menciona que busca asesoría en el 
 - Distrito: San Miguel
   
 ![image](https://github.com/user-attachments/assets/47c6166f-b129-4886-aabc-7f1110e1e900)
-- Link: https://drive.google.com/file/d/1QSeS_eg5KB_gMWY-q4UAX-6OTHxPPfRy/view?usp=drive_link 
+**Link: [Entrevista \- Noelia Zavala](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EZ0tkhJhqUNPoif3FfjPq3EB7JYo7yh4uep_1xHiHiJyHA?e=aYGCbv)**
 
+La entrevistada busca asesoría en el área de defensoría médica para el tema legal de las prácticas médicas, y a partir de la entrevista nos da su punto de vista sobre lo indispensable de una asesoría en línea y cuál es el mayor problema que se tiene con los asesores en general.
 
 - Segmento 2: Consultores y Profesionales
 - Entrevista 1:
@@ -509,6 +512,13 @@ Julio Castro busca una plataforma para gestionar eficientemente su negocio de as
 
 
 ### 2.2.3. Análisis de entrevistas
+| Sara Giovanna Qwistgaard Horna | Sara prefiere confiar más en el currículum de los asesores que de la opinión pública al buscar uno y le gustaría bastante un sistema de recomendaciones según este parámetro en una página online de asesorías. También opina que para una buena asesoría online, se deberían brindar recursos didácticos como artículos o fotos para mejorar la experiencia y el aprendizaje en este entorno, incluyendo también mayor variedad de subtemas específicos. Además, ella quisiera que las asesorías fueran más personales en el área, que fueran rápidas y puntuales y que la plataforma en la que se realicen posea un apartado más sencillo y fácil de utilizar que uno más tecnológico y complejo. Finalmente, se queja de que en la última vez que tuvo asesoría no pudo encontrar fácilmente al asesor por la web, ya sea porque no escribió su nombre del todo correcto o por que la terminan mandando a páginas aparte que no ayudan en nada. |
+| :---: | :---- |
+| **Orlando Romero Flores**  | Orlando prefiere confiar más en el currículum de los asesores que de la opinión pública al buscar uno y le gustaría bastante un sistema de recomendaciones según este parámetro en una página online de asesorías. También opina que para una buena asesoría online, se deberían brindar, aparte de recursos didácticos, recursos interactivos como equipos de prueba para mejorar la experiencia y el aprendizaje en este entorno, incluyendo también mayor variedad de subtemas específicos. Además, él quisiera que las asesorías fueran más formales en el área y que la plataforma en la que se realicen posea un apartado más sencillo y fácil de utilizar que uno más tecnológico y complejo. Finalmente, se queja de que en la última vez que tuvo asesoría los horarios fueron difíciles de coordinar con el asesor, lo cual generó que la cita se retrasara bastante. |
+| **Ingrid Noelia Zabala Lasso**  | Ingrid prefiere confiar más en el currículum de los asesores que de la opinión pública al buscar uno y le gustaría bastante un sistema de recomendaciones según este parámetro en una página online de asesorías. También opina que para una buena asesoría online, se deberían brindar recursos didácticos como artículos o fotos para mejorar la experiencia en este entorno, incluyendo también mayor privacidad de los datos del usuario y mayor variedad de subtemas específicos. Además, quisiera que las asesorías fueran más formales en el área, que fueran rápidas y puntuales y que la plataforma en la que se realicen posea un apartado más sencillo y fácil de utilizar que uno más tecnológico y complejo. Finalmente, se queja de que en la última vez que tuvo asesoría el asesor en cuestión tardaba demasiado en darle respuesta durante el proceso, lo cual generó desconfianza con ella. |
+| **Augusto Montes** | Augusto busca una plataforma que automatice la generación de clientes cualificados, gestione su agenda de manera eficiente con reservas automáticas y envíe recordatorios. Necesita información detallada sobre el cliente antes de la sesión para ofrecer un buen servicio, como los objetivos y el historial de la empresa. Prefiere una interfaz sencilla pero personalizable, con opciones avanzadas como etiquetar clientes y gestionar contratos. En cuanto a pagos, valora opciones como pago por sesión, suscripciones y facturación automática, con la posibilidad de recibir pagos rápidamente. También le interesa una plataforma que facilite marketing digital a través de sistemas de referidos y campañas segmentadas. |
+| **Maria Fernanda Castillo Espinoza** | María Fernanda busca una plataforma que automatice la generación de clientes, permita agendar sesiones fácilmente y facilite el proceso de pagos, incluyendo opciones como pago por sesión y suscripciones. También le interesa un sistema de marketing digital segmentado y la capacidad de organizar eventos grupales, como seminarios o masterclasses, para expandir su negocio. |
+| **Julio Castro Alejos** | Julio Castro busca una plataforma que le permita gestionar su negocio de asesorías de manera más eficiente. Necesita herramientas que organicen las sesiones, ofrezcan opciones de pago flexibles como pagos por sesión y suscripciones, y le ayuden con la promoción mediante Facebook Ads y YouTube. Además, valora una interfaz que gestione solicitudes urgentes, evite conflictos de horarios y permita crear eventos grupales sincronizados con calendarios. También le gustaría poder incluir materiales visuales e interactivos en sus propuestas para mostrar casos de éxito y atraer más clientes. |
 
 ## 2.3. Needfinding
 
