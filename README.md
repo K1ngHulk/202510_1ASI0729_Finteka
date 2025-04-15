@@ -603,11 +603,11 @@ A continuación se muestra el proceso para la realización del As-Is Scenario Ma
 
 **Segmento #1: Solicitante de Servicios**
 
-<img src="./img/asis1.png" width="900" height="900">
+<img src="./img/asis1.png" width="1100" height="700">
 
 **Segmento #2: Proveedores de Servicios**
 
-<img src="./img/asis2.png" width="900" height="900">
+<img src="./img/asis2.png" width="1100" height="700">
 
 
 ## 2.4. Ubiquitous Language
@@ -649,11 +649,11 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 **Segmento #1: Solicitante de Servicios**
 
-<img src="./img/tobe1.png" width="900" height="900">
+<img src="./img/tobe1.png" width="1100" height="700">
 
 **Segmento #2: Proveedores de Servicios**
 
-<img src="./img/tobe2.png" width="900" height="900">
+<img src="./img/tobe2.png" width="1100" height="700">
 
 ## 3.2. User Stories
 
@@ -861,7 +861,7 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 Impact map de nuestros segmentos objetivos:
 
-<img src="./img/imp.png" width="900" height="900">
+<img src="./img/imp.png" width="1100" height="900">
 
 ## 3.4. Product Backlog
 
@@ -998,7 +998,7 @@ Inicio de sesión y registro:
 
 Búsqueda de profesionales:
 
-<img src="./img/Desktop2.png" width="400" height="400">
+<img src="./img/Desktop2.png" width="900" height="400">
 
 Seleccionar y valorar profesional:
 
@@ -1018,7 +1018,7 @@ Usuario ingresa a la aplicación iniciando sesión o registrándose:
 
 Usuario desea buscar un profesional:
 
-<img src="./img/Wireflow2.png" width="400" height="400">
+<img src="./img/Wireflow2.png" width="900" height="400">
 
 Usuario desea contactar o valorar profesional:
 
@@ -1032,7 +1032,7 @@ Inicio de sesión y registro:
 
 Vista de profesionales y búsqueda:
 
-<img src="./img/Desktop2.png" width="400" height="400">
+<img src="./img/Desktop2.png" width="900" height="400">
 
 Vista del perfil del profesional y valoración:
 
