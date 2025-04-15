@@ -603,11 +603,11 @@ A continuación se muestra el proceso para la realización del As-Is Scenario Ma
 
 **Segmento #1: Solicitante de Servicios**
 
-<img src="./img/asis1.png>
+<img src="./img/asis1.png" width="900" height="900">
 
 **Segmento #2: Proveedores de Servicios**
 
-<img src="./img/asis2.png>
+<img src="./img/asis2.png" width="900" height="900">
 
 
 ## 2.4. Ubiquitous Language
@@ -649,11 +649,11 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 **Segmento #1: Solicitante de Servicios**
 
-<img src="./img/tobe1.png>
+<img src="./img/tobe1.png" width="900" height="900">
 
 **Segmento #2: Proveedores de Servicios**
 
-<img src="./img/tobe2.png>
+<img src="./img/tobe2.png" width="900" height="900">
 
 ## 3.2. User Stories
 
@@ -861,7 +861,7 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 Impact map de nuestros segmentos objetivos:
 
-<img src="./img/imp.png>
+<img src="./img/imp.png" width="900" height="900">
 
 ## 3.4. Product Backlog
 
@@ -994,57 +994,57 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 
 Inicio de sesión y registro:
 
-<img src="./img/Desktop1.png>
+<img src="./img/Desktop1.png" width="400" height="400">
 
 Búsqueda de profesionales:
 
-<img src="./img/Desktop2.png>
+<img src="./img/Desktop2.png" width="400" height="400">
 
 Seleccionar y valorar profesional:
 
-<img src="./img/Desktop3.png>
+<img src="./img/Desktop3.png" width="400" height="400">
 
 - Mobile Browser:
 
-<img src="./img/Mob1.png>
+<img src="./img/Mob1.png" width="400" height="400">
 
-<img src="./img/Mob2.png>
+<img src="./img/Mob2.png" width="400" height="400">
 
 ### 4.4.2. Web Applications Wireframes
 
 Usuario ingresa a la aplicación iniciando sesión o registrándose:
 
-<img src="./img/Wireflow1.png>
+<img src="./img/Wireflow1.png" width="400" height="400">
 
 Usuario desea buscar un profesional:
 
-<img src="./img/Wireflow2.png>
+<img src="./img/Wireflow2.png" width="400" height="400">
 
 Usuario desea contactar o valorar profesional:
 
-<img src="./img/Wireflow3.png>
+<img src="./img/Wireflow3.png" width="400" height="400">
 
 ### 4.4.3. Web Applications Mock-ups
 
 Inicio de sesión y registro:
 
-<img src="./img/Desktop1.png>
+<img src="./img/Desktop1.png" width="400" height="400">
 
 Vista de profesionales y búsqueda:
 
-<img src="./img/Desktop2.png>
+<img src="./img/Desktop2.png" width="400" height="400">
 
 Vista del perfil del profesional y valoración:
 
-<img src="./img/Desktop3.png>
+<img src="./img/Desktop3.png" width="400" height="400">
 
 Inicio y registro de sesión:
 
-<img src="./img/Mob1.png>
+<img src="./img/Mob1.png" width="400" height="400">
 
 Perfil del profesional:
 
-<img src="./img/Mob2.png>
+<img src="./img/Mob2.png" width="400" height="400">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
