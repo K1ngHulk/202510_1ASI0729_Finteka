@@ -603,11 +603,11 @@ A continuación se muestra el proceso para la realización del As-Is Scenario Ma
 
 **Segmento #1: Solicitante de Servicios**
 
-<img src="./img/asis1.png" width="1400" height="900">
+<img src="./img/asis1.png>
 
 **Segmento #2: Proveedores de Servicios**
 
-<img src="./img/asis2.png" width="1400" height="900">
+<img src="./img/asis2.png>
 
 
 ## 2.4. Ubiquitous Language
@@ -649,11 +649,11 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 **Segmento #1: Solicitante de Servicios**
 
-<img src="./img/tobe1.png" width="1400" height="900">
+<img src="./img/tobe1.png>
 
 **Segmento #2: Proveedores de Servicios**
 
-<img src="./img/tobe2.png" width="1400" height="900">
+<img src="./img/tobe2.png>
 
 ## 3.2. User Stories
 
@@ -861,7 +861,7 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 Impact map de nuestros segmentos objetivos:
 
-<img src="./img/imp.png" width="1400" height="900">
+<img src="./img/imp.png>
 
 ## 3.4. Product Backlog
 
@@ -986,4 +986,67 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 
 ### 4.2.4. Searching Systems
 
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+- Desktop Browser:
+
+Inicio de sesión y registro:
+
+<img src="./img/Desktop1.png>
+
+Búsqueda de profesionales:
+
+<img src="./img/Desktop2.png>
+
+Seleccionar y valorar profesional:
+
+<img src="./img/Desktop3.png>
+
+- Mobile Browser:
+
+<img src="./img/Mob1.png>
+
+<img src="./img/Mob2.png>
+
+### 4.4.2. Web Applications Wireframes
+
+Usuario ingresa a la aplicación iniciando sesión o registrándose:
+
+<img src="./img/Wireflow1.png>
+
+Usuario desea buscar un profesional:
+
+<img src="./img/Wireflow2.png>
+
+Usuario desea contactar o valorar profesional:
+
+<img src="./img/Wireflow3.png>
+
+### 4.4.3. Web Applications Mock-ups
+
+Inicio de sesión y registro:
+
+<img src="./img/Desktop1.png>
+
+Vista de profesionales y búsqueda:
+
+<img src="./img/Desktop2.png>
+
+Vista del perfil del profesional y valoración:
+
+<img src="./img/Desktop3.png>
+
+Inicio y registro de sesión:
+
+<img src="./img/Mob1.png>
+
+Perfil del profesional:
+
+<img src="./img/Mob2.png>
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+Desktop Browser:
 
