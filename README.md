@@ -603,11 +603,11 @@ A continuación se muestra el proceso para la realización del As-Is Scenario Ma
 
 **Segmento #1: Solicitante de Servicios**
 
-<img src="./img/asis1.png" width="1100" height="700">
+<img src="./img/asis1.png" width="1400" height="600">
 
 **Segmento #2: Proveedores de Servicios**
 
-<img src="./img/asis2.png" width="1100" height="700">
+<img src="./img/asis2.png" width="1400" height="600">
 
 
 ## 2.4. Ubiquitous Language
@@ -649,11 +649,11 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 **Segmento #1: Solicitante de Servicios**
 
-<img src="./img/tobe1.png" width="1100" height="700">
+<img src="./img/tobe1.png" width="1400" height="600">
 
 **Segmento #2: Proveedores de Servicios**
 
-<img src="./img/tobe2.png" width="1100" height="700">
+<img src="./img/tobe2.png" width="1400" height="600">
 
 ## 3.2. User Stories
 
@@ -861,7 +861,7 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 Impact map de nuestros segmentos objetivos:
 
-<img src="./img/imp.png" width="1100" height="900">
+<img src="./img/imp.png" width="1100" height="500">
 
 ## 3.4. Product Backlog
 
@@ -1050,3 +1050,18 @@ Perfil del profesional:
 
 Desktop Browser:
 
+User Goal: Acceder a la aplicación ya sea con registro o inicio de sesión.
+
+<img src="./img/Flow Diagrams1.png" width="900" height="400">
+
+User Goal: Poder realizar una búsqueda de profesional por medio de filtros.
+
+<img src="./img/Flow Diagrams2.png" width="900" height="400">
+
+User Goal: Poder visualizar toda la información del profesional en su perfil.
+
+<img src="./img/Flow Diagrams3.png" width="900" height="400">
+
+User Goal: Poder valorar el profesional seleccionado
+
+<img src="./img/Flow Diagrams4.png" width="900" height="400">
