@@ -979,12 +979,35 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
+A continuación, explicaremos en qué grupos de información se aplicaron los distintos tipos de organización visual para ambos segmentos objetivo, así como en cuáles se utiliza algún tipo de categorización.
+-Por categorías de asesoría: Derecho, Finanzas, Salud mental, Tecnología, Marketing, etc.
+-Por tipo de usuario: Consultores o Clientes.
+-Por nivel de especialización: Junior, Senior, Experto.
+-Por modalidad de atención: Sesión individual, paquetes, sesiones continuas.
+-Por nivel de reputación/valoraciones: Más valorados, Nuevos, Recomendados.
 
 ### 4.2.2. Labeling Systems
 
 ### 4.2.3. SEO Tags and Meta Tags
 
 ### 4.2.4. Searching Systems
+A continuación, se mostrarán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la asesoría personalizada que están buscando.
+-Buscador global con:
+--Autocompletado (sugerencias de expertos y categorías).
+--Filtros por especialidad, disponibilidad, precio y calificación.
+-Búsqueda avanzada:
+--Filtros combinables (Ej. “Finanzas” + “Disponible hoy” + “< 50 soles”).
+-Historial de búsqueda
+-Resultados con vista previa de perfil del consultor y botón de acción rápida
+
+### 4.2.5 Navigation Systems
+A continuación, se mostrarán los sistemas de navegación que le permitirán a nuestros usuarios moverse a través de las distintas piezas de contenido o información.
+-**Header fijo** con accesos rápidos: Inicio, Áreas de asesoría, Buscar experto, Iniciar sesión ,Registrarse.
+-**Menú lateral** (en paneles de usuario/consultor):
+ Dashboard, Mis sesiones, Agenda, Perfil, Pagos, Configuración.
+-**Breadcrumbs:** Para categorías y subcategorías de asesoría.
+-**Botones de CTA claros y visibles en cada sección:** “Reservar”, “Ver perfil”, “Editar agenda”.
+-**Footer** con navegación adicional: Nosotros | Ayuda | Términos y condiciones | Contacto
 
 ## 4.4. Web Applications UX/UI Design
 
