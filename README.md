@@ -980,23 +980,35 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 
 ### 4.2.1. Organization Systems
 A continuación, explicaremos en qué grupos de información se aplicaron los distintos tipos de organización visual para ambos segmentos objetivo, así como en cuáles se utiliza algún tipo de categorización.
--Por categorías de asesoría: Derecho, Finanzas, Salud mental, Tecnología, Marketing, etc.
--Por tipo de usuario: Consultores o Clientes.
--Por nivel de especialización: Junior, Senior, Experto.
--Por modalidad de atención: Sesión individual, paquetes, sesiones continuas.
--Por nivel de reputación/valoraciones: Más valorados, Nuevos, Recomendados.
+- *Por categorías de asesoría:* Derecho, Finanzas, Salud mental, Tecnología, Marketing, etc.
+- *Por tipo de usuario:* Consultores o Clientes.
+- *Por nivel de especialización:* Junior, Senior, Experto.
+- *Por modalidad de atención:* Sesión individual, paquetes, sesiones continuas.
+- *Por nivel de reputación/valoraciones:* Más valorados, Nuevos, Recomendados.
 
 ### 4.2.2. Labeling Systems
+
+| Ícono             | Descripción                                                                                                                                                     |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|![image](https://github.com/user-attachments/assets/f2510330-5b9c-41d9-a8ea-2e627ef7e4bf)
+|| **Mi Perfil**      | En Fin Teka, el ícono de perfil permitirá a los usuarios acceder a su información personal, modificar sus datos personales, ver su historial de sesiones de asesoría o clientes asesorados. |
+| **Mensajes**       | Los usuarios lo usarán para comunicarse entre sí, tanto Autores como Lectores, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.             |
+| **Áreas de asesoría** | Menú desplegable con categorías de los distintos expertos.                                                                                                      |
+| **Buscar experto** | Un ícono para buscar expertos para asesoría de algún tema en específico.                                                                                         |
+| **Reseñas**        | Un ícono para acceder a las reseñas que diversos clientes han dejado a los expertos y su valoración.                                                            |
+| **Configuración**  | Un ícono de engranaje que permita a los usuarios acceder a las opciones de configuración de su cuenta, como la gestión de preferencias de notificación o personalización del perfil. |
+| **Home**           | Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma.                                                   |
+| **Notificaciones** | Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.                          |
 
 ### 4.2.3. SEO Tags and Meta Tags
 
 ### 4.2.4. Searching Systems
 A continuación, se mostrarán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la asesoría personalizada que están buscando.
 - Buscador global con:
-    -Autocompletado (sugerencias de expertos y categorías).
-- Filtros por especialidad, disponibilidad, precio y calificación.
+    - Autocompletado (sugerencias de expertos y categorías).
+    - Filtros por especialidad, disponibilidad, precio y calificación.
 - Búsqueda avanzada:
-    -Filtros combinables (Ej. “Finanzas” + “Disponible hoy” + “< 50 soles”).
+    - Filtros combinables (Ej. “Finanzas” + “Disponible hoy” + “< 50 soles”).
 - Historial de búsqueda
 - Resultados con vista previa de perfil del consultor y botón de acción rápida
 
