@@ -990,15 +990,23 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 
 | Ícono             | Descripción                                                                                                                                                     |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|![image](https://github.com/user-attachments/assets/f2510330-5b9c-41d9-a8ea-2e627ef7e4bf)
-|| **Mi Perfil**      | En Fin Teka, el ícono de perfil permitirá a los usuarios acceder a su información personal, modificar sus datos personales, ver su historial de sesiones de asesoría o clientes asesorados. |
-| **Mensajes**       | Los usuarios lo usarán para comunicarse entre sí, tanto Autores como Lectores, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.             |
-| **Áreas de asesoría** | Menú desplegable con categorías de los distintos expertos.                                                                                                      |
-| **Buscar experto** | Un ícono para buscar expertos para asesoría de algún tema en específico.                                                                                         |
-| **Reseñas**        | Un ícono para acceder a las reseñas que diversos clientes han dejado a los expertos y su valoración.                                                            |
-| **Configuración**  | Un ícono de engranaje que permita a los usuarios acceder a las opciones de configuración de su cuenta, como la gestión de preferencias de notificación o personalización del perfil. |
-| **Home**           | Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma.                                                   |
-| **Notificaciones** | Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.                          |
+|  ![image](https://github.com/user-attachments/assets/6139dc95-9387-49b3-b632-a8633cd0357b)
+     | **Mi Perfil:** En Fin Teka, el ícono de perfil permitirá a los usuarios acceder a su información personal, modificar sus datos personales, ver su historial de sesiones de asesoría o clientes asesorados. |
+| ![image](https://github.com/user-attachments/assets/b4af944e-b0cc-4671-b6f6-63c0231faea8)
+      | **Mensajes:** Los usuarios lo usarán para comunicarse entre sí, tanto Autores como Lectores, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.             |
+| ![image](https://github.com/user-attachments/assets/4022543a-5461-46af-a7ef-f3446cdd12f7)
+ | **Áreas de asesoría:** Menú desplegable con categorías de los distintos expertos.                                                                                                      |
+| ![image](https://github.com/user-attachments/assets/5db4eeb0-a5a9-48be-8c29-9ea4c77a2a68)
+ | **Buscar experto: **Un ícono para buscar expertos para asesoría de algún tema en específico.                                                                                         |
+|  ![image](https://github.com/user-attachments/assets/9cc6bb12-ac04-4a2d-bbed-cbeb75cf3134)
+       | **Reseñas:** Un ícono para acceder a las reseñas que diversos clientes han dejado a los expertos y su valoración.                                                            |
+| ![image](https://github.com/user-attachments/assets/de3eecbc-45db-489c-bd00-ebb508e7cbbb)
+  | **Configuración:** Un ícono de engranaje que permita a los usuarios acceder a las opciones de configuración de su cuenta, como la gestión de preferencias de notificación o personalización del perfil. |
+|    ![image](https://github.com/user-attachments/assets/ac82a3f8-5ad3-40b9-b8a1-29f724ca6048)
+        | **Home:** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma.                                                   |
+| ![image](https://github.com/user-attachments/assets/72910e15-d238-4214-a267-819023f15664)
+ | **Notificaciones:** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.                          |
+                          |
 
 ### 4.2.3. SEO Tags and Meta Tags
 
