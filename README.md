@@ -1134,3 +1134,99 @@ User Goal: Poder visualizar toda la información del profesional en su perfil.
 User Goal: Poder valorar el profesional seleccionado
 
 <img src="./img/Flow Diagrams4.png" width="900" height="400">
+
+
+## 5.1. Software Configuration Management.
+
+### 5.1.1. Software Development Enviroment Configuration
+
+#### Requirements Management
+1. Canva: Es una herramienta de diseño utilizada para realizar los user persona, empathy mapping, Lean UX Canvas, As-is Scenario Mapping y otros elementos importantes más. Esta aplicación está basada en un sistema de diseño simple en el cual puedes mover y editar objetos para lograr el objetivo de diseñar nuestras piezas escenciales de análisis de mercado para nuestra aplicación. Ruta de referencia: [Canva](https://www.canva.com/es_es/).
+2. Figma: Plataforma de elaboración de prototipos y edición gráfica, que usamos principalmente para nuestra Landing Page y Web Application, tanto para los Wireframes y los MockUps, al igual que para nuestros Wireflows Diagrams. Ruta de referencia: [Figma](https://www.figma.com/).
+3. Vertabelo: Plataforma basada en creación, gestión y realización de gráficos para organizar las herencias y dependencias de nuestros programas y/o bases de datos. Como en nuestro caso fue implementada para realizar nuestros Class Diagrams y nuestra Database Diagrams. Ruta de referencia [Vertabelo](https://vertabelo.com/).
+
+#### Software Devlopment
+
+1. JetBrains WebStorm: Es un entorno de desarrollo integrado (IDE) enfocado en el desarrollo web. Ofrece herramientas que facilitan la prueba del proyecto en diversos navegadores como Chrome, Microsoft Edge, Safari y Mozilla Firefox. El uso de WebStorm aporta un valor agregado al desarrollo, ya que permite visualizar cómo funciona la aplicación en múltiples plataformas y proporciona soporte avanzado para la edición de código en varios lenguajes compatibles. Ruta de Referencia: [JetBrains-WebStorm](https://www.jetbrains.com/es-es/webstorm/).
+2. HTML5: Lenguaje de marcado utilizado para estructurar y presentar contenido en la web. Es una herramienta fundamental en nuestro proyecto, ya que se emplea para construir la base del contenido de la aplicación. Ruta de Referencia: [HTML5](https://www.w3schools.com/html/).
+3. CSS: Conocido como Hojas de Estilo en Cascada (Cascading Style Sheets), este lenguaje trabaja en conjunto con HTML5 para definir el diseño y la presentación visual de la aplicación. Permite personalizar estilos como colores, tipografías y distribución de los elementos. Ruta de Referencia: [CCS](https://developer.mozilla.org/es/docs/Web/CSS).
+4. JavaScript: Lenguaje de programación orientado a objetos e interpretado en el navegador. Se utilizará principalmente para desarrollar la interfaz dinámica de usuario en nuestro proyecto, facilitando la interactividad dentro de la aplicación. Ruta de Referencia: [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript).
+
+#### Software Deployment
+
+1. Git: Es una herramienta de control de versiones diseñada para mejorar la eficiencia, confiabilidad y compatibilidad en la gestión de versiones de software. Su uso permite a los integrantes del equipo acceder y trabajar con el proyecto desde la línea de comandos, facilitando la colaboración y el seguimiento de cambios en el desarrollo. Ruta de Referencia: [Git](https://git-scm.com/).
+
+#### Software Documentation and Project Management
+
+1. GitHub: Es una plataforma que permite alojar proyectos y gestionarlos mediante el control de versiones de Git, utilizando repositorios. Facilita la colaboración en tiempo real entre los miembros del equipo, así como la revisión y seguimiento de los aportes individuales en el desarrollo del proyecto. Ruta de Referencia: [GitHub](https://github.com/).
+
+### 5.1.2. Source Code Management
+
+El proyecto sigue las convenciones del modelo GitFlow como flujo de trabajo para el control de versiones, utilizando GitHub como plataforma central. Se compartirán los enlaces a los repositorios en GitHub correspondientes a la Landing Page, y este mismo enfoque será aplicado de manera consistente en los demás productos del proyecto.
+
+#### Repositorio de GitHub:
+
+- URL para acceder a nuestro reporte en GitHub: https://github.com/K1ngHulk/202510_1ASI0729_Finteka
+- URL para acceder nuestro repositorio de Landing Page: 
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+#### **HTML5**
+El Lenguaje de Marcado de Hipertexto (HTML) constituye la base para estructurar el contenido en páginas web. Por convención, el archivo principal de un sitio suele llamarse `index.html`. Algunas buenas prácticas al trabajar con HTML son:
+
+- Usar etiquetas en minúsculas para mantener uniformidad y facilitar la lectura.
+- Cerrar correctamente todas las etiquetas, aunque no sea obligatorio en todos los casos, para evitar errores y mejorar la compatibilidad.
+- Incluir comentarios breves y claros para documentar el código.
+- Evitar líneas de código demasiado extensas y solo usar espacios en blanco cuando sea necesario para una mejor organización visual.
+- No omitir elementos esenciales como `<title>`, `<html>`, `<body>`, y `<head>`, ya que son fundamentales para la estructura del documento.
+- Agregar el atributo `lang` en la etiqueta `<html>` para definir el idioma del contenido.
+- Especificar atributos como `alt`, `width` y `height` en imágenes, para mejorar la accesibilidad y evitar cargas irregulares.
+- Evitar dejar espacios innecesarios alrededor de símbolos y signos para mejorar la claridad.
+- Incluir siempre la metaetiqueta `<meta name="viewport">` para asegurar una correcta visualización en dispositivos móviles.
+
+#### **CSS (Cascading Style Sheets)**
+CSS permite dar estilo y personalizar el diseño visual de los sitios web. Algunas convenciones importantes a seguir al escribir CSS son:
+
+- Usar una nomenclatura coherente para nombres de clases, identificadores y selectores, facilitando la colaboración y el mantenimiento.
+- Mantener una indentación uniforme y aplicar espacios en blanco adecuados para mejorar la claridad del código.
+- Comentar el código para explicar la lógica detrás de bloques o secciones de estilo.
+- Agrupar propiedades relacionadas por bloques para una mejor estructura.
+- Evitar selectores excesivamente específicos que puedan generar conflictos en el futuro.
+- Utilizar prefijos de proveedores (vendor prefixes) cuando sea necesario para asegurar compatibilidad con todos los navegadores.
+- Optimizar el código evitando duplicidades y combinando reglas similares.
+- Probar estilos en distintos navegadores y dispositivos para verificar su consistencia visual.
+- Validar el código CSS usando herramientas como el validador de W3C para identificar errores.
+
+#### **JavaScript**
+JavaScript se usa para incorporar interactividad y comportamiento dinámico en las páginas web. Para mantener un código eficiente y comprensible, se recomienda lo siguiente:
+
+- Mantener una nomenclatura consistente en variables, funciones y objetos.
+- Aplicar una indentación clara y utilizar espacios en blanco adecuados, por ejemplo, después de palabras clave como `if`, `for` o `function`.
+- Incluir comentarios explicativos que ayuden a entender la lógica de determinadas partes del código.
+- Reducir al mínimo el uso de variables globales, favoreciendo los contextos locales.
+- Implementar mecanismos de manejo de errores como `try-catch` para evitar fallos inesperados en la ejecución.
+- Usar técnicas de optimización como el almacenamiento en caché, minimización y combinación de scripts para mejorar el rendimiento.
+- Realizar pruebas cruzadas en varios navegadores y dispositivos para asegurar la correcta funcionalidad del código.
+
+#### **Gherkin**
+Gherkin es un lenguaje de texto estructurado utilizado para definir pruebas de comportamiento de forma legible por cualquier miembro del equipo. Algunas pautas clave incluyen:
+
+- Redactar los escenarios de forma clara y sencilla, pensando en la comprensión de todos los roles del equipo.
+- Usar una estructura estandarizada en los archivos `.feature` con palabras clave como `Feature`, `Scenario`, `Given`, `When`, `Then` y `And`.
+- Ser detallado al describir escenarios, especificando claramente el estado inicial, las acciones realizadas y los resultados esperados.
+- Reutilizar pasos comunes con la palabra `And` para evitar repeticiones innecesarias.
+- Mantener los escenarios enfocados y sin pasos redundantes o irrelevantes.
+- Utilizar comentarios para agregar contexto o aclaraciones adicionales cuando sea necesario.
+- Fomentar la colaboración revisando y afinando los escenarios con el equipo para asegurar que estén alineados con los requerimientos funcionales.
+
+### 5.1.4. Software Deployment Configuration
+
+### **Configuraciones de despliegue del proyecto**
+
+Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataforma especializada en el alojamiento web y despliegue continuo de aplicaciones y sitios estáticos. Esta herramienta simplifica enormemente el proceso de publicación y actualización de nuestros desarrollos. Su funcionamiento se basa en los siguientes puntos:
+
+- **Integración con repositorios Git**: Netlify se enlaza fácilmente con plataformas como GitHub, GitLab o Bitbucket. Cada vez que actualizamos el código y lo subimos a nuestro repositorio, Netlify detecta los cambios y comienza automáticamente el proceso de construcción del sitio.
+- **Compilación automatizada del sitio**: Durante el proceso de build, Netlify transforma el código fuente (HTML, CSS, JavaScript) en una versión optimizada del sitio estático. Además, realiza tareas como la compilación de archivos, minificación y optimización de imágenes.
+- **Despliegue en red CDN**: Una vez que la construcción se completa con éxito, el sitio es desplegado a través de una red global de entrega de contenido (CDN), lo que garantiza tiempos de carga rápidos y disponibilidad en cualquier parte del mundo.
+- **Vistas previas automáticas por rama**: Por cada rama de trabajo activa o pull request, Netlify genera automáticamente una versión previa del sitio. Esto permite revisar los cambios antes de integrarlos al proyecto principal, favoreciendo el trabajo colaborativo y la detección temprana de errores.
+- **Despliegues automáticos continuos**: Cada vez que se fusiona una rama o se realiza un nuevo commit en la rama principal, Netlify actualiza el sitio automáticamente, asegurando que siempre esté reflejando la versión más reciente del código.
