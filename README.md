@@ -1136,14 +1136,16 @@ User Goal: Poder valorar el profesional seleccionado
 <img src="./img/Flow Diagrams4.png" width="900" height="400">
 
 
-## 4.7 Software Object-Oriented Design
-### 4.7.1 Class Diagrams
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
 ![diagrama de clases finteka](https://github.com/user-attachments/assets/76e9abdb-6b78-4305-9b60-52ceee1f2817)
 
 ### 4.7.2 Class Dictionary
 
-## 4.8 Database Design
-### 4.8.1 Database Diagram
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+![image](https://github.com/user-attachments/assets/28d0912a-4cc0-4d6e-80c5-fe49fdda9fd8)
+
 
 ## 5.1. Software Configuration Management.
 
