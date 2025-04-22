@@ -174,6 +174,7 @@ Permite a los consultores ofrecer sus servicios, gestionar reservas y recibir pa
 | Integrantes | Descripción | Conocimientos |
 | :--- | :--- | :--- |
 |Nombre|Descripción|Conocimientos|
+|<img src="img/Daiki.png" alt="" width="100" height="120">Daiki Oscar Oshiro Yamashita u20201f846|Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro.|Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL.|
 
 ## 1.2. Solution Profile
 
