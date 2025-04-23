@@ -157,8 +157,8 @@
 
 |Criterio específico| Acciones realizadas | Conclusiones |
 |:------ | :--------------------------- | :--------- |
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.| *Daiki Oscar Oshiro Yamashita* <br> *TB1*: Para esta primera entrega del trabajo, como grupo nos reunimos de forma remota en varias ocaciones para coordinar los avances e informar lo avanzado. <br>| Conclusiones: |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia| *Daiki Oscar Oshiro Yamashita* <br> *TB1*: Para esta primera entrega del trabajo, se desarrolló parte del capítulo 2 y 3 <br>| Conclusiones: |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.| *Daiki Oscar Oshiro Yamashita* <br> *TB1*: Para esta primera entrega del trabajo, como grupo nos reunimos de forma remota en varias ocaciones para coordinar los avances e informar lo avanzado. <br> *Mathias Javier Murillo* <br> *TB1*: Durante el desarrollo de esta primera entrega logramos tener una comunicación eficaz al reunirnos por llamada grupal y por mensajes de texto. <br>| Conclusiones: *Daiki Oscar Oshiro Yamashita* <br> *TB1*: <br> *Mathias Javier Murillo* <br> *TB1*: Por medio de las continúas reuniones y constante seguimiento por mensajería hemos podido realizar de manera efectiva la primera entrega. <br>|
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| *Daiki Oscar Oshiro Yamashita* <br> *TB1*: Para esta primera entrega del trabajo, se desarrolló parte del capítulo 2 y 3 <br> *Mathias Javier Murillo* <br> *TB1*: En esta primera entrega logré desarrollar el 1er Capítulo de este informe y parte del 4to Capítulo <br>| Conclusiones: *Daiki Oscar Oshiro Yamashita* <br> *TB1*: <br> *Mathias Javier Murillo* <br> *TB1*: Durante esta entrega pude describir la startup que realizaremos a los largo del proyecto, además que pude crear la interfaz de la landing page, por medio de los wireframes y mock-ups. <br> |
 
 <div style="page-break-after: always;"></div>
 
@@ -176,9 +176,9 @@ Permite a los consultores ofrecer sus servicios, gestionar reservas y recibir pa
 | :--- | :--- | :--- |
 | <div style="display: flex; align-items: center;"><img src="img/Daiki.png" alt="Daiki" width="100" height="120">&nbsp;&nbsp;<br>**Daiki Oscar Oshiro Yamashita**<br>u20201f846</div> | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. | Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL. |
 | <div style="display: flex; align-items: center;"><img src="img/Mathias.jpg" alt="Mathias" width="100" height="120">&nbsp;&nbsp;<br>**Mathias Javier Murillo**<br>u202022211</div> | Soy estudiante de Ingeniería de Software. Me gusta tener nuevos retos relacionados con el desarrollo de software como aprender nuevas tecnología. | Tengo conocimientos en lenguajes como HTML, C++, Java, SQL y en frameworks como React y .Net |
-| <div style="display: flex; align-items: center;"><img src="" alt="Sergio" width="100" height="120">&nbsp;&nbsp;<br>**Sergio Cesar Aguirre Castillo**<br>u</div> |  |  |
-| <div style="display: flex; align-items: center;"><img src="" alt="Luis" width="100" height="120">&nbsp;&nbsp;<br>**Luis Angel Montañez Moreno**<br>u</div> |  |  |
-| <div style="display: flex; align-items: center;"><img src="" alt="Russell" width="100" height="120">&nbsp;&nbsp;<br>**Russell Stephen Romero Qwistgaard**<br>u</div> |  |  |
+| <div style="display: flex; align-items: center;"><img src="" alt="Sergio" width="100" height="120">&nbsp;&nbsp;<br>**Sergio Cesar Aguirre Castillo**<br>u202310425</div> |  |  |
+| <div style="display: flex; align-items: center;"><img src="" alt="Luis" width="100" height="120">&nbsp;&nbsp;<br>**Luis Angel Montañez Moreno**<br>u202223811</div> |  |  |
+| <div style="display: flex; align-items: center;"><img src="" alt="Russell" width="100" height="120">&nbsp;&nbsp;<br>**Russell Stephen Romero Qwistgaard**<br>u202211043</div> |  |  |
 
 
 ## 1.2. Solution Profile
