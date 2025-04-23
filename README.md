@@ -157,7 +157,8 @@
 
 |Criterio específico| Acciones realizadas | Conclusiones |
 |:------ | :--------------------------- | :--------- |
-|1|2|3|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.| *Daiki Oscar Oshiro Yamashita* <br> *TB1*: Para esta primera entrega del trabajo, como grupo nos reunimos de forma remota en varias ocaciones para coordinar los avances e informar lo avanzado. <br>| Conclusiones: |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| *Daiki Oscar Oshiro Yamashita* <br> *TB1*: Para esta primera entrega del trabajo, se desarrolló parte del capítulo 2 y 3 <br>| Conclusiones: |
 
 <div style="page-break-after: always;"></div>
 
