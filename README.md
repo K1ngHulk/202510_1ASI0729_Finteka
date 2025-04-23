@@ -175,7 +175,8 @@ Permite a los consultores ofrecer sus servicios, gestionar reservas y recibir pa
 | Integrantes | Descripción | Conocimientos |
 | :--- | :--- | :--- |
 |Nombre|Descripción|Conocimientos|
-|<img src="img/Daiki.png" alt="" width="100" height="120">Daiki Oscar Oshiro Yamashita u20201f846|Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro.|Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL.|
+|<img src="img/Daiki.png" alt="" width="100" height="120">
+Daiki Oscar Oshiro Yamashita u20201f846|Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro.|Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL.|
 
 ## 1.2. Solution Profile
 
@@ -490,6 +491,7 @@ Preguntas principales:
 - Distrito: San Miguel
   
 ![image](https://github.com/user-attachments/assets/0e0c9687-49cf-4163-bb94-7e8062090cac)
+
 **Link**: [**Entrevista \- Sara Qwistgaard**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EVYdPYP9cX9MiTBSGHLo4GUBJtHK2wys0_JpZmdVYRUM0w?e=fs9CDq)
 
 En la entrevista, la señora Sara Qwistgaard menciona que busca asesoría en el área de marketing. Además, nos cuenta cómo le gustaría su página de asesoría ideal y su mayor problema con las asesorías en general: los horarios. 
@@ -500,6 +502,7 @@ En la entrevista, la señora Sara Qwistgaard menciona que busca asesoría en el 
 - Distrito: San Miguel
   
 ![image](https://github.com/user-attachments/assets/10ba027c-e24e-43aa-9cb2-c8bb14c064be)
+
 **Link: [Entrevista \- Orlando Romero](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EYP9U3OGc01Gujd5mFLQbX0BpU9LbBkQxUcc4cTjnzzlow?e=w2r4b6)**
 
 El entrevistado Orlando Romero, quien busca asesoría para administración de equipos de redes, nos relata cómo le gustaría que fuera su experiencia con asesorías online y con la plataforma en general, además de explicar cómo debería funcionar el foco principal de la plataforma.
@@ -510,6 +513,7 @@ El entrevistado Orlando Romero, quien busca asesoría para administración de eq
 - Distrito: San Miguel
   
 ![image](https://github.com/user-attachments/assets/47c6166f-b129-4886-aabc-7f1110e1e900)
+
 **Link: [Entrevista \- Noelia Zavala](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EZ0tkhJhqUNPoif3FfjPq3EB7JYo7yh4uep_1xHiHiJyHA?e=aYGCbv)**
 
 La entrevistada busca asesoría en el área de defensoría médica para el tema legal de las prácticas médicas, y a partir de la entrevista nos da su punto de vista sobre lo indispensable de una asesoría en línea y cuál es el mayor problema que se tiene con los asesores en general.
@@ -1137,6 +1141,16 @@ User Goal: Poder valorar el profesional seleccionado
 
 <img src="./img/Flow Diagrams4.png" width="900" height="400">
 
+## 4.6. Domain -Driven Software Architecture
+### 4.6.1. Software Architecture Contexte Diagram
+
+![image](https://github.com/user-attachments/assets/b286ea18-69dc-4a58-aa24-ae5203eef24d)
+
+### 4.6.2. Software Architecture Container Diagrams
+
+![image](https://github.com/user-attachments/assets/cb0f38c0-43b7-4c8a-940b-38eda86dc75a)
+
+### 4.6.3. Software Architecture Components Diagrams
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
