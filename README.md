@@ -174,9 +174,12 @@ Permite a los consultores ofrecer sus servicios, gestionar reservas y recibir pa
 
 | Integrantes | Descripción | Conocimientos |
 | :--- | :--- | :--- |
-|Nombre|Descripción|Conocimientos|
-|<img src="img/Daiki.png" alt="" width="100" height="120">
-Daiki Oscar Oshiro Yamashita u20201f846|Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro.|Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL.|
+| <div style="display: flex; align-items: center;"><img src="img/Daiki.png" alt="Daiki" width="100" height="120">&nbsp;&nbsp;<br>**Daiki Oscar Oshiro Yamashita**<br>u20201f846</div> | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. | Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL. |
+| <div style="display: flex; align-items: center;"><img src="img/Mathias.jpg" alt="Mathias" width="100" height="120">&nbsp;&nbsp;<br>**Mathias Javier Murillo**<br>u202022211</div> | Soy estudiante de Ingeniería de Software. Me gusta tener nuevos retos relacionados con el desarrollo de software como aprender nuevas tecnología. | Tengo conocimientos en lenguajes como HTML, C++, Java, SQL y en frameworks como React y .Net |
+| <div style="display: flex; align-items: center;"><img src="" alt="Sergio" width="100" height="120">&nbsp;&nbsp;<br>**Sergio Cesar Aguirre Castillo**<br>u</div> |  |  |
+| <div style="display: flex; align-items: center;"><img src="" alt="Luis" width="100" height="120">&nbsp;&nbsp;<br>**Luis Angel Montañez Moreno**<br>u</div> |  |  |
+| <div style="display: flex; align-items: center;"><img src="" alt="Russell" width="100" height="120">&nbsp;&nbsp;<br>**Russell Stephen Romero Qwistgaard**<br>u</div> |  |  |
+
 
 ## 1.2. Solution Profile
 
