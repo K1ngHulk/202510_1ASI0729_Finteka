@@ -1073,6 +1073,14 @@ A continuación, se mostrarán los sistemas de navegación que le permitirán a 
 ### Suscribe Wireframe
 ![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/a29c44bcd96773c3b881100a6190f8b3c448fd95/img/Suscribe.png)
 ### 4.3.2. Landing Page Mock-ups
+### Home Mock-up
+![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/1a15352f7a02caad386ea717126875941ff8aaa9/img/Home-Mock.png)
+### About Us Mock-up
+![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/1a15352f7a02caad386ea717126875941ff8aaa9/img/About%20Us-Mock.png)
+### Learn More Mock-up
+![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/1a15352f7a02caad386ea717126875941ff8aaa9/img/Learn%20More-Mock.png)
+### Suscribe Mock-up
+![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/1a15352f7a02caad386ea717126875941ff8aaa9/img/Suscribe-Mock.png)
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
