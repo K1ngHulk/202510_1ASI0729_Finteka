@@ -1061,6 +1061,18 @@ A continuación, se mostrarán los sistemas de navegación que le permitirán a 
 - **Botones de CTA claros y visibles en cada sección:** “Reservar”, “Ver perfil”, “Editar agenda”.
 - **Footer** con navegación adicional: Nosotros | Ayuda | Términos y condiciones | Contacto
 
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+### Home Wireframe
+![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/a29c44bcd96773c3b881100a6190f8b3c448fd95/img/Home.png)
+### About Us Wireframe
+![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/a29c44bcd96773c3b881100a6190f8b3c448fd95/img/About%20Us.png)
+### Learn More Wireframe
+![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/a29c44bcd96773c3b881100a6190f8b3c448fd95/img/Learn%20More.png)
+### Suscribe Wireframe
+![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/a29c44bcd96773c3b881100a6190f8b3c448fd95/img/Suscribe.png)
+### 4.3.2. Landing Page Mock-ups
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
