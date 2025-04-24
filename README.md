@@ -1012,6 +1012,82 @@ User Goal: Poder valorar el profesional seleccionado
 
 ### 4.7.2 Class Dictionary
 
+<table border="1">
+  <tr>
+    <th>#</th>
+    <th>Entidad</th>
+    <th>Nombre de atributos</th>
+    <th>Definición</th>
+    <th>Tipo de dato</th>
+  </tr>
+
+  
+  <tr><td rowspan="4">1</td><td rowspan="4">Usuario</td><td>id</td><td>Identificador único del usuario</td><td>UUID</td></tr>
+  <tr><td>nombre</td><td>Nombre completo del usuario</td><td>String</td></tr>
+  <tr><td>email</td><td>Correo electrónico del usuario</td><td>String</td></tr>
+  <tr><td>tipoUsuario</td><td>Tipo de usuario (Cliente o Consultor)</td><td>String</td></tr>
+
+  
+  <tr><td rowspan="2">2</td><td rowspan="2">Cliente</td><td>historialReservas</td><td>Historial de reservas realizadas</td><td>List&lt;Reserva&gt;</td></tr>
+  <tr><td>valoracionesHechas</td><td>Valoraciones realizadas a consultores</td><td>List&lt;Valoracion&gt;</td></tr>
+
+  
+  <tr><td rowspan="3">3</td><td rowspan="3">Consultor</td><td>especialidades</td><td>Lista de especialidades del consultor</td><td>List&lt;String&gt;</td></tr>
+  <tr><td>tarifa</td><td>Tarifa por sesión</td><td>float</td></tr>
+  <tr><td>agenda</td><td>Agenda del consultor</td><td>String</td></tr>
+
+  
+  <tr><td rowspan="6">4</td><td rowspan="6">Servicio</td><td>id_servicio</td><td>Identificador del servicio</td><td>UUID</td></tr>
+  <tr><td>nombre</td><td>Nombre del servicio</td><td>String</td></tr>
+  <tr><td>descripcion</td><td>Descripción del servicio</td><td>String</td></tr>
+  <tr><td>categoria</td><td>Categoría a la que pertenece el servicio</td><td>Categoria</td></tr>
+  <tr><td>consultor</td><td>Consultor que ofrece el servicio</td><td>Consultor</td></tr>
+  <tr><td>tarifa</td><td>Precio del servicio</td><td>Float</td></tr>
+
+  
+  <tr><td rowspan="5">5</td><td rowspan="5">Reserva</td><td>id_reserva</td><td>Identificador de la reserva</td><td>UUID</td></tr>
+  <tr><td>fechaHora</td><td>Fecha y hora de la reserva</td><td>Datetime</td></tr>
+  <tr><td>estado</td><td>Estado actual de la reserva</td><td>String</td></tr>
+  <tr><td>cliente</td><td>Cliente que realiza la reserva</td><td>Cliente</td></tr>
+  <tr><td>servicio</td><td>Servicio reservado</td><td>Servicio</td></tr>
+
+  
+  <tr><td rowspan="4">6</td><td rowspan="4">Pago</td><td>id_pago</td><td>Identificador del pago</td><td>UUID</td></tr>
+  <tr><td>monto</td><td>Monto pagado</td><td>Float</td></tr>
+  <tr><td>metodo</td><td>Método de pago utilizado</td><td>String</td></tr>
+  <tr><td>estado_pago</td><td>Estado del pago</td><td>String</td></tr>
+
+  
+  <tr><td rowspan="5">7</td><td rowspan="5">Valoracion</td><td>id_valoracion</td><td>Identificador de la valoración</td><td>UUID</td></tr>
+  <tr><td>puntuacion</td><td>Puntuación otorgada al consultor</td><td>int</td></tr>
+  <tr><td>comentario</td><td>Comentario del cliente</td><td>String</td></tr>
+  <tr><td>fecha</td><td>Fecha de la valoración</td><td>Datetime</td></tr>
+  <tr><td>cliente</td><td>Cliente que realiza la valoración</td><td>Cliente</td></tr>
+
+  
+  <tr><td rowspan="3">8</td><td rowspan="3">Chat</td><td>id_chat</td><td>Identificador del chat</td><td>UUID</td></tr>
+  <tr><td>participantes</td><td>Usuarios que participan en el chat</td><td>List&lt;Usuario&gt;</td></tr>
+  <tr><td>mensajes</td><td>Lista de mensajes enviados</td><td>List&lt;Mensaje&gt;</td></tr>
+
+  
+  <tr><td rowspan="4">9</td><td rowspan="4">Mensaje</td><td>id_mensaje</td><td>Identificador del mensaje</td><td>UUID</td></tr>
+  <tr><td>remitente</td><td>Usuario que envió el mensaje</td><td>Usuario</td></tr>
+  <tr><td>contenido_mensaje</td><td>Texto del mensaje</td><td>String</td></tr>
+  <tr><td>fecha</td><td>Fecha del mensaje</td><td>Datetime</td></tr>
+
+  
+  <tr><td rowspan="5">10</td><td rowspan="5">Notificacion</td><td>id_notificacion</td><td>Identificador de la notificación</td><td>UUID</td></tr>
+  <tr><td>tipo</td><td>Tipo de notificación</td><td>String</td></tr>
+  <tr><td>mensaje</td><td>Contenido del mensaje</td><td>String</td></tr>
+  <tr><td>fecha</td><td>Fecha de la notificación</td><td>Datetime</td></tr>
+  <tr><td>leida</td><td>Indica si fue leída o no</td><td>Boolean</td></tr>
+
+  
+  <tr><td rowspan="3">11</td><td rowspan="3">Categoria</td><td>id_categoria</td><td>Identificador de la categoría</td><td>UUID</td></tr>
+  <tr><td>nombre</td><td>Nombre de la categoría</td><td>String</td></tr>
+  <tr><td>descripcion</td><td>Descripción de la categoría</td><td>String</td></tr>
+</table>
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 ![image](https://github.com/user-attachments/assets/28d0912a-4cc0-4d6e-80c5-fe49fdda9fd8)
