@@ -601,7 +601,7 @@ A continuación se muestra el proceso para la realizacion del User Task Matrix p
 |-------------------------------|----------------|----------------|
 | Crear y configurar su perfil | Baja   | Alta   |
 | Publicar servicios y actualizar info | Alta  | Alta    |
-| Responder mensajes y consultaso | Alta    | ALta   |
+| Responder mensajes y consultas | Alta    | ALta   |
 | Recibir pagos | Media   | Media   |
 | Promocionar su perfil | Media  | Media  |
 
