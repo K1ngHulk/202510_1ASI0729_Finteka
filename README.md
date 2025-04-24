@@ -1132,7 +1132,7 @@ El proyecto sigue las convenciones del modelo GitFlow como flujo de trabajo para
 #### Repositorio de GitHub:
 
 - URL para acceder a nuestro reporte en GitHub: https://github.com/K1ngHulk/202510_1ASI0729_Finteka
-- URL para acceder nuestro repositorio de Landing Page: 
+- URL para acceder nuestro repositorio de Landing Page: https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
