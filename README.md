@@ -702,205 +702,52 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 ## 3.2. User Stories
 
-| Epic ID                        | Epic          | User Story ID  | User Stories   |
-|-------------------------------|----------------|----------------|----------------|
-|EP01 |Registro de clientes|US001|Registrar un profesional|
-|EP01 |Registro de clientes|US004|Registrar un usuario|
-|EP02 |Búsqueda de servicios|US002|Buscar profesionales disponibles|
-|EP03 |Perfil del profesional|US003|Ver detalles del profesional|
-|EP03 |Perfil del profesional|US005|Calificar a un profesional|
 
-<table>
-    <thead>
-        <tr style="text-align:center">
-            <th>ID</th>
-            <th>Nombre</th>
-            <th>Descripción</th>
-            <th>Criterios de aceptación</th>
-            <th>Épica</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr style="text-align:center">
-            <td>HU01</td>
-            <td>Registrar un profesional</td>
-            <td><strong>Como</strong> profesional. <strong>Quiero</strong> poder registrarme fácilmente en la plataforma como consultor. <strong>Para</strong> ofrecer mis servicios, gestionar mis horarios y comenzar a brindar asesoría a personas o empresas interesadas.</td>
-            <td>
-                <h5>Escenario 01: Registro exitoso.</h5>
-                <strong>Dado</strong>  que soy un profesional interesado en ofrecer mis servicios.<br>
-                <strong>Cuando</strong>  completo correctamente el formulario de registro con mis datos y lo envío.<br>
-                <strong>Entonces</strong> el sistema guarda la información, envía una notificación de recepción y muestra un mensaje indicando que el perfil será revisado.
-                <h5>Escenario 02: Fallo en el registro.</h5>
-                <strong>Dado</strong> que soy un profesional que intenta registrarse.<br>
-                <strong>Cuando</strong> dejo campos obligatorios vacíos o ingreso datos inválidos.<br>
-                <strong>Entonces</strong> el sistema muestra mensajes de error y no permite enviar el formulario hasta corregir los datos.
-            </td>
-            <td>EP01</td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr style="text-align:center">
-            <td>HU02</td>
-            <td>Buscar profesionales disponibles</td>
-            <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder buscar y filtrar profesionales disponibles según mi necesidad. <strong>Para</strong>  encontrar al experto más adecuado y reservar una sesión fácilmente.</td>
-            <td>
-                <h5>Escenario 01: Filtros por disponibilidad.</h5>
-                <strong>Dado</strong>  que estoy buscando un profesional.<br>
-                <strong>Cuando</strong>  aplico un filtro por fecha y hora.<br>
-                <strong>Entonces</strong> el sistema me muestra solo aquellos consultores que tienen horarios disponibles en ese rango.
-                <h5>Escenario 02: Visualización de perfil profesional.</h5>
-                <strong>Dado</strong> que encontré un profesional que me interesa.<br>
-                <strong>Cuando</strong> hago clic en su perfil.<br>
-                <strong>Entonces</strong> puedo ver su información completa, experiencia, calificaciones, disponibilidad y tarifas.
-            </td>
-            <td>EP02</td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr style="text-align:center">
-            <td>HU03</td>
-            <td>Ver detalles del profesional</td>
-            <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder ver el perfil completo de un profesional. <strong>Para</strong>  conocer su experiencia, especialidades, disponibilidad, tarifas y calificaciones antes de tomar una decisión.</td>
-            <td>
-                <h5>Escenario 01:  Visualización de experiencia y especialidades.</h5>
-                <strong>Dado</strong>  que estoy viendo el perfil de un consultor.<br>
-                <strong>Cuando</strong>   navego por la sección de descripción profesional.<br>
-                <strong>Entonces</strong>  puedo leer su formación, experiencia laboral y áreas de especialización.
-                <h5>Escenario 02: Visualización de disponibilidad y tarifas.</h5>
-                <strong>Dado</strong> que estoy en el perfil de un profesional.<br>
-                <strong>Cuando</strong> reviso su disponibilidad.<br>
-                <strong>Entonces</strong> puedo ver los horarios libres para agendar una sesión y el costo por cada servicio.
-            </td>
-            <td>EP03</td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr style="text-align:center">
-            <td>HU01</td>
-            <td>Registrar un usuario</td>
-            <td><strong>Como</strong>  persona que busca asesoría profesional. <strong>Quiero</strong> poder registrarme fácilmente en la plataforma como usuario. <strong>Para</strong>  acceder al listado de consultores disponibles, agendar sesiones y recibir asesoría especializada.</td>
-            <td>
-                <h5>Escenario 01:   Registro exitoso.</h5>
-                <strong>Dado</strong>  que soy un nuevo usuario que desea registrarse.<br>
-                <strong>Cuando</strong>    completo correctamente el formulario de registro con mis datos.<br>
-                <strong>Entonces</strong>  el sistema crea mi cuenta, me muestra un mensaje de bienvenida y me redirige al panel de usuario o inicio.
-                <h5>Escenario 02:  Registro con errores o campos incompletos.</h5>
-                <strong>Dado</strong> que intento registrarme con un correo ya registrado.<br>
-                <strong>Cuando</strong> ingreso el correo electrónico y lo envío.<br>
-                <strong>Entonces</strong> el sistema me notifica que ya existe una cuenta con ese correo y me sugiere iniciar sesión o recuperar la contraseña.
-            </td>
-            <td>EP04</td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr style="text-align:center">
-            <td>HU03</td>
-            <td>Calificar a un profesional</td>
-            <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder calificar y dejar un comentario sobre el profesional. <strong>Para</strong> compartir mi experiencia con otros usuarios y contribuir a la reputación del consultor.</td>
-            <td>
-                <h5>Escenario 01:    Acceso a la opción de calificación tras una sesión completada.</h5>
-                <strong>Dado</strong>  que he completado una sesión con un profesional.<br>
-                <strong>Cuando</strong>    accedo a mi historial de sesiones.<br>
-                <strong>Entonces</strong>   el sistema me muestra la opción de calificar al consultor correspondiente.
-                <h5>Escenario 02:   Envío de calificación y comentario.</h5>
-                <strong>Dado</strong> que tengo disponible la opción de calificación.<br>
-                <strong>Cuando</strong> selecciono una puntuación y escribo un comentario.<br>
-                <strong>Entonces</strong> el sistema guarda la calificación y la muestra públicamente en el perfil del profesional.
-            </td>
-            <td>EP05</td>
-        </tr>
-    </tbody>
-   <tbody>
-        <tr style="text-align:center">
-            <td>HU06</td>
-            <td>Realizar reserva de sesión</td>
-            <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder reservar una sesión con un profesional. <strong>Para</strong> asegurarme de contar con su tiempo disponible para recibir asesoría.</td>
-            <td>
-                <h5>Escenario 01: Reserva exitosa.</h5>
-                <strong>Dado</strong>  que soy un usuario que desea agendar una sesión.<br>
-                <strong>Cuando</strong>  selecciono un profesional, fecha y hora disponible.<br>
-                <strong>Entonces</strong> el sistema confirma la reserva y me envía una notificación.
-                <h5>Escenario 02: Fallo en la reserva.</h5>
-                <strong>Dado</strong> que intento reservar un horario que ya no está disponible.<br>
-                <strong>Cuando</strong> elijo esa fecha y hora.<br>
-                <strong>Entonces</strong> el sistema muestra un mensaje de error y me sugiere otros horarios disponibles.
-            </td>
-            <td>EP02</td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr style="text-align:center">
-            <td>HU07</td>
-            <td>Ver historial de sesiones</td>
-            <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder ver un historial de mis sesiones pasadas. <strong>Para</strong> poder revisar la información de las sesiones anteriores y hacer un seguimiento de mi progreso.</td>
-            <td>
-                <h5>Escenario 01: Visualización del historial de sesiones.</h5>
-                <strong>Dado</strong>  que soy un usuario que ha tenido sesiones anteriores.<br>
-                <strong>Cuando</strong> accedo a la sección de historial de sesiones.<br>
-                <strong>Entonces</strong> puedo ver la lista de todas las sesiones pasadas, con fecha, profesional y detalles.
-                <h5>Escenario 02: Visualización de detalles de una sesión.</h5>
-                <strong>Dado</strong> que estoy viendo el historial de mis sesiones.<br>
-                <strong>Cuando</strong> hago clic en una sesión específica.<br>
-                <strong>Entonces</strong> puedo ver los detalles completos, incluyendo notas o recomendaciones proporcionadas por el profesional.
-            </td>
-            <td>EP04</td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr style="text-align:center">
-            <td>HU08</td>
-            <td>Recibir notificaciones de disponibilidad de profesionales</td>
-            <td><strong>Como</strong> usuario. <strong>Quiero</strong> recibir notificaciones cuando un profesional que sigo esté disponible para sesiones. <strong>Para</strong> poder agendar una sesión cuando el profesional esté libre.</td>
-            <td>
-                <h5>Escenario 01: Notificación de disponibilidad.</h5>
-                <strong>Dado</strong>  que estoy siguiendo a un profesional.<br>
-                <strong>Cuando</strong> el profesional actualiza su disponibilidad.<br>
-                <strong>Entonces</strong> recibo una notificación en mi correo o aplicación con los nuevos horarios disponibles.
-                <h5>Escenario 02: Notificación para programar sesión.</h5>
-                <strong>Dado</strong> que recibo una notificación de disponibilidad.<br>
-                <strong>Cuando</strong> hago clic en la notificación.<br>
-                <strong>Entonces</strong> soy redirigido a la plataforma para poder agendar mi sesión con el profesional.
-            </td>
-            <td>EP02</td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr style="text-align:center">
-            <td>HU09</td>
-            <td>Actualizar perfil de usuario</td>
-            <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder actualizar mi perfil en la plataforma. <strong>Para</strong> mantener mi información personal, preferencias y detalles de contacto actualizados.</td>
-            <td>
-                <h5>Escenario 01: Actualización exitosa del perfil.</h5>
-                <strong>Dado</strong>  que soy un usuario que desea actualizar mi perfil.<br>
-                <strong>Cuando</strong> cambio mis datos personales, como el correo o número de teléfono y hago clic en "guardar".<br>
-                <strong>Entonces</strong> el sistema actualiza mi perfil y me muestra un mensaje de confirmación.
-                <h5>Escenario 02: Error en la actualización del perfil.</h5>
-                <strong>Dado</strong> que soy un usuario que intenta actualizar mi perfil.<br>
-                <strong>Cuando</strong> ingreso datos inválidos, como un correo incorrecto.<br>
-                <strong>Entonces</strong> el sistema muestra un mensaje de error y me indica qué campo debe corregirse.
-            </td>
-            <td>EP04</td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr style="text-align:center">
-            <td>HU10</td>
-            <td>Cancelar reserva de sesión</td>
-            <td><strong>Como</strong> usuario. <strong>Quiero</strong> poder cancelar una reserva de sesión. <strong>Para</strong> poder modificar mis planes si surge un imprevisto.</td>
-            <td>
-                <h5>Escenario 01: Cancelación exitosa.</h5>
-                <strong>Dado</strong>  que tengo una sesión programada y deseo cancelarla.<br>
-                <strong>Cuando</strong> accedo a la opción de cancelación en mi perfil y confirmo la cancelación.<br>
-                <strong>Entonces</strong> el sistema cancela la sesión y me envía una notificación confirmando la cancelación.
-                <h5>Escenario 02: Error al intentar cancelar.</h5>
-                <strong>Dado</strong> que intento cancelar una sesión programada en un horario muy cercano.<br>
-                <strong>Cuando</strong> intento cancelarla.<br>
-                <strong>Entonces</strong> el sistema muestra un mensaje de advertencia o bloqueo de la opción de cancelación.
-            </td>
-            <td>EP02</td>
-        </tr>
-    </tbody>
-</table>
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+| :---- | :---- | :---- | :---- | :---- |
+| EP01 | Registro de usuarios | Implementar el registro de los usuarios para tanto los asesores como los clientes |  |  |
+| US01 | Registrar un profesional | Como profesional. Quiero poder registrarme fácilmente en la plataforma como consultor. Para ofrecer mis servicios, gestionar mis horarios y comenzar a brindar asesoría a personas o empresas interesadas. | Escenario 01: Registro exitoso. Dado que soy un profesional interesado en ofrecer mis servicios, Cuando completo correctamente el formulario de registro con mis datos y lo envío, Entonces el sistema guarda la información, envía una notificación de recepción y muestra un mensaje indicando que el perfil será revisado. Escenario 02: Fallo en el registro. Dado que soy un profesional que intenta registrarse, Cuando dejo campos obligatorios vacíos o ingreso datos inválidos, Entonces el sistema muestra mensajes de error y no permite enviar el formulario hasta corregir los datos. | EP01 |
+| US02 | Registrar un cliente | Como usuario que busca asesoría profesional. Quiero poder registrarme fácilmente en la plataforma como cliente. Para acceder al listado de consultores disponibles, agendar sesiones y recibir asesoría especializada. | Escenario 01: Registro exitoso. Dado que soy un nuevo cliente que desea registrarse, Cuando completo correctamente el formulario de registro con mis datos, Entonces el sistema crea mi cuenta, me muestra un mensaje de bienvenida y me redirige al panel de usuario o inicio. Escenario 02: Registro con errores o campos incompletos. Dado que intento registrarme con un correo ya registrado, Cuando ingreso el correo electrónico y lo envío, Entonces el sistema me notifica que ya existe una cuenta con ese correo y me sugiere iniciar sesión o recuperar la contraseña. | EP01 |
+| EP02 | Búsqueda de servicios | Poder buscar asesorías y recibir ayuda para realizarla |  |  |
+| US03 | Buscar profesionales disponibles | Como usuario. Quiero poder buscar y filtrar profesionales disponibles según mi necesidad. Para encontrar al experto más adecuado y reservar una sesión fácilmente. | Escenario 01: Filtros por disponibilidad. Dado que estoy buscando un profesional. Cuando aplico un filtro por fecha y hora. Entonces el sistema me muestra solo aquellos consultores que tienen horarios disponibles en ese rango. Escenario 02: Visualización de perfil profesional. Dado que encontré un profesional que me interesa. Cuando hago clic en su perfil. Entonces puedo ver su información completa, experiencia, calificaciones, disponibilidad y tarifas. | EP02 |
+| US04 | Recibir notificaciones de disponibilidad de profesionales | Como usuario. Quiero recibir notificaciones cuando un profesional que sigo esté disponible para sesiones. Para poder agendar una sesión cuando el profesional esté libre. | Escenario 01: Notificación de disponibilidad. Dado que estoy siguiendo a un profesional, Cuando el profesional actualiza su disponibilidad, Entonces recibo una notificación en mi correo o aplicación con los nuevos horarios disponibles. Escenario 02: Notificación para programar sesión. Dado que recibo una notificación de disponibilidad, Cuando hago clic en la notificación, Entonces soy redirigido a la plataforma para poder agendar mi sesión con el profesional. | EP02 |
+| EP03 | Gestión de Perfiles | Configurar e interactuar con los perfiles |  |  |
+| US05 | Ver detalles del profesional | Como usuario. Quiero poder ver el perfil completo de un profesional. Para conocer su experiencia, especialidades, disponibilidad, tarifas y calificaciones antes de tomar una decisión. | Escenario 01: Visualización de experiencia y especialidades. Dado que estoy viendo el perfil de un consultor, Cuando navego por la sección de descripción profesional, Entonces puedo leer su formación, experiencia laboral y áreas de especialización. Escenario 02: Visualización de disponibilidad y tarifas. Dado que estoy en el perfil de un profesional, Cuando reviso su disponibilidad, Entonces puedo ver los horarios libres para agendar una sesión y el costo por cada servicio. | EP03 |
+| US06 | Calificar a un profesional | Como usuario. Quiero poder calificar y dejar un comentario sobre el profesional. Para compartir mi experiencia con otros usuarios y contribuir a la reputación del consultor. | Escenario 01: Acceso a la opción de calificación tras una sesión completada. Dado que he completado una sesión con un profesional, Cuando accedo al perfil del profesional, Entonces el sistema me muestra la opción de calificar al consultor correspondiente. Escenario 02: Envío de calificación y comentario. Dado que tengo disponible la opción de calificación, Cuando selecciono una puntuación y escribo un comentario, Entonces el sistema guarda la calificación y la muestra públicamente en el perfil del profesional. | EP03 |
+| US07 | Actualizar perfil de usuario | Como usuario. Quiero poder actualizar mi perfil en la plataforma. Para mantener mi información personal, preferencias y detalles de contacto actualizados. | Escenario 01: Actualización exitosa del perfil. Dado que soy un usuario que desea actualizar mi perfil, Cuando cambio mis datos personales, como el correo o número de teléfono y hago clic en "guardar", Entonces el sistema actualiza mi perfil y me muestra un mensaje de confirmación. Escenario 02: Error en la actualización del perfil. Dado que soy un usuario que intenta actualizar mi perfil, Cuando ingreso datos inválidos, como un correo incorrecto, Entonces el sistema muestra un mensaje de error y me indica qué campo debe corregirse. | EP03 |
+| US08 | Guardar profesionales como favoritos | Como usuario, quiero poder guardar profesionales como favoritos, para acceder fácilmente a sus perfiles en futuras búsquedas sin tener que encontrarlos nuevamente. | Escenario 1: Agregar profesional a favoritos. Dado que estoy viendo el perfil de un consultor, Cuando hago clic en el ícono de “favorito”, Entonces el profesional se añade a mi lista de favoritos y recibo una confirmación. Escenario 2: Visualización de lista de favoritos. Dado que he marcado varios profesionales como favoritos, Cuando accedo a la sección “Favoritos” desde mi perfil, Entonces puedo ver una lista con sus nombres, especialidades y accesos directos a sus perfiles. Escenario 3: Eliminar profesional de favoritos. Dado que ya no quiero mantener a un profesional en mi lista, Cuando hago clic en el ícono de “eliminar de favoritos”, Entonces este desaparece de mi lista y el sistema me muestra un mensaje de confirmación. | EP03 |
+| EP04 | Gestión de Sesiones y Seguimiento | Optimizar la experiencia de los usuarios y consultores antes, durante y después de las sesiones. |  |  |
+| US09 | Realizar reserva de sesión | Como usuario. Quiero poder reservar una sesión con un profesional. Para asegurarme de contar con su tiempo disponible para recibir asesoría. | Escenario 01: Reserva exitosa. Dado que soy un usuario que desea agendar una sesión. Cuando selecciono un profesional, fecha y hora disponible. Entonces el sistema confirma la reserva y me envía una notificación. Escenario 02: Fallo en la reserva. Dado que intento reservar un horario que ya no está disponible. Cuando elijo esa fecha y hora. Entonces el sistema muestra un mensaje de error y me sugiere otros horarios disponibles. | EP04 |
+| US010 | Agendar seguimiento post-sesión | Como usuario, quiero poder agendar una sesión de seguimiento con el mismo consultor, para continuar con el proceso de asesoría. | Escenario 1: Agendamiento desde historial Dado que he finalizado una sesión con un consultor, Cuando accedo al historial y selecciono “Agendar seguimiento”, Entonces puedo elegir fecha y hora y confirmar la nueva sesión. Escenario 2: Confirmación automática Dado que seleccioné un horario disponible, Cuando envío la solicitud de seguimiento, Entonces el sistema envía una notificación al consultor y confirma la cita. | EP04 |
+| US011 | Tomar notas durante la sesión | Como consultor, quiero tener una sección para tomar notas durante la sesión, para guardar observaciones relevantes del cliente. | Escenario 1: Acceso al bloc de notas Dado que estoy en una sesión activa, Cuando accedo al bloc de notas desde mi panel, Entonces puedo escribir y guardar comentarios privados. Escenario 2: Guardado automático Dado que estoy escribiendo notas durante la sesión, Cuando cierro el panel de notas, Entonces el sistema guarda automáticamente el contenido. | EP04 |
+| US012 | Enviar recomendaciones tras sesión | Como consultor, quiero poder enviar al usuario una lista de recomendaciones o materiales luego de la sesión, para complementar la asesoría. | Escenario 1: Envío de materiales Dado que terminé una sesión con un cliente, Cuando selecciono la opción “Enviar recomendaciones”, Entonces puedo adjuntar archivos o escribir sugerencias y enviarlas. Escenario 2: Visualización por el usuario Dado que el consultor me envió recomendaciones, Cuando abro la sesión desde el historial, Entonces puedo ver los materiales recibidos. | EP04 |
+| US013 | Ver historial de sesiones | Como usuario. Quiero poder ver un historial de mis sesiones pasadas. Para poder revisar la información de las sesiones anteriores y hacer un seguimiento de mi progreso. | Escenario 01: Visualización del historial de sesiones. Dado que soy un usuario que ha tenido sesiones anteriores, Cuando accedo a la sección de historial de sesiones, Entonces puedo ver la lista de todas las sesiones pasadas, con fecha, profesional y detalles. Escenario 02: Visualización de detalles de una sesión. Dado que estoy viendo el historial de mis sesiones, Cuando hago clic en una sesión específica, Entonces puedo ver los detalles completos, incluyendo notas o recomendaciones proporcionadas por el profesional. | EP04 |
+| US014 | Calificar seguimiento de sesión | Como usuario, quiero poder calificar las sesiones de seguimiento por separado, para evaluar la mejora continua del servicio recibido. | Escenario 1: Opción disponible tras sesión de seguimiento Dado que acabo de completar una sesión de seguimiento, Cuando reviso el historial de esa sesión, Entonces veo la opción de dejar una calificación específica para ella. Escenario 2: Publicación del comentario Dado que escribí una calificación y comentario, Cuando hago clic en “Enviar”, Entonces el sistema guarda y publica la valoración en el perfil del consultor.  | EP04 |
+| US015 | Cancelar reserva de sesión | Como usuario. Quiero poder cancelar una reserva de sesión. Para poder modificar mis planes si surge un imprevisto. | Escenario 01: Cancelación exitosa. Dado que tengo una sesión programada y deseo cancelarla, Cuando accedo a la opción de cancelación en mi perfil y confirmó la cancelación, Entonces el sistema cancela la sesión y me envía una notificación confirmando la cancelación. Escenario 02: Error al intentar cancelar. Dado que intento cancelar una sesión programada en un horario muy cercano, Cuando intento cancelarla, Entonces el sistema muestra un mensaje de advertencia o bloqueo de la opción de cancelación. | EP04 |
+| EP05 | Marketing y Crecimiento Profesional | Aumentar la visibilidad de los consultores y facilitar la adquisición de nuevos clientes. |  |  |
+| US016 | Publicar testimonios destacados | Como consultor, quiero mostrar testimonios positivos de mis clientes en mi perfil, para generar mayor confianza en nuevos usuarios. | Escenario 1: Selección de testimonios Dado que tengo varias calificaciones positivas, Cuando marco una como “destacada”, Entonces aparece resaltada en la parte superior de mi perfil. Escenario 2: Eliminación de un testimonio destacado Dado que quiero cambiar un testimonio, Cuando desmarco el actual, Entonces este ya no se muestra como destacado en mi perfil. | EP05 |
+| US017 | Crear campañas promocionales | Como consultor, quiero poder crear promociones temporales (descuentos o asesorías grupales), para atraer más clientes. | Escenario 1: Creación de descuento Dado que quiero lanzar una promoción, Cuando configuro una campaña con nombre, fecha y porcentaje de descuento, Entonces la promoción queda activa y visible en mi perfil. Escenario 2: Finalización automática de la campaña Dado que la campaña ya terminó, Cuando se alcanza la fecha de fin, Entonces la promoción se desactiva automáticamente. | EP05 |
+| US018 | Ver estadísticas de perfil | Como consultor, quiero ver métricas sobre cuántas personas vieron mi perfil, reservaron sesiones o dejaron calificaciones, para medir mi rendimiento. | Escenario 1: Visualización de métricas básicas Dado que accedo a la sección de estadísticas, Cuando ingreso a mi panel de consultor, Entonces puedo ver visitas al perfil, reservas y calificaciones recientes. Escenario 2: Filtros por fecha Dado que quiero analizar mi rendimiento, Cuando selecciono un rango de fechas, Entonces el sistema me muestra los datos correspondientes al período elegido. | EP05 |
+| US019 | Gestionar campañas de referidos | Como consultor, quiero invitar a otros consultores o clientes a la plataforma mediante un sistema de referidos, para obtener beneficios por cada nuevo registro. | Escenario 1: Generación de enlace de referido Dado que quiero invitar a nuevos usuarios, Cuando accedo a la sección de referidos, Entonces el sistema genera un enlace único para compartir. Escenario 2: Registro exitoso de un referido Dado que alguien se registra usando mi enlace, Cuando completa el registro, Entonces recibo una notificación y posibles recompensas por el referido. | EP05 |
+| US020 | Optimizar visibilidad en buscador | Como consultor, quiero personalizar palabras clave para aparecer más fácilmente en los resultados de búsqueda dentro de la plataforma. | Escenario 1: Edición de palabras clave del perfil Dado que deseo mejorar mi visibilidad, Cuando edito mi perfil y agrego palabras clave relevantes, Entonces mi perfil se ajusta a los criterios del buscador interno. Escenario 2: Aumento de visibilidad tras actualización Dado que añadí nuevas palabras clave, Cuando un usuario busca términos relacionados, Entonces mi perfil aparece mejor posicionado en los resultados. | EP05 |
+
+| ID    | Título                                | Descripción                                                                 | Criterios de Aceptación |
+|-------|----------------------------------------|-----------------------------------------------------------------------------|--------------------------|
+| TS101 | Registro de profesionales              | Registro de consultores para que ofrezcan sus servicios.                    | Registro exitoso (POST con datos válidos), errores por datos inválidos. |
+| TS102 | Registro de clientes                   | Registro de clientes para acceder y agendar sesiones.                       | Registro exitoso, error por email duplicado. |
+| TS201 | Filtros de búsqueda de profesionales   | Filtrar consultores por disponibilidad, especialidad y calificación.        | Filtro por fecha, especialidad. |
+| TS202 | Notificaciones de disponibilidad       | Notificar a usuarios cuando un consultor actualiza disponibilidad.          | Notificación push/email, acceso desde notificación. |
+| TS301 | Visualización de perfil profesional    | Consultar datos completos de un perfil profesional.                         | GET perfil retorna nombre, experiencia, calificación, etc. |
+| TS302 | Calificación de profesionales          | Permitir calificar y comentar luego de una sesión.                          | POST calificación, GET reviews y promedio. |
+| TS303 | Actualización de perfil de usuario     | Editar información personal del usuario.                                    | PUT datos válidos se guarda, datos inválidos retornan error. |
+| TS304 | Favoritos de profesionales             | Guardar consultores como favoritos.                                         | POST y GET de favoritos por usuario. |
+| TS401 | Agenda de disponibilidad               | Configurar y actualizar disponibilidad de consultores.                      | POST crea slots, PUT actualiza y notifica cambios. |
+| TS402 | Agendamiento de sesiones               | Permitir a clientes agendar sesiones.                                       | POST válida crea sesión, error si horario no disponible. |
+| TS403 | Confirmación de sesiones               | Aceptar o rechazar sesiones por parte del consultor.                        | PUT confirma o rechaza, notifica al cliente. |
+| TS404 | Seguimiento post-sesión                | Registrar notas y tareas luego de sesiones.                                | POST notas de seguimiento, GET historial de seguimiento. |
+| TS501 | Destacar profesionales recomendados    | Mostrar perfiles destacados para aumentar visibilidad.                      | GET recomendados dinámico según lógica de negocio. |
+| TS502 | SEO para consultores                   | URLs amigables y metadatos para redes sociales.                             | URLs legibles y preview con metadata. |
+
 
 ## 3.3. Impact Mapping
 
@@ -912,48 +759,23 @@ Impact map de nuestros segmentos objetivos:
 
 Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
-<table>
-    <thead>
-        <tr>
-            <th>Epic / Story ID</th>
-            <th>Título</th>
-            <th>Descripción</th>
-            <th>Story Points (1/2/3/5/8)</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>HU01</td>
-            <td>Registrar un profesional</td>
-            <td>Como profesional, quiero poder registrarme fácilmente en la plataforma como consultor, para ofrecer mis servicios y gestionar mis horarios.</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>HU02</td>
-            <td>Buscar profesionales disponibles</td>
-            <td>Como usuario, quiero poder buscar y filtrar profesionales según mi necesidad, para encontrar al experto adecuado y reservar una sesión.</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>HU03</td>
-            <td>Ver detalles del profesional</td>
-            <td>Como usuario, quiero ver el perfil completo de un profesional para conocer su experiencia, especialidades, tarifas y disponibilidad.</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>HU04</td>
-            <td>Registrar un usuario</td>
-            <td>Como persona que busca asesoría profesional, quiero registrarme fácilmente para acceder al listado de consultores y agendar sesiones.</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>HU05</td>
-            <td>Calificar a un profesional</td>
-            <td>Como usuario, quiero calificar y dejar un comentario sobre un profesional para compartir mi experiencia y aportar a su reputación.</td>
-            <td>3</td>
-        </tr>
-    </tbody>
-</table>
+| Story ID | Título                             | Descripción                                                                 | Story Points |
+|----------|------------------------------------|-----------------------------------------------------------------------------|--------------|
+| TS101    | Registro de profesionales          | Registro de consultores para que ofrezcan sus servicios.                    | 3            |
+| TS102    | Registro de clientes               | Registro de clientes para acceder y agendar sesiones.                       | 2            |
+| TS201    | Filtros de búsqueda de profesionales| Filtrar consultores por disponibilidad, especialidad y calificación.        | 5            |
+| TS202    | Notificaciones de disponibilidad   | Notificar a usuarios cuando un consultor actualiza disponibilidad.          | 3            |
+| TS301    | Visualización de perfil profesional| Consultar datos completos de un perfil profesional.                         | 2            |
+| TS302    | Calificación de profesionales      | Permitir calificar y comentar luego de una sesión.                          | 3            |
+| TS303    | Actualización de perfil de usuario | Editar información personal del usuario.                                    | 2            |
+| TS304    | Favoritos de profesionales         | Guardar consultores como favoritos.                                         | 3            |
+| TS401    | Agenda de disponibilidad           | Configurar y actualizar disponibilidad de consultores.                      | 5            |
+| TS402    | Agendamiento de sesiones           | Permitir a clientes agendar sesiones.                                       | 5            |
+| TS403    | Confirmación de sesiones           | Aceptar o rechazar sesiones por parte del consultor.                        | 3            |
+| TS404    | Seguimiento post-sesión            | Registrar notas y tareas luego de sesiones.                                | 3            |
+| TS501    | Destacar profesionales recomendados| Mostrar perfiles destacados para aumentar visibilidad.                      | 2            |
+| TS502    | SEO para consultores               | URLs amigables y metadatos para redes sociales.                             | 3            |
+
 
 <div style="page-break-after: always;"></div>
 
