@@ -38,7 +38,7 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-------: | :---------: | :----------------: | :----------------------:|
-|TB1||-|Se añadió los capítulos 1 al 5|
+|TB1|24/04/25|Todos|Se añadió los capítulos 1 al 5|
 
 # Project Report Collaboration Insights
 
