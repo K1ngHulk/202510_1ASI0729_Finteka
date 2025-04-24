@@ -874,6 +874,14 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 
 
 ### 4.2.3. SEO Tags and Meta Tags
+<title>Finteka | Conecta con Expertos en Asesoría Profesional</title>
+<meta name="description" content="Encuentra consultores verificados en derecho, finanzas, salud mental y más. Reserva, paga y recibe asesoría personalizada desde cualquier lugar.">
+<meta name="keywords" content="asesoría, consultoría online, expertos, derecho, finanzas, salud mental, reservar asesoría, Finteka">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Finteka - Asesoría profesional en un clic">
+<meta property="og:description" content="La plataforma todo-en-uno para encontrar expertos, reservar sesiones y recibir orientación profesional.">
+<meta property="og:image" content="https://finteka.com/og-image.jpg">
+<meta property="og:url" content="https://finteka.com">
 
 ### 4.2.4. Searching Systems
 A continuación, se mostrarán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la asesoría personalizada que están buscando.
