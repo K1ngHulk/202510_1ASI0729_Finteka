@@ -1177,6 +1177,8 @@ User Goal: Poder valorar el profesional seleccionado
 
 ### 4.6.3. Software Architecture Components Diagrams
 
+<img src="./img/componentes.png" width="600" height="600">
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ![diagrama de clases finteka](https://github.com/user-attachments/assets/76e9abdb-6b78-4305-9b60-52ceee1f2817)
