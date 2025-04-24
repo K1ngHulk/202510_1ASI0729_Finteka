@@ -1288,6 +1288,35 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
+Conclusiones:
+
+Innovación y diferenciación: Nova Asesores se posiciona como una solución innovadora al conectar expertos con usuarios de manera eficiente, segura y confiable. Su enfoque en la verificación rigurosa de expertos y la personalización de los servicios la hace única frente a la competencia.
+
+Alta demanda y oportunidad de mercado: Existe un crecimiento notable en la demanda de asesorías remotas, especialmente tras la pandemia. La plataforma tiene un gran potencial para convertirse en un recurso esencial para la toma de decisiones tanto personales como empresariales.
+
+Beneficios para usuarios y consultores: Los usuarios obtienen acceso ágil a expertos calificados, mientras que los consultores pueden gestionar y escalar sus servicios profesionalmente, aumentando su visibilidad e ingresos.
+
+Diseño centrado en el usuario: La interfaz amigable, herramientas de búsqueda avanzada y filtros intuitivos mejoran la experiencia del usuario, optimizando su interacción con la plataforma.
+
+Retos identificados: Construir una base sólida de usuarios iniciales y competir con plataformas consolidadas son los principales desafíos que enfrenta Nova Asesores.
+
+Sostenibilidad y proyección: El modelo de negocio basado en comisiones y suscripciones es viable y cuenta con características que promueven la retención de usuarios, como valoraciones públicas y seguimiento post-sesión.
+
+Recomendaciones:
+
+Estrategia de marketing digital: Implementar campañas que resalten la seguridad, confianza y facilidad de uso de la plataforma, con contenido educativo y promociones que atraigan a los usuarios objetivo.
+
+Fidelización de usuarios: Diseñar un sistema de recompensas, descuentos o modelos freemium para incentivar la repetición de uso y captar nuevos clientes.
+
+Mejorar la experiencia del usuario: Simplificar aún más la navegación y añadir funciones como tutoriales interactivos y notificaciones personalizadas para guiar al usuario durante todo el proceso.
+
+Alianzas estratégicas: Colaborar con instituciones profesionales, cámaras de comercio y universidades para ampliar la base de usuarios y fortalecer la confianza en la plataforma.
+
+Expansión sectorial y geográfica: Explorar nuevos mercados y añadir categorías de asesoría menos cubiertas por la competencia, como sostenibilidad e inteligencia artificial.
+
+Monitoreo y mejora continua: Evaluar constantemente métricas clave y ajustar las funcionalidades basándose en el feedback de los usuarios para garantizar que la plataforma siga siendo relevante y competitiva.
+
+
 ### Video About-the-Team
 
 ## Bibliografía
