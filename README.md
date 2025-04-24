@@ -1177,7 +1177,7 @@ User Goal: Poder valorar el profesional seleccionado
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-<img src="./img/componentes.png" width="600" height="600">
+<img src="./img/componentes.png" width="900" height="600">
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
