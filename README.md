@@ -1480,3 +1480,7 @@ Monitoreo y mejora continua: Evaluar constantemente métricas clave y ajustar la
 - Simpson, K. (2015). *You Don’t Know JS: ES6 & Beyond*. O'Reilly Media. [Disponible aquí](https://www.oreilly.com/library/view/you-dont-know/9781491905241/)
 
 ## Anexos
+
+- Impact Mapping: [Disponible aquí](https://miro.com/app/board/uXjVIFzfVes=/?share_link_id=918091555760)
+- Web Applications Wireframes [Disponible aquí](https://www.figma.com/design/3qhQohmZ9HITfayBaVMYxz/Device-Mockups-Library--100--devices----Community-?node-id=142-5&t=Ytq4jJfQ4IYo4nVj-1)
+- 
