@@ -1483,4 +1483,5 @@ Monitoreo y mejora continua: Evaluar constantemente métricas clave y ajustar la
 
 - Impact Mapping: [Disponible aquí](https://miro.com/app/board/uXjVIFzfVes=/?share_link_id=918091555760)
 - Web Applications Wireframes [Disponible aquí](https://www.figma.com/design/3qhQohmZ9HITfayBaVMYxz/Device-Mockups-Library--100--devices----Community-?node-id=142-5&t=Ytq4jJfQ4IYo4nVj-1)
-- 
+- Link Landing Page: [Disponible aquí](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka)
+- Miro del Canva: [Disponible aquí](https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxvVFJuaElPR3JwWFNUU0hPODNkSHhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=236710430542)
