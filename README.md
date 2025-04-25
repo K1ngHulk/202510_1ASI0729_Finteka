@@ -1335,65 +1335,65 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
   </tr>
 
   <tr>
-    <td rowspan="2">TS901</td>
-    <td rowspan="2">Landing responsiva y adaptable</td>
+    <td rowspan="2">HU15</td>
+    <td rowspan="2">Visualizar página informativa</td>
     <td>T01</td>
-    <td>Estructura de la landing</td>
-    <td>Programar el landing page comenzando por el HTML</td>
+    <td>Maquetación HTML inicial</td>
+    <td>Diseñar la estructura base de la página informativa</td>
     <td>4</td>
-    <td>Daiki Oshiro</td>
-    <td>-</td>
+    <td>Javier Murillo, Mathias</td>
+    <td>U202022211</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
-    <td>Agregar CSS styles</td>
-    <td>Asignar estilos generales para la página</td>
+    <td>Estilización general</td>
+    <td>Aplicar estilos CSS básicos a toda la landing page</td>
     <td>4</td>
-    <td>Mathias Javier</td>
-    <td>-</td>
+    <td>Oshiro Yamashita, Daiki Oscar</td>
+    <td>U20201F846</td>
     <td>Done</td>
   </tr>
 
   <tr>
-    <td rowspan="2">TS902</td>
-    <td rowspan="2">Navbar en landing</td>
-    <td>T03</td>
-    <td>Estructura Navbar</td>
-    <td>Crear HTML del navbar con direccionamiento a secciones</td>
+    <td rowspan="2">HU17</td>
+    <td rowspan="2">Landing Page intuitiva</td>
+    <td>T10</td>
+    <td>Diseño de navegación</td>
+    <td>Crear menú de navegación con enlaces funcionales</td>
     <td>4</td>
-    <td>Aaron Cruz</td>
-    <td>-</td>
+    <td>Aguirre Castillo, Sergio Cesar</td>
+    <td>U202310425</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>T04</td>
-    <td>Estilos Navbar</td>
-    <td>Asignar estilos al navbar</td>
+    <td>T11</td>
+    <td>Personalización del Navbar</td>
+    <td>Estilizar el menú con identidad visual adecuada</td>
     <td>4</td>
-    <td>Sergio Aguirre</td>
-    <td>-</td>
+    <td>Russell Stephen Romero Qwistgaard</td>
+    <td>U202211043</td>
     <td>Done</td>
   </tr>
 
   <tr>
-    <td rowspan="2">TS903</td>
-    <td rowspan="2">Landing responsiva</td>
-    <td>T05</td>
-    <td>Main responsive</td>
-    <td>Agregar CSS media queries a las diferentes secciones del main</td>
+    <td rowspan="2">HU18</td>
+    <td rowspan="2">Landing Page responsiva</td>
+    <td>T12</td>
+    <td>Adaptar contenido principal</td>
+    <td>Incluir media queries para responsividad en el contenido</td>
     <td>4</td>
-    <td>Luis Montañez</td>
-    <td>-</td>
+    <td>Luis Angel Montañez Moreno</td>
+    <td>U202223811</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>T06</td>
-    <td>Navbar responsive</td>
-    <td>Agregar CSS media queries al navbar</td>
+    <td>T13</td>
+    <td>Navbar adaptable</td>
+    <td>Hacer el menú de navegación compatible con dispositivos móviles</td>
     <td>4</td>
-    <td>Russell Romero</td>
-    <td>-</td>
+    <td>Javier Murillo, Mathias</td>
+    <td>U202022211</td>
     <td>Done</td>
   </tr>
 </table>
