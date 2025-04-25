@@ -1406,11 +1406,89 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
   </tr>
 </table>
 
-#### 5.2.1.4. Development Evidence for Sprint Review
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+En el presente sprint se logró desarrollar la primera versión del Landing Page para nuestra plataforma, la información presentada en la página busca retratar el objetivo que tenemos como aplicación, así como las necesidades que buscamos satisfacer con los usuarios, tomando en cuenta que esta sea clara y sea acompañada con assets que complementan la información. Además, tomamos en cuenta el diseño que se ha elegido para que sea atractivo para nuestros usuarios.
+
+[Link del repositorio](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka)
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Durante este sprint, se realizaron varias pruebas para asegurar que las funcionalidades de la landing page se implementaran correctamente. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| 202510\_1ASI0729\_LandingPage\_Finteka | Main | 3c7c42f3926b77d099ea51784c4c412151ea20b3 | Create index.html | Se creó el index | 24/04/2025 |
+| 202510\_1ASI0729\_LandingPage\_Finteka | Main | e557e4146d654c0c3b0acd70546c7713f5dab8a0 | feat: added Section Home | Se creó la sección de home en index | 24/04/2025 |
+| 202510\_1ASI0729\_LandingPage\_Finteka  | Main | 3dab5dfa3e2e307aa4e9f5809175d1f8417b1957 | feat: added assets carpet | Se añade la carpeta assets | 24/04/2025 |
+| 202510\_1ASI0729\_LandingPage\_Finteka | Main | 80d023ba63949cc19777c3e192da4a84caf97e72 | feat: added css carpet | Se añade la carpeta css | 24/04/2025 |
+| 202510\_1ASI0729\_LandingPage\_Finteka | Main | 5b06e21d6e602ab8d21523a84966b0cda5e62ecb | feat: added javascript carpet | Se añade la carpeta javascript | 24/04/2025 |
+| 202510\_1ASI0729\_LandingPage\_Finteka | Main | 6b71c13fa29cb696a8b12a4199c7f0c65a305ede | feat: added scripts | se añaden los scripts | 24/04/2025 |
+
+[Link del repositorio Commints](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka/commits)
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante el primer sprint, se lograron varios hitos importantes en el desarrollo de la landing page para Finteka. A continuación, se presenta un resumen de los logros alcanzados:
+
+* Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
+
+![][image1]
+
+* Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.  
+  * ![][image2]  
+* Imágenes del Landing Page:  
+  * Inicio: ![][image3]  
+  * Sección Nosotros: ![][image4]  
+  * Conocer más sobre el proyecto:   
+  * Planes de subscripción: ![][image5]  
+  * Sección de Cambio de Idioma: ![][image6]
+
+Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
+
+#### 5.2.1.6. Software Deployment Evidence for Sprint Review
+
+Durante este Sprint, se realizaron las siguientes actividades en relación con el despliegue de los productos del proyecto, incluyendo la Landing Page y otras aplicaciones web.
+
+##### Introducción
+
+Durante este Sprint, se llevaron a cabo las siguientes actividades clave relacionadas con el despliegue:
+
+1. Creación de Repositorios y Configuración en GitHub:  
+   * Se crearon repositorios en GitHub para gestionar el código fuente y el seguimiento de cambios. Estos repositorios incluyeron la Landing Page y otros componentes del proyecto.  
+   * Se configuraron los repositorios para permitir el despliegue de la Landing Page.  
+2. Configuración del Proceso de Despliegue:  
+   * GitHub Pages: Se configuró GitHub Pages para el despliegue de la Landing Page. Este servicio proporciona una manera sencilla de alojar el sitio web directamente desde un repositorio de GitHub.
+
+##### Proceso de Despliegue
+
+A continuación se detallan los pasos realizados durante el Sprint para el despliegue:
+
+1. Despliegue en GitHub Pages:  
+   * Se subió el código de la Landing Page al repositorio en GitHub.  
+   * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.  
+2. ![][image7]  
+3. Verificación del Despliegue:  
+   * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
+   * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.  
+4. ![][image8]
+
+El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
+
+Evidencia del despliegue: https://k1nghulk.github.io/202510\_1ASI0729\_LandingPage\_Finteka/
+
+#### 5.2.1.7. Team Collaboration Insights during Sprint
+
+Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos en el diseño y programación en la implementación de la Landing Page de Finteka. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.  
+Actividades de Implementación El equipo ha dividido las tareas de implementación de la Landing Page en varias actividades clave, asegurando que todos los miembros del equipo participen activamente en el desarrollo. Las actividades incluyen:
+
+* Diseño y maquetación de la Landing Page.  
+* Implementación de secciones clave como el encabezado, pie de página, y contenido principal.  
+* Pruebas y ajustes finales para asegurar la calidad del producto. Analíticos de Colaboración A continuación, se presentan capturas de pantalla de los analíticos de colaboración en GitHub, mostrando la participación de cada miembro del equipo en términos de commits y contribuciones.
+
+Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Landing Page  
+![][image9] ![][image10] ![][image11] ![][image12] ![][image13] ![][image14]  
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
