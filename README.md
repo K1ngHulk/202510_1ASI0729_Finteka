@@ -1341,7 +1341,7 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
     <td>Estructura de la landing</td>
     <td>Programar el landing page comenzando por el HTML</td>
     <td>4</td>
-    <td>Aaron Cruz</td>
+    <td>Daiki Oshiro</td>
     <td>-</td>
     <td>Done</td>
   </tr>
@@ -1350,7 +1350,7 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
     <td>Agregar CSS styles</td>
     <td>Asignar estilos generales para la página</td>
     <td>4</td>
-    <td>Aaron Cruz</td>
+    <td>Mathias Javier</td>
     <td>-</td>
     <td>Done</td>
   </tr>
@@ -1371,7 +1371,7 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
     <td>Estilos Navbar</td>
     <td>Asignar estilos al navbar</td>
     <td>4</td>
-    <td>Aaron Cruz</td>
+    <td>Sergio Aguirre</td>
     <td>-</td>
     <td>Done</td>
   </tr>
@@ -1383,7 +1383,7 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
     <td>Main responsive</td>
     <td>Agregar CSS media queries a las diferentes secciones del main</td>
     <td>4</td>
-    <td>Aaron Cruz</td>
+    <td>Luis Montañez</td>
     <td>-</td>
     <td>Done</td>
   </tr>
@@ -1392,7 +1392,7 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
     <td>Navbar responsive</td>
     <td>Agregar CSS media queries al navbar</td>
     <td>4</td>
-    <td>Aaron Cruz</td>
+    <td>Russell Romero</td>
     <td>-</td>
     <td>Done</td>
   </tr>
