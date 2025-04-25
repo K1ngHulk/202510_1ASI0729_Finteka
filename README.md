@@ -1308,6 +1308,14 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
+| Team Member                       | GitHub Username | UI/UX (Name 1) | Frontend (Name 2) | Backend (Name 3) | Testing (Name 4) | Documentación (Name 5) |
+|----------------------------------|------------------|----------------|-------------------|------------------|------------------|-------------------------|
+| Javier Murillo Mathias           | K1ngHulk         | L              | C                 | C                | C                | C                       |
+| Daiki Oscar Oshiro Yamashita     | DaikiOY          | C              | C                 | L                | C                | C                       |
+| Sergio Cesar Aguirre Castillo    | Aguirrat157      | C              | C                 | C                | L                | C                       |
+| Russell Stephen Romero Qwistgaard| RussellUPC       | C              | C                 | C                | C                | L                       |
+| Luis Angel Montañez Moreno       | Luiso-AM         | C              | L                 | C                | C                | C                       |
+
 
 #### 5.2.1.3. Sprint Backlog 1
 
