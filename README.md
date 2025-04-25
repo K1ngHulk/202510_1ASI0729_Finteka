@@ -1200,6 +1200,10 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
 
 ### 5.2.1 Sprint 1
 
+
+
+#### 5.2.1.1 Sprint planning 1
+
 <table align="center" border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td>
@@ -1302,10 +1306,110 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
     </tr>
 </table>
 
-
-#### 5.2.1.1 Sprint planning 1
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+
 #### 5.2.1.3. Sprint Backlog 1
+
+<br>
+
+<table align="center" border="1" width="95%" style="text-align:center">
+  <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 1</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation (Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status</b></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">TS101</td>
+    <td rowspan="2">Registro de profesionales</td>
+    <td>TS01</td>
+    <td>Diseño formulario</td>
+    <td>Crear diseño del formulario de registro para consultores</td>
+    <td>3</td>
+    <td>Javier Murillo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Funcionalidad backend</td>
+    <td>Guardar datos del consultor en la base de datos</td>
+    <td>4</td>
+    <td>Russell Romero</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">TS102</td>
+    <td rowspan="2">Registro de clientes</td>
+    <td>T03</td>
+    <td>Formulario de cliente</td>
+    <td>Diseñar e implementar formulario de registro de clientes</td>
+    <td>3</td>
+    <td>Daiki Oshiro</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Validación de datos</td>
+    <td>Agregar validaciones en frontend y backend</td>
+    <td>2</td>
+    <td>Mathias</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">TS201</td>
+    <td rowspan="2">Filtros de búsqueda de profesionales</td>
+    <td>T05</td>
+    <td>Filtro por especialidad</td>
+    <td>Implementar filtro por tipo de especialidad del consultor</td>
+    <td>3</td>
+    <td>Sergio Aguirre</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS06</td>
+    <td>Filtro por disponibilidad</td>
+    <td>Permitir buscar por horarios disponibles</td>
+    <td>4</td>
+    <td>Luis Montañez</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>TS07</td>
+    <td>Media queries generales</td>
+    <td>Aplicar diseño responsivo para dispositivos móviles</td>
+    <td>4</td>
+    <td>Sergio Aguirre</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>TS08</td>
+    <td>Pruebas en móviles</td>
+    <td>Verificar visualización y navegación en distintos dispositivos</td>
+    <td>2</td>
+    <td>Luis Montañez</td>
+    <td>Done</td>
+  </tr>
+
+</table>
+
 #### 5.2.1.4. Development Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
