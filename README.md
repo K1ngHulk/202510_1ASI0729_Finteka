@@ -1389,25 +1389,6 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
     <td>Luis Montañez</td>
     <td>Done</td>
   </tr>
-
-  <tr>
-    <td>TS07</td>
-    <td>Media queries generales</td>
-    <td>Aplicar diseño responsivo para dispositivos móviles</td>
-    <td>4</td>
-    <td>Sergio Aguirre</td>
-    <td>Done</td>
-  </tr>
-
-  <tr>
-    <td>TS08</td>
-    <td>Pruebas en móviles</td>
-    <td>Verificar visualización y navegación en distintos dispositivos</td>
-    <td>2</td>
-    <td>Luis Montañez</td>
-    <td>Done</td>
-  </tr>
-
 </table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review
