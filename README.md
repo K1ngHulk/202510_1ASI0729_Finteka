@@ -1316,11 +1316,11 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
 <table align="center" border="1" width="95%" style="text-align:center">
   <tr>
     <td colspan="1"><b>Sprint #</b></td>
-    <td colspan="7"><b>Sprint 1</b></td>
+    <td colspan="8"><b>Sprint 1</b></td>
   </tr>
   <tr>
     <td colspan="2"><b>User Story</b></td>
-    <td colspan="6"><b>Work-Item / Task</b></td>
+    <td colspan="7"><b>Work-Item / Task</b></td>
   </tr>
   <tr>
     <td><b>Id</b></td>
@@ -1330,63 +1330,70 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
     <td><b>Description</b></td>
     <td><b>Estimation (Hours)</b></td>
     <td><b>Assigned To</b></td>
+    <td><b>Student Code</b></td>
     <td><b>Status</b></td>
   </tr>
 
   <tr>
-    <td rowspan="2">TS101</td>
-    <td rowspan="2">Registro de profesionales</td>
-    <td>TS01</td>
-    <td>Diseño formulario</td>
-    <td>Crear diseño del formulario de registro para consultores</td>
-    <td>3</td>
-    <td>Javier Murillo</td>
+    <td rowspan="2">TS901</td>
+    <td rowspan="2">Landing responsiva y adaptable</td>
+    <td>T01</td>
+    <td>Estructura de la landing</td>
+    <td>Programar el landing page comenzando por el HTML</td>
+    <td>4</td>
+    <td>Aaron Cruz</td>
+    <td>-</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>TS02</td>
-    <td>Funcionalidad backend</td>
-    <td>Guardar datos del consultor en la base de datos</td>
+    <td>T02</td>
+    <td>Agregar CSS styles</td>
+    <td>Asignar estilos generales para la página</td>
     <td>4</td>
-    <td>Russell Romero</td>
+    <td>Aaron Cruz</td>
+    <td>-</td>
     <td>Done</td>
   </tr>
 
   <tr>
-    <td rowspan="2">TS102</td>
-    <td rowspan="2">Registro de clientes</td>
+    <td rowspan="2">TS902</td>
+    <td rowspan="2">Navbar en landing</td>
     <td>T03</td>
-    <td>Formulario de cliente</td>
-    <td>Diseñar e implementar formulario de registro de clientes</td>
-    <td>3</td>
-    <td>Daiki Oshiro</td>
+    <td>Estructura Navbar</td>
+    <td>Crear HTML del navbar con direccionamiento a secciones</td>
+    <td>4</td>
+    <td>Aaron Cruz</td>
+    <td>-</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>TS04</td>
-    <td>Validación de datos</td>
-    <td>Agregar validaciones en frontend y backend</td>
-    <td>2</td>
-    <td>Mathias</td>
+    <td>T04</td>
+    <td>Estilos Navbar</td>
+    <td>Asignar estilos al navbar</td>
+    <td>4</td>
+    <td>Aaron Cruz</td>
+    <td>-</td>
     <td>Done</td>
   </tr>
 
   <tr>
-    <td rowspan="2">TS201</td>
-    <td rowspan="2">Filtros de búsqueda de profesionales</td>
+    <td rowspan="2">TS903</td>
+    <td rowspan="2">Landing responsiva</td>
     <td>T05</td>
-    <td>Filtro por especialidad</td>
-    <td>Implementar filtro por tipo de especialidad del consultor</td>
-    <td>3</td>
-    <td>Sergio Aguirre</td>
+    <td>Main responsive</td>
+    <td>Agregar CSS media queries a las diferentes secciones del main</td>
+    <td>4</td>
+    <td>Aaron Cruz</td>
+    <td>-</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>TS06</td>
-    <td>Filtro por disponibilidad</td>
-    <td>Permitir buscar por horarios disponibles</td>
+    <td>T06</td>
+    <td>Navbar responsive</td>
+    <td>Agregar CSS media queries al navbar</td>
     <td>4</td>
-    <td>Luis Montañez</td>
+    <td>Aaron Cruz</td>
+    <td>-</td>
     <td>Done</td>
   </tr>
 </table>
