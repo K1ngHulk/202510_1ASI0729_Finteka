@@ -1433,16 +1433,16 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-![][image1]
+![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_1.png]
 
 * Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.  
-  * ![][image2]  
+  * ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_2.png]  
 * Imágenes del Landing Page:  
-  * Inicio: ![][image3]  
-  * Sección Nosotros: ![][image4]  
+  * Inicio: ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_2.png]  
+  * Sección Nosotros: ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_3.png]  
   * Conocer más sobre el proyecto:   
-  * Planes de subscripción: ![][image5]  
-  * Sección de Cambio de Idioma: ![][image6]
+  * Planes de subscripción: ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_4.png]  
+  * Sección de Cambio de Idioma: ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_5.png]
 
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
 
@@ -1467,11 +1467,11 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 1. Despliegue en GitHub Pages:  
    * Se subió el código de la Landing Page al repositorio en GitHub.  
    * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.  
-2. ![][image7]  
+2. ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_6.png]  
 3. Verificación del Despliegue:  
    * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
    * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.  
-4. ![][image8]
+4. ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_2.png]
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
 
@@ -1487,8 +1487,7 @@ Actividades de Implementación El equipo ha dividido las tareas de implementaci�
 * Pruebas y ajustes finales para asegurar la calidad del producto. Analíticos de Colaboración A continuación, se presentan capturas de pantalla de los analíticos de colaboración en GitHub, mostrando la participación de cada miembro del equipo en términos de commits y contribuciones.
 
 Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Landing Page  
-![][image9] ![][image10] ![][image11] ![][image12] ![][image13] ![][image14]  
-
+![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_7.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_8.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_9.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_10.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_11.png] 
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
@@ -1522,6 +1521,8 @@ Monitoreo y mejora continua: Evaluar constantemente métricas clave y ajustar la
 
 
 ### Video About-the-Team
+
+[Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EUg6WoJ7ROREgcGJ_JrZ-2cB9Es8mBlKXWiJdqw96yn73A?e=391fB2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Bibliografía
 
