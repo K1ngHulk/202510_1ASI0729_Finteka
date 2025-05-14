@@ -302,6 +302,7 @@ Creemos que si incorporamos funciones de seguimiento post-sesión y canales de c
 
 <img src="./img/Lean UX Canvas.jpg" width="900" height="900">
 [Link del Miro](https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxIdHVPSDJRbUZ5cHdYOTdTTExUQkFhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=632309792327)
+
 # 1.3. Segmentos Objetivo
 #### 1. Personas Naturales (usuario en búsqueda de asesoría profesional)
 - Jóvenes profesionales que requieren orientación en su carrera o emprendimientos.
@@ -324,7 +325,7 @@ En este capítulo se realizará el proceso de Análisis competitivo y Needfindin
 ### 2.1.1. Análisis Competitivo
 # Competitive Analysis Landscape
 | **¿Por qué llevar a cabo este análisis?** | ¿Nuestro servicio tiene lo necesario para poder salir adelante ante sus competidores más conocidos? |
-|                       | ![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/ad9b26e13b179463e0d321005b8025c388d42795/img/FinTeka.png)<br>**Nova Asesores (Tu Startup)** | ![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/ad9b26e13b179463e0d321005b8025c388d42795/img/clarityfm.png)<br>**Clarity.fm** | ![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/ad9b26e13b179463e0d321005b8025c388d42795/img/superpeer.png)<br>**Superpeer** | ![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/ad9b26e13b179463e0d321005b8025c388d42795/img/maven.jpg)<br>**Maven** |
+|                       | <img src="./img/FinTeka.png" width="100" height="100"><br>**Nova Asesores (Tu Startup)** | ![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/ad9b26e13b179463e0d321005b8025c388d42795/img/clarityfm.png)<br>**Clarity.fm** | ![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/ad9b26e13b179463e0d321005b8025c388d42795/img/superpeer.png)<br>**Superpeer** | ![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/ad9b26e13b179463e0d321005b8025c388d42795/img/maven.jpg)<br>**Maven** |
 |-----------------------|-----------------------------------------------------------|---------------------------------------------|-------------------------------------------|--------------------------------------|
 | **Perfil / Overview** | Plataforma que conecta expertos con usuarios para sesiones 1 a 1, pagos seguros, y perfiles verificados. Áreas: salud, tecnología, negocios y más. | Plataforma para contratar expertos para llamadas 1 a 1. Pago por minuto. Áreas: tecnología, marketing, negocios. | Videollamadas 1 a 1, eventos en vivo, suscripciones. Enfocado en creadores de contenido. | Cursos en vivo con expertos. Enfoque en aprendizaje colaborativo en temas técnicos y profesionales. |
 | **Ventaja Competitiva** | Facilidad de uso, verificación rigurosa, pagos seguros, interfaz elegante. Proceso intuitivo para agendar y pagar. | Comunidad de expertos consolidada. Modelo flexible de pago por minuto. Integración con redes como LinkedIn. | Monetización con suscripciones. Fuerte en branding personal y creación de comunidad. | Experiencia de aprendizaje estructurada en cohortes. Foco en formación continua. |
