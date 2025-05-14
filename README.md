@@ -39,7 +39,7 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-------: | :---------: | :----------------: | :----------------------:|
 |TB1|24/04/25|Todos|Se añadió los capítulos 1 al 5|
-
+|TP1|14/05/25|Todos|Se añadió todo el capítulo 5 de la 5.2.2 a la 5.2.2.8.|
 # Project Report Collaboration Insights
 
 <div style="page-break-after: always;"></div>
