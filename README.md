@@ -1539,7 +1539,7 @@ En el presente sprint se logró desarrollar la primera versión de la Web Applic
 
 [https://github.com/K1ngHulk/202510\_1ASI0729\_WebApplication\_Finteka](https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka)
 
-5.2.1.4. Testing Suite Evidence for Sprint Review  
+5.2.2.4. Testing Suite Evidence for Sprint Review  
 Durante este sprint, se realizaron diversas pruebas para asegurar que las funcionalidades de la Web Application se implementaran correctamente y funcionaran según lo esperado. A continuación, se detallan los commits relevantes que evidencian las validaciones y ajustes realizados durante el desarrollo.
 
 | Repository | Branch | Commit Id | Commit Message | Commit message Body | Commited on (Date) |
