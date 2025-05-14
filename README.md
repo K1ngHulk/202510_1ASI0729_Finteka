@@ -1455,16 +1455,16 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_1.png]
+<img src="./img/sprint1_evidence_1.png" width="900" height="600">
 
-* Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.  
-  * ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_2.png]  
+* Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
+  <img src="./img/sprint1_evidence_2.png" width="900" height="600">    
 * Imágenes del Landing Page:  
-  * Inicio: ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_2.png]  
-  * Sección Nosotros: ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_3.png]  
+  * Inicio:   <img src="./img/sprint1_evidence_2.png" width="900" height="600">
+  * Sección Nosotros: <img src="./img/sprint1_evidence_3.png" width="900" height="600">
   * Conocer más sobre el proyecto:   
-  * Planes de subscripción: ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_4.png]  
-  * Sección de Cambio de Idioma: ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_5.png]
+  * Planes de subscripción: <img src="./img/sprint1_evidence_4.png" width="900" height="600">
+  * Sección de Cambio de Idioma: <img src="./img/sprint1_evidence_5.png" width="900" height="600">
 
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
 
@@ -1489,11 +1489,11 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 1. Despliegue en GitHub Pages:  
    * Se subió el código de la Landing Page al repositorio en GitHub.  
    * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.  
-2. ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_6.png]  
+2. <img src="./img/sprint1_evidence_6.png" width="900" height="600">
 3. Verificación del Despliegue:  
    * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
    * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.  
-4. ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_2.png]
+4. <img src="./img/sprint1_evidence_2.png" width="900" height="600">
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
 
@@ -1508,8 +1508,17 @@ Actividades de Implementación El equipo ha dividido las tareas de implementaci�
 * Implementación de secciones clave como el encabezado, pie de página, y contenido principal.  
 * Pruebas y ajustes finales para asegurar la calidad del producto. Analíticos de Colaboración A continuación, se presentan capturas de pantalla de los analíticos de colaboración en GitHub, mostrando la participación de cada miembro del equipo en términos de commits y contribuciones.
 
-Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Landing Page  
-![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_7.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_8.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_9.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_10.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_11.png] 
+Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Landing Page:
+
+<img src="./img/sprint1_evidence_7.png" width="900" height="600">
+
+<img src="./img/sprint1_evidence_8.png" width="900" height="600">
+
+<img src="./img/sprint1_evidence_9.png" width="900" height="600">
+
+<img src="./img/sprint1_evidence_10.png" width="900" height="600">
+
+<img src="./img/sprint1_evidence_11.png" width="900" height="600">
 
 ### 5.2.2 Sprint 2
 
@@ -1541,17 +1550,102 @@ Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Land
 
 #### 5.2.2.3. Sprint Backlog 2
 
-| Sprint \# | Sprint 2 |  |  |  |  |  |  |  |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| User Story |  | Work Item / Task |  |  |  |  |  |  |
-| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Student Code | Status |
-| HU01 | Registrar un profesional | TS101 | Registro de profesionales | Registro de consultores para que ofrezcan sus servicios. | 4 | Javier Murillo Mathias | U202022211 | Done |
-| HU02 | Registrar un cliente | TS102 | Registro de clientes | Registro de clientes para acceder y agendar sesiones. | 4 | Javier Murillo Mathias | U202022211 | Done |
-| HU03 | Buscar profesionales disponibles | TS201 | Filtros de búsqueda de profesionales | Filtrar consultores por disponibilidad, especialidad y calificación. | 5 | Aguirre Castillo Sergio Cesar | U202310425 | Done |
-| H04 | Recibir notificaciones de disponibilidad de profesionales | TS202 | Notificaciones de disponibilidad | Notificar a los usuarios cuando un consultor actualiza disponibilidad. | 4 | Romero Qwistgaard Russel Stephen | U202211043 | Done |
-| H10 | Crear y gestionar servicios de profesional | TS401 | Agenda de disponibilidad | Configurar y actualizar la disponibilidad de consultores. | 6 | Oshiro Yamashita Daiki Oscar | U20201F846 | Done |
-|  |  | TS402 | Agendamiento de sesiones | Permitir a clientes agendar sesiones. | 5 | Oshiro Yamashita Daiki Oscar | U20201F846 | Done |
-|  |  | TS403 | Confirmación de sesiones | Aceptar o rechazar sesiones por parte del consultor. | 4 | Oshiro Yamashita Daiki Oscar | U20201F846 | Done |
+<table align="center" border="1" width="95%" style="text-align:center">
+  <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="8"><b>Sprint 2</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="7"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation (Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Student Code</b></td>
+    <td><b>Status</b></td>
+  </tr>
+
+  <tr>
+    <td>HU01</td>
+    <td>Registrar un profesional</td>
+    <td>TS101</td>
+    <td>Registro de profesionales</td>
+    <td>Registro de consultores para que ofrezcan sus servicios.</td>
+    <td>4</td>
+    <td>Javier Murillo Mathias</td>
+    <td>U202022211</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>HU02</td>
+    <td>Registrar un cliente</td>
+    <td>TS102</td>
+    <td>Registro de clientes</td>
+    <td>Registro de clientes para acceder y agendar sesiones.</td>
+    <td>4</td>
+    <td>Javier Murillo Mathias</td>
+    <td>U202022211</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>HU03</td>
+    <td>Buscar profesionales disponibles</td>
+    <td>TS201</td>
+    <td>Filtros de búsqueda de profesionales</td>
+    <td>Filtrar consultores por disponibilidad, especialidad y calificación.</td>
+    <td>5</td>
+    <td>Aguirre Castillo Sergio Cesar</td>
+    <td>U202310425</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>HU04</td>
+    <td>Recibir notificaciones de disponibilidad de profesionales</td>
+    <td>TS202</td>
+    <td>Notificaciones de disponibilidad</td>
+    <td>Notificar a los usuarios cuando un consultor actualiza disponibilidad.</td>
+    <td>4</td>
+    <td>Romero Qwistgaard Russel Stephen</td>
+    <td>U202211043</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="3">HU10</td>
+    <td rowspan="3">Crear y gestionar servicios de profesional</td>
+    <td>TS401</td>
+    <td>Agenda de disponibilidad</td>
+    <td>Configurar y actualizar la disponibilidad de consultores.</td>
+    <td>6</td>
+    <td>Oshiro Yamashita Daiki Oscar</td>
+    <td>U20201F846</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS402</td>
+    <td>Agendamiento de sesiones</td>
+    <td>Permitir a clientes agendar sesiones.</td>
+    <td>5</td>
+    <td>Oshiro Yamashita Daiki Oscar</td>
+    <td>U20201F846</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS403</td>
+    <td>Confirmación de sesiones</td>
+    <td>Aceptar o rechazar sesiones por parte del consultor.</td>
+    <td>4</td>
+    <td>Oshiro Yamashita Daiki Oscar</td>
+    <td>U20201F846</td>
+    <td>Done</td>
+  </tr>
+</table>
+
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
