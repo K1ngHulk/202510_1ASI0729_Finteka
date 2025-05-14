@@ -1497,7 +1497,7 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
 
-Evidencia del despliegue: https://k1nghulk.github.io/202510\_1ASI0729\_LandingPage\_Finteka/
+Evidencia del despliegue: https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/ 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
