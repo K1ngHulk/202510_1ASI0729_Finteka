@@ -1490,6 +1490,66 @@ Actividades de Implementación El equipo ha dividido las tareas de implementaci�
 
 Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Landing Page  
 ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_7.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_8.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_9.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_10.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_11.png] 
+
+5.2.2. Sprint 2
+
+5.2.2.1. Sprint Planning 2
+
+| Sprint \# | Sprint 2 |
+| :---- | :---- |
+| Sprint Planning Background |  |
+| Date | 10/05/2025 |
+| Time | 20:00 |
+| Location | Modalidad Remota por Discord |
+| Prepared By | Equipo Nova Asesores |
+| Attendees (to planning meeting) | Javier Murillo, Mathias – U202022211 Oshiro Yamashita, Daiki Oscar – U20201F846 Aguirre Castillo, Sergio Cesar – U202310425 Russell Stephen Romero Qwistgaard – U202211043 Luis Angel Montañez Moreno – U202223811 |
+| Sprint n \- 1 Review Summary | En el Sprint 1 se logró entregar la landing page completa, cumpliendo con los objetivos establecidos. Se desarrollaron la estructura HTML base, la estilización CSS, la navegación funcional y un menú de navegación responsive. La página es totalmente adaptable a dispositivos móviles, lo que garantiza una experiencia de usuario óptima en todas las plataformas. Las tareas fueron completadas con éxito, y se entregó una página informativa interactiva y visualmente alineada con la identidad de Finteka. |
+| Sprint n \- 1 Retrospective Summary | El Sprint 1 fue exitoso en cuanto a la entrega de la landing page, pero se identificaron áreas de mejora, especialmente en la definición más precisa de algunas tareas y en la implementación de pruebas de usabilidad. A pesar de estos desafíos, el equipo demostró una buena comunicación y adaptabilidad, cumpliendo con los plazos establecidos. Para el siguiente sprint, se enfocará en mejorar la claridad en las tareas y en realizar pruebas tempranas de usabilidad para optimizar la experiencia del usuario. |
+| Sprint Goal & User Stories | Desarrollar el frontend de la aplicación web de Finteka, enfocándonos en una interfaz interactiva, intuitiva y visualmente clara. La propuesta es garantizar una experiencia de usuario fluida y atractiva, que refleje de manera efectiva el valor y las funcionalidades clave de la plataforma, manteniendo siempre la coherencia con la identidad y visión de Finteka. |
+| Sprint 2 Velocity | 6 |
+| Sum of Story Points | 22 |
+
+5.2.2.2. Aspect Leaders and Collaborators
+
+| Team Member | Github Username | Login/Register | Perfiles | Notificaciones | Sesiones | Búsqueda | Documentación |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Javier Murillo Mathias | K1ngHulk | L | C | C | C | C | C |
+| Oshiro Yamashita Daiki Oscar | DaikiOY | C | C | C | L | C | C |
+| Aguirre Castillo Sergio Cesar | Aguirrat157 | C | C | C | C | L | C |
+| Romero Qwistgaard Russel Stephen | RussellUPC | C | C | L | C | C | C |
+| Montañez Moreno Luis Angel | Luiso-AM | C | C | L | C | C | C |
+
+5.2.2.3. Sprint Backlog 2
+
+| Sprint \# | Sprint 2 |  |  |  |  |  |  |  |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| User Story |  | Work Item / Task |  |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Student Code | Status |
+| HU01 | Registrar un profesional | TS101 | Registro de profesionales | Registro de consultores para que ofrezcan sus servicios. | 4 | Javier Murillo Mathias | U202022211 | Done |
+| HU02 | Registrar un cliente | TS102 | Registro de clientes | Registro de clientes para acceder y agendar sesiones. | 4 | Javier Murillo Mathias | U202022211 | Done |
+| HU03 | Buscar profesionales disponibles | TS201 | Filtros de búsqueda de profesionales | Filtrar consultores por disponibilidad, especialidad y calificación. | 5 | Aguirre Castillo Sergio Cesar | U202310425 | Done |
+| H04 | Recibir notificaciones de disponibilidad de profesionales | TS202 | Notificaciones de disponibilidad | Notificar a los usuarios cuando un consultor actualiza disponibilidad. | 4 | Romero Qwistgaard Russel Stephen | U202211043 | Done |
+| H10 | Crear y gestionar servicios de profesional | TS401 | Agenda de disponibilidad | Configurar y actualizar la disponibilidad de consultores. | 6 | Oshiro Yamashita Daiki Oscar | U20201F846 | Done |
+|  |  | TS402 | Agendamiento de sesiones | Permitir a clientes agendar sesiones. | 5 | Oshiro Yamashita Daiki Oscar | U20201F846 | Done |
+|  |  | TS403 | Confirmación de sesiones | Aceptar o rechazar sesiones por parte del consultor. | 4 | Oshiro Yamashita Daiki Oscar | U20201F846 | Done |
+
+5.2.2.3. Development Evidence for Sprint Review
+
+En el presente sprint se logró desarrollar la primera versión de la Web Application de nuestra plataforma. La interfaz implementada busca reflejar de manera clara y funcional los objetivos de Finteka, así como facilitar la interacción del usuario con las principales funcionalidades del sistema. Se prioriza una experiencia intuitiva, acompañada de un diseño coherente con la identidad visual de la marca y de elementos visuales (assets) que complementan y enriquecen la navegación. Todo esto con el fin de ofrecer una plataforma atractiva, accesible y alineada con las necesidades de nuestros usuarios.
+
+[https://github.com/K1ngHulk/202510\_1ASI0729\_WebApplication\_Finteka](https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka)
+
+5.2.1.4. Testing Suite Evidence for Sprint Review  
+Durante este sprint, se realizaron diversas pruebas para asegurar que las funcionalidades de la Web Application se implementaran correctamente y funcionaran según lo esperado. A continuación, se detallan los commits relevantes que evidencian las validaciones y ajustes realizados durante el desarrollo.
+
+| Repository | Branch | Commit Id | Commit Message | Commit message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| 202510\_1ASI0729\_WebApplication\_Finteka | Login/Register | 8a464dc88dd7e42aa89ef3dff8b247869bf606fe | feat: added login/register bounded context | Se agregó el bounded context | 14/05/2025 |
+| 202510\_1ASI0729\_WebApplication\_Finteka  | Session-Management | 469986ce7ebae45d8130e2e2ab768dd006e0bbd7 | Update session.component.ts | Se actualizó el session.component | 13/05/2025 |
+
+[https://github.com/K1ngHulk/202510\_1ASI0729\_WebApplication\_Finteka/graphs/commit-activity](https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka/graphs/commit-activity)
+
+
 ## Conclusiones
 ### Conclusiones y recomendaciones
 
