@@ -1674,11 +1674,11 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 Implementación del front-end: Se diseñó y desarrolló la aplicación de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
 
-
+<img src="./img/sprint1_evidence_17.png" width="900" height="600">
 
 Imágenes del front-end:
 
-
+<img src="./img/sprint1_evidence_17.png" width="900" height="600">
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
