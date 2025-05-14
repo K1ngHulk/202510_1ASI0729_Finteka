@@ -1666,6 +1666,18 @@ Durante este sprint, se realizaron diversas pruebas para asegurar que las funcio
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+Durante el segundo sprint, se lograron varios hitos importantes en el desarrollo del front-end para Finteka. A continuación, se presenta un resumen de los logros alcanzados:
+
+Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
+
+<img src="./img/sprint1_evidence_14.png" width="900" height="600">
+
+Implementación del front-end: Se diseñó y desarrolló la aplicación de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
+
+
+
+Imágenes del front-end:
+
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
@@ -1674,9 +1686,22 @@ Durante este sprint, se realizaron diversas pruebas para asegurar que las funcio
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 2, el equipo de FinTeka organizó el desarrollo del frontend usando ramas por bounded-context, siguiendo la metodología GitFlow. Esto permitió trabajar de forma paralela en distintas funcionalidades, facilitando la integración y el mantenimiento. Cada miembro gestionó sus tareas y revisiones a través de GitHub, asegurando una colaboración continua y control de calidad.
 
+| Bounded-Context      | Actividad         | Responsable(s)                                     |
+|----------------------|-------------------|----------------------------------------------------|
+| Login/Register       | Autenticación e interfaz de acceso | Javier Murillo Mathias                        |
+| Perfiles             | Gestión de perfiles de usuario     | Romero Qwistgaard Russel Stephen              |
+| Notificaciones       | Sistema de notificaciones          | Romero Qwistgaard Russel Stephen              |
+| Sesiones             | Agendamiento y control de sesiones | Oshiro Yamashita Daiki Oscar                  |
+| Búsqueda             | Filtros y exploración de profesionales | Aguirre Castillo Sergio Cesar             |
+
+<img src="./img/sprint1_evidence_13.png" width="900" height="600">
+
+<img src="./img/sprint1_evidence_12.png" width="900" height="600">
 
 ## Conclusiones
+
 ### Conclusiones y recomendaciones
 
 Conclusiones:
