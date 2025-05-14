@@ -826,7 +826,7 @@ Nuestra visión es convertirnos en la plataforma de referencia para encontrar as
 
 El nombre de nuestra plataforma, **FinTeka**, refleja nuestra visión de conectar a las personas con los mejores profesionales en el campo tecnológico, fusionando la eficiencia de una plataforma digital con la cercanía de una red de expertos accesibles. A través de **FinTeka**, buscamos ofrecer un espacio donde los usuarios puedan encontrar la mejor asesoría para sus proyectos y objetivos personales o profesionales.
 
-<img src="https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/eb83ae46c179bc1ea0c5e1df572f6770051ef57b/img/FinTeka.png" style="width: 50%;"/>
+<img src="./img/FinTeka.png" width="400" height="400">
 
 
 **Typography:**
@@ -834,21 +834,22 @@ La tipografía organiza el lenguaje visual de las plataformas, garantizando legi
 
 **Head**
 
-<img src="https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c17b27b9362b9c45456d618d46c6158ecc962788/img/Head-Guide.png" style="width: 50%;"/>
+<img src="./img/Head-Guide.png" width="400" height="400">
 
 **Body**
 
-<img src="https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/e2affd9d1de6fec319d898bc64a79aa0949a2afa/img/Body-Guide.png" style="width: 50%;"/>
+<img src="./img/Body-Guide.png" width="400" height="400">
 
 **Colors**
 
-<img src="https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/e2affd9d1de6fec319d898bc64a79aa0949a2afa/img/Colors-Guide.png" style="width: 50%;"/>
+<img src="./img/Colors-Guide.png" width="400" height="400">
 
 **Spacing**
 
-<img src="https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/e2affd9d1de6fec319d898bc64a79aa0949a2afa/img/Spacing-Guide.png" style="width: 50%;"/>
+<img src="./img/Spacing-Guide.png" width="400" height="400">
 
 ### 4.1.2. Web Style Guidelines
+
 #### Elementos Visuales (Imágenes)
 
 La aplicación web incorporará una variedad de imágenes con diferentes propósitos. Estas pueden ir desde íconos funcionales dentro de un menú hasta fotografías como la imagen de perfil del usuario. Cada imagen se seleccionará o diseñará en función de su contexto y objetivo específico dentro de la interfaz.
@@ -917,23 +918,33 @@ A continuación, se mostrarán los sistemas de navegación que le permitirán a 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+
 ### Home Wireframe
-![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/a29c44bcd96773c3b881100a6190f8b3c448fd95/img/Home.png)
+<img src="./img/Home.png" width="900" height="600">
+
 ### About Us Wireframe
-![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/a29c44bcd96773c3b881100a6190f8b3c448fd95/img/About%20Us.png)
+<img src="./img/About Us.png" width="900" height="600">
+
 ### Learn More Wireframe
-![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/a29c44bcd96773c3b881100a6190f8b3c448fd95/img/Learn%20More.png)
+<img src="./img/Learn More.png" width="900" height="600">
+
 ### Suscribe Wireframe
-![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/a29c44bcd96773c3b881100a6190f8b3c448fd95/img/Suscribe.png)
+<img src="./img/Suscribe.png" width="900" height="600">
+
 ### 4.3.2. Landing Page Mock-ups
+
 ### Home Mock-up
-![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/1a15352f7a02caad386ea717126875941ff8aaa9/img/Home-Mock.png)
+<img src="./img/Home-Mock.png" width="900" height="600">
+
 ### About Us Mock-up
-![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/1a15352f7a02caad386ea717126875941ff8aaa9/img/About%20Us-Mock.png)
+<img src="./img/About Us-Mock.png" width="900" height="600">
+
 ### Learn More Mock-up
-![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/1a15352f7a02caad386ea717126875941ff8aaa9/img/Learn%20More-Mock.png)
+<img src="./img/Learn More-Mock.png" width="900" height="600">
+
 ### Suscribe Mock-up
-![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/1a15352f7a02caad386ea717126875941ff8aaa9/img/Suscribe-Mock.png)
+<img src="./img/Suscribe-Mock.png" width="900" height="600">
+
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
