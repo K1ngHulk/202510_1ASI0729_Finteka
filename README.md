@@ -638,11 +638,11 @@ A continuación se muestra el proceso para la realización del Empathy Mapping p
 
 **Segmento #1: Solicitante de Servicios**
 
-<img src="./img/empathy1.png" width="900" height="900">
+![image](https://github.com/user-attachments/assets/873df9e2-1944-4993-896c-e7d8525fdb85)
 
 **Segmento #2: Proveedores de Servicios**
 
-<img src="./img/empathy2.png" width="900" height="900">
+![image](https://github.com/user-attachments/assets/880665d3-837b-4343-b6ae-749f9d17ea43)
 
 ### 2.3.5. As-is Scenario Mapping
 
