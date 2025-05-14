@@ -590,20 +590,22 @@ A continuación se muestra el proceso para la realizacion del User Task Matrix p
 | Tarea                         | Frecuencia    | Importancia      |
 |-------------------------------|----------------|----------------|
 | Buscar profesionales | Alta   | Alta   |
-| Crear y configurar su perfil | Baja   | Alta    |
+| Crear y configurar su perfil | Media   | Alta    |
 | Realizar pagos por el servicio | Alta    | ALta   |
 | Calificar al profesional | Media   | Media   |
 | Coordinar fechas o entregas | Media  | Media  |
+| Consultar opiniones o reseñas | Alta  | Alta  |
 
 **Segmento #2: Proveedores de Servicios**
 
 | Tarea                         | Frecuencia    | Importancia      |
 |-------------------------------|----------------|----------------|
-| Crear y configurar su perfil | Baja   | Alta   |
+| Crear y configurar su perfil | Alta   | Alta   |
 | Publicar servicios y actualizar info | Alta  | Alta    |
 | Responder mensajes y consultas | Alta    | ALta   |
 | Recibir pagos | Media   | Media   |
 | Promocionar su perfil | Media  | Media  |
+| Gestionar disponibilidad de horarios | Alta  | Alta  |
 
 
 ### 2.3.3. User Journey Mapping
