@@ -39,7 +39,7 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-------: | :---------: | :----------------: | :----------------------:|
 |TB1|24/04/25|Todos|Se añadió los capítulos 1 al 5|
-|TP1|14/05/25|Todos|Se añadió todo el capítulo 5 de la 5.2.2 a la 5.2.2.8.|
+|TP1|14/05/25|Todos|Se añadió parte del capítulo 5 y se realizaron correcciones generales.|
 # Project Report Collaboration Insights
 
 <div style="page-break-after: always;"></div>
@@ -133,7 +133,7 @@
   - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide-conventions)
   - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2. Landing Page, Service & Application Implementation](#52-landing-page-service-application-implementation)
-  - [5.2.1 Sprint 1](#52-sprint-1)
+  - [5.2.1 Sprint 1](#521-sprint-1)
   - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
   - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
   - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
@@ -142,6 +142,15 @@
   - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
   - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
   - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2 Sprint 1](#522-sprint-2)
+  - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+  - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+  - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+  - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+  - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+  - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+  - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+  - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
   [Conclusiones](#conclusiones-1)
 
@@ -157,8 +166,8 @@
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|--------------------------|------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Daiki Oscar Oshiro Yamashita**<br>**TB1**: Participé activamente en reuniones remotas que realizamos en varias ocasiones para coordinar avances e informar el progreso del trabajo.<br>**TP1**: <br><br>**Mathias Javier Murillo**<br>**TB1**: Durante esta primera entrega, nos comunicamos eficazmente mediante llamadas grupales y mensajes de texto, lo que permitió una buena coordinación.<br>**TP1**: <br><br>**Sergio Aguirre Castillo**<br>**TB1**: La comunicación dentro del equipo fue eficaz durante esta etapa inicial. Utilizamos videoconferencias y mensajería para resolver problemas y mantenernos alineados.<br>**TP1**: La comunicación dentro del equipo fue eficaz durante esta etapa de la TP1. Utilizamos videoconferencias y mensajería para resolver problemas y mantenernos alineados.<br><br> **Russell Stephen Romero Qwistgaard**<br>**TB1**: En la primera entrega destaque por comunicarme abiertamente con mis compañeros al momento de repartirnos las tareas y más importante, buscar ayuda cuando se complicaba partes del trabajo para poder evitar retrasos.<br>**TP1**: <br><br>**Luis Angel Montañez Moreno**<br>**TB1**: En esta primera entrega, me aseguré de mantener una comunicación constante con el equipo a través de llamadas y mensajes, lo cual nos permitió coordinar tareas de forma eficiente y resolver dudas en el momento adecuado.<br>**TP1**: |**Daiki Oscar Oshiro Yamashita**<br>**TB1**: La comunicación fluida permitió el cumplimiento de los objetivos establecidos en esta primera etapa.<br>**TP1**: <br><br>**Mathias Javier Murillo**<br>**TB1**: Gracias a las reuniones constantes y el seguimiento por mensajería, logramos completar la entrega de manera efectiva.<br>**TP1**: <br><br>**Sergio Aguirre Castillo**<br>**TB1**: Las reuniones continuas facilitaron un buen trabajo en equipo y el logro de los objetivos planteados.<br>**TP1**: Las reuniones continuas facilitaron un buen trabajo en equipo y el logro de los objetivos planteados durante la TP1.<br><br> **Russell Stephen Romero Qwistgaard**<br>**TB1**: Las reuniones frecuentes y el seguimiento directo de las actividades realizadas dentro y fuera del horario de clase ayudó a que podamos completar este entregable eficientemente.<br>**TP1**: <br><br> **Luis Angel Montañez Moreno**<br>**TB1**: Gracias a la comunicación constante que tuvimos, pudimos coordinarnos bien y entregar el trabajo.<br>**TP1**: |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Daiki Oscar Oshiro Yamashita**<br>**TB1**: Contribuí con el desarrollo de los capítulos 2 y 3 del informe.<br>**TP1**: <br><br>**Mathias Javier Murillo**<br>**TB1**: Desarrollé el capítulo 1 y parte del capítulo 4, aportando contenido clave para la presentación de la startup.<br>**TP1**: <br><br>**Sergio Aguirre Castillo**<br>**TB1**: Redacté la totalidad del capítulo 2 y gran parte del capítulo 4, en colaboración con otro miembro del grupo.<br>**TP1**: Redacté la el Bounded Context Buscador de profesionales, corregi el informe del primer entregable (TB1), ayude a avanzar con los demas Bounded context en colaboracion con otro miembro del grupo.<br><br>**Russell Stephen Romero Qwistgaard**<br>**TB1**: Redacte el registro y análisis de entrevista, además de los User Stories, el Product Backlog y el Landing Page, asegurándome de obtener y clasificar toda la información requerida para poder realizar la aplicación final.<br>**TP1**: <br><br>**Luis Angel Montañez Moreno**<br>**TB1**: Contribuí con el desarrollo del capítulo 3 y 4 del informe.<br>**TP1**: | **Daiki Oscar Oshiro Yamashita**<br>**TB1**: La participación en la redacción permitió un avance significativo en los capítulos asignados.<br>**TP1**: <br><br>**Mathias Javier Murillo**<br>**TB1**: Pude describir con claridad la propuesta de la startup, además de diseñar la interfaz inicial mediante wireframes y mockups.<br>**TP1**: <br><br>**Sergio Aguirre Castillo**<br>**TB1**: Logré cerrar satisfactoriamente los capítulos asignados, demostrando capacidad de redacción técnica y estructurada.<br>**TP1**: Logré cerrar satisfactoriamente los capítulos asignados durante la TP1, demostrando capacidad de redacción técnica y estructurada.<br><br> **Russell Stephen Romero Qwistgaard**<br>**TB1**: Cerré cada parte trabajada con detalle y orden, permitiendo su fácil comprensión y mejorando sus uso futuro para la aplicación.<br>**TP1**: <br><br>**Luis Angel Montañez Moreno**<br>**TB1**: Pude cerrar las partes trabajadas de manera satisfactoria para su fácil comprensión.<br>**TP1**: |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Daiki Oscar Oshiro Yamashita**<br>**TB1**: Participé activamente en reuniones remotas que realizamos en varias ocasiones para coordinar avances e informar el progreso del trabajo.<br>**TP1**: <br>Comunico con claridad el análisis del bounded context del sistema de asesorías, distinguiendo los dominios funcionales del cliente y del asesor. Esta comunicación permitió al equipo alinear criterios y establecer límites precisos para el desarrollo desde las primeras fases del proyecto.<br>**Mathias Javier Murillo**<br>**TB1**: Durante esta primera entrega, nos comunicamos eficazmente mediante llamadas grupales y mensajes de texto, lo que permitió una buena coordinación.<br>**TP1**: <br><br>**Sergio Aguirre Castillo**<br>**TB1**: La comunicación dentro del equipo fue eficaz durante esta etapa inicial. Utilizamos videoconferencias y mensajería para resolver problemas y mantenernos alineados.<br>**TP1**: La comunicación dentro del equipo fue eficaz durante esta etapa de la TP1. Utilizamos videoconferencias y mensajería para resolver problemas y mantenernos alineados.<br><br> **Russell Stephen Romero Qwistgaard**<br>**TB1**: En la primera entrega destaque por comunicarme abiertamente con mis compañeros al momento de repartirnos las tareas y más importante, buscar ayuda cuando se complicaba partes del trabajo para poder evitar retrasos.<br>**TP1**: <br><br>**Luis Angel Montañez Moreno**<br>**TB1**: En esta primera entrega, me aseguré de mantener una comunicación constante con el equipo a través de llamadas y mensajes, lo cual nos permitió coordinar tareas de forma eficiente y resolver dudas en el momento adecuado.<br>**TP1**: |**Daiki Oscar Oshiro Yamashita**<br>**TB1**: La comunicación fluida permitió el cumplimiento de los objetivos establecidos en esta primera etapa.<br>**TP1**: <br>La capacidad de comunicar con claridad el análisis del bounded context fue clave para asegurar una comprensión compartida dentro del equipo, lo que permitió una planificación más eficiente, la asignación adecuada de responsabilidades y una base sólida para el desarrollo coherente del sistema.<br>**Mathias Javier Murillo**<br>**TB1**: Gracias a las reuniones constantes y el seguimiento por mensajería, logramos completar la entrega de manera efectiva.<br>**TP1**: <br><br>**Sergio Aguirre Castillo**<br>**TB1**: Las reuniones continuas facilitaron un buen trabajo en equipo y el logro de los objetivos planteados.<br>**TP1**: Las reuniones continuas facilitaron un buen trabajo en equipo y el logro de los objetivos planteados durante la TP1.<br><br> **Russell Stephen Romero Qwistgaard**<br>**TB1**: Las reuniones frecuentes y el seguimiento directo de las actividades realizadas dentro y fuera del horario de clase ayudó a que podamos completar este entregable eficientemente.<br>**TP1**: <br><br> **Luis Angel Montañez Moreno**<br>**TB1**: Gracias a la comunicación constante que tuvimos, pudimos coordinarnos bien y entregar el trabajo.<br>**TP1**: |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Daiki Oscar Oshiro Yamashita**<br>**TB1**: Contribuí con el desarrollo de los capítulos 2 y 3 del informe.<br>**TP1**: <br>Contribuí con la redacción y mejora del informe, incluyendo la elaboración del bounded context del subdominio session, lo cual permitió delimitar claramente sus responsabilidades dentro del sistema. <br>**Mathias Javier Murillo**<br>**TB1**: Desarrollé el capítulo 1 y parte del capítulo 4, aportando contenido clave para la presentación de la startup.<br>**TP1**: <br><br>**Sergio Aguirre Castillo**<br>**TB1**: Redacté la totalidad del capítulo 2 y gran parte del capítulo 4, en colaboración con otro miembro del grupo.<br>**TP1**: Redacté la el Bounded Context Buscador de profesionales, corregi el informe del primer entregable (TB1), ayude a avanzar con los demas Bounded context en colaboracion con otro miembro del grupo.<br><br>**Russell Stephen Romero Qwistgaard**<br>**TB1**: Redacte el registro y análisis de entrevista, además de los User Stories, el Product Backlog y el Landing Page, asegurándome de obtener y clasificar toda la información requerida para poder realizar la aplicación final.<br>**TP1**: <br><br>**Luis Angel Montañez Moreno**<br>**TB1**: Contribuí con el desarrollo del capítulo 3 y 4 del informe.<br>**TP1**: | **Daiki Oscar Oshiro Yamashita**<br>**TB1**: La participación en la redacción permitió un avance significativo en los capítulos asignados.<br>**TP1**: <br>Mi participación en la redacción contribuyó de manera significativa al progreso de los capítulos asignados, adaptando el contenido según los requisitos del proyecto, lo que incluyó el análisis del bounded context de session y la mejora en la estructura y redacción del informe.<br>**Mathias Javier Murillo**<br>**TB1**: Pude describir con claridad la propuesta de la startup, además de diseñar la interfaz inicial mediante wireframes y mockups.<br>**TP1**: <br><br>**Sergio Aguirre Castillo**<br>**TB1**: Logré cerrar satisfactoriamente los capítulos asignados, demostrando capacidad de redacción técnica y estructurada.<br>**TP1**: Logré cerrar satisfactoriamente los capítulos asignados durante la TP1, demostrando capacidad de redacción técnica y estructurada.<br><br> **Russell Stephen Romero Qwistgaard**<br>**TB1**: Cerré cada parte trabajada con detalle y orden, permitiendo su fácil comprensión y mejorando sus uso futuro para la aplicación.<br>**TP1**: <br><br>**Luis Angel Montañez Moreno**<br>**TB1**: Pude cerrar las partes trabajadas de manera satisfactoria para su fácil comprensión.<br>**TP1**: |
 
 <div style="page-break-after: always;"></div>
 
@@ -325,7 +334,7 @@ En este capítulo se realizará el proceso de Análisis competitivo y Needfindin
 ### 2.1.1. Análisis Competitivo
 # Competitive Analysis Landscape
 | **¿Por qué llevar a cabo este análisis?** | ¿Nuestro servicio tiene lo necesario para poder salir adelante ante sus competidores más conocidos? |
-|                       | <img src="./img/FinTeka.png" width="100" height="100"><br>**Nova Asesores (Tu Startup)** | ![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/ad9b26e13b179463e0d321005b8025c388d42795/img/clarityfm.png)<br>**Clarity.fm** | ![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/ad9b26e13b179463e0d321005b8025c388d42795/img/superpeer.png)<br>**Superpeer** | ![image](https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/ad9b26e13b179463e0d321005b8025c388d42795/img/maven.jpg)<br>**Maven** |
+|                       | <img src="./img/FinTeka.png" width="100" height="100"><br>**Nova Asesores (Tu Startup)** | <img src="./img/clarityfm.png" width="100" height="100"><br>**Clarity.fm** | <img src="./img/superpeer.png" width="100" height="100"><br>**Superpeer** | <img src="./img/maven.jpg" width="100" height="100"><br>**Maven** |
 |-----------------------|-----------------------------------------------------------|---------------------------------------------|-------------------------------------------|--------------------------------------|
 | **Perfil / Overview** | Plataforma que conecta expertos con usuarios para sesiones 1 a 1, pagos seguros, y perfiles verificados. Áreas: salud, tecnología, negocios y más. | Plataforma para contratar expertos para llamadas 1 a 1. Pago por minuto. Áreas: tecnología, marketing, negocios. | Videollamadas 1 a 1, eventos en vivo, suscripciones. Enfocado en creadores de contenido. | Cursos en vivo con expertos. Enfoque en aprendizaje colaborativo en temas técnicos y profesionales. |
 | **Ventaja Competitiva** | Facilidad de uso, verificación rigurosa, pagos seguros, interfaz elegante. Proceso intuitivo para agendar y pagar. | Comunidad de expertos consolidada. Modelo flexible de pago por minuto. Integración con redes como LinkedIn. | Monetización con suscripciones. Fuerte en branding personal y creación de comunidad. | Experiencia de aprendizaje estructurada en cohortes. Foco en formación continua. |
@@ -1204,8 +1213,6 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
 
 ### 5.2.1 Sprint 1
 
-
-
 #### 5.2.1.1 Sprint planning 1
 
 <table align="center" border="1" width="90%" style="text-align:center;">
@@ -1410,13 +1417,13 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
   </tr>
 </table>
 
-#### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.1.4. Development Evidence for Sprint Review
 
 En el presente sprint se logró desarrollar la primera versión del Landing Page para nuestra plataforma, la información presentada en la página busca retratar el objetivo que tenemos como aplicación, así como las necesidades que buscamos satisfacer con los usuarios, tomando en cuenta que esta sea clara y sea acompañada con assets que complementan la información. Además, tomamos en cuenta el diseño que se ha elegido para que sea atractivo para nuestros usuarios.
 
 [Link del repositorio](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka)
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.5. Testing Suite Evidence for Sprint Review
 
 Durante este sprint, se realizaron varias pruebas para asegurar que las funcionalidades de la landing page se implementaran correctamente. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
 
@@ -1431,7 +1438,7 @@ Durante este sprint, se realizaron varias pruebas para asegurar que las funciona
 
 [Link del repositorio Commints](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka/commits)
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.6. Execution Evidence for Sprint Review
 
 Durante el primer sprint, se lograron varios hitos importantes en el desarrollo de la landing page para Finteka. A continuación, se presenta un resumen de los logros alcanzados:
 
@@ -1450,7 +1457,7 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
 
-#### 5.2.1.6. Software Deployment Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Durante este Sprint, se realizaron las siguientes actividades en relación con el despliegue de los productos del proyecto, incluyendo la Landing Page y otras aplicaciones web.
 
@@ -1481,7 +1488,7 @@ El proceso de despliegue durante este Sprint ha permitido establecer una base s�
 
 Evidencia del despliegue: https://k1nghulk.github.io/202510\_1ASI0729\_LandingPage\_Finteka/
 
-#### 5.2.1.7. Team Collaboration Insights during Sprint
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos en el diseño y programación en la implementación de la Landing Page de Finteka. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.  
 Actividades de Implementación El equipo ha dividido las tareas de implementación de la Landing Page en varias actividades clave, asegurando que todos los miembros del equipo participen activamente en el desarrollo. Las actividades incluyen:
@@ -1493,9 +1500,9 @@ Actividades de Implementación El equipo ha dividido las tareas de implementaci�
 Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Landing Page  
 ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_7.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_8.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_9.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_10.png] ![][https://github.com/K1ngHulk/202510_1ASI0729_Finteka/blob/c19c42e42b5161fbfdc40cf785868a898d0bd6ed/img/sprint1_evidence_11.png] 
 
-5.2.2. Sprint 2
+### 5.2.2 Sprint 2
 
-5.2.2.1. Sprint Planning 2
+#### 5.2.2.1. Sprint Planning 2
 
 | Sprint \# | Sprint 2 |
 | :---- | :---- |
@@ -1511,7 +1518,7 @@ Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Land
 | Sprint 2 Velocity | 6 |
 | Sum of Story Points | 22 |
 
-5.2.2.2. Aspect Leaders and Collaborators
+#### 5.2.2.2. Aspect Leaders and Collaborators
 
 | Team Member | Github Username | Login/Register | Perfiles | Notificaciones | Sesiones | Búsqueda | Documentación |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -1521,7 +1528,7 @@ Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Land
 | Romero Qwistgaard Russel Stephen | RussellUPC | C | C | L | C | C | C |
 | Montañez Moreno Luis Angel | Luiso-AM | C | C | L | C | C | C |
 
-5.2.2.3. Sprint Backlog 2
+#### 5.2.2.3. Sprint Backlog 2
 
 | Sprint \# | Sprint 2 |  |  |  |  |  |  |  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -1535,13 +1542,14 @@ Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Land
 |  |  | TS402 | Agendamiento de sesiones | Permitir a clientes agendar sesiones. | 5 | Oshiro Yamashita Daiki Oscar | U20201F846 | Done |
 |  |  | TS403 | Confirmación de sesiones | Aceptar o rechazar sesiones por parte del consultor. | 4 | Oshiro Yamashita Daiki Oscar | U20201F846 | Done |
 
-5.2.2.3. Development Evidence for Sprint Review
+#### 5.2.2.4. Development Evidence for Sprint Review
 
 En el presente sprint se logró desarrollar la primera versión de la Web Application de nuestra plataforma. La interfaz implementada busca reflejar de manera clara y funcional los objetivos de Finteka, así como facilitar la interacción del usuario con las principales funcionalidades del sistema. Se prioriza una experiencia intuitiva, acompañada de un diseño coherente con la identidad visual de la marca y de elementos visuales (assets) que complementan y enriquecen la navegación. Todo esto con el fin de ofrecer una plataforma atractiva, accesible y alineada con las necesidades de nuestros usuarios.
 
 [https://github.com/K1ngHulk/202510\_1ASI0729\_WebApplication\_Finteka](https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka)
 
-5.2.2.4. Testing Suite Evidence for Sprint Review  
+#### 5.2.2.5. Execution Evidence for Sprint Review 
+
 Durante este sprint, se realizaron diversas pruebas para asegurar que las funcionalidades de la Web Application se implementaran correctamente y funcionaran según lo esperado. A continuación, se detallan los commits relevantes que evidencian las validaciones y ajustes realizados durante el desarrollo.
 
 | Repository | Branch | Commit Id | Commit Message | Commit message Body | Commited on (Date) |
@@ -1550,6 +1558,17 @@ Durante este sprint, se realizaron diversas pruebas para asegurar que las funcio
 | 202510\_1ASI0729\_WebApplication\_Finteka  | Session-Management | 469986ce7ebae45d8130e2e2ab768dd006e0bbd7 | Update session.component.ts | Se actualizó el session.component | 13/05/2025 |
 
 [https://github.com/K1ngHulk/202510\_1ASI0729\_WebApplication\_Finteka/graphs/commit-activity](https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka/graphs/commit-activity)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
 
 
 ## Conclusiones
