@@ -617,7 +617,7 @@ A continuación se muestra el proceso para la realización del User Journey Mapp
 | Fase                         | Acción    | Emoción     | Puntos de Contacto |
 |-------------------------------|----------------|----------------|---------------| 
 |Conciencia | El usuario se da cuenta de que necesita ayuda profesional | Curiosidad, inseguridad inicial| Publicidad en redes, recomendaciones, boca a boca |
-|Consideración | Explora la app, busca profesionales, revisa perfiles y precios | Interés, algo de duda	| Página de inicio, buscador |
+|Consideración | Explora la app, busca profesionales, revisa perfiles y precios | Interés, algo de duda	| Página de inicio, buscador y filtros |
 |Decisión| Se comunica con el profesional, concreta el servicio | Expectativa, confianza moderada | Chat interno, agenda, botón de reserva |
 |Uso | 	Recibe el servicio | Satisfacción o frustración (según resultado) | Notificaciones, seguimiento, sección de reseñas |
 
@@ -626,9 +626,9 @@ A continuación se muestra el proceso para la realización del User Journey Mapp
 | Fase                         | Acción    | Emoción     | Puntos de Contacto |
 |-------------------------------|----------------|----------------|---------------| 
 |Conciencia | El usuario busca plataformas para ofrecer sus servicios | Motivación, expectativa| Campañas de captación, redes, recomendacione |
-|Consideración | Crea su perfil en la app, publica sus servicios | Esperanza, concentración	| Sección de publicaciones |
+|Consideración | Crea su perfil en la app, publica sus servicios | Esperanza, concentración	| Sección de publicaciones, perfil del proveedor |
 |Decisión| Acepta una solicitud, coordina con el cliente | Compromiso, ligera ansiedad | Chat con el cliente, calendario |
-|Uso | 	Realiza el servicio | Orgullo o decepción (según resultado) | Sección de reseñas, |
+|Uso | 	Realiza el servicio | Orgullo o decepción (según resultado) | Sección de reseñas,seguimiento, notificaiones |
 
 
 
