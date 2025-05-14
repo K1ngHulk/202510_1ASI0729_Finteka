@@ -575,11 +575,11 @@ A continuaci√≥n brindamos las fichas de User Persona elaboradas a partir del an√
 
 **Segmento #1: Solicitante de Servicios**
 
-<img src="./img/user1.png" width="900" height="900">
+<img src="./img/userpersona1.png" width="900" height="900">
 
 **Segmento #2: Proveedores de Servicios**
 
-<img src="./img/user2.png" width="900" height="900">
+<img src="./img/userpersona2.png" width="900" height="900">
 
 ### 2.3.2. User Task Matrix
 
