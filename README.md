@@ -160,7 +160,7 @@
   - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
   - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
   - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-  - [5.3 Validation Interviews](#53-Validation-Interviews)
+- [5.3 Validation Interviews](#53-Validation-Interviews)
   - [5.3.1 Diseño de Entrevistas](#531-Diseño-de-Entrevistas)
   - [5.3.2 Registro de Entrevistas](#532-Registro-de-Entrevistas)
   - [5.3.3 Evaluaciones según heurísticas](#533-Evaluaciones-según-heurísticas)
@@ -171,11 +171,11 @@
 
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
-  [Video About-the-Team](#Video-About-the-Team-1)
+  [Video About-the-Team](#Video-About-the-Team)
   
-[Bibliografía](#bibliografc3ada-1)
+[Bibliografía](#bibliografia)
 
-[Anexos](#anexos-1)
+[Anexos](#anexos)
 
 <div style="page-break-after: always;"></div>
 
@@ -1735,6 +1735,15 @@ Durante el Sprint 2, el equipo de FinTeka organizó el desarrollo del frontend u
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+## 5.3 Validation Interviews
+
+### 5.3.1 Diseño de Entrevistas
+
+### 5.3.2 Registro de Entrevistas
+
+### 5.3.3 Evaluaciones según heurísticas.
+
+### 5.3.4 Video About-the-Product.
 
 
 
