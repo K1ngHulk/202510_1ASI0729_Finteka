@@ -674,7 +674,7 @@ A continuación se muestra el proceso para la realización del Empathy Mapping p
 
 **Segmento #2: Proveedores de Servicios**
 
-![image](https://github.com/user-attachments/assets/880665d3-837b-4343-b6ae-749f9d17ea43)
+<img src="./img/empathy.png" width="1400" height="600">
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -792,7 +792,7 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 Impact map de nuestros segmentos objetivos:
 
-<img src="./img/imp.png" width="1100" height="500">
+<img src="./img/imp.png" width="1200" height="400">
 
 ## 3.4. Product Backlog
 
@@ -855,11 +855,11 @@ La tipografía organiza el lenguaje visual de las plataformas, garantizando legi
 
 **Head**
 
-<img src="./img/Head-Guide.png" width="600" height="300">
+<img src="./img/Head-Guide.png" width="700" height="300">
 
 **Body**
 
-<img src="./img/Body-Guide.png" width="600" height="300">
+<img src="./img/Body-Guide.png" width="700" height="300">
 
 **Colors**
 
@@ -1325,7 +1325,7 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
     </tr>
     <tr align="left">
         <td>
-            <b>Sprint Goal & User Stories</b>
+            <b>Sprint 1 Goal</b>
         </td>
         <td>
             El objetivo del sprint es construir la landing page de FinTeca con una interfaz moderna, clara e intuitiva, que presente de forma efectiva la propuesta de valor de la aplicación, que es conectar usuarios con profesionales de manera rápida y segura.
@@ -1476,7 +1476,7 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-<img src="./img/sprint1_evidence_1.png" width="800" height="400">
+<img src="./img/sprint1_evidence_1.png" width="700" height="300">
 
 * Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
   <img src="./img/sprint1_evidence_2.png" width="900" height="600">    
@@ -1484,8 +1484,8 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
   * Inicio:   <img src="./img/sprint1_evidence_2.png" width="900" height="600">
   * Sección Nosotros: <img src="./img/sprint1_evidence_3.png" width="900" height="600">
   * Conocer más sobre el proyecto:   
-  * Planes de subscripción: <img src="./img/sprint1_evidence_4.png" width="1000" height="600">
-  * Sección de Cambio de Idioma: <img src="./img/sprint1_evidence_5.png" width="900" height="600">
+  * Planes de subscripción: <img src="./img/sprint1_evidence_4.png" width="1200" height="600">
+  * Sección de Cambio de Idioma: <img src="./img/sprint1_evidence_5.png" width="1000" height="600">
 
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
 
@@ -1545,29 +1545,118 @@ Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Land
 
 #### 5.2.2.1. Sprint Planning 2
 
-| Sprint \# | Sprint 2 |
-| :---- | :---- |
-| Sprint Planning Background |  |
-| Date | 10/05/2025 |
-| Time | 20:00 |
-| Location | Modalidad Remota por Discord |
-| Prepared By | Equipo Nova Asesores |
-| Attendees (to planning meeting) | Javier Murillo, Mathias – U202022211 Oshiro Yamashita, Daiki Oscar – U20201F846 Aguirre Castillo, Sergio Cesar – U202310425 Russell Stephen Romero Qwistgaard – U202211043 Luis Angel Montañez Moreno – U202223811 |
-| Sprint n \- 1 Review Summary | En el Sprint 1 se logró entregar la landing page completa, cumpliendo con los objetivos establecidos. Se desarrollaron la estructura HTML base, la estilización CSS, la navegación funcional y un menú de navegación responsive. La página es totalmente adaptable a dispositivos móviles, lo que garantiza una experiencia de usuario óptima en todas las plataformas. Las tareas fueron completadas con éxito, y se entregó una página informativa interactiva y visualmente alineada con la identidad de Finteka. |
-| Sprint n \- 1 Retrospective Summary | El Sprint 1 fue exitoso en cuanto a la entrega de la landing page, pero se identificaron áreas de mejora, especialmente en la definición más precisa de algunas tareas y en la implementación de pruebas de usabilidad. A pesar de estos desafíos, el equipo demostró una buena comunicación y adaptabilidad, cumpliendo con los plazos establecidos. Para el siguiente sprint, se enfocará en mejorar la claridad en las tareas y en realizar pruebas tempranas de usabilidad para optimizar la experiencia del usuario. |
-| Sprint Goal & User Stories | Desarrollar el frontend de la aplicación web de Finteka, enfocándonos en una interfaz interactiva, intuitiva y visualmente clara. La propuesta es garantizar una experiencia de usuario fluida y atractiva, que refleje de manera efectiva el valor y las funcionalidades clave de la plataforma, manteniendo siempre la coherencia con la identidad y visión de Finteka. |
-| Sprint 2 Velocity | 6 |
-| Sum of Story Points | 22 |
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 2</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            10/05/2025         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            20:00         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Remota por Discord
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Equipo Nova Asesores    
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Attendees (to planning meeting)</b>
+        </td>
+        <td>
+            - Javier Murillo, Mathias – U202022211 <br>
+            - Oshiro Yamashita, Daiki Oscar – U20201F846 <br>
+            - Aguirre Castillo, Sergio Cesar – U202310425 <br>
+            - Russell Stephen Romero Qwistgaard – U202211043 <br>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+           En el Sprint 1 se desarrolló el landing page de la aplicación. Se utilizó la estructura HTML base, la estilización CSS, la navegación funcional y un menú de navegación responsive. La página es totalmente adaptable a dispositivos móviles, lo que garantiza una experiencia de usuario óptima en todas las plataformas. Las tareas fueron completadas con éxito, y se entregó una página informativa interactiva y visualmente alineada con la identidad de Finteka.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b> <br>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            El Sprint 1 fue exitoso en cuanto a la entrega del landing page, pero se identificaron áreas de mejora, especialmente en la definición más precisa de algunas funciones y en la implementación de las mismas. A pesar de estos desafíos, el equipo demostró una buena comunicación y adaptabilidad, cumpliendo con los plazos establecidos. Para el siguiente sprint, se enfocará en mejorar la claridad en las tareas y en realizar pruebas tempranas de usabilidad para optimizar la experiencia del usuario.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2 Goal</b>
+        </td>
+        <td>
+            Desarrollar el front end de la aplicación web de Finteka, enfocándonos principalmente en la implementación de los bounded contexts de registro e inicio de sesión, visualización de notificaciones, gestión de sesiones de 
+ usuario y funcionalidades de búsqueda
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            22
+        </td>
+    </tr>
+</table>
+
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
 | Team Member | Github Username | Login/Register | Perfiles | Notificaciones | Sesiones | Búsqueda | Documentación |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Javier Murillo Mathias | K1ngHulk | L | C | C | C | C | C |
-| Oshiro Yamashita Daiki Oscar | DaikiOY | C | C | C | L | C | C |
+| Oshiro Yamashita Daiki Oscar | DaikiOY | C | C | C | L | C | L |
 | Aguirre Castillo Sergio Cesar | Aguirrat157 | C | C | C | C | L | C |
-| Romero Qwistgaard Russel Stephen | RussellUPC | C | C | L | C | C | C |
-| Montañez Moreno Luis Angel | Luiso-AM | C | C | L | C | C | C |
+| Romero Qwistgaard Russel Stephen | RussellUPC | C | L | L | C | C | C |
+
 
 #### 5.2.2.3. Sprint Backlog 2
 
@@ -1691,7 +1780,7 @@ Durante el segundo sprint, se lograron varios hitos importantes en el desarrollo
 
 Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-<img src="./img/sprint1_evidence_14.png" width="800" height="400">
+<img src="./img/sprint1_evidence_14.png" width="700" height="200">
 
 Implementación del front-end: Se diseñó y desarrolló la aplicación de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
 
@@ -1719,11 +1808,73 @@ Durante el Sprint 2, el equipo de FinTeka organizó el desarrollo del frontend u
 
 <img src="./img/sprint1_evidence_13.png" width="900" height="600">
 
-<img src="./img/sprint1_evidence_12.png" width="900" height="600">
+<img src="./img/sprint1_evidence_12.png" width="900" height="500">
 
 ### 5.2.3 Sprint 3
 
 #### 5.2.3.1. Sprint Planning 3
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td><b>Sprint #</b></td>
+        <td><b>Sprint 3</b></td>
+    </tr>
+    <tr align="left">
+        <td colspan="2"><b>Sprint Planning Background</b></td>
+    </tr>
+    <tr align="left">
+        <td><b>Date</b></td>
+        <td>28/05/2025</td>
+    </tr>
+    <tr align="left">
+        <td><b>Time</b></td>
+        <td>21:00</td>
+    </tr>
+    <tr align="left">
+        <td><b>Location</b></td>
+        <td>Modalidad Remota por Discord</td>
+    </tr>
+    <tr align="left">
+        <td><b>Prepared By</b></td>
+        <td>Equipo Nova Asesores</td>
+    </tr>
+    <tr align="left">
+        <td><b>Attendees (to planning meeting)</b></td>
+        <td>
+            - Javier Murillo, Mathias – U202022211 <br>
+            - Oshiro Yamashita, Daiki Oscar – U20201F846 <br>
+            - Aguirre Castillo, Sergio Cesar – U202310425 <br>
+            - Russell Stephen Romero Qwistgaard – U202211043 <br>
+        </td>
+    </tr>
+    <tr align="left">
+        <td><b>Sprint n - 2</b> <br><b>Review Summary</b></td>
+        <td>
+            Durante el Sprint 2 se desarrolló e integró la primera versión funcional del Front End de FinTeka, centrada en la implementación de los principales bounded contexts: registro e inicio de sesión, notificaciones, gestión de sesiones de usuario, búsqueda y documentación. Esta entrega permitió validar la estructura general de la aplicación y sentó las bases para la interacción con los usuarios finales. Asimismo, se mejoraron algunas secciones del informe, landing page y front end.
+        </td>
+    </tr>
+    <tr align="left">
+        <td><b>Sprint n - 2</b> <br><b>Retrospective Summary</b></td>
+        <td>
+            Durante el Sprint 2, enfocado en el desarrollo del backend, el equipo destacó como principal acierto la adecuada planificación y distribución de tareas, lo cual permitió un avance sostenido y coordinado. Como oportunidad de mejora, se identificó la importancia de optimizar los tiempos destinados a la revisión de código y de reforzar los criterios de aceptación, con el fin de garantizar una mayor consistencia en el desarrollo entre los miembros del equipo.
+        </td>
+    </tr>
+    <tr align="left">
+        <td><b>Sprint 3 Goal</b></td>
+        <td>
+            Desarrollar y mejorar los endpoints clave del backend de FinTeka para manejar usuarios, autenticación, sesiones y notificaciones, asegurando que funcionen bien mediante pruebas automatizadas.
+        </td>
+    </tr>
+    <tr align="left">
+        <td><b>Sprint 3 Velocity</b></td>
+        <td>14</td>
+    </tr>
+    <tr align="left">
+        <td><b>Sum of Story Points</b></td>
+        <td>22</td>
+    </tr>
+</table>
+
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
