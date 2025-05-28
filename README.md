@@ -646,23 +646,11 @@ A continuación se muestra el proceso para la realización del User Journey Mapp
 
 **Segmento #1: Solicitante de Servicios**
 
-| Fase                         | Acción    | Emoción     | Puntos de Contacto |
-|-------------------------------|----------------|----------------|---------------| 
-|Conciencia | El usuario se da cuenta de que necesita ayuda profesional | Curiosidad, inseguridad inicial| Publicidad en redes, recomendaciones, boca a boca |
-|Consideración | Explora la app, busca profesionales, revisa perfiles y precios | Interés, algo de duda	| Página de inicio, buscador y filtros |
-|Decisión| Se comunica con el profesional, concreta el servicio | Expectativa, confianza moderada | Chat interno, agenda, botón de reserva |
-|Uso | 	Recibe el servicio | Satisfacción o frustración (según resultado) | Notificaciones, seguimiento, sección de reseñas |
+<img src="./img/uxpressia1.png" width="900" height="600">
 
 **Segmento #2: Proveedores de Servicios**
 
-| Fase                         | Acción    | Emoción     | Puntos de Contacto |
-|-------------------------------|----------------|----------------|---------------| 
-|Conciencia | El usuario busca plataformas para ofrecer sus servicios | Motivación, expectativa| Campañas de captación, redes, recomendacione |
-|Consideración | Crea su perfil en la app, publica sus servicios | Esperanza, concentración	| Sección de publicaciones, perfil del proveedor |
-|Decisión| Acepta una solicitud, coordina con el cliente | Compromiso, ligera ansiedad | Chat con el cliente, calendario |
-|Uso | 	Realiza el servicio | Orgullo o decepción (según resultado) | Sección de reseñas,seguimiento, notificaiones |
-
-
+<img src="./img/uxpressia2.png" width="900" height="600">
 
 ### 2.3.4. Empathy Mapping
 
@@ -1028,25 +1016,65 @@ Perfil del profesional:
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-Desktop Browser:
-
-User Goal: Acceder a la aplicación ya sea con registro o inicio de sesión.
+#### **User Goal 1:** Acceder a la aplicación ya sea con registro o inicio de sesión.
 
 <img src="./img/Flow Diagrams1.png" width="900" height="400">
 
-User Goal: Poder realizar una búsqueda de profesional por medio de filtros.
+**Descripción:** El objetivo del usuario es ingresar a la plataforma FinTeka para empezar a interactuar con los servicios disponibles. Para ello, necesita registrarse como nuevo usuario o iniciar sesión si ya tiene una cuenta. Este paso es fundamental, ya que permite personalizar la experiencia del usuario, garantizar la seguridad de la información y habilitar funciones como búsqueda de expertos, reservas, pagos y gestión de asesorías. El proceso debe ser rápido, intuitivo y seguro.
+
+**Flujo principal (Happy Path):**
+
+El usuario elige registrarse o iniciar sesión, ingresa sus datos correctamente y accede a la plataforma.
+
+**Flujos alternativos parciales:**
+
+Errores en datos ingresados, correo ya registrado, o credenciales incorrectas que generan mensajes para corregir.
+
+#### **User Goal 2:** Poder realizar una búsqueda de profesional por medio de filtros.
 
 <img src="./img/Flow Diagrams2.png" width="900" height="400">
 
-User Goal: Poder visualizar toda la información del profesional en su perfil.
+**Descripción:** Este objetivo se centra en permitir que el usuario encuentre rápidamente al profesional adecuado para su necesidad específica mediante el uso de filtros avanzados. Esta funcionalidad mejora la eficiencia del proceso de búsqueda, reduce la frustración y aumenta la probabilidad de concretar una sesión satisfactoria. Una búsqueda bien implementada influye directamente en la percepción de calidad de la plataforma.
+
+**Flujo principal (Happy Path):**
+
+El usuario selecciona filtros, ejecuta la búsqueda y visualiza resultados relevantes.
+
+**Flujos alternativos parciales:**
+
+Filtros mal aplicados, sin resultados encontrados o errores de carga que muestran mensajes apropiados.
+
+#### **User Goal 3:** Poder visualizar toda la información del profesional en su perfil.
 
 <img src="./img/Flow Diagrams3.png" width="900" height="400">
 
-User Goal: Poder valorar el profesional seleccionado
+**Descripción:** El usuario busca acceder a un perfil completo y detallado del profesional, que le permita evaluar si es la persona adecuada para brindarle la asesoría que necesita. Este perfil debe mostrar de forma clara y ordenada la experiencia, especialidades, tarifas por sesión, horarios disponibles, valoraciones y comentarios de otros usuarios, y certificaciones o logros relevantes. Una presentación transparente y profesional genera confianza, facilita la toma de decisiones y mejora la conversión de visitas en reservas efectivas.
+
+**Flujo principal (Happy Path):**
+
+El usuario accede al perfil y visualiza toda la información completa y ordenada.
+
+**Flujos alternativos parciales:**
+
+Errores en carga de perfil o información incompleta que se comunican con mensajes claros.
+
+#### **User Goal 4:** Poder valorar el profesional seleccionado
 
 <img src="./img/Flow Diagrams4.png" width="900" height="400">
 
+**Descripción:** El usuario desea dejar una valoración sobre el profesional que le brindó la asesoría, con el fin de compartir su experiencia y contribuir a la comunidad. El proceso debe ser simple, accesible y aparecer justo después de completada la sesión. Las valoraciones permiten fortalecer la confianza en la plataforma, reconocer a los mejores profesionales y brindar insumos valiosos para que otros usuarios tomen decisiones informadas.
+
+**Flujo principal:**
+  
+El usuario accede al formulario de valoración, completa y envía su opinión; el sistema valida, almacena y confirma el envío.
+
+**Flujos alternativos parciales:**
+  
+El usuario puede abandonar el formulario, ingresar datos inválidos, enfrentar problemas de envío o intentar valorar dos veces la misma sesión.
+
+
 ## 4.6. Domain -Driven Software Architecture
+
 ### 4.6.1. Software Architecture Contexte Diagram
 
 ![image](https://github.com/user-attachments/assets/b286ea18-69dc-4a58-aa24-ae5203eef24d)
@@ -1917,33 +1945,33 @@ Durante el Sprint 2, el equipo de FinTeka organizó el desarrollo del frontend u
 
 ### Conclusiones y recomendaciones
 
-Conclusiones:
+#### Conclusiones:
 
-Innovación y diferenciación: Nova Asesores se posiciona como una solución innovadora al conectar expertos con usuarios de manera eficiente, segura y confiable. Su enfoque en la verificación rigurosa de expertos y la personalización de los servicios la hace única frente a la competencia.
+- Innovación y diferenciación: Nova Asesores se posiciona como una solución innovadora al conectar expertos con usuarios de manera eficiente, segura y confiable. Su enfoque en la verificación rigurosa de expertos y la personalización de los servicios la hace única frente a la competencia.
 
-Alta demanda y oportunidad de mercado: Existe un crecimiento notable en la demanda de asesorías remotas, especialmente tras la pandemia. La plataforma tiene un gran potencial para convertirse en un recurso esencial para la toma de decisiones tanto personales como empresariales.
+- Alta demanda y oportunidad de mercado: Existe un crecimiento notable en la demanda de asesorías remotas, especialmente tras la pandemia. La plataforma tiene un gran potencial para convertirse en un recurso esencial para la toma de decisiones tanto personales como empresariales.
 
-Beneficios para usuarios y consultores: Los usuarios obtienen acceso ágil a expertos calificados, mientras que los consultores pueden gestionar y escalar sus servicios profesionalmente, aumentando su visibilidad e ingresos.
+- Beneficios para usuarios y consultores: Los usuarios obtienen acceso ágil a expertos calificados, mientras que los consultores pueden gestionar y escalar sus servicios profesionalmente, aumentando su visibilidad e ingresos.
 
-Diseño centrado en el usuario: La interfaz amigable, herramientas de búsqueda avanzada y filtros intuitivos mejoran la experiencia del usuario, optimizando su interacción con la plataforma.
+- Diseño centrado en el usuario: La interfaz amigable, herramientas de búsqueda avanzada y filtros intuitivos mejoran la experiencia del usuario, optimizando su interacción con la plataforma.
 
-Retos identificados: Construir una base sólida de usuarios iniciales y competir con plataformas consolidadas son los principales desafíos que enfrenta Nova Asesores.
+- Retos identificados: Construir una base sólida de usuarios iniciales y competir con plataformas consolidadas son los principales desafíos que enfrenta Nova Asesores.
 
-Sostenibilidad y proyección: El modelo de negocio basado en comisiones y suscripciones es viable y cuenta con características que promueven la retención de usuarios, como valoraciones públicas y seguimiento post-sesión.
+- Sostenibilidad y proyección: El modelo de negocio basado en comisiones y suscripciones es viable y cuenta con características que promueven la retención de usuarios, como valoraciones públicas y seguimiento post-sesión.
 
-Recomendaciones:
+#### Recomendaciones:
 
-Estrategia de marketing digital: Implementar campañas que resalten la seguridad, confianza y facilidad de uso de la plataforma, con contenido educativo y promociones que atraigan a los usuarios objetivo.
+- Estrategia de marketing digital: Implementar campañas que resalten la seguridad, confianza y facilidad de uso de la plataforma, con contenido educativo y promociones que atraigan a los usuarios objetivo.
 
-Fidelización de usuarios: Diseñar un sistema de recompensas, descuentos o modelos freemium para incentivar la repetición de uso y captar nuevos clientes.
+- Fidelización de usuarios: Diseñar un sistema de recompensas, descuentos o modelos freemium para incentivar la repetición de uso y captar nuevos clientes.
 
-Mejorar la experiencia del usuario: Simplificar aún más la navegación y añadir funciones como tutoriales interactivos y notificaciones personalizadas para guiar al usuario durante todo el proceso.
+- Mejorar la experiencia del usuario: Simplificar aún más la navegación y añadir funciones como tutoriales interactivos y notificaciones personalizadas para guiar al usuario durante todo el proceso.
 
-Alianzas estratégicas: Colaborar con instituciones profesionales, cámaras de comercio y universidades para ampliar la base de usuarios y fortalecer la confianza en la plataforma.
+- Alianzas estratégicas: Colaborar con instituciones profesionales, cámaras de comercio y universidades para ampliar la base de usuarios y fortalecer la confianza en la plataforma.
 
-Expansión sectorial y geográfica: Explorar nuevos mercados y añadir categorías de asesoría menos cubiertas por la competencia, como sostenibilidad e inteligencia artificial.
+- Expansión sectorial y geográfica: Explorar nuevos mercados y añadir categorías de asesoría menos cubiertas por la competencia, como sostenibilidad e inteligencia artificial.
 
-Monitoreo y mejora continua: Evaluar constantemente métricas clave y ajustar las funcionalidades basándose en el feedback de los usuarios para garantizar que la plataforma siga siendo relevante y competitiva.
+- Monitoreo y mejora continua: Evaluar constantemente métricas clave y ajustar las funcionalidades basándose en el feedback de los usuarios para garantizar que la plataforma siga siendo relevante y competitiva.
 
 
 ### Video About-the-Team
@@ -1991,4 +2019,6 @@ Monitoreo y mejora continua: Evaluar constantemente métricas clave y ajustar la
 - Link Landing Page: [Disponible aquí](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka)
 - Miro del Canva: [Disponible aquí](https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxvVFJuaElPR3JwWFNUU0hPODNkSHhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=236710430542)
 - Video TB1: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EUg6WoJ7ROREgcGJ_JrZ-2cB9Es8mBlKXWiJdqw96yn73A?e=391fB2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- Entrevistas: [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EVYdPYP9cX9MiTBSGHLo4GUBJtHK2wys0_JpZmdVYRUM0w?e=fs9CDq)<br>[Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EYP9U3OGc01Gujd5mFLQbX0BpU9LbBkQxUcc4cTjnzzlow?e=w2r4b6)<br>[Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EZ0tkhJhqUNPoif3FfjPq3EB7JYo7yh4uep_1xHiHiJyHA?e=aYGCbv)<br>[Entrevista 4](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTA%20%231%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ecc3a535c%2Dd3ba%2D4609%2Dbfaa%2D95cb647ff76e)<br>[Entrevista 5](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVIS%20%232%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6523c3e5%2Da67c%2D42be%2Daca3%2Def191d7b696a)<br>[Entrevista 6](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTA%20%233%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E599e9ee2%2Dc53d%2D4f30%2Dbcea%2Deb16d35e9cc4)
+- Entrevistas:
+
+[Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EVYdPYP9cX9MiTBSGHLo4GUBJtHK2wys0_JpZmdVYRUM0w?e=fs9CDq)<br>[Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EYP9U3OGc01Gujd5mFLQbX0BpU9LbBkQxUcc4cTjnzzlow?e=w2r4b6)<br>[Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EZ0tkhJhqUNPoif3FfjPq3EB7JYo7yh4uep_1xHiHiJyHA?e=aYGCbv)<br>[Entrevista 4](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTA%20%231%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ecc3a535c%2Dd3ba%2D4609%2Dbfaa%2D95cb647ff76e)<br>[Entrevista 5](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVIS%20%232%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6523c3e5%2Da67c%2D42be%2Daca3%2Def191d7b696a)<br>[Entrevista 6](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTA%20%233%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E599e9ee2%2Dc53d%2D4f30%2Dbcea%2Deb16d35e9cc4)
