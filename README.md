@@ -27,8 +27,8 @@
 | Javier Murillo, Mathias | U202022211 |
 | Oshiro Yamashita, Daiki Oscar | U20201F846 |
 | Aguirre Castillo, Sergio Cesar | U202310425  |
-| Russell Stephen Romero Qwistgaard | U202211043 |
-| Luis Angel Montañez Moreno | U202223811 |
+| Romero Qwistgaard, Russell Stephen | U202211043 |
+| Montañez Moreno, Luis Angel | U202223811 |
 
 <h3 align="center">Abril, 2025</h3>
 
@@ -39,7 +39,9 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-------: | :---------: | :----------------: | :----------------------:|
 |TB1|24/04/25|Todos|Se añadió los capítulos 1 al 5|
-|TP1|14/05/25|Todos|Se añadió parte del capítulo 5 y se realizaron correcciones generales.|
+|TP1|14/05/25|Todos|Se añadió parte del capítulo 5 y se realizaron correcciones generales|
+|TB2|27/05/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió el Sprint 3, Validation Interviews y se realizaron correcciones generales|
+
 # Project Report Collaboration Insights
 
 <div style="page-break-after: always;"></div>
@@ -167,15 +169,13 @@
   - [5.4 Video About-the-Product](#54-Video-About-the-Product)
    
       
-  [Conclusiones](#conclusiones-1)
-
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
-  [Video About-the-Team](#Video-About-the-Team)
+- [Video About-the-Team](#Video-About-the-Team)
   
-[Bibliografía](#bibliografia)
+- [Bibliografía](#bibliografia)
 
-[Anexos](#anexos)
+- [Anexos](#anexos)
 
 <div style="page-break-after: always;"></div>
 
@@ -201,7 +201,7 @@ Permite a los consultores ofrecer sus servicios, gestionar reservas y recibir pa
 ### 1.1.2. Perfiles de integrantes del equipo
 
 | Integrantes | Descripción | Conocimientos |
-| :--- | :--- | :--- |
+| :---------- | :---------- | :------------ |
 | <div style="display: flex; align-items: center;"><img src="img/Daiki.png" alt="Daiki" width="100" height="120">&nbsp;&nbsp;<br>**Daiki Oscar Oshiro Yamashita**<br>u20201f846</div> | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. | Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL. |
 | <div style="display: flex; align-items: center;"><img src="img/Mathias.jpg" alt="Mathias" width="100" height="120">&nbsp;&nbsp;<br>**Mathias Javier Murillo**<br>u202022211</div> | "Soy estudiante de Ingeniería de Software. Me gusta asumir nuevos retos relacionados con el desarrollo de software, como aprender nuevas tecnologías. | Tengo conocimientos en lenguajes como HTML, C++, Java, SQL y en frameworks como React y .Net |
 | <div style="display: flex; align-items: center;"><img src="img/Sergio-Aguirre.jpg" alt="Sergio" width="100" height="150">&nbsp;&nbsp;<br>**Sergio Cesar Aguirre Castillo**<br>u202310425</div> | Soy estudiante de Ingenieraía de Software. Me gusta los desafios se me atraviece durante los cilos que voy pasando con el pasar de los tiempos, soy una persona bien responsable y amable. | Tengo conociemitos con los sigueintes lenguajes de programacion HTML, C++, Java, MySQ, Phyton.|
@@ -558,7 +558,8 @@ La entrevistada busca asesoría en el área de defensoría médica para el tema 
 - Distrito: Jesus Maria
   
 ![image](https://github.com/user-attachments/assets/95e8c874-a899-4e98-82f4-31870a74b1bb)
-- Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ER1bky1UOyJAg3cpdsr8B_cB7PC0ldS4rWW8wMJZ0iLEBg?e=XLb7Nq
+
+**Link: [Entrevista \- Augusto Montes](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ER1bky1UOyJAg3cpdsr8B_cB7PC0ldS4rWW8wMJZ0iLEBg?e=XLb7Nq)**
 
 La entrevista con Augusto Montes muestra que, para optimizar su negocio de asesoría profesional, busca una plataforma que combine la generación de leads cualificados con una agenda automatizada, lo que permitiría una reserva sin fricciones y recordatorios automáticos. Prefiere una interfaz equilibrada entre simplicidad y personalización, que permita etiquetar clientes, editar notas privadas y realizar integraciones con otras aplicaciones. En cuanto a pagos, valora la flexibilidad de contar con diferentes modalidades como pago por sesión, suscripciones recurrentes, facturación automática y pagos multimoneda para facilitar transacciones globales. Además, considera importante un sistema de marketing digital basado en referidos para atraer nuevos clientes. Para gestionar solicitudes urgentes, le gustaría contar con una opción de disponibilidad inmediata y la posibilidad de cobrar tarifas premium por consultas urgentes. También está interesado en organizar eventos grupales como seminarios o masterclasses, lo que podría generar más interacción y demanda para sus servicios.
 
@@ -568,7 +569,8 @@ La entrevista con Augusto Montes muestra que, para optimizar su negocio de aseso
 - Distrito: Los olivos
   
 ![image](https://github.com/user-attachments/assets/6b1b0eb2-35c1-4dbe-a263-fee7b6745f79)
-- Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Ec0MXBN9DxFKrw3UfgGMxg4Bm7eXlDgRxgWpqW-nbPKJdQ?e=QzRkA3
+
+**Link: [Entrevista \- Maria Fernanda Castillo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Ec0MXBN9DxFKrw3UfgGMxg4Bm7eXlDgRxgWpqW-nbPKJdQ?e=QzRkA3)**
 
 La entrevista con María Fernanda Castillo destaca sus necesidades para optimizar su negocio de asesoría profesional. Busca una plataforma automatizada que permita a los clientes encontrar su perfil, ver disponibilidad en tiempo real y agendar directamente. Para ofrecer el mejor servicio, necesita conocer el tema que el cliente desea tratar, sus objetivos, si ha tenido asesorías previas y cualquier material relevante. Prefiere una interfaz sencilla, pero con opciones de personalización si es necesario. En cuanto al proceso de pagos, valora opciones como pago por sesión, suscripciones mensuales y facturación automática, con la prioridad de que los pagos se depositen rápidamente en su cuenta. Además, le gustaría que la plataforma ofreciera herramientas de marketing digital, como publicidad segmentada, posicionamiento en buscadores, creación de contenido y analítica de rendimiento. Para consultas urgentes, necesita una plataforma que permita ver y gestionar solicitudes en tiempo real, aceptar o reagendar desde su celular y recibir notificaciones eficientes. También está interesada en organizar eventos grupales como seminarios o masterclasses.
 
@@ -579,12 +581,14 @@ La entrevista con María Fernanda Castillo destaca sus necesidades para optimiza
 - Distrito: Pueblo libre
   
 ![image](https://github.com/user-attachments/assets/301f2480-1a5e-4671-bbed-48b7ab80f0fb)
-- Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ESMQ04_B3O1Mtk9thyfHcLIB7kGs5JMUo5jBmbX4S4A8Ng?e=hraZSp 
+
+**Link: [Entrevista \- Julio Castro](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ESMQ04_B3O1Mtk9thyfHcLIB7kGs5JMUo5jBmbX4S4A8Ng?e=hraZSp)**
 
 Julio Castro busca una plataforma para gestionar eficientemente su negocio de asesorías. Identifica la necesidad de filtros que faciliten encontrar clientes adecuados y organizar sesiones con datos claros como fechas, duración y métodos de pago. Prefiere una interfaz sencilla pero con opciones avanzadas para personalizar su experiencia. Valora funcionalidades como pagos por sesión y suscripciones, además de integración con herramientas de marketing como Facebook Ads y YouTube. También destaca la utilidad de notificaciones para evitar conflictos de agenda y opciones para crear y gestionar eventos como seminarios. Finalmente, menciona la importancia de incluir elementos visuales como videos y portafolios para presentar propuestas a nuevos clientes.
 
 
 ### 2.2.3. Análisis de entrevistas
+
 | Sara Giovanna Qwistgaard Horna | Sara prefiere basarse más en el currículum de los asesores y en las recomendaciones específicas sobre su experiencia, que en la opinión pública. Ella opina que, para una buena asesoría online, se deberían incluir recursos didácticos como artículos o fotos que mejoren la experiencia y aprendizaje del usuario. Además, le gustaría que las asesorías fueran más personales, rápidas y puntuales, y que la plataforma fuera más sencilla de utilizar, sin necesidad de herramientas complejas. Finalmente, se queja de que en su última experiencia con la plataforma X, no pudo encontrar fácilmente al asesor debido a una falta de funcionalidad de búsqueda adecuada, lo cual retrasó considerablemente la cita. |
 | :---: | :---- |
 | **Orlando Romero Flores**  | Orlando también prefiere confiar más en el currículum de los asesores que en la opinión pública. Para él, una buena plataforma de asesoría online debe incluir un sistema de recomendaciones según las necesidades del usuario. Además, considera que la plataforma debe facilitar recursos interactivos y equipos de prueba para mejorar su experiencia de aprendizaje. Le gustaría que las asesorías fueran más formales en el área profesional y que la plataforma permita una mejor coordinación entre el asesor y el cliente. En su última experiencia, se encontró con dificultades para coordinar los horarios con el asesor, lo cual causó retrasos significativos. |
@@ -851,11 +855,11 @@ La tipografía organiza el lenguaje visual de las plataformas, garantizando legi
 
 **Head**
 
-<img src="./img/Head-Guide.png" width="400" height="400">
+<img src="./img/Head-Guide.png" width="600" height="300">
 
 **Body**
 
-<img src="./img/Body-Guide.png" width="400" height="400">
+<img src="./img/Body-Guide.png" width="600" height="300">
 
 **Colors**
 
@@ -863,7 +867,7 @@ La tipografía organiza el lenguaje visual de las plataformas, garantizando legi
 
 **Spacing**
 
-<img src="./img/Spacing-Guide.png" width="400" height="400">
+<img src="./img/Spacing-Guide.png" width="500" height="400">
 
 ### 4.1.2. Web Style Guidelines
 
@@ -1472,7 +1476,7 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-<img src="./img/sprint1_evidence_1.png" width="900" height="600">
+<img src="./img/sprint1_evidence_1.png" width="800" height="400">
 
 * Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
   <img src="./img/sprint1_evidence_2.png" width="900" height="600">    
@@ -1480,7 +1484,7 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
   * Inicio:   <img src="./img/sprint1_evidence_2.png" width="900" height="600">
   * Sección Nosotros: <img src="./img/sprint1_evidence_3.png" width="900" height="600">
   * Conocer más sobre el proyecto:   
-  * Planes de subscripción: <img src="./img/sprint1_evidence_4.png" width="900" height="600">
+  * Planes de subscripción: <img src="./img/sprint1_evidence_4.png" width="1000" height="600">
   * Sección de Cambio de Idioma: <img src="./img/sprint1_evidence_5.png" width="900" height="600">
 
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
@@ -1506,7 +1510,7 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 1. Despliegue en GitHub Pages:  
    * Se subió el código de la Landing Page al repositorio en GitHub.  
    * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.  
-2. <img src="./img/sprint1_evidence_6.png" width="900" height="600">
+2. <img src="./img/sprint1_evidence_6.png" width="1000" height="600">
 3. Verificación del Despliegue:  
    * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
    * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.  
@@ -1687,7 +1691,7 @@ Durante el segundo sprint, se lograron varios hitos importantes en el desarrollo
 
 Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-<img src="./img/sprint1_evidence_14.png" width="900" height="600">
+<img src="./img/sprint1_evidence_14.png" width="800" height="400">
 
 Implementación del front-end: Se diseñó y desarrolló la aplicación de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
 
