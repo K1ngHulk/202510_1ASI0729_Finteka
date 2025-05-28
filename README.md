@@ -142,7 +142,7 @@
   - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
   - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
   - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.2.2 Sprint 1](#522-sprint-2)
+  - [5.2.2 Sprint 2](#522-sprint-2)
   - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
   - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
   - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
@@ -151,11 +151,28 @@
   - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
   - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
   - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-
+  - [5.2.3 Sprint 3](#523-sprint-3)
+  - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+  - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+  - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+  - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+  - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+  - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+  - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+  - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.3 Validation Interviews](#53-Validation-Interviews)
+  - [5.3.1 Diseño de Entrevistas](#531-Diseño-de-Entrevistas)
+  - [5.3.2 Registro de Entrevistas](#532-Registro-de-Entrevistas)
+  - [5.3.3 Evaluaciones según heurísticas](#533-Evaluaciones-según-heurísticas)
+  - [5.4 Video About-the-Product](#54-Video-About-the-Product)
+   
+      
   [Conclusiones](#conclusiones-1)
 
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
+  [Video About-the-Team](#Video-About-the-Team-1)
+  
 [Bibliografía](#bibliografc3ada-1)
 
 [Anexos](#anexos-1)
@@ -1700,7 +1717,26 @@ Durante el Sprint 2, el equipo de FinTeka organizó el desarrollo del frontend u
 
 <img src="./img/sprint1_evidence_12.png" width="900" height="600">
 
-## Conclusiones
+### 5.2.3 Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+#### 5.2.3.3. Sprint Backlog 3
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review 
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+
 
 ### Conclusiones y recomendaciones
 
