@@ -1379,6 +1379,8 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
+Durante el Sprint 1, el equipo Finteka asignó líderes (L) y colaboradores (C) para aspectos esenciales como diseño de interfaz, desarrollo de la landing page, pruebas iniciales y documentación. Esta asignación permitió una distribución equilibrada del trabajo y facilitó el arranque efectivo del proyecto.
+
 | Team Member                       | GitHub Username | UI/UX | Landing page | Sprints | Testing | Documentación |
 |----------------------------------|------------------|----------------|-------------------|------------------|------------------|-------------------------|
 | Javier Murillo Mathias           | K1ngHulk         | L              | C                 | C                | C                | C                       |
@@ -1390,7 +1392,13 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
 
 #### 5.2.1.3. Sprint Backlog 1
 
-<br>
+El objetivo principal del Sprint 1 fue establecer la base del proyecto FinTeka, centrando los esfuerzos en el diseño de la interfaz (UI/UX), la construcción inicial de la landing page, la definición de los Sprints en la herramienta de gestión y el desarrollo de documentación base. También se incluyeron tareas generales como configuración de repositorios y organización del equipo.
+
+A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto con el enlace público correspondiente:
+
+Link del Trello:
+
+<img src="./img/trello1.png" width="900" height="600">
 
 <table align="center" border="1" width="95%" style="text-align:center">
   <tr>
@@ -1412,66 +1420,63 @@ Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataf
     <td><b>Student Code</b></td>
     <td><b>Status</b></td>
   </tr>
-
   <tr>
-    <td rowspan="2">HU15</td>
+    <td rowspan="2">US15</td>
     <td rowspan="2">Visualizar página informativa</td>
     <td>T01</td>
     <td>Maquetación HTML inicial</td>
-    <td>Diseñar la estructura base de la página informativa</td>
+    <td>Diseñar la estructura base en HTML para la landing page.</td>
     <td>4</td>
-    <td>Javier Murillo, Mathias</td>
+    <td>Javier Murillo Mathias</td>
     <td>U202022211</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
     <td>Estilización general</td>
-    <td>Aplicar estilos CSS básicos a toda la landing page</td>
+    <td>Aplicar estilos CSS para definir la apariencia general.</td>
     <td>4</td>
-    <td>Oshiro Yamashita, Daiki Oscar</td>
+    <td>Daiki Oscar Oshiro Yamashita</td>
     <td>U20201F846</td>
     <td>Done</td>
   </tr>
-
   <tr>
-    <td rowspan="2">HU17</td>
+    <td rowspan="2">US17</td>
     <td rowspan="2">Landing Page intuitiva</td>
-    <td>T10</td>
+    <td>T01</td>
     <td>Diseño de navegación</td>
-    <td>Crear menú de navegación con enlaces funcionales</td>
+    <td>Crear menú de navegación con enlaces funcionales.</td>
     <td>4</td>
-    <td>Aguirre Castillo, Sergio Cesar</td>
+    <td>Sergio Cesar Aguirre Castillo</td>
     <td>U202310425</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>T11</td>
+    <td>T02</td>
     <td>Personalización del Navbar</td>
-    <td>Estilizar el menú con identidad visual adecuada</td>
+    <td>Aplicar diseño e identidad visual al menú de navegación.</td>
     <td>4</td>
     <td>Russell Stephen Romero Qwistgaard</td>
     <td>U202211043</td>
     <td>Done</td>
   </tr>
-
   <tr>
-    <td rowspan="2">HU18</td>
+    <td rowspan="2">US18</td>
     <td rowspan="2">Landing Page responsiva</td>
-    <td>T12</td>
+    <td>T01</td>
     <td>Adaptar contenido principal</td>
-    <td>Incluir media queries para responsividad en el contenido</td>
+    <td>Aplicar media queries para que el contenido se adapte a distintos dispositivos.</td>
     <td>4</td>
     <td>Luis Angel Montañez Moreno</td>
     <td>U202223811</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>T13</td>
+    <td>T02</td>
     <td>Navbar adaptable</td>
-    <td>Hacer el menú de navegación compatible con dispositivos móviles</td>
+    <td>Hacer que el menú de navegación funcione correctamente en pantallas móviles.</td>
     <td>4</td>
-    <td>Javier Murillo, Mathias</td>
+    <td>Javier Murillo Mathias</td>
     <td>U202022211</td>
     <td>Done</td>
   </tr>
@@ -1691,6 +1696,8 @@ Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Land
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
+Esta matriz resume los roles de liderazgo (L) y colaboración (C) asumidos por los integrantes del equipo FinTeka en los aspectos clave del Sprint 2. La distribución se basa en las competencias individuales y permite una ejecución eficiente de tareas como autenticación, gestión de perfiles, manejo de sesiones y documentación.
+
 | Team Member | Github Username | Login/Register | Perfiles | Notificaciones | Sesiones | Búsqueda | Documentación |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Javier Murillo Mathias | K1ngHulk | L | C | C | C | C | C |
@@ -1701,9 +1708,17 @@ Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Land
 
 #### 5.2.2.3. Sprint Backlog 2
 
+El objetivo principal del Sprint 2 fue implementar funcionalidades clave para la plataforma FinTeka, enfocándose en el registro de usuarios, la búsqueda de consultores disponibles, la configuración de servicios, y la gestión de la agenda y sesiones de asesoría. Durante este sprint también se desarrollaron las notificaciones automáticas, así como tareas relacionadas con la validación de formularios y flujo completo de reserva de sesiones.
+
+A continuación se presenta un screenshot del Board de Sprint 2 en Trello, junto con el enlace público correspondiente:
+
+Link del Trello:
+
+<img src="./img/trello2.png" width="900" height="600">
+
 <table align="center" border="1" width="95%" style="text-align:center">
   <tr>
-    <td colspan="1"><b>Sprint #</b></td>
+    <td><b>Sprint #</b></td>
     <td colspan="8"><b>Sprint 2</b></td>
   </tr>
   <tr>
@@ -1721,75 +1736,74 @@ Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Land
     <td><b>Student Code</b></td>
     <td><b>Status</b></td>
   </tr>
-
   <tr>
-    <td>HU01</td>
-    <td>Registrar un profesional</td>
-    <td>TS101</td>
+    <td rowspan="1">US01</td>
+    <td rowspan="1">Registrar un profesional</td>
+    <td>T01</td>
     <td>Registro de profesionales</td>
-    <td>Registro de consultores para que ofrezcan sus servicios.</td>
+    <td>Formulario y lógica para registro de consultores.</td>
     <td>4</td>
     <td>Javier Murillo Mathias</td>
     <td>U202022211</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>HU02</td>
-    <td>Registrar un cliente</td>
-    <td>TS102</td>
+    <td rowspan="1">US02</td>
+    <td rowspan="1">Registrar un cliente</td>
+    <td>T01</td>
     <td>Registro de clientes</td>
-    <td>Registro de clientes para acceder y agendar sesiones.</td>
+    <td>Formulario y validaciones para registrar usuarios cliente.</td>
     <td>4</td>
     <td>Javier Murillo Mathias</td>
     <td>U202022211</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>HU03</td>
-    <td>Buscar profesionales disponibles</td>
-    <td>TS201</td>
-    <td>Filtros de búsqueda de profesionales</td>
+    <td rowspan="1">US03</td>
+    <td rowspan="1">Buscar profesionales disponibles</td>
+    <td>T01</td>
+    <td>Filtros de búsqueda</td>
     <td>Filtrar consultores por disponibilidad, especialidad y calificación.</td>
     <td>5</td>
-    <td>Aguirre Castillo Sergio Cesar</td>
+    <td>Sergio Aguirre Castillo</td>
     <td>U202310425</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>HU04</td>
-    <td>Recibir notificaciones de disponibilidad de profesionales</td>
-    <td>TS202</td>
+    <td rowspan="1">US04</td>
+    <td rowspan="1">Recibir notificaciones de disponibilidad</td>
+    <td>T01</td>
     <td>Notificaciones de disponibilidad</td>
-    <td>Notificar a los usuarios cuando un consultor actualiza disponibilidad.</td>
+    <td>Enviar notificaciones cuando un profesional actualiza su agenda.</td>
     <td>4</td>
-    <td>Romero Qwistgaard Russel Stephen</td>
+    <td>Russell Romero Qwistgaard</td>
     <td>U202211043</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="3">HU10</td>
-    <td rowspan="3">Crear y gestionar servicios de profesional</td>
-    <td>TS401</td>
+    <td rowspan="3">US10</td>
+    <td rowspan="3">Crear y gestionar servicios</td>
+    <td>T01</td>
     <td>Agenda de disponibilidad</td>
-    <td>Configurar y actualizar la disponibilidad de consultores.</td>
+    <td>Configurar y actualizar la disponibilidad de los consultores.</td>
     <td>6</td>
     <td>Oshiro Yamashita Daiki Oscar</td>
     <td>U20201F846</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>TS402</td>
+    <td>T02</td>
     <td>Agendamiento de sesiones</td>
-    <td>Permitir a clientes agendar sesiones.</td>
+    <td>Permitir a los clientes reservar sesiones.</td>
     <td>5</td>
     <td>Oshiro Yamashita Daiki Oscar</td>
     <td>U20201F846</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>TS403</td>
+    <td>T03</td>
     <td>Confirmación de sesiones</td>
-    <td>Aceptar o rechazar sesiones por parte del consultor.</td>
+    <td>Permitir a los consultores aceptar o rechazar sesiones.</td>
     <td>4</td>
     <td>Oshiro Yamashita Daiki Oscar</td>
     <td>U20201F846</td>
@@ -1918,6 +1932,15 @@ Durante el Sprint 2, el equipo de FinTeka organizó el desarrollo del frontend u
 
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
+
+Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka para cada aspecto clave del Sprint 3, con el objetivo de mejorar la coordinación y eficiencia del trabajo. Los aspectos seleccionados responden a tareas prioritarias como validación con usuarios, evaluación de heurísticas y elaboración de videos del proyecto.
+
+| Team Member | Github Username | Sprint 3 | Entrevistas de Validación | Evaluaciones según heurísticas | Video About-the-Team  | Video About-the-Product  | Backend |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Javier Murillo Mathias | K1ngHulk | C | C | L | C | L | C |
+| Oshiro Yamashita Daiki Oscar | DaikiOY | L | C | C | C | C | C |
+| Aguirre Castillo Sergio Cesar | Aguirrat157 | C | L | C | C | C | C |
+| Romero Qwistgaard Russel Stephen | RussellUPC | C | C | C | L | C | L |
 
 #### 5.2.3.3. Sprint Backlog 3
 
