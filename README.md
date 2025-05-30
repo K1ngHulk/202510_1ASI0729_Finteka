@@ -2096,11 +2096,152 @@ Recoger feedback sobre las herramientas de gestión de servicios (agenda, perfil
 
 ### 5.3.2 Registro de Entrevistas
 
-### 5.3.3 Evaluaciones según heurísticas.
+### 5.3.3 Evaluaciones según heurísticas
 
-### 5.3.4 Video About-the-Product.
+#### UX Heuristics & Principles Evaluation
 
+#### Usability – Inclusive Design – Information Architecture
 
+**SITE O APP A EVALUAR:** FinTeka
+
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+- Registro de nuevos usuarios
+- Búsqueda de profesionales
+- Visualización del perfil de un profesional
+- Reserva de una sesión de asesoría
+- Recepción de notificaciones
+- Actualización de perfil del usuario
+- Calificación y comentarios al finalizar una sesión
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+- Proceso de pago en línea al reservar una sesión
+- Acceso y uso del historial de sesiones
+- Uso del botón de favoritos para guardar profesionales
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+## Niveles de Severidad de Problemas de Usabilidad
+
+| **Nivel** | **Descripción** |
+|-------|-------------|
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**TABLA RESUMEN:**
+
+La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluación:
+
+### Tabla Resumen de Evaluación Heurística - FinTeka
+
+| Nº | Problema Detectado | Escala de Severidad | Heurística / Principio Violado |
+|----|---------------------|---------------------|---------------------------------|
+| 1 | El formulario de registro no valida en tiempo real si el correo ya existe, lo que puede generar frustración. | 2 | Prevención de errores |
+| 2 | No se muestra confirmación clara al reservar una sesión. El usuario no está seguro si la acción fue completada. | 3 | Visibilidad del estado del sistema |
+| 3 | Las tarifas de los profesionales no se muestran desde el listado de búsqueda, dificultando la comparación. | 2 | Visibilidad del estado del sistema |
+| 4 | No hay forma de volver a la pantalla de búsqueda desde el proceso de reserva, lo que obliga a empezar desde cero. | 3 | Control y libertad del usuario |
+| 5 | El botón para calificar a un profesional tras la sesión no es visible o fácil de encontrar. | 3 | Visibilidad del sistema / Flexibilidad y eficiencia de uso |
+| 6 | Las notificaciones no se diferencian visualmente (recordatorio, cancelación, mensaje, etc.), generando confusión. | 2 | Reconocimiento en lugar de recuerdo |
+| 7 | El perfil del profesional no muestra la disponibilidad de fechas sin tener que navegar más, dificultando la toma de decisión. | 2 | Correspondencia entre el sistema y el mundo real |
+
+### DESCRIPCIÓN DE PROBLEMAS:
+
+#### PROBLEMA #1: Registro de nuevos usuarios
+
+- **Severidad:** 2
+
+- **Heurística violada:** Prevención de errores
+
+- **Problema:** Durante el registro, el sistema no valida en tiempo real si el correo ya ha sido usado. El usuario solo se entera del error después de enviar el formulario, lo que genera frustración y pérdida de tiempo.
+
+<img src="./img/heu1.png" width="900" height="600">
+
+- **Recomendación:** Implementar validación en tiempo real del campo de correo electrónico, con mensajes claros y visibles para evitar el intento de registro con correos duplicados.
+
+#### PROBLEMA #2: Falta de confirmación al reservar una sesión
+
+- **Severidad:** 3
+
+- **Heurística violada:** Visibilidad del estado del sistema
+
+- **Problema:** Al reservar una sesión con un consultor, no se muestra un mensaje claro que confirme que la acción fue completada. Esto puede generar incertidumbre o reservas repetidas por parte del usuario.
+
+<img src="./img/heu2.png" width="900" height="600">
+
+- **Recomendación:** Mostrar una confirmación inmediata al completar la reserva, incluyendo fecha, hora y nombre del profesional. También se puede incluir un acceso directo al historial de sesiones.
+
+#### PROBLEMA #3: Tarifas no visibles al buscar profesionales
+
+- **Severidad:** 2
+
+- **Heurística violada:** Visibilidad del estado del sistema
+
+- **Problema:** Las tarifas de los profesionales no son visibles en la vista previa de los resultados de búsqueda, lo que obliga a hacer clic en cada perfil para comparar precios.
+
+<img src="./img/heu3.png" width="900" height="600">
+
+- **Recomendación:** Incluir la tarifa por sesión directamente en la tarjeta de cada profesional en los resultados de búsqueda para facilitar la comparación y la decisión del usuario.
+
+#### PROBLEMA #4: Imposibilidad de volver a la búsqueda desde la reserva
+
+- **Severidad:** 3
+
+- **Heurística violada:** Control y libertad del usuario
+
+- **Problema:** Durante el flujo de reserva de una sesión, no existe un botón o acceso rápido que permita regresar fácilmente a la búsqueda anterior sin perder el progreso del carrito o filtros aplicados.
+
+<img src="./img/heu4.png" width="900" height="600">
+
+- **Recomendación:** Agregar un botón visible para volver al listado anterior con filtros conservados o abrir el proceso de reserva en una nueva pestaña.
+
+#### PROBLEMA #5: Difícil acceso a la opción de calificar al consultor
+
+- **Severidad:** 3
+
+- **Heurística violada:** Visibilidad del sistema / Flexibilidad y eficiencia de uso
+
+- **Problema:** Una vez finalizada una sesión, el botón para calificar al profesional no se presenta de forma destacada, lo que reduce la participación del usuario en el sistema de calificaciones.
+
+<img src="./img/heu3.png" width="900" height="600">
+
+- **Recomendación:** Mostrar una notificación o acceso directo desde el dashboard para calificar al consultor inmediatamente después de la sesión.
+
+#### PROBLEMA #6: Notificaciones poco diferenciadas
+
+- **Severidad:** 2
+
+- **Heurística violada:** Reconocimiento en lugar de recuerdo
+
+- **Problema:** Las notificaciones del sistema (recordatorios, cancelaciones, mensajes) no presentan diferencias visuales claras, lo que puede generar confusión o desatención por parte del usuario.
+
+<img src="./img/heu6.png" width="900" height="600">
+
+- **Recomendación:** Aplicar íconos distintivos y códigos de color para cada tipo de notificación (verde para confirmación, rojo para cancelación, azul para mensajes, etc.).
+
+#### PROBLEMA #7: Falta de calendario visible en perfil del profesional
+
+- **Severidad:** 2
+
+- **Heurística violada:** Correspondencia entre el sistema y el mundo real
+
+- **Problema:** Al visitar el perfil de un profesional, no se visualiza directamente un calendario o resumen de disponibilidad, lo cual retrasa la planificación de sesiones.
+
+<img src="./img/heu7.png" width="900" height="600">
+
+- **Recomendación:** Añadir un calendario miniatura o vista rápida con los horarios disponibles como parte del perfil del consultor, sin necesidad de avanzar al proceso de reserva.
+
+### 5.3.4 Video About-the-Product
+
+En este breve video te mostramos cómo funciona FinTeka, para quién está pensada y cómo puede ayudarte a encontrar al experto ideal en tan solo unos pasos.
+
+Link del video:
 
 ### Conclusiones y recomendaciones
 
