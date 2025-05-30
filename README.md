@@ -1935,6 +1935,140 @@ Durante el Sprint 2, el equipo de FinTeka organizó el desarrollo del frontend u
 
 ### 5.3.1 Diseño de Entrevistas
 
+#### **Segmento 1: Personas Naturales**
+
+##### **Objetivo**
+
+Validar la experiencia de usuario (UX) y la propuesta de valor de la app desde la perspectiva de quienes buscan asesoría profesional, así como identificar mejoras en funcionalidades clave (búsqueda, reserva, pago, perfil, feedback).
+
+##### **Estructura**
+
+1. **Introducción**  
+   * Presentación del entrevistador y objetivo de la charla.
+
+   * Asegurar confidencialidad y pedir permiso para grabar/anotar.
+
+2. **Contexto de uso**
+
+   * ¿Con qué frecuencia ingresaste a la app y qué tarea buscabas realizar en tu primera sesión?
+
+   * ¿En qué dispositivo la usaste principalmente (móvil, tablet, desktop)?
+
+3. **Descubrimiento & Onboarding**
+
+   * ¿Cómo fue tu primera impresión al registrarte y configurar tu perfil?
+
+   * ¿Hubo algo confuso o que te tomó tiempo entender?
+
+4. **Búsqueda y selección de expertos**
+
+   * Al buscar un asesor, ¿qué filtros o información te parecieron más útiles (disponibilidad, reseñas, costo…)?
+
+   * ¿Alguna vez no encontraste al experto ideal? ¿Por qué?
+
+   * ¿Qué sugerirías para mejorar el motor de búsqueda o los filtros?
+
+5. **Reserva y pago**
+
+   * Describe tu experiencia al agendar y confirmar una sesión.
+
+   * ¿Tuviste problemas con el calendario o la confirmación de cita?
+
+   * ¿Cómo calificarías la claridad y seguridad del proceso de pago?
+
+   * ¿Qué facilitaría aún más esta etapa?
+
+6. **Interacción con el experto y post-sesión**
+
+   * ¿La información previa a la sesión (objetivos, contexto, material) fue suficiente?
+
+   * ¿Recibiste recomendaciones o materiales luego de la sesión? ¿Fueron útiles?
+
+   * ¿Cómo mejorarías el historial de sesiones o la sección de “seguimiento”?
+
+7. **Percepción general & NPS**
+
+   * En una escala de 0–10, ¿qué tan probable es que recomiendes la app a un colega o amigo? ¿Por qué?
+
+   * ¿Cuál es el principal problema que te impide usar la plataforma cómodamente?
+
+   * Si pudieras cambiar sólo una cosa de la app, ¿qué sería?
+
+8. **Cierre**
+
+   * Agradecimientos y explicar los próximos pasos.
+
+#### **Segmento 2: Consultores y Profesionales**
+
+##### **Objetivo**
+
+Recoger feedback sobre las herramientas de gestión de servicios (agenda, perfil, pagos, marketing) y descubrir nuevas funcionalidades que potencien su productividad y escalabilidad .
+
+##### **Estructura**
+
+1. **Introducción**
+
+   * Presentación, objetivos y confidencialidad.
+
+2. **Contexto de uso**
+
+   * ¿Cuánto tiempo llevas usando la plataforma como proveedor?
+
+   * ¿Con qué frecuencia gestionas sesiones desde la app?
+
+3. **Gestión de perfil y servicios**
+
+   * ¿Fue sencillo crear/editar tu listado de servicios y tarifas?
+
+   * ¿Cómo evaluarías la flexibilidad para describir especialidades y mostrar portafolio?
+
+   * ¿Qué cambiarías para que tu perfil transmita mejor tu propuesta de valor?
+
+4. **Agenda y reservas**
+
+   * ¿Cómo ha sido tu experiencia al configurar disponibilidad y bloquear horarios?
+
+   * ¿Tuviste conflictos de agenda o reservas dobles? Describe.
+
+   * ¿Qué mejoras propondrías al calendario o a las notificaciones de nuevas solicitudes?
+
+5. **Procesos de pago**
+
+   * ¿Qué modalidades de cobro utilizaste (por sesión, suscripción, facturación automática)?
+
+   * ¿Fue claro el flujo de cobro y retiro de fondos?
+
+   * ¿Qué funcionalidad añadirías para simplificar la gestión financiera?
+
+6. **Marketing & generación de leads**
+
+   * ¿Usaste herramientas de promoción dentro de la app (referidos, campañas, perfil SEO)?
+
+   * ¿Qué tan efectivas fueron para atraer clientes?
+
+   * ¿Qué tipo de soporte o analíticas te ayudarían a mejorar tu visibilidad?
+
+7. **Soporte y seguimiento al cliente**
+
+   * ¿Cómo gestionas actualmente la comunicación con tus clientes antes y después de la sesión?
+
+   * ¿Te gustaría tener chat integrado, envío de materiales o recordatorios automáticos?
+
+   * ¿Qué herramientas te ayudarían a fidelizar a tus clientes?
+
+8. **Percepción general & NPS**
+
+   * En una escala de 0–10, ¿qué tan probable es que recomiendes la plataforma a otros colegas? ¿Por qué?
+
+   * ¿Cuál es la principal barrera que te impide usar la plataforma al máximo?
+
+   * Si sólo pudieras añadir una nueva funcionalidad, ¿cuál sería?
+
+9. **Cierre**
+
+   * Agradecimientos y explicar los próximos pasos.
+
+
 ### 5.3.2 Registro de Entrevistas
 
 ### 5.3.3 Evaluaciones según heurísticas.
