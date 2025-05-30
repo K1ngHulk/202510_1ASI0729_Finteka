@@ -2143,13 +2143,13 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 | Nº | Problema Detectado | Escala de Severidad | Heurística / Principio Violado |
 |----|---------------------|---------------------|---------------------------------|
-| 1 | El formulario de registro no valida en tiempo real si el correo ya existe, lo que puede generar frustración. | 2 | Prevención de errores |
-| 2 | No se muestra confirmación clara al reservar una sesión. El usuario no está seguro si la acción fue completada. | 3 | Visibilidad del estado del sistema |
-| 3 | Las tarifas de los profesionales no se muestran desde el listado de búsqueda, dificultando la comparación. | 2 | Visibilidad del estado del sistema |
-| 4 | No hay forma de volver a la pantalla de búsqueda desde el proceso de reserva, lo que obliga a empezar desde cero. | 3 | Control y libertad del usuario |
-| 5 | El botón para calificar a un profesional tras la sesión no es visible o fácil de encontrar. | 3 | Visibilidad del sistema / Flexibilidad y eficiencia de uso |
-| 6 | Las notificaciones no se diferencian visualmente (recordatorio, cancelación, mensaje, etc.), generando confusión. | 2 | Reconocimiento en lugar de recuerdo |
-| 7 | El perfil del profesional no muestra la disponibilidad de fechas sin tener que navegar más, dificultando la toma de decisión. | 2 | Correspondencia entre el sistema y el mundo real |
+| 1 | El formulario de registro no valida en tiempo real si el correo ya existe | 2 | Usability: Flexibilidad y eficiencia de uso |
+| 2 | No se muestra confirmación clara al reservar una sesión. | 3 | Usability: Visibilidad del estado del sistema |
+| 3 | Las tarifas de los profesionales no se muestran desde el listado de búsqueda | 2 | Usability: Visibilidad del estado del sistema |
+| 4 | No hay forma de volver a la pantalla de búsqueda desde el proceso de reserva | 3 | Usability: Flexibilidad y eficiencia de uso |
+| 5 | El botón para calificar a un profesional tras la sesión no es visible o fácil de encontrar. | 3 | Usability: Flexibilidad y eficiencia de uso |
+| 6 | Las notificaciones no se diferencian visualmente generando confusión. | 2 | Usability: Visibilidad del estado del sistema |
+| 7 | El perfil del profesional no muestra la disponibilidad de fechas sin tener que navegar más | 2 | Usability: Flexibilidad y eficiencia de uso |
 
 ### DESCRIPCIÓN DE PROBLEMAS:
 
@@ -2161,7 +2161,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** Durante el registro, el sistema no valida en tiempo real si el correo ya ha sido usado. El usuario solo se entera del error después de enviar el formulario, lo que genera frustración y pérdida de tiempo.
 
-<img src="./img/heu1.png" width="900" height="600">
+<img src="./img/heu1.png" width="1100" height="600">
 
 - **Recomendación:** Implementar validación en tiempo real del campo de correo electrónico, con mensajes claros y visibles para evitar el intento de registro con correos duplicados.
 
@@ -2173,7 +2173,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** Al reservar una sesión con un consultor, no se muestra un mensaje claro que confirme que la acción fue completada. Esto puede generar incertidumbre o reservas repetidas por parte del usuario.
 
-<img src="./img/heu2.png" width="900" height="600">
+<img src="./img/heu2.png" width="1100" height="600">
 
 - **Recomendación:** Mostrar una confirmación inmediata al completar la reserva, incluyendo fecha, hora y nombre del profesional. También se puede incluir un acceso directo al historial de sesiones.
 
@@ -2185,7 +2185,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** Las tarifas de los profesionales no son visibles en la vista previa de los resultados de búsqueda, lo que obliga a hacer clic en cada perfil para comparar precios.
 
-<img src="./img/heu3.png" width="900" height="600">
+<img src="./img/heu3.png" width="1100" height="600">
 
 - **Recomendación:** Incluir la tarifa por sesión directamente en la tarjeta de cada profesional en los resultados de búsqueda para facilitar la comparación y la decisión del usuario.
 
@@ -2197,7 +2197,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** Durante el flujo de reserva de una sesión, no existe un botón o acceso rápido que permita regresar fácilmente a la búsqueda anterior sin perder el progreso del carrito o filtros aplicados.
 
-<img src="./img/heu4.png" width="900" height="600">
+<img src="./img/heu4.png" width="1100" height="600">
 
 - **Recomendación:** Agregar un botón visible para volver al listado anterior con filtros conservados o abrir el proceso de reserva en una nueva pestaña.
 
@@ -2209,7 +2209,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** Una vez finalizada una sesión, el botón para calificar al profesional no se presenta de forma destacada, lo que reduce la participación del usuario en el sistema de calificaciones.
 
-<img src="./img/heu3.png" width="900" height="600">
+<img src="./img/heu3.png" width="1100" height="600">
 
 - **Recomendación:** Mostrar una notificación o acceso directo desde el dashboard para calificar al consultor inmediatamente después de la sesión.
 
@@ -2221,7 +2221,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** Las notificaciones del sistema (recordatorios, cancelaciones, mensajes) no presentan diferencias visuales claras, lo que puede generar confusión o desatención por parte del usuario.
 
-<img src="./img/heu6.png" width="900" height="600">
+<img src="./img/heu6.png" width="1100" height="600">
 
 - **Recomendación:** Aplicar íconos distintivos y códigos de color para cada tipo de notificación (verde para confirmación, rojo para cancelación, azul para mensajes, etc.).
 
@@ -2233,7 +2233,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** Al visitar el perfil de un profesional, no se visualiza directamente un calendario o resumen de disponibilidad, lo cual retrasa la planificación de sesiones.
 
-<img src="./img/heu7.png" width="900" height="600">
+<img src="./img/heu7.png" width="1100" height="600">
 
 - **Recomendación:** Añadir un calendario miniatura o vista rápida con los horarios disponibles como parte del perfil del consultor, sin necesidad de avanzar al proceso de reserva.
 
