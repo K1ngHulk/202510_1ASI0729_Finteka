@@ -1396,7 +1396,7 @@ El objetivo principal del Sprint 1 fue establecer la base del proyecto FinTeka, 
 
 A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto con el enlace público correspondiente:
 
-Link del Trello:
+Link del Trello: https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1
 
 <img src="./img/trello1.png" width="900" height="600">
 
@@ -1712,7 +1712,7 @@ El objetivo principal del Sprint 2 fue implementar funcionalidades clave para la
 
 A continuación se presenta un screenshot del Board de Sprint 2 en Trello, junto con el enlace público correspondiente:
 
-Link del Trello:
+Link del Trello: https://trello.com/invite/b/683932529cb1d8f20c3ca2c2/ATTI4e1ba0be018690215bee933f1975b81dDF274A2E/sprint2
 
 <img src="./img/trello2.png" width="900" height="600">
 
@@ -1943,6 +1943,8 @@ Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka
 | Romero Qwistgaard Russel Stephen | RussellUPC | C | C | C | L | C | L |
 
 #### 5.2.3.3. Sprint Backlog 3
+
+Link del Trello: https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f583262c8cdc4f4ED3A6617/sprint3
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
