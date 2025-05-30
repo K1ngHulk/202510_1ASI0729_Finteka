@@ -2176,6 +2176,14 @@ Recoger feedback sobre las herramientas de gestión de servicios (agenda, perfil
 #### Link Landing Page: [Disponible aquí](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka)
 #### Miro del Canva: [Disponible aquí](https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxvVFJuaElPR3JwWFNUU0hPODNkSHhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=236710430542)
 #### Video TB1: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EUg6WoJ7ROREgcGJ_JrZ-2cB9Es8mBlKXWiJdqw96yn73A?e=391fB2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+#### Trello de los sprints:
+
+- [Sprint 1](https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1)<br>
+
+- [Sprint 2](https://trello.com/invite/b/683932529cb1d8f20c3ca2c2/ATTI4e1ba0be018690215bee933f1975b81dDF274A2E/sprint2)<br>
+
+- [Sprint 3](https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f583262c8cdc4f4ED3A6617/sprint3)<br>
+
 #### Entrevistas:
 
 - [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EVYdPYP9cX9MiTBSGHLo4GUBJtHK2wys0_JpZmdVYRUM0w?e=fs9CDq)<br>
