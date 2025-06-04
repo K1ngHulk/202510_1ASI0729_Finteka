@@ -962,35 +962,35 @@ A continuación, se mostrarán los sistemas de navegación que le permitirán a 
 
 Inicio de sesión y registro:
 
-<img src="./img/Desktop1.png" width="400" height="400">
+<img src="./img/wi1.png" width="400" height="400">
 
 Búsqueda de profesionales:
 
-<img src="./img/Desktop2.png" width="900" height="400">
+<img src="./img/wi2.png" width="900" height="400">
 
 Seleccionar y valorar profesional:
 
-<img src="./img/Desktop3.png" width="400" height="400">
+<img src="./img/wi3.png" width="400" height="400">
 
 - Mobile Browser:
 
-<img src="./img/Mob1.png" width="400" height="400">
+<img src="./img/wi4.png" width="400" height="400">
 
-<img src="./img/Mob2.png" width="400" height="400">
+<img src="./img/wi5.png" width="400" height="400">
 
-### 4.4.2. Web Applications Wireframes
+### 4.4.2. Web Applications Wireflow Diagrams
 
 Usuario ingresa a la aplicación iniciando sesión o registrándose:
 
-<img src="./img/Wireflow1.png" width="400" height="400">
+<img src="./img/wi6.png" width="400" height="400">
 
 Usuario desea buscar un profesional:
 
-<img src="./img/Wireflow2.png" width="900" height="400">
+<img src="./img/wi7.png" width="900" height="400">
 
 Usuario desea contactar o valorar profesional:
 
-<img src="./img/Wireflow3.png" width="400" height="400">
+<img src="./img/wi8.png" width="400" height="400">
 
 ### 4.4.3. Web Applications Mock-ups
 
