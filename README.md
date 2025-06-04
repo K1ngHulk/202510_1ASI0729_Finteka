@@ -962,7 +962,7 @@ A continuación, se mostrarán los sistemas de navegación que le permitirán a 
 
 Inicio de sesión y registro:
 
-<img src="./img/wi1.png" width="400" height="400">
+<img src="./img/wi1.png" width="600" height="600">
 
 Búsqueda de profesionales:
 
@@ -970,7 +970,7 @@ Búsqueda de profesionales:
 
 Seleccionar y valorar profesional:
 
-<img src="./img/wi3.png" width="400" height="400">
+<img src="./img/wi3.png" width="600" height="600">
 
 - Mobile Browser:
 
@@ -982,7 +982,7 @@ Seleccionar y valorar profesional:
 
 Usuario ingresa a la aplicación iniciando sesión o registrándose:
 
-<img src="./img/wi6.png" width="400" height="400">
+<img src="./img/wi6.png" width="900" height="700">
 
 Usuario desea buscar un profesional:
 
@@ -990,7 +990,7 @@ Usuario desea buscar un profesional:
 
 Usuario desea contactar o valorar profesional:
 
-<img src="./img/wi8.png" width="400" height="400">
+<img src="./img/wi8.png" width="900" height="700">
 
 ### 4.4.3. Web Applications Mock-ups
 
