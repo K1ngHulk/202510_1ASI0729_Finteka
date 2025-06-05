@@ -2127,6 +2127,42 @@ Recoger feedback sobre las herramientas de gestión de servicios (agenda, perfil
 
 ### 5.3.2 Registro de Entrevistas
 
+- Segmento 1: Personas Naturales
+- Entrevista 1:
+- Nombre: Sara Giovanna Qwistgaard Horna
+- Edad: 53
+- Distrito: San Miguel
+  
+<img src="./img/Entrevista - Validación - Sara.png" width="858" height="480">
+
+**Link**: [**Entrevista \- Sara Qwistgaard**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EdcWGl-qMnpJlAV98L1635gBi0Bx7avDc7XL5r1Vits_qA?e=xa5WaZ)
+
+Anteriormente, la señora Sara Qwistgaard menciona que buscaba asesoría en el área de marketing. Ahora, luego de usar la aplicación, nos cuenta los problemas y virtudes que encontro con nuestro servicio, reflejando que nos falta para terminar este proyecto. 
+
+- Entrevista 2:
+- Nombre: Orlando Romero Flores
+- Edad: 59
+- Distrito: San Miguel
+  
+<img src="./img/Entrevista - Validación - Orlando.png" width="858" height="480">
+
+**Link: [Entrevista \- Orlando Romero](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWIzSKpVwGRDmQPpYeX_TOwBVBsB-0XUOPYJwUDQI9ZcPA?e=Rie1vF)**
+
+El entrevistado Orlando Romero, quien buscó asesoría para administración de equipos de redes, nos relata su experiencia al intentar utilizar la aplicación, demostrando de que, aunque funcional, todavía le falta bastante como para ser ideal para los clientes como él.
+
+- Entrevista 3:
+- Nombre: Ingrid Noelia Zabala Lasso
+- Edad: 33
+- Distrito: San Miguel
+  
+<img src="./img/Entrevista - Validación - Noelia.png" width="858" height="480">
+
+**Link: [Entrevista \- Noelia Zavala](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EahPQV6qJqZCh8rV1Vraa2sBwtG2KBw0nPjiXdxJctkHCg?e=3zqQeu)**
+
+La entrevistada buscaba asesoría en el área de defensoría médica para el tema legal de las prácticas médicas, y a utilizando nuestra aplicación, nos cuenta el cómo esta le ayudo en conseguirla, teniendo una recepción mayormente positiva de la misma.
+
+
+
 ### 5.3.3 Evaluaciones según heurísticas
 
 #### UX Heuristics & Principles Evaluation
