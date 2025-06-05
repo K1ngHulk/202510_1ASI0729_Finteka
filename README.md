@@ -1486,24 +1486,22 @@ Link del Trello: https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d
 
 En el presente sprint se logró desarrollar la primera versión del Landing Page para nuestra plataforma, la información presentada en la página busca retratar el objetivo que tenemos como aplicación, así como las necesidades que buscamos satisfacer con los usuarios, tomando en cuenta que esta sea clara y sea acompañada con assets que complementan la información. Además, tomamos en cuenta el diseño que se ha elegido para que sea atractivo para nuestros usuarios.
 
-[Link del repositorio](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka)
-
-#### 5.2.1.5. Testing Suite Evidence for Sprint Review
-
-Durante este sprint, se realizaron varias pruebas para asegurar que las funcionalidades de la landing page se implementaran correctamente. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
-
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| 202510\_1ASI0729\_LandingPage\_Finteka | Main | 3c7c42f3926b77d099ea51784c4c412151ea20b3 | Create index.html | Se creó el index | 24/04/2025 |
-| 202510\_1ASI0729\_LandingPage\_Finteka | Main | e557e4146d654c0c3b0acd70546c7713f5dab8a0 | feat: added Section Home | Se creó la sección de home en index | 24/04/2025 |
-| 202510\_1ASI0729\_LandingPage\_Finteka  | Main | 3dab5dfa3e2e307aa4e9f5809175d1f8417b1957 | feat: added assets carpet | Se añade la carpeta assets | 24/04/2025 |
-| 202510\_1ASI0729\_LandingPage\_Finteka | Main | 80d023ba63949cc19777c3e192da4a84caf97e72 | feat: added css carpet | Se añade la carpeta css | 24/04/2025 |
-| 202510\_1ASI0729\_LandingPage\_Finteka | Main | 5b06e21d6e602ab8d21523a84966b0cda5e62ecb | feat: added javascript carpet | Se añade la carpeta javascript | 24/04/2025 |
-| 202510\_1ASI0729\_LandingPage\_Finteka | Main | 6b71c13fa29cb696a8b12a4199c7f0c65a305ede | feat: added scripts | se añaden los scripts | 24/04/2025 |
-
 [Link del repositorio Commints](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka/commits)
 
-#### 5.2.1.6. Execution Evidence for Sprint Review
+Principales avances en implementación con relación a el Landing Page:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
+| ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
+|Landing Page|main| 23b653a | Initial commit  | create the README.md  | 24/04/2025 |
+|            |main| ac6322f | Create index.html  | create the index.html  | 24/04/2025 |
+|            |main| e557e41 | feat: added Section Home | added content in the section Home  | 24/04/2025 |
+|            |main| 3dab5df | feat: added assets carpet | create the assets carpet  | 24/04/2025 |
+|            |main| 80d023b | feat: added css carpet | create the css carpet  | 24/04/2025 |
+|            |main| 5b06e21 | feat: added javascript carpet | create the javascript carpet  | 24/04/2025 |
+|            |main| 0a8a575 | feat: added i18n.js file | create the i18n.js file | 24/04/2025 |
+|            |main| 6b71c13 | feat: added scripts | added content in the scripts section | 24/04/2025 |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
 
 Durante el primer sprint, se lograron varios hitos importantes en el desarrollo de la landing page para Finteka. A continuación, se presenta un resumen de los logros alcanzados:
 
@@ -1515,7 +1513,8 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
   
   <img src="./img/sprint1_evidence_2.png" width="900" height="600">    
   
-* Imágenes del Landing Page:  
+* Imágenes del Landing Page:
+   
   * Inicio:
   
     <img src="./img/sprint1_evidence_2.png" width="900" height="600">
@@ -1534,6 +1533,12 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
     <img src="./img/sprint1_evidence_5.png" width="1000" height="600">
 
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
+
+Link de la Landing Page: https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante el primer sprint, se desarrolló el Landing Page del proyecto como una primera entrega visual. Esta implementación se centró únicamente en la estructura y diseño, sin integrar aún servicios web ni funcionalidades conectadas a sistemas externos.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -1555,11 +1560,14 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 
 1. Despliegue en GitHub Pages:  
    * Se subió el código de la Landing Page al repositorio en GitHub.  
-   * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.  
+   * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
+     
 2. <img src="./img/sprint1_evidence_6.png" width="1000" height="600">
+
 3. Verificación del Despliegue:  
    * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
-   * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.  
+   * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
+
 4. <img src="./img/sprint1_evidence_2.png" width="900" height="600">
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
@@ -1569,11 +1577,14 @@ Evidencia del despliegue: https://k1nghulk.github.io/202510_1ASI0729_LandingPage
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos en el diseño y programación en la implementación de la Landing Page de Finteka. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.  
-Actividades de Implementación El equipo ha dividido las tareas de implementación de la Landing Page en varias actividades clave, asegurando que todos los miembros del equipo participen activamente en el desarrollo. Las actividades incluyen:
 
-* Diseño y maquetación de la Landing Page.  
-* Implementación de secciones clave como el encabezado, pie de página, y contenido principal.  
-* Pruebas y ajustes finales para asegurar la calidad del producto. Analíticos de Colaboración A continuación, se presentan capturas de pantalla de los analíticos de colaboración en GitHub, mostrando la participación de cada miembro del equipo en términos de commits y contribuciones.
+| Author           | Task completed                                |
+|------------------|-----------------------------------------------|
+| Mathias Javier   | added assets, css and javascript carpet       |
+| Daiki Oshiro     | added Subscribe section                       |
+| Sergio Aguirre   | added Learn More                              |
+| Russell Romero   | added Section Home and i18n.js file           |
+| Luis Montañez    | added Toolbar and Footer content              |
 
 Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Landing Page:
 
@@ -1816,20 +1827,23 @@ Link del Trello: https://trello.com/invite/b/683932529cb1d8f20c3ca2c2/ATTI4e1ba0
 
 En el presente sprint se logró desarrollar la primera versión de la Web Application de nuestra plataforma. La interfaz implementada busca reflejar de manera clara y funcional los objetivos de Finteka, así como facilitar la interacción del usuario con las principales funcionalidades del sistema. Se prioriza una experiencia intuitiva, acompañada de un diseño coherente con la identidad visual de la marca y de elementos visuales (assets) que complementan y enriquecen la navegación. Todo esto con el fin de ofrecer una plataforma atractiva, accesible y alineada con las necesidades de nuestros usuarios.
 
-[https://github.com/K1ngHulk/202510\_1ASI0729\_WebApplication\_Finteka](https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka)
-
-#### 5.2.2.5. Execution Evidence for Sprint Review 
-
-Durante este sprint, se realizaron diversas pruebas para asegurar que las funcionalidades de la Web Application se implementaran correctamente y funcionaran según lo esperado. A continuación, se detallan los commits relevantes que evidencian las validaciones y ajustes realizados durante el desarrollo.
-
-| Repository | Branch | Commit Id | Commit Message | Commit message Body | Commited on (Date) |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| 202510\_1ASI0729\_WebApplication\_Finteka | Login/Register | 8a464dc88dd7e42aa89ef3dff8b247869bf606fe | feat: added login/register bounded context | Se agregó el bounded context | 14/05/2025 |
-| 202510\_1ASI0729\_WebApplication\_Finteka  | Session-Management | 469986ce7ebae45d8130e2e2ab768dd006e0bbd7 | Update session.component.ts | Se actualizó el session.component | 13/05/2025 |
-
 [https://github.com/K1ngHulk/202510\_1ASI0729\_WebApplication\_Finteka/graphs/commit-activity](https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka/graphs/commit-activity)
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+| Repository | Branch             | Commit Id | Commit Message                                | Commit Message Body                | Commited on (Date) |
+|------------|--------------------|-----------|-----------------------------------------------|------------------------------------|--------------------|
+| Front End  | main               | 5af33b2   | Initial commit                                | created the Main component         | 13/05/2025         |
+|            | Session-Management | 2b93fb1   | Create session.component.ts                   | created the session component      | 13/05/2025         |
+|            | Session-Management | dccaa40   | Create session.services.ts                    | created the session services       | 13/05/2025         |
+|            | Session-Management | 001e3f4   | Create session-list.component.ts              | created the session-list component | 13/05/2025         |
+|            | Search             | 20e135b   | Initial commit                                | created the Search component       | 13/05/2025         |
+|            | Profiles           | 5af33b2   | Initial commit                                | created the Profiles component     | 13/05/2025         |
+|            | Login/Register     | 8a464dc   | feat: added login/register bounded context    | created the login/register component | 14/05/2025       |
+|            | gh-pages           | 31ed8f1   | Auto-generated commit                         | deploy with gh-pages               | 14/05/2025         |
+| Database   | main               | a43270d   | Add files via upload                          | create the database content        | 14/05/2025         |
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review 
 
 Durante el segundo sprint, se lograron varios hitos importantes en el desarrollo del front-end para Finteka. A continuación, se presenta un resumen de los logros alcanzados:
 
@@ -1845,6 +1859,10 @@ Imágenes del front-end:
 
 <img src="./img/sprint1_evidence_17.png" width="900" height="600">
 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 
@@ -1853,13 +1871,13 @@ Imágenes del front-end:
 
 Durante el Sprint 2, el equipo de FinTeka organizó el desarrollo del frontend usando ramas por bounded-context, siguiendo la metodología GitFlow. Esto permitió trabajar de forma paralela en distintas funcionalidades, facilitando la integración y el mantenimiento. Cada miembro gestionó sus tareas y revisiones a través de GitHub, asegurando una colaboración continua y control de calidad.
 
-| Bounded-Context      | Actividad         | Responsable(s)                                     |
-|----------------------|-------------------|----------------------------------------------------|
-| Login/Register       | Autenticación e interfaz de acceso | Javier Murillo Mathias                        |
-| Perfiles             | Gestión de perfiles de usuario     | Romero Qwistgaard Russel Stephen              |
-| Notificaciones       | Sistema de notificaciones          | Romero Qwistgaard Russel Stephen              |
-| Sesiones             | Agendamiento y control de sesiones | Oshiro Yamashita Daiki Oscar                  |
-| Búsqueda             | Filtros y exploración de profesionales | Aguirre Castillo Sergio Cesar             |
+| Author           | Task completed                                |
+|------------------|-----------------------------------------------|
+| Mathias Javier   | added Login/Register bounded-context          |
+| Daiki Oshiro     | added session-management bounded-context      |
+| Sergio Aguirre   | added Search bounded-context                  |
+| Russell Romero   | added Notification and Profile bounded-context|          
+
 
 <img src="./img/sprint1_evidence_13.png" width="900" height="600">
 
@@ -1948,6 +1966,15 @@ Link del Trello: https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
+| ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
+|Landing Page|main| 0c8aeea | Make Landing Page apply Responsive Web Design principles | update content in the scripts section | 27/05/2025 |
+|            |main| b714b09 | Feedback correction | update content in the scripts section | 28/05/2025 |
+|            |main| 090c4fa | add the video section about the team and about the product | added content in the section Home | 30/05/2025 |
+|Web Services|main| 52e6baf | Initial commit | created the web services content | 30/05/2025 |
+|Web Services|main| 7a2645c | creation of web services and creation of the snakecasephysicalnamingstrategy | created the snakecasephysicalnamingstrategy | 30/05/2025 |
+
+
 #### 5.2.3.5. Execution Evidence for Sprint Review 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
@@ -1955,6 +1982,10 @@ Link del Trello: https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+| Author           | Task completed                                |
+|------------------|-----------------------------------------------|
 
 ## 5.3 Validation Interviews
 
