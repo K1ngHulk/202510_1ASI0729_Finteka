@@ -1486,7 +1486,7 @@ Link del Trello: https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d
 
 En el presente sprint se logró desarrollar la primera versión del Landing Page para nuestra plataforma, la información presentada en la página busca retratar el objetivo que tenemos como aplicación, así como las necesidades que buscamos satisfacer con los usuarios, tomando en cuenta que esta sea clara y sea acompañada con assets que complementan la información. Además, tomamos en cuenta el diseño que se ha elegido para que sea atractivo para nuestros usuarios.
 
-[Link del repositorio Commints](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka/commits)
+[Link del repositorio Commits](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka/commits)
 
 Principales avances en implementación con relación a el Landing Page:
 
@@ -2224,7 +2224,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Severidad:** 2
 
-- **Heurística violada:** Prevención de errores
+- **Heurística violada:** Flexibilidad y eficiencia de uso
 
 - **Problema:** Durante el registro, el sistema no valida en tiempo real si el correo ya ha sido usado. El usuario solo se entera del error después de enviar el formulario, lo que genera frustración y pérdida de tiempo.
 
@@ -2260,7 +2260,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Severidad:** 3
 
-- **Heurística violada:** Control y libertad del usuario
+- **Heurística violada:** Flexibilidad y eficiencia de uso
 
 - **Problema:** Durante el flujo de reserva de una sesión, no existe un botón o acceso rápido que permita regresar fácilmente a la búsqueda anterior sin perder el progreso del carrito o filtros aplicados.
 
@@ -2272,7 +2272,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Severidad:** 3
 
-- **Heurística violada:** Visibilidad del sistema / Flexibilidad y eficiencia de uso
+- **Heurística violada:** Flexibilidad y eficiencia de uso
 
 - **Problema:** Una vez finalizada una sesión, el botón para calificar al profesional no se presenta de forma destacada, lo que reduce la participación del usuario en el sistema de calificaciones.
 
@@ -2284,7 +2284,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Severidad:** 2
 
-- **Heurística violada:** Reconocimiento en lugar de recuerdo
+- **Heurística violada:** Visibilidad del estado del sistema
 
 - **Problema:** Las notificaciones del sistema (recordatorios, cancelaciones, mensajes) no presentan diferencias visuales claras, lo que puede generar confusión o desatención por parte del usuario.
 
@@ -2296,7 +2296,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Severidad:** 2
 
-- **Heurística violada:** Correspondencia entre el sistema y el mundo real
+- **Heurística violada:** Flexibilidad y eficiencia de uso
 
 - **Problema:** Al visitar el perfil de un profesional, no se visualiza directamente un calendario o resumen de disponibilidad, lo cual retrasa la planificación de sesiones.
 
