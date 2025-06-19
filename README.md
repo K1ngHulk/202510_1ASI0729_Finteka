@@ -780,7 +780,7 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 Impact map de nuestros segmentos objetivos:
 
-<img src="./img/imp.png" width="1200" height="400">
+<img src="./img/imp.png" width="100%" height="100%">
 
 ## 3.4. Product Backlog
 
@@ -843,19 +843,19 @@ La tipografía organiza el lenguaje visual de las plataformas, garantizando legi
 
 **Head**
 
-<img src="./img/Head-Guide.png" width="700" height="300">
+<img src="./img/Head-Guide.png" width="100%" height="100%">
 
 **Body**
 
-<img src="./img/Body-Guide.png" width="700" height="300">
+<img src="./img/Body-Guide.png" width="100%" height="100%">
 
 **Colors**
 
-<img src="./img/Colors-Guide.png" width="400" height="400">
+<img src="./img/Colors-Guide.png" width="100%" height="100%">
 
 **Spacing**
 
-<img src="./img/Spacing-Guide.png" width="500" height="400">
+<img src="./img/Spacing-Guide.png" width="100%" height="100%">
 
 ### 4.1.2. Web Style Guidelines
 
@@ -929,30 +929,30 @@ A continuación, se mostrarán los sistemas de navegación que le permitirán a 
 ### 4.3.1. Landing Page Wireframe
 
 ### Home Wireframe
-<img src="./img/Home.png" width="900" height="600">
+<img src="./img/Home.png" width="100%" height="100%">
 
 ### About Us Wireframe
-<img src="./img/About Us.png" width="900" height="600">
+<img src="./img/About Us.png" width="100%" height="100%">
 
 ### Learn More Wireframe
-<img src="./img/Learn More.png" width="900" height="600">
+<img src="./img/Learn More.png" width="100%" height="100%">
 
 ### Suscribe Wireframe
-<img src="./img/Suscribe.png" width="900" height="600">
+<img src="./img/Suscribe.png" width="100%" height="100%">
 
 ### 4.3.2. Landing Page Mock-ups
 
 ### Home Mock-up
-<img src="./img/Home-Mock.png" width="900" height="600">
+<img src="./img/Home-Mock.png" width="100%" height="100%">
 
 ### About Us Mock-up
-<img src="./img/About Us-Mock.png" width="900" height="600">
+<img src="./img/About Us-Mock.png" width="100%" height="100%">
 
 ### Learn More Mock-up
-<img src="./img/Learn More-Mock.png" width="900" height="600">
+<img src="./img/Learn More-Mock.png" width="100%" height="100%">
 
 ### Suscribe Mock-up
-<img src="./img/Suscribe-Mock.png" width="900" height="600">
+<img src="./img/Suscribe-Mock.png" width="100%" height="100%">
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -962,63 +962,63 @@ A continuación, se mostrarán los sistemas de navegación que le permitirán a 
 
 Inicio de sesión y registro:
 
-<img src="./img/wi1.png" width="600" height="600">
+<img src="./img/wi1.png" width="100%" height="100%">
 
 Búsqueda de profesionales:
 
-<img src="./img/wi2.png" width="900" height="400">
+<img src="./img/wi2.png" width="100%" height="100%">
 
 Seleccionar y valorar profesional:
 
-<img src="./img/wi3.png" width="600" height="600">
+<img src="./img/wi3.png" width="100%" height="100%">
 
 - Mobile Browser:
 
-<img src="./img/wi4.png" width="400" height="400">
+<img src="./img/wi4.png" width="100%" height="100%">
 
-<img src="./img/wi5.png" width="400" height="400">
+<img src="./img/wi5.png" width="100%" height="100%">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 Usuario ingresa a la aplicación iniciando sesión o registrándose:
 
-<img src="./img/wi6.png" width="900" height="700">
+<img src="./img/wi6.png" width="100%" height="100%">
 
 Usuario desea buscar un profesional:
 
-<img src="./img/wi7.png" width="900" height="400">
+<img src="./img/wi7.png" width="100%" height="100%">
 
 Usuario desea contactar o valorar profesional:
 
-<img src="./img/wi8.png" width="900" height="700">
+<img src="./img/wi8.png" width="100%" height="100%">
 
 ### 4.4.3. Web Applications Mock-ups
 
 Inicio de sesión y registro:
 
-<img src="./img/Desktop1.png" width="400" height="400">
+<img src="./img/Desktop1.png" width="100%" height="100%">
 
 Vista de profesionales y búsqueda:
 
-<img src="./img/Desktop2.png" width="900" height="400">
+<img src="./img/Desktop2.png" width="100%" height="100%">
 
 Vista del perfil del profesional y valoración:
 
-<img src="./img/Desktop3.png" width="400" height="400">
+<img src="./img/Desktop3.png" width="100%" height="100%">
 
 Inicio y registro de sesión:
 
-<img src="./img/Mob1.png" width="400" height="400">
+<img src="./img/Mob1.png" width="100%" height="100%">
 
 Perfil del profesional:
 
-<img src="./img/Mob2.png" width="400" height="400">
+<img src="./img/Mob2.png" width="100%" height="100%">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 #### **User Goal 1:** Acceder a la aplicación ya sea con registro o inicio de sesión.
 
-<img src="./img/Flow Diagrams1.png" width="900" height="400">
+<img src="./img/Flow Diagrams1.png" width="100%" height="100%">
 
 **Descripción:** El objetivo del usuario es ingresar a la plataforma FinTeka para empezar a interactuar con los servicios disponibles. Para ello, necesita registrarse como nuevo usuario o iniciar sesión si ya tiene una cuenta. Este paso es fundamental, ya que permite personalizar la experiencia del usuario, garantizar la seguridad de la información y habilitar funciones como búsqueda de expertos, reservas, pagos y gestión de asesorías. El proceso debe ser rápido, intuitivo y seguro.
 
@@ -1032,7 +1032,7 @@ Errores en datos ingresados, correo ya registrado, o credenciales incorrectas qu
 
 #### **User Goal 2:** Poder realizar una búsqueda de profesional por medio de filtros.
 
-<img src="./img/Flow Diagrams2.png" width="900" height="400">
+<img src="./img/Flow Diagrams2.png" width="100%" height="100%">
 
 **Descripción:** Este objetivo se centra en permitir que el usuario encuentre rápidamente al profesional adecuado para su necesidad específica mediante el uso de filtros avanzados. Esta funcionalidad mejora la eficiencia del proceso de búsqueda, reduce la frustración y aumenta la probabilidad de concretar una sesión satisfactoria. Una búsqueda bien implementada influye directamente en la percepción de calidad de la plataforma.
 
@@ -1046,7 +1046,7 @@ Filtros mal aplicados, sin resultados encontrados o errores de carga que muestra
 
 #### **User Goal 3:** Poder visualizar toda la información del profesional en su perfil.
 
-<img src="./img/Flow Diagrams3.png" width="900" height="400">
+<img src="./img/Flow Diagrams3.png" width="100%" height="100%">
 
 **Descripción:** El usuario busca acceder a un perfil completo y detallado del profesional, que le permita evaluar si es la persona adecuada para brindarle la asesoría que necesita. Este perfil debe mostrar de forma clara y ordenada la experiencia, especialidades, tarifas por sesión, horarios disponibles, valoraciones y comentarios de otros usuarios, y certificaciones o logros relevantes. Una presentación transparente y profesional genera confianza, facilita la toma de decisiones y mejora la conversión de visitas en reservas efectivas.
 
@@ -1060,7 +1060,7 @@ Errores en carga de perfil o información incompleta que se comunican con mensaj
 
 #### **User Goal 4:** Poder valorar el profesional seleccionado
 
-<img src="./img/Flow Diagrams4.png" width="900" height="400">
+<img src="./img/Flow Diagrams4.png" width="100%" height="100%">
 
 **Descripción:** El usuario desea dejar una valoración sobre el profesional que le brindó la asesoría, con el fin de compartir su experiencia y contribuir a la comunidad. El proceso debe ser simple, accesible y aparecer justo después de completada la sesión. Las valoraciones permiten fortalecer la confianza en la plataforma, reconocer a los mejores profesionales y brindar insumos valiosos para que otros usuarios tomen decisiones informadas.
 
@@ -1398,7 +1398,7 @@ A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto
 
 Link del Trello: https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1
 
-<img src="./img/trello1.png" width="900" height="600">
+<img src="./img/trello1.png" width="100%" height="100%">
 
 <table align="center" border="1" width="95%" style="text-align:center">
   <tr>
@@ -1507,30 +1507,30 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-<img src="./img/sprint1_evidence_1.png" width="700" height="300">
+<img src="./img/sprint1_evidence_1.png" width="100%" height="100%">
 
 * Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
   
-  <img src="./img/sprint1_evidence_2.png" width="900" height="600">    
+  <img src="./img/sprint1_evidence_2.png" width="100%" height="100%">    
   
 * Imágenes del Landing Page:
    
   * Inicio:
   
-    <img src="./img/sprint1_evidence_2.png" width="900" height="600">
+    <img src="./img/sprint1_evidence_2.png" width="100%" height="100%">
     
   * Sección Nosotros:
   
-    <img src="./img/sprint1_evidence_3.png" width="900" height="600">
+    <img src="./img/sprint1_evidence_3.png" width="100%" height="100%">
     
   * Conocer más sobre el proyecto:   
   * Planes de subscripción:
   
-    <img src="./img/sprint1_evidence_4.png" width="1200" height="600">
+    <img src="./img/sprint1_evidence_4.png" width="100%" height="100%">
     
   * Sección de Cambio de Idioma:
   
-    <img src="./img/sprint1_evidence_5.png" width="1000" height="600">
+    <img src="./img/sprint1_evidence_5.png" width="100%" height="100%">
 
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
 
@@ -1562,13 +1562,13 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    * Se subió el código de la Landing Page al repositorio en GitHub.  
    * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
      
-2. <img src="./img/sprint1_evidence_6.png" width="1000" height="600">
+2. <img src="./img/sprint1_evidence_6.png" width="100%" height="100%">
 
 3. Verificación del Despliegue:  
    * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
    * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
 
-4. <img src="./img/sprint1_evidence_2.png" width="900" height="600">
+4. <img src="./img/sprint1_evidence_2.png" width="100%" height="100%">
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
 
@@ -1588,15 +1588,15 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
 
 Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Landing Page:
 
-<img src="./img/sprint1_evidence_7.png" width="900" height="600">
+<img src="./img/sprint1_evidence_7.png" width="100%" height="100%">
 
-<img src="./img/sprint1_evidence_8.png" width="900" height="600">
+<img src="./img/sprint1_evidence_8.png" width="100%" height="100%">
 
-<img src="./img/sprint1_evidence_9.png" width="900" height="600">
+<img src="./img/sprint1_evidence_9.png" width="100%" height="100%">
 
-<img src="./img/sprint1_evidence_10.png" width="900" height="600">
+<img src="./img/sprint1_evidence_10.png" width="100%" height="100%">
 
-<img src="./img/sprint1_evidence_11.png" width="900" height="600">
+<img src="./img/sprint1_evidence_11.png" width="100%" height="100%">
 
 ### 5.2.2 Sprint 2
 
@@ -1849,7 +1849,7 @@ Durante el segundo sprint, se lograron varios hitos importantes en el desarrollo
 
 Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-<img src="./img/sprint1_evidence_14.png" width="700" height="200">
+<img src="./img/sprint1_evidence_14.png" width="100%" height="100%">
 
 ## Login & Register: 
 <img src="./img/LoginFront.png" width="100%" height="100%">
@@ -1861,7 +1861,7 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 ## Búsqueda de Profesionales:
 <img src="./img/BusquedaProfesionales.png" width="100%" height="100%">
 
-## NotificacionesFront:
+## Notificaciones:
 <img src="./img/NotificacionesFront.png" width="100%" height="100%">
 
 ## Perfil:
@@ -1904,9 +1904,9 @@ Durante el Sprint 2, el equipo de FinTeka organizó el desarrollo del frontend u
 | Russell Romero   | added Notification and Profile bounded-context|          
 
 
-<img src="./img/sprint1_evidence_13.png" width="900" height="600">
+<img src="./img/sprint1_evidence_13.png" width="100%" height="100%">
 
-<img src="./img/sprint1_evidence_12.png" width="900" height="500">
+<img src="./img/sprint1_evidence_12.png" width="100%" height="100%">
 
 ### 5.2.3 Sprint 3
 
@@ -2018,7 +2018,7 @@ Link del Trello: https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b
 
 En esta fase de la entrega, el equipo de desarrollo de FinTeka ha completado satisfactoriamente la implementación de la interfaz del backend de la aplicación. La página incorpora secciones estructuradas que proporcionan una visión clara y detallada de las funcionalidades y características del producto.
 
-<img src="./img/swagger_sessions.png" width="900" height="600">
+<img src="./img/swagger_sessions.png" width="100%" height="100%">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -2180,22 +2180,25 @@ Recoger feedback sobre las herramientas de gestión de servicios (agenda, perfil
 
 ### 5.3.2 Registro de Entrevistas
 
-- Segmento 1: Personas Naturales
-- Entrevista 1:
-- Nombre: Sara Giovanna Qwistgaard Horna
-- Edad: 53
-- Distrito: San Miguel
+#### Segmento 1: Personas Naturales
+
+##### Entrevista 1:
+
+- **Nombre:** Sara Giovanna Qwistgaard Horna
+- **Edad:** 53
+- **Distrito:** San Miguel
   
 <img src="./img/Entrevista - Validación - Sara.png" width="858" height="480">
 
-**Link**: [**Entrevista \- Sara Qwistgaard**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EdcWGl-qMnpJlAV98L1635gBi0Bx7avDc7XL5r1Vits_qA?e=xa5WaZ)
+**Link: [**Entrevista \- Sara Qwistgaard](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EdcWGl-qMnpJlAV98L1635gBi0Bx7avDc7XL5r1Vits_qA?e=xa5WaZ)**
 
 Anteriormente, la señora Sara Qwistgaard menciona que buscaba asesoría en el área de marketing. Ahora, luego de usar la aplicación, nos cuenta los problemas y virtudes que encontro con nuestro servicio, reflejando que nos falta para terminar este proyecto. 
 
-- Entrevista 2:
-- Nombre: Orlando Romero Flores
-- Edad: 59
-- Distrito: San Miguel
+##### Entrevista 2:
+
+- **Nombre:** Orlando Romero Flores
+- **Edad:** 59
+- **Distrito:** San Miguel
   
 <img src="./img/Entrevista - Validación - Orlando.png" width="858" height="480">
 
@@ -2203,10 +2206,11 @@ Anteriormente, la señora Sara Qwistgaard menciona que buscaba asesoría en el �
 
 El entrevistado Orlando Romero, quien buscó asesoría para administración de equipos de redes, nos relata su experiencia al intentar utilizar la aplicación, demostrando de que, aunque funcional, todavía le falta bastante como para ser ideal para los clientes como él.
 
-- Entrevista 3:
-- Nombre: Ingrid Noelia Zabala Lasso
-- Edad: 33
-- Distrito: San Miguel
+##### Entrevista 3:
+
+- **Nombre:** Ingrid Noelia Zabala Lasso
+- **Edad:** 33
+- **Distrito:** San Miguel
   
 <img src="./img/Entrevista - Validación - Noelia.png" width="858" height="480">
 
@@ -2214,6 +2218,26 @@ El entrevistado Orlando Romero, quien buscó asesoría para administración de e
 
 La entrevistada buscaba asesoría en el área de defensoría médica para el tema legal de las prácticas médicas, y a utilizando nuestra aplicación, nos cuenta el cómo esta le ayudo en conseguirla, teniendo una recepción mayormente positiva de la misma.
 
+#### Segmento 2: Consultores y Profesionales
+
+##### Entrevista 4:
+
+- **Nombre:**
+- **Edad:** 
+- **Distrito:** 
+
+##### Entrevista 5:
+
+- **Nombre:** 
+- **Edad:** 
+- **Distrito:** 
+
+
+##### Entrevista 6:
+
+- **Nombre:** 
+- **Edad:** 
+- **Distrito:** 
 
 
 ### 5.3.3 Evaluaciones según heurísticas
@@ -2263,105 +2287,105 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 | Nº | Problema Detectado | Escala de Severidad | Heurística / Principio Violado |
 |----|---------------------|---------------------|---------------------------------|
-| 1 | El formulario de registro no valida en tiempo real si el correo ya existe | 2 | Usability: Flexibilidad y eficiencia de uso |
-| 2 | No se muestra confirmación clara al reservar una sesión. | 3 | Usability: Visibilidad del estado del sistema |
-| 3 | Las tarifas de los profesionales no se muestran desde el listado de búsqueda | 2 | Usability: Visibilidad del estado del sistema |
-| 4 | No hay forma de volver a la pantalla de búsqueda desde el proceso de reserva | 3 | Usability: Flexibilidad y eficiencia de uso |
-| 5 | El botón para calificar a un profesional tras la sesión no es visible o fácil de encontrar. | 3 | Usability: Flexibilidad y eficiencia de uso |
-| 6 | Las notificaciones no se diferencian visualmente generando confusión. | 2 | Usability: Visibilidad del estado del sistema |
-| 7 | El perfil del profesional no muestra la disponibilidad de fechas sin tener que navegar más | 2 | Usability: Flexibilidad y eficiencia de uso |
+| 1 | Registro de nuevos usuarios | 3 | Usability: Flexibilidad y eficiencia de uso |
+| 2 | Falta de confirmación al reservar una sesión | 2 | Usability: Visibilidad del estado del sistema |
+| 3 | Falta de filtros avanzados en la búsqueda de profesionales | 3 | Usability: Flexibilidad y eficiencia de uso |
+| 4 | Falta de criterios claros al valorar | 2 | Usability: Visibilidad del estado del sistema |
+| 5 | Falta de previsualización de cambios antes de guardar | 2 | Usability: Visibilidad del estado del sistema |
+| 6 | Notificaciones sin acción directa desde la alerta | 3 | Usability: Flexibilidad y eficiencia de uso |
+| 7 | Barra de búsqueda lateral con resultados limitados y sin sugerencias | 3 | Usability: Flexibilidad y eficiencia de uso |
 
 ### DESCRIPCIÓN DE PROBLEMAS:
 
 #### PROBLEMA #1: Registro de nuevos usuarios
 
-- **Severidad:** 2
+- **Severidad:** 3
 
 - **Heurística violada:** Flexibilidad y eficiencia de uso
 
 - **Problema:** Durante el registro, el sistema no valida en tiempo real si el correo ya ha sido usado. El usuario solo se entera del error después de enviar el formulario, lo que genera frustración y pérdida de tiempo.
 
-<img src="./img/heu1.png" width="1100" height="600">
+<img src="./img/RegistroFront.png" width="100%" height="100%">
 
 - **Recomendación:** Implementar validación en tiempo real del campo de correo electrónico, con mensajes claros y visibles para evitar el intento de registro con correos duplicados.
 
 #### PROBLEMA #2: Falta de confirmación al reservar una sesión
 
-- **Severidad:** 3
+- **Severidad:** 2
 
 - **Heurística violada:** Visibilidad del estado del sistema
 
 - **Problema:** Al reservar una sesión con un consultor, no se muestra un mensaje claro que confirme que la acción fue completada. Esto puede generar incertidumbre o reservas repetidas por parte del usuario.
 
-<img src="./img/heu2.png" width="1100" height="600">
+<img src="./img/ReservaFront.png" width="100%" height="100%">
 
 - **Recomendación:** Mostrar una confirmación inmediata al completar la reserva, incluyendo fecha, hora y nombre del profesional. También se puede incluir un acceso directo al historial de sesiones.
 
-#### PROBLEMA #3: Tarifas no visibles al buscar profesionales
-
-- **Severidad:** 2
-
-- **Heurística violada:** Visibilidad del estado del sistema
-
-- **Problema:** Las tarifas de los profesionales no son visibles en la vista previa de los resultados de búsqueda, lo que obliga a hacer clic en cada perfil para comparar precios.
-
-<img src="./img/heu3.png" width="1100" height="600">
-
-- **Recomendación:** Incluir la tarifa por sesión directamente en la tarjeta de cada profesional en los resultados de búsqueda para facilitar la comparación y la decisión del usuario.
-
-#### PROBLEMA #4: Imposibilidad de volver a la búsqueda desde la reserva
+#### PROBLEMA #3: Falta de filtros avanzados en la búsqueda de profesionales
 
 - **Severidad:** 3
 
 - **Heurística violada:** Flexibilidad y eficiencia de uso
 
-- **Problema:** Durante el flujo de reserva de una sesión, no existe un botón o acceso rápido que permita regresar fácilmente a la búsqueda anterior sin perder el progreso del carrito o filtros aplicados.
+- **Problema:**   La sección de Búsqueda de Profesionales y la Barra de búsqueda lateral no permiten aplicar filtros avanzados como especialidad, disponibilidad horaria, o valoración mínima.
 
-<img src="./img/heu4.png" width="1100" height="600">
+<img src="./img/BusquedaProfesionales.png" width="100%" height="100%">
 
-- **Recomendación:** Agregar un botón visible para volver al listado anterior con filtros conservados o abrir el proceso de reserva en una nueva pestaña.
+- **Recomendación:** Incorporar filtros que permitan refinar resultados según criterios clave, mejorando la experiencia de búsqueda.
 
-#### PROBLEMA #5: Difícil acceso a la opción de calificar al consultor
-
-- **Severidad:** 3
-
-- **Heurística violada:** Flexibilidad y eficiencia de uso
-
-- **Problema:** Una vez finalizada una sesión, el botón para calificar al profesional no se presenta de forma destacada, lo que reduce la participación del usuario en el sistema de calificaciones.
-
-<img src="./img/heu3.png" width="1100" height="600">
-
-- **Recomendación:** Mostrar una notificación o acceso directo desde el dashboard para calificar al consultor inmediatamente después de la sesión.
-
-#### PROBLEMA #6: Notificaciones poco diferenciadas
+#### PROBLEMA #4: Falta de criterios claros al valorar
 
 - **Severidad:** 2
 
 - **Heurística violada:** Visibilidad del estado del sistema
 
-- **Problema:** Las notificaciones del sistema (recordatorios, cancelaciones, mensajes) no presentan diferencias visuales claras, lo que puede generar confusión o desatención por parte del usuario.
+- **Problema:** Al dejar una valoración, no se indican claramente los criterios que se deben considerar.
 
-<img src="./img/heu6.png" width="1100" height="600">
+<img src="./img/Valoraciones.png" width="100%" height="100%">
 
-- **Recomendación:** Aplicar íconos distintivos y códigos de color para cada tipo de notificación (verde para confirmación, rojo para cancelación, azul para mensajes, etc.).
+- **Recomendación:** Incluir etiquetas o categorías orientadoras junto a la calificación. Esto ayuda al usuario a estructurar mejor su feedback y mejora la utilidad de las valoraciones.
 
-#### PROBLEMA #7: Falta de calendario visible en perfil del profesional
+#### PROBLEMA #5: Falta de previsualización de cambios antes de guardar
 
 - **Severidad:** 2
 
+- **Heurística violada:** Visibilidad del estado del sistema
+
+- **Problema:** Al modificar datos o subir una nueva foto en Editar Perfil, no se ofrece una vista previa de cómo quedará el perfil.
+
+<img src="./img/EditarPerfil.png" width="100%" height="100%">
+
+- **Recomendación:** Incluir una sección de previsualización que muestre cómo quedarán los cambios antes de confirmarlos, especialmente para la foto y campos visuales.
+
+#### PROBLEMA #6: Notificaciones sin acción directa desde la alerta
+
+- **Severidad:** 3
+
 - **Heurística violada:** Flexibilidad y eficiencia de uso
 
-- **Problema:** Al visitar el perfil de un profesional, no se visualiza directamente un calendario o resumen de disponibilidad, lo cual retrasa la planificación de sesiones.
+- **Problema:** Las notificaciones no incluyen enlaces o botones que permitan al usuario responder o acceder directamente al contenido relacionado.
+  
+<img src="./img/NotificacionesFront.png" width="100%" height="100%">
 
-<img src="./img/heu7.png" width="1100" height="600">
+- **Recomendación:** Agregar botones o enlaces en cada notificación para que el usuario pueda interactuar directamente, agilizando la experiencia.
 
-- **Recomendación:** Añadir un calendario miniatura o vista rápida con los horarios disponibles como parte del perfil del consultor, sin necesidad de avanzar al proceso de reserva.
+#### PROBLEMA #7: Barra de búsqueda lateral con resultados limitados y sin sugerencias
+
+- **Severidad:** 3
+
+- **Heurística violada:** Flexibilidad y eficiencia de uso
+
+- **Problema:** La barra de búsqueda lateral solo muestra un número limitado de resultados sin ofrecer sugerencias o correcciones para posibles errores tipográficos.
+
+<img src="./img/BusquedaFront.png" width="100%" height="100%">
+
+- **Recomendación:** Implementar sugerencias dinámicas y corrección automática de errores comunes, además de mostrar más resultados paginados o mediante scroll infinito.
 
 ### 5.3.4 Video About-the-Product
 
 En este breve video te mostramos cómo funciona FinTeka, para quién está pensada y cómo puede ayudarte a encontrar al experto ideal en tan solo unos pasos.
 
-Link del video:
+Link del video: [Disponible aquí]()
 
 ### Conclusiones y recomendaciones
 
@@ -2396,7 +2420,9 @@ Link del video:
 
 ### Video About-the-Team
 
-[Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EUg6WoJ7ROREgcGJ_JrZ-2cB9Es8mBlKXWiJdqw96yn73A?e=391fB2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Este video resume el trabajo realizado por el equipo Nova Asesores durante el proyecto, mostrando narración del proceso y testimonios individuales sobre las tareas realizadas, logros obtenidos y competencias desarrolladas.
+
+Link del video: [Disponible aquí]()
 
 ## Bibliografía
 
@@ -2435,10 +2461,17 @@ Link del video:
 ## Anexos
 
 #### Impact Mapping: [Disponible aquí](https://miro.com/app/board/uXjVIFzfVes=/?share_link_id=918091555760)
+
 #### Web Applications Wireframes [Disponible aquí](https://www.figma.com/design/3qhQohmZ9HITfayBaVMYxz/Device-Mockups-Library--100--devices----Community-?node-id=142-5&t=Ytq4jJfQ4IYo4nVj-1)
+
 #### Link Landing Page: [Disponible aquí](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka)
+
 #### Miro del Canva: [Disponible aquí](https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxvVFJuaElPR3JwWFNUU0hPODNkSHhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=236710430542)
+
 #### Video TB1: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EUg6WoJ7ROREgcGJ_JrZ-2cB9Es8mBlKXWiJdqw96yn73A?e=391fB2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+#### Video TB2: [Disponible aquí]()
+
 #### Trello de los sprints:
 
 - [Sprint 1](https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1)<br>
@@ -2460,3 +2493,14 @@ Link del video:
 - [Entrevista 5](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVIS%20%232%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6523c3e5%2Da67c%2D42be%2Daca3%2Def191d7b696a)<br>
 
 - [Entrevista 6](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTA%20%233%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E599e9ee2%2Dc53d%2D4f30%2Dbcea%2Deb16d35e9cc4)
+
+
+#### Entrevistas de validación:
+
+- [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EdcWGl-qMnpJlAV98L1635gBi0Bx7avDc7XL5r1Vits_qA?e=xa5WaZ)<br>
+
+- [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWIzSKpVwGRDmQPpYeX_TOwBVBsB-0XUOPYJwUDQI9ZcPA?e=Rie1vF)<br>
+
+- [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EahPQV6qJqZCh8rV1Vraa2sBwtG2KBw0nPjiXdxJctkHCg?e=3zqQeu)<br>
+
+
