@@ -1965,18 +1965,18 @@ Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka
 Link del Trello: https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f583262c8cdc4f4ED3A6617/sprint3
 <img src="./img/SprintBacklog3.png" width="900" height="600">
 
-| User Story | Work-Item / Task                      | Id   | Title                                         | Description                                                                                  | Estimation (Hours) | Assigned To                   | Student Code   | Status |
-|------------|---------------------------------------|------|-----------------------------------------------|----------------------------------------------------------------------------------------------|--------------------|--------------------------------|----------------|--------|
-| US03       | Buscar profesionales disponibles      | T01  | Búsqueda de servicios                         | Implementar búsqueda y filtros de disponibilidad para encontrar profesionales.              | 5                  | Sergio Aguirre Castillo        | U202310425     | Done   |
-| US01       | Registrar un profesional              | T02  | Registro de profesional                       | Formulario y lógica de backend para registro de consultores.                                | 4                  | Javier Murillo Mathias         | U202022211     | Done   |
-| US02       | Registrar un cliente                  | T03  | Registro de cliente                           | Registro de nuevos clientes con validaciones de email duplicado y datos requeridos.         | 4                  | Javier Murillo Mathias         | U202022211     | Done   |
-| -          | -                                     | T04  | Correcciones del sprint anterior              | Refactor de errores previos y ajustes de bugs reportados.                                   | 3                  | Equipo                         | -              | Done   |
-| -          | -                                     | T05  | Desarrollo del Backend                        | Integración de funcionalidades clave (servicios, sesiones, perfiles).                       | 6                  | Russell Romero Qwistgaard      | U202211043     | Done   |
-| US04       | Recibir notificaciones de disponibilidad | T06  | Notificaciones de disponibilidad              | Envío de alertas a usuarios cuando los profesionales actualizan su disponibilidad.          | 4                  | Russell Romero Qwistgaard      | U202211043     | Done   |
-| US08       | Actualizar perfil de usuario          | T07  | Actualizar perfil                             | Permitir a usuarios editar sus datos personales y preferencias.                             | 4                  | Sergio Aguirre Castillo        | U202310425     | Done   |
-| -          | -                                     | T08  | Hacer el Landing Page responsiva              | Ajustes de estilo y diseño adaptable para la página principal.                              | 3                  | Oshiro Yamashita Daiki Oscar   | U20201F846     | Done   |
-| -          | -                                     | T09  | Agregar las secciones faltantes al Landing Page | Completar contenido y estructura de la landing page con base en requerimientos iniciales. | 3                  | Oshiro Yamashita Daiki Oscar   | U20201F846     | Done   |
-| US07       | Calificar a un profesional            | T10  | Calificar un profesional                      | Implementar sistema de puntuación y comentarios post-sesión.                                | 3                  | Russell Romero Qwistgaard      | U202211043     | Done   |
+| User Story | Work-Item / Task                      | Id   | Title                                           | Description                                                                                   | Estimation (Hours) | Assigned To                    | Student Code   | Status |
+|------------|---------------------------------------|------|-------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------|----------------------------------|----------------|--------|
+| US03       | Buscar profesionales disponibles      | T01  | Búsqueda de servicios                           | Implementar búsqueda y filtros de disponibilidad para encontrar profesionales.               | 5                  | Sergio Aguirre Castillo         | U202310425     | Done   |
+| US01       | Registrar un profesional              | T01  | Registro de profesional                         | Formulario y lógica de backend para registro de consultores.                                 | 4                  | Javier Murillo Mathias          | U202022211     | Done   |
+| US02       | Registrar un cliente                  | T01  | Registro de cliente                             | Registro de nuevos clientes con validaciones de email duplicado y datos requeridos.          | 4                  | Javier Murillo Mathias          | U202022211     | Done   |
+|            |                                       | T02  | Correcciones del sprint anterior                | Refactor de errores previos y ajustes de bugs reportados.                                    | 3                  | Equipo                          | -              | Done   |
+|            |                                       | T03  | Desarrollo del Backend                          | Integración de funcionalidades clave (servicios, sesiones, perfiles).                        | 6                  | Russell Romero Qwistgaard       | U202211043     | Done   |
+| US04       | Recibir notificaciones de disponibilidad | T01 | Notificaciones de disponibilidad                | Envío de alertas a usuarios cuando los profesionales actualizan su disponibilidad.           | 4                  | Russell Romero Qwistgaard       | U202211043     | Done   |
+| US08       | Actualizar perfil de usuario          | T01  | Actualizar perfil                               | Permitir a usuarios editar sus datos personales y preferencias.                              | 4                  | Sergio Aguirre Castillo         | U202310425     | Done   |
+|            |                                       | T02  | Hacer el Landing Page responsiva                | Ajustes de estilo y diseño adaptable para la página principal.                               | 3                  | Oshiro Yamashita Daiki Oscar    | U20201F846     | Done   |
+|            |                                       | T03  | Agregar las secciones faltantes al Landing Page | Completar contenido y estructura de la landing page con base en requerimientos iniciales.    | 3                  | Oshiro Yamashita Daiki Oscar    | U20201F846     | Done   |
+| US07       | Calificar a un profesional            | T01  | Calificar un profesional                        | Implementar sistema de puntuación y comentarios post-sesión.                                 | 3                  | Russell Romero Qwistgaard       | U202211043     | Done   |
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
@@ -1991,7 +1991,21 @@ Link del Trello: https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b
 
 #### 5.2.3.5. Execution Evidence for Sprint Review 
 
+En esta fase de la entrega, el equipo de desarrollo de FinTeka ha completado satisfactoriamente la implementación de la interfaz del backend de la aplicación. La página incorpora secciones estructuradas que proporcionan una visión clara y detallada de las funcionalidades y características del producto.
+
+<img src="./img/swagger_sessions.png" width="900" height="600">
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En este sprint, hemos logrado desplegar una aplicación web que consume datos en formato JSON para mostrarlos al usuario. A continuación, se presenta el código correspondiente a dicha aplicación:
+
+| Endpoint                     | Acción                         | Método HTTP | Sintaxis de llamada          | Parámetros                          | URL Swagger                                  |
+|------------------------------|-------------------------------|-------------|-----------------------------|------------------------------------|----------------------------------------------|
+| `/sessions`                  | Crear sesión                   | POST        | `/sessions`                 | Body: detalles de sesión            | `http://localhost:8080/swagger-ui/index.html` |
+| `/sessions/reserve`          | Reservar una sesión            | POST        | `/sessions/reserve`         | Body: id_sesión, id_usuario         | `http://localhost:8080/swagger-ui/index.html` |
+| `/sessions/available`        | Consultar sesiones disponibles| GET         | `/sessions/available`       | Query: fecha, id_profesional        | `http://localhost:8080/swagger-ui/index.html` |
+
+
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
