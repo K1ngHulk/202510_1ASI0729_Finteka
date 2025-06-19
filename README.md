@@ -1963,7 +1963,7 @@ Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka
 #### 5.2.3.3. Sprint Backlog 3
 
 Link del Trello: https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f583262c8cdc4f4ED3A6617/sprint3
-
+<img src="./img/SprintBacklog3.png" width="900" height="600">
 #### 5.2.3.4. Development Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
