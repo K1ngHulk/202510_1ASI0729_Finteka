@@ -1851,13 +1851,30 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 <img src="./img/sprint1_evidence_14.png" width="700" height="200">
 
-Implementación del front-end: Se diseñó y desarrolló la aplicación de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
+## Login & Register: 
+<img src="./img/LoginFront.png" width="100%" height="100%">
+<img src="./img/RegistroFront.png" width="100%" height="100%">
 
-<img src="./img/sprint1_evidence_17.png" width="900" height="600">
+## Barra de búsqueda lateral:
+<img src="./img/BusquedaFront.png" width="100%" height="100%">
 
-Imágenes del front-end:
+## Búsqueda de Profesionales:
+<img src="./img/BusquedaProfesionales.png" width="100%" height="100%">
 
-<img src="./img/sprint1_evidence_17.png" width="900" height="600">
+## NotificacionesFront:
+<img src="./img/NotificacionesFront.png" width="100%" height="100%">
+
+## Perfil:
+<img src="./img/PerfilFront.png" width="100%" height="100%">
+
+## Editar Perfil:
+<img src="./img/EditarPerfil.png" width="100%" height="100%">
+
+## Reservas:
+<img src="./img/ReservaFront.png" width="100%" height="100%">
+
+## Valoraciones:
+<img src="./img/Valoraciones.png" width="100%" height="100%">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -1865,7 +1882,15 @@ Imágenes del front-end:
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-
+<img src="./img/LoginFront.png" width="100%" height="100%">
+<img src="./img/RegistroFront.png" width="100%" height="100%">
+<img src="./img/BusquedaFront.png" width="100%" height="100%">
+<img src="./img/BusquedaProfesionales.png" width="100%" height="100%">
+<img src="./img/NotificacionesFront.png" width="100%" height="100%">
+<img src="./img/PerfilFront.png" width="100%" height="100%">
+<img src="./img/EditarPerfil.png" width="100%" height="100%">
+<img src="./img/ReservaFront.png" width="100%" height="100%">
+<img src="./img/Valoraciones.png" width="100%" height="100%">
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
