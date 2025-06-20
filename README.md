@@ -2180,9 +2180,9 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 ##### Endpoints del back-end:
 
-<img src="./img/swaggerui.png" width="100%" height="100%">
+<img src="./img/swaggerui.jpeg" width="100%" height="100%">
 
-<img src="./img/squemasui.png" width="100%" height="100%">
+<img src="./img/squemasui.jpeg" width="100%" height="100%">
 
 <img src="./img/swagger_sessions2.png" width="100%" height="100%">
 
