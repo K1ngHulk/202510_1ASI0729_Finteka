@@ -2440,6 +2440,8 @@ La entrevistada buscaba asesoría en el área de defensoría médica para el tem
 
 **Link: [Entrevista \- Kaled Arellano](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Ec8idwwgk9NDuuNmKqgJR3IBOoUDrZ9CrDapsvUj_nRCgw?e=22VQZO)**
 
+La entrevistada propuso como mejora la implementación de una función que permita guardar servicios o asesorías como “favoritos”, para acceder a ellos fácilmente más adelante. Consideró que esto ayudaría a los usuarios a organizar mejor las opciones que les interesan y a tomar decisiones con mayor claridad, especialmente si están comparando entre varias alternativas.
+
 ##### Entrevista 5:
 
 - **Nombre:** Augusto Montes
@@ -2450,12 +2452,19 @@ La entrevistada buscaba asesoría en el área de defensoría médica para el tem
 
 **Link: [Entrevista \- Augusto Montes](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/EckIcshih4FDt6eFztsxWT4B6USc-q5iHlc-101nclGNNQ?e=cM7sTv)**
 
+La entrevistada comentó que una de las funcionalidades más interesantes de la aplicación fue su capacidad para identificar patrones de uso entre los usuarios. Gracias a esto, fue posible detectar cuáles personas mostraban mayor compromiso con el servicio, lo que abre la posibilidad de ofrecerles un modelo de suscripción enfocado en quienes tienen mayor potencial de convertirse en clientes a largo plazo.
+
 ##### Entrevista 6:
 
-- **Nombre:** 
-- **Edad:** 
-- **Distrito:** 
+- **Nombre:** Maria Fernanda Castillo
+- **Edad:** 21
+- **Distrito:** Los Olivos 
 
+![image](https://github.com/user-attachments/assets/7e37248e-688b-49e2-be2a-f7fb3fc24acf)
+
+**Link: [Entrevista \- Maria Fernanda Castillo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ERcR626z_F5FipWIxFr_shIByPKZqNWMansf_Z82kjq3Gw?e=gIvCPa)**
+
+La entrevistada destacó que una de las funciones que más le ayudó al usar nuestra aplicación fueron las notificaciones sonoras, ya que le permitieron mantenerse informada en tiempo real sin necesidad de estar revisando constantemente. Gracias a esto, pudo recibir la asesoría legal que necesitaba de manera oportuna, valorando positivamente su experiencia con la plataforma.
 
 ### 5.3.3 Evaluaciones según heurísticas
 
