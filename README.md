@@ -782,6 +782,8 @@ Impact map de nuestros segmentos objetivos:
 
 <img src="./img/imp.png" width="100%" height="100%">
 
+Link del Impact Mapping: [Disponible aquí](https://miro.com/app/board/uXjVIFzfVes=/?share_link_id=918091555760)
+
 ## 3.4. Product Backlog
 
 Utilizamos la escala de Fibonacci para la estimación de los Story Points.
@@ -1396,7 +1398,7 @@ El objetivo principal del Sprint 1 fue establecer la base del proyecto FinTeka, 
 
 A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto con el enlace público correspondiente:
 
-Link del Trello: https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1
+[Link del Trello](https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1)<br>
 
 <img src="./img/trello1.png" width="100%" height="100%">
 
@@ -1534,7 +1536,7 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
 
-Link de la Landing Page: https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/
+[Link de la Landing Page](https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/)<br>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1572,7 +1574,7 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
 
-Evidencia del despliegue: https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/ 
+[Evidencia del despliegue]( https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -1723,7 +1725,7 @@ El objetivo principal del Sprint 2 fue implementar funcionalidades clave para la
 
 A continuación se presenta un screenshot del Board de Sprint 2 en Trello, junto con el enlace público correspondiente:
 
-Link del Trello: https://trello.com/invite/b/683932529cb1d8f20c3ca2c2/ATTI4e1ba0be018690215bee933f1975b81dDF274A2E/sprint2
+[Link del Trello](https://trello.com/invite/b/683932529cb1d8f20c3ca2c2/ATTI4e1ba0be018690215bee933f1975b81dDF274A2E/sprint2)<br>
 
 <img src="./img/trello2.png" width="900" height="600">
 
@@ -1827,7 +1829,7 @@ Link del Trello: https://trello.com/invite/b/683932529cb1d8f20c3ca2c2/ATTI4e1ba0
 
 En el presente sprint se logró desarrollar la primera versión de la Web Application de nuestra plataforma. La interfaz implementada busca reflejar de manera clara y funcional los objetivos de Finteka, así como facilitar la interacción del usuario con las principales funcionalidades del sistema. Se prioriza una experiencia intuitiva, acompañada de un diseño coherente con la identidad visual de la marca y de elementos visuales (assets) que complementan y enriquecen la navegación. Todo esto con el fin de ofrecer una plataforma atractiva, accesible y alineada con las necesidades de nuestros usuarios.
 
-[https://github.com/K1ngHulk/202510\_1ASI0729\_WebApplication\_Finteka/graphs/commit-activity](https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka/graphs/commit-activity)
+[Link del repositorio Commits](https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka/commits/main/)
 
 
 | Repository | Branch             | Commit Id | Commit Message                                | Commit Message Body                | Commited on (Date) |
@@ -1851,29 +1853,29 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 <img src="./img/sprint1_evidence_14.png" width="100%" height="100%">
 
-## Login & Register: 
+#### Login & Register: 
 <img src="./img/LoginFront.png" width="100%" height="100%">
 <img src="./img/RegistroFront.png" width="100%" height="100%">
 
-## Barra de búsqueda lateral:
+#### Barra de búsqueda lateral:
 <img src="./img/BusquedaFront.png" width="100%" height="100%">
 
-## Búsqueda de Profesionales:
+#### Búsqueda de Profesionales:
 <img src="./img/BusquedaProfesionales.png" width="100%" height="100%">
 
-## Notificaciones:
+#### Notificaciones:
 <img src="./img/NotificacionesFront.png" width="100%" height="100%">
 
-## Perfil:
+#### Perfil:
 <img src="./img/PerfilFront.png" width="100%" height="100%">
 
-## Editar Perfil:
+#### Editar Perfil:
 <img src="./img/EditarPerfil.png" width="100%" height="100%">
 
-## Reservas:
+#### Reservas:
 <img src="./img/ReservaFront.png" width="100%" height="100%">
 
-## Valoraciones:
+#### Valoraciones:
 <img src="./img/Valoraciones.png" width="100%" height="100%">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
@@ -1978,32 +1980,162 @@ Durante el Sprint 2, el equipo de FinTeka organizó el desarrollo del frontend u
 
 Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka para cada aspecto clave del Sprint 3, con el objetivo de mejorar la coordinación y eficiencia del trabajo. Los aspectos seleccionados responden a tareas prioritarias como validación con usuarios, evaluación de heurísticas y elaboración de videos del proyecto.
 
-| Team Member | Github Username | Sprint 3 | Entrevistas de Validación | Evaluaciones según heurísticas | Video About-the-Team  | Video About-the-Product  | Backend |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Javier Murillo Mathias | K1ngHulk | C | C | L | C | L | C |
-| Oshiro Yamashita Daiki Oscar | DaikiOY | L | C | C | C | C | C |
-| Aguirre Castillo Sergio Cesar | Aguirrat157 | C | L | C | C | C | C |
-| Romero Qwistgaard Russel Stephen | RussellUPC | C | C | C | L | C | L |
+| Team Member                   | Github Username | Sprint 3 | Validation Interviews | Heuristic Evaluations | Session Management | Notifications | Sidebar Search | Profiles |
+|------------------------------|-----------------|----------|----------------------|----------------------|--------------------|---------------|----------------|----------|
+| Javier Murillo Mathias        | K1ngHulk       | C        | C                    | L                    | C                  | C             | L              | C        |
+| Oshiro Yamashita Daiki Oscar | DaikiOY         | L        | C                    | C                    | L                  | C             | C              | C        |
+| Aguirre Castillo Sergio Cesar| Aguirrat157     | C        | L                    | C                    | C                  | C             | C              | C        |
+| Romero Qwistgaard Russel Stephen | RussellUPC  | C        | C                    | C                    | C                  | L             | C              | L        |
+
+
 
 #### 5.2.3.3. Sprint Backlog 3
 
-Link del Trello: https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f583262c8cdc4f4ED3A6617/sprint3
+El objetivo principal del Sprint 3 fue fortalecer la lógica del backend de la plataforma FinTeka, implementando funcionalidades clave relacionadas con la creación y reserva de sesiones, el manejo de agendas por parte de los profesionales, la gestión de usuarios y validaciones de datos. Durante este sprint se trabajó también en la integración de servicios REST, controladores, pruebas, y se afinaron aspectos esenciales del flujo de negocio desde el servidor.
+
+A continuación se presenta un screenshot del Board de Sprint 3 en Trello, junto con el enlace público correspondiente:
+
+[Link del Trello](https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f583262c8cdc4f4ED3A6617/sprint3)<br>
+
 <img src="./img/SprintBacklog3.png" width="900" height="600">
 
-| User Story | Work-Item / Task                      | Id   | Title                                           | Description                                                                                   | Estimation (Hours) | Assigned To                    | Student Code   | Status |
-|------------|---------------------------------------|------|-------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------|----------------------------------|----------------|--------|
-| US03       | Buscar profesionales disponibles      | T01  | Búsqueda de servicios                           | Implementar búsqueda y filtros de disponibilidad para encontrar profesionales.               | 5                  | Sergio Aguirre Castillo         | U202310425     | Done   |
-| US01       | Registrar un profesional              | T01  | Registro de profesional                         | Formulario y lógica de backend para registro de consultores.                                 | 4                  | Javier Murillo Mathias          | U202022211     | Done   |
-| US02       | Registrar un cliente                  | T01  | Registro de cliente                             | Registro de nuevos clientes con validaciones de email duplicado y datos requeridos.          | 4                  | Javier Murillo Mathias          | U202022211     | Done   |
-|            |                                       | T02  | Correcciones del sprint anterior                | Refactor de errores previos y ajustes de bugs reportados.                                    | 3                  | Equipo                          | -              | Done   |
-|            |                                       | T03  | Desarrollo del Backend                          | Integración de funcionalidades clave (servicios, sesiones, perfiles).                        | 6                  | Russell Romero Qwistgaard       | U202211043     | Done   |
-| US04       | Recibir notificaciones de disponibilidad | T01 | Notificaciones de disponibilidad                | Envío de alertas a usuarios cuando los profesionales actualizan su disponibilidad.           | 4                  | Russell Romero Qwistgaard       | U202211043     | Done   |
-| US08       | Actualizar perfil de usuario          | T01  | Actualizar perfil                               | Permitir a usuarios editar sus datos personales y preferencias.                              | 4                  | Sergio Aguirre Castillo         | U202310425     | Done   |
-|            |                                       | T02  | Hacer el Landing Page responsiva                | Ajustes de estilo y diseño adaptable para la página principal.                               | 3                  | Oshiro Yamashita Daiki Oscar    | U20201F846     | Done   |
-|            |                                       | T03  | Agregar las secciones faltantes al Landing Page | Completar contenido y estructura de la landing page con base en requerimientos iniciales.    | 3                  | Oshiro Yamashita Daiki Oscar    | U20201F846     | Done   |
-| US07       | Calificar a un profesional            | T01  | Calificar un profesional                        | Implementar sistema de puntuación y comentarios post-sesión.                                 | 3                  | Russell Romero Qwistgaard       | U202211043     | Done   |
+<table align="center" border="1" width="100%" style="text-align:center;">
+  <tr align="left">
+    <th>User Story</th>
+    <th>Work-Item / Task</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Student Code</th>
+    <th>Status</th>
+  </tr>
+
+  <!-- US01 -->
+  <tr align="left">
+    <td rowspan="1">US01</td>
+    <td>Registrar un profesional</td>
+    <td>T01</td>
+    <td>Registro de profesional</td>
+    <td>Formulario y lógica de backend para registro de consultores.</td>
+    <td>4</td>
+    <td>Mathias Javier Murillo</td>
+    <td>U202022211</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US02 -->
+  <tr align="left">
+    <td rowspan="3">US02</td>
+    <td rowspan="3">Registrar un cliente</td>
+    <td>T01</td>
+    <td>Registro de cliente</td>
+    <td>Registro de nuevos clientes con validaciones de email duplicado y datos requeridos.</td>
+    <td>4</td>
+    <td>Mathias Javier Murillo</td>
+    <td>U202022211</td>
+    <td>Done</td>
+  </tr>
+  <tr align="left">
+    <td>T02</td>
+    <td>Correcciones del sprint anterior</td>
+    <td>Refactor de errores previos y ajustes de bugs reportados.</td>
+    <td>3</td>
+    <td>Todo el equipo de FinTeka</td>
+    <td>-</td>
+    <td>Done</td>
+  </tr>
+  <tr align="left">
+    <td>T03</td>
+    <td>Desarrollo del Backend</td>
+    <td>Integración de funcionalidades clave (servicios, sesiones, perfiles).</td>
+    <td>6</td>
+    <td>Russell Romero Qwistgaard</td>
+    <td>U202211043</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US03 -->
+  <tr align="left">
+    <td rowspan="1">US03</td>
+    <td>Buscar profesionales disponibles</td>
+    <td>T01</td>
+    <td>Búsqueda de servicios</td>
+    <td>Implementar búsqueda y filtros de disponibilidad para encontrar profesionales.</td>
+    <td>5</td>
+    <td>Sergio Aguirre Castillo</td>
+    <td>U202310425</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US04 -->
+  <tr align="left">
+    <td rowspan="1">US04</td>
+    <td>Recibir notificaciones de disponibilidad</td>
+    <td>T01</td>
+    <td>Notificaciones de disponibilidad</td>
+    <td>Envío de alertas a usuarios cuando los profesionales actualizan su disponibilidad.</td>
+    <td>4</td>
+    <td>Russell Romero Qwistgaard</td>
+    <td>U202211043</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US07 -->
+  <tr align="left">
+    <td rowspan="1">US07</td>
+    <td>Calificar a un profesional</td>
+    <td>T01</td>
+    <td>Calificar un profesional</td>
+    <td>Implementar sistema de puntuación y comentarios post-sesión.</td>
+    <td>3</td>
+    <td>Russell Romero Qwistgaard</td>
+    <td>U202211043</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US08 -->
+  <tr align="left">
+    <td rowspan="1">US08</td>
+    <td>Actualizar perfil de usuario</td>
+    <td>T01</td>
+    <td>Actualizar perfil</td>
+    <td>Permitir a usuarios editar sus datos personales y preferencias.</td>
+    <td>4</td>
+    <td>Sergio Aguirre Castillo</td>
+    <td>U202310425</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US09 -->
+  <tr align="left">
+    <td rowspan="2">US09</td>
+    <td rowspan="2">Gestión de sesiones</td>
+    <td>T01</td>
+    <td>Generar una reserva</td>
+    <td>Permitir que el cliente seleccione una sesión disponible y la reserve.</td>
+    <td>4</td>
+    <td>Daiki Oshiro Yamashitad</td>
+    <td>U202211043</td>
+    <td>Done</td>
+  </tr>
+  <tr align="left">
+    <td>T02</td>
+    <td>Crear sesión del profesional</td>
+    <td>Permitir a los profesionales crear sus horarios de disponibilidad para sesiones.</td>
+    <td>4</td>
+    <td>Daiki Oshiro Yamashita</td>
+    <td>U202022211</td>
+    <td>Done</td>
+  </tr>
+</table>
 
 #### 5.2.3.4. Development Evidence for Sprint Review
+
+En el presente Sprint 3 se avanzó significativamente en el desarrollo del backend de la plataforma FinTeka. Se implementaron funcionalidades clave para la gestión de usuarios, sesiones y reservas, además de la integración de servicios REST que permiten la comunicación eficiente entre frontend y backend. También se trabajó en la validación de datos, manejo de errores y aseguramiento de la integridad de los procesos de negocio, preparando la base para futuras funcionalidades y escalabilidad.
+
+[Link del repositorio Commits](https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka/commits/main/)
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
@@ -2012,13 +2144,23 @@ Link del Trello: https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b
 |            |main| 090c4fa | add the video section about the team and about the product | added content in the section Home | 30/05/2025 |
 |Web Services|main| 52e6baf | Initial commit | created the web services content | 30/05/2025 |
 |Web Services|main| 7a2645c | creation of web services and creation of the snakecasephysicalnamingstrategy | created the snakecasephysicalnamingstrategy | 30/05/2025 |
-
+|Web Services|session-management| ec57447 | Add files via upload | added session-management files | 16/06/2025 |
+|Web Services|session-management| 269426d | Create SessionEntity.java | created the SessionEntity | 16/06/2025 |
+|Web Services|session-management| 351c9a3 | Create maven-wrapper.properties | created the maven-wrapper | 16/06/2025 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review 
 
-En esta fase de la entrega, el equipo de desarrollo de FinTeka ha completado satisfactoriamente la implementación de la interfaz del backend de la aplicación. La página incorpora secciones estructuradas que proporcionan una visión clara y detallada de las funcionalidades y características del producto.
+Durante el tercer sprint, se lograron varios hitos importantes en el desarrollo del back-end para Finteka. A continuación, se presenta un resumen de los logros alcanzados:
+
+Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
+
+<img src="./img/repos.png" width="100%" height="100%">
+
+##### Gestion de sesiones:
 
 <img src="./img/swagger_sessions.png" width="100%" height="100%">
+
+<img src="./img/swagger_sessions2.png" width="100%" height="100%">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -2031,14 +2173,54 @@ En este sprint, hemos logrado desplegar una aplicación web que consume datos en
 | `/sessions/available`        | Consultar sesiones disponibles| GET         | `/sessions/available`       | Query: fecha, id_profesional        | `http://localhost:8080/swagger-ui/index.html` |
 
 
-
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend siguiendo la metodología GitFlow, utilizando ramas por bounded-context. Esto permitió trabajar de forma paralela en distintos servicios como notificaciones, sesiones y perfiles, facilitando la integración progresiva. Cada miembro gestionó sus tareas y revisiones mediante pull requests en GitHub, asegurando control de calidad y colaboración eficiente
 
-| Author           | Task completed                                |
-|------------------|-----------------------------------------------|
+<table border="1" width="100%" style="text-align:left;">
+  <tr>
+    <th>Author</th>
+    <th>Tasks Completed</th>
+  </tr>
+  <tr>
+    <td>Mathias Javier</td>
+    <td>
+      - Update landing page<br>
+      - Update front-end
+    </td>
+  </tr>
+  <tr>
+    <td>Daiki Oshiro</td>
+    <td>
+      - Update document<br>
+      - Added session-management endpoint
+    </td>
+  </tr>
+  <tr>
+    <td>Sergio Aguirre</td>
+    <td>
+      - Added rating endpoint<br>
+      - Added search endpoint
+    </td>
+  </tr>
+  <tr>
+    <td>Russell Romero</td>
+    <td>
+      - Added notifications endpoint<br>
+      - Added profile endpoint
+    </td>
+  </tr>
+</table>
+
+<img src="./img/ev1.png" width="100%" height="100%">
+
+<img src="./img/ev2.png" width="100%" height="100%">
+
+<img src="./img/ev3.png" width="100%" height="100%">
 
 ## 5.3 Validation Interviews
 
