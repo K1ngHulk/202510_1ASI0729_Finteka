@@ -11,7 +11,7 @@
 
 <br>
 
-<h1 align="center"> TP1 Report </h1>
+<h1 align="center"> TB2 Report </h1>
 
 <h3 align="center"> Desarrollo de Aplicaciones Open Source - 4348 </h3>
 
