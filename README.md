@@ -2732,8 +2732,9 @@ Link del video: [Disponible aquí]()
 
 - [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EahPQV6qJqZCh8rV1Vraa2sBwtG2KBw0nPjiXdxJctkHCg?e=3zqQeu)<br>
 
-- [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Ec8idwwgk9NDuuNmKqgJR3IBOoUDrZ9CrDapsvUj_nRCgw?e=22VQZO)<br>
+- [Entrevista 4](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20%2D%20Kaled%20Arrellano%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eda103fc9%2D9709%2D49ca%2D837a%2Da91b23d433ef)<br>
 
-- [Entrevista 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/EckIcshih4FDt6eFztsxWT4B6USc-q5iHlc-101nclGNNQ?e=cM7sTv)<br>
+- [Entrevista 5](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%202%20%2D%20Augusto%20Montes%20%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E24be4629%2D73b6%2D4aa7%2D8dc9%2D205f38776275)<br>
 
+- [Entrevista 6](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%203%20%2DMaria%20Fernanda%20Castillo%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E98fbbccd%2D05d1%2D4001%2D85cd%2D267f7fb3494f)<br>
 
