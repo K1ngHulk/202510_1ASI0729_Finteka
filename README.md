@@ -2165,10 +2165,10 @@ En el presente Sprint 3 se avanzó significativamente en el desarrollo del backe
 |            |main| b714b09 | Feedback correction | update content in the scripts section | 28/05/2025 |
 |            |main| 090c4fa | add the video section about the team and about the product | added content in the section Home | 30/05/2025 |
 |Web Services|main| 52e6baf | Initial commit | created the web services content | 30/05/2025 |
-|Web Services|main| 7a2645c | creation of web services and creation of the snakecasephysicalnamingstrategy | created the snakecasephysicalnamingstrategy | 30/05/2025 |
-|Web Services|session-management| ec57447 | Add files via upload | added session-management files | 16/06/2025 |
-|Web Services|session-management| 269426d | Create SessionEntity.java | created the SessionEntity | 16/06/2025 |
-|Web Services|session-management| 351c9a3 | Create maven-wrapper.properties | created the maven-wrapper | 16/06/2025 |
+| |main| 7a2645c | creation of web services and creation of the snakecasephysicalnamingstrategy | created the snakecasephysicalnamingstrategy | 30/05/2025 |
+| |session-management| ec57447 | Add files via upload | added session-management files | 16/06/2025 |
+| |session-management| 269426d | Create SessionEntity.java | created the SessionEntity | 16/06/2025 |
+| |session-management| 351c9a3 | Create maven-wrapper.properties | created the maven-wrapper | 16/06/2025 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review 
 
@@ -2178,9 +2178,11 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 <img src="./img/repos.png" width="100%" height="100%">
 
-##### Gestion de sesiones:
+##### Endpoints del back-end:
 
-<img src="./img/swagger_sessions.png" width="100%" height="100%">
+<img src="./img/swaggerui.png" width="100%" height="100%">
+
+<img src="./img/squemasui.png" width="100%" height="100%">
 
 <img src="./img/swagger_sessions2.png" width="100%" height="100%">
 
@@ -2205,7 +2207,7 @@ En este sprint, hemos logrado desplegar una aplicación web que consume datos en
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
-Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend siguiendo la metodología GitFlow, utilizando ramas por bounded-context. Esto permitió trabajar de forma paralela en distintos servicios como notificaciones, sesiones y perfiles, facilitando la integración progresiva. Cada miembro gestionó sus tareas y revisiones mediante pull requests en GitHub, asegurando control de calidad y colaboración eficiente
+Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend siguiendo la metodología GitFlow, utilizando ramas por endpoint. Esto permitió trabajar de forma paralela en distintos servicios como notificaciones, sesiones y perfiles, facilitando la integración progresiva. Cada miembro gestionó sus tareas y revisiones mediante pull requests en GitHub, asegurando control de calidad y colaboración eficiente
 
 <table border="1" width="100%" style="text-align:left;">
   <tr>
@@ -2722,5 +2724,9 @@ Link del video: [Disponible aquí]()
 - [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWIzSKpVwGRDmQPpYeX_TOwBVBsB-0XUOPYJwUDQI9ZcPA?e=Rie1vF)<br>
 
 - [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EahPQV6qJqZCh8rV1Vraa2sBwtG2KBw0nPjiXdxJctkHCg?e=3zqQeu)<br>
+
+- [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Ec8idwwgk9NDuuNmKqgJR3IBOoUDrZ9CrDapsvUj_nRCgw?e=22VQZO)<br>
+
+- [Entrevista 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/EckIcshih4FDt6eFztsxWT4B6USc-q5iHlc-101nclGNNQ?e=cM7sTv)<br>
 
 
