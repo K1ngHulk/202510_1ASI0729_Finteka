@@ -2600,6 +2600,8 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 En este breve video te mostramos cómo funciona FinTeka, para quién está pensada y cómo puede ayudarte a encontrar al experto ideal en tan solo unos pasos.
 
+<img src="./img/aproduct.png" width="100%" height="100%">
+
 Link del video: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EcygEa7XScBFtINvCnGpDV4BSFzu3jXYQjoOB3AcC9MxHA?e=bDaZNn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Conclusiones y recomendaciones
