@@ -1878,21 +1878,46 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 #### Valoraciones:
 <img src="./img/Valoraciones.png" width="100%" height="100%">
 
+#### db.json
+<img src="./img/databasejson.png" width="100%" height="100%">
+
+<img src="./img/databasejson2.png" width="100%" height="100%">
+
+<img src="./img/databasejson3.png" width="100%" height="100%">
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
 
+| Endpoint             | Acción                                   | Método HTTP | Sintaxis de llamada               | Parámetros                                | URL Swagger         |
+|----------------------|------------------------------------------|-------------|-----------------------------------|-------------------------------------------|----------------------|
+| /profesionales       | Obtener todos los profesionales          | GET         | /profesionales                    | —                                         | [Ver Swagger]()     |
+| /profesionales/{id}  | Obtener un profesional por ID            | GET         | /profesionales/{id}              | `id`: int                                 | [Ver Swagger]()     |
+| /profesionales       | Crear un nuevo profesional               | POST        | /profesionales                    | `nombre`, `email`, `telefono`, etc.       | [Ver Swagger]()     |
+| /profesionales/{id}  | Actualizar un profesional                | PUT         | /profesionales/{id}              | Datos a actualizar                         | [Ver Swagger]()     |
+| /profesionales/{id}  | Eliminar un profesional                  | DELETE      | /profesionales/{id}              | `id`: int                                 | [Ver Swagger]()     |
+
+| /clientes            | Obtener todos los clientes               | GET         | /clientes                         | —                                         | [Ver Swagger]()     |
+| /clientes/{id}       | Obtener un cliente por ID                | GET         | /clientes/{id}                   | `id`: int                                 | [Ver Swagger]()     |
+| /clientes            | Registrar nuevo cliente                  | POST        | /clientes                         | `nombre`, `email`, `telefono`             | [Ver Swagger]()     |
+
+| /notificaciones      | Obtener todas las notificaciones         | GET         | /notificaciones                   | —                                         | [Ver Swagger]()     |
+| /notificaciones/{id} | Marcar notificación como leída           | PUT         | /notificaciones/{id}             | `leida`: boolean                           | [Ver Swagger]()     |
+| /notificaciones      | Crear nueva notificación                 | POST        | /notificaciones                   | `mensaje`, `fecha`, `profesionalId`       | [Ver Swagger]()     |
+
+| /agenda              | Obtener toda la agenda                   | GET         | /agenda                           | —                                         | [Ver Swagger]()     |
+| /agenda/{id}         | Obtener un bloque horario específico     | GET         | /agenda/{id}                      | `id`: int                                 | [Ver Swagger]()     |
+| /agenda              | Crear nuevo bloque de agenda             | POST        | /agenda                           | `fechaInicio`, `fechaFin`, `profesionalId`| [Ver Swagger]()     |
+| /agenda/{id}         | Actualizar disponibilidad de agenda      | PUT         | /agenda/{id}                      | `disponible`, `clienteId` (opcional)      | [Ver Swagger]()     |
+
+| /sesiones            | Obtener todas las sesiones               | GET         | /sesiones                         | —                                         | [Ver Swagger]()     |
+| /sesiones/{id}       | Obtener una sesión por ID                | GET         | /sesiones/{id}                    | `id`: int                                 | [Ver Swagger]()     |
+| /sesiones            | Crear nueva sesión                       | POST        | /sesiones                         | `profesionalId`, `clienteId`, `fecha`, etc| [Ver Swagger]()     |
+| /sesiones/{id}       | Actualizar estado o notas de sesión      | PUT         | /sesiones/{id}                    | `estado`, `notas`                         | [Ver Swagger]()     |
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-<img src="./img/LoginFront.png" width="100%" height="100%">
-<img src="./img/RegistroFront.png" width="100%" height="100%">
-<img src="./img/BusquedaFront.png" width="100%" height="100%">
-<img src="./img/BusquedaProfesionales.png" width="100%" height="100%">
-<img src="./img/NotificacionesFront.png" width="100%" height="100%">
-<img src="./img/PerfilFront.png" width="100%" height="100%">
-<img src="./img/EditarPerfil.png" width="100%" height="100%">
-<img src="./img/ReservaFront.png" width="100%" height="100%">
-<img src="./img/Valoraciones.png" width="100%" height="100%">
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2161,6 +2186,10 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 <img src="./img/swagger_sessions.png" width="100%" height="100%">
 
 <img src="./img/swagger_sessions2.png" width="100%" height="100%">
+
+##### Database:
+
+<img src="./img/databasejson4.png" width="100%" height="100%">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
