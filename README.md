@@ -2177,9 +2177,25 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 <img src="./img/swagger_sessions2.png" width="100%" height="100%">
 
+![a4ccb2ff-800a-49e3-ba16-1d59823479d9](https://github.com/user-attachments/assets/5f78fc13-26df-47bd-8386-7ecac7c3dc8f)
+
+![cb009d07-0aaa-420e-b83e-f7a7b5e63a6a](https://github.com/user-attachments/assets/a7422730-0738-4519-a74f-70aa03ded74b)
+
+![bfc89ecc-b673-4c66-a686-71281b9af21a](https://github.com/user-attachments/assets/83983605-80ac-492e-a4c0-cb6465c8561a)
+
+![ac2b31ba-9fe7-4820-a93d-2a5f3d872606](https://github.com/user-attachments/assets/548ae1f1-49cb-415e-b1a3-022428bc55d7)
+
+![572bcc56-c001-4fdf-bccc-3c9347db1fef](https://github.com/user-attachments/assets/a8b3f18f-8702-4710-a5da-287846693935)
+
+![572bcc56-c001-4fdf-bccc-3c9347db1fef](https://github.com/user-attachments/assets/8f911522-8064-4b7f-b5b1-943c14d4dbe5)
+
+![a90ed9ec-d041-4982-84f2-22b61232aafe](https://github.com/user-attachments/assets/77915ba0-248c-427a-aaed-a42ef302b78f)
+
 ##### Database:
 
 <img src="./img/databasejson4.png" width="100%" height="100%">
+
+![7f527300-360f-483d-8bc1-604c3a16e52b](https://github.com/user-attachments/assets/0a3ac459-5b16-4dc1-88c5-1027a0d0eaee)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
