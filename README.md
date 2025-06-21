@@ -2197,11 +2197,19 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 En este sprint, hemos logrado desplegar una aplicación web que consume datos en formato JSON para mostrarlos al usuario. A continuación, se presenta el código correspondiente a dicha aplicación:
 
-| Endpoint                     | Acción                         | Método HTTP | Sintaxis de llamada          | Parámetros                          | URL Swagger                                  |
-|------------------------------|-------------------------------|-------------|-----------------------------|------------------------------------|----------------------------------------------|
-| `/sessions`                  | Crear sesión                   | POST        | `/sessions`                 | Body: detalles de sesión            | `http://localhost:8080/swagger-ui/index.html` |
-| `/sessions/reserve`          | Reservar una sesión            | POST        | `/sessions/reserve`         | Body: id_sesión, id_usuario         | `http://localhost:8080/swagger-ui/index.html` |
-| `/sessions/available`        | Consultar sesiones disponibles| GET         | `/sessions/available`       | Query: fecha, id_profesional        | `http://localhost:8080/swagger-ui/index.html` |
+| Endpoint                                  | Acción                               | Método HTTP | Sintaxis de llamada                     | Parámetros                                | URL Swagger                                             |
+|------------------------------------------|--------------------------------------|-------------|------------------------------------------|-------------------------------------------|---------------------------------------------------------|
+| /sessions                                | Crear sesión                         | POST        | /sessions                                | Body: detalles de sesión                  | http://localhost:8080/swagger-ui/index.html            |
+| /sessions/reserve                        | Reservar una sesión                  | POST        | /sessions/reserve                        | Body: id_sesión, id_usuario               | http://localhost:8080/swagger-ui/index.html            |
+| /sessions/available                      | Consultar sesiones disponibles       | GET         | /sessions/available                      | Query: fecha, id_profesional              | http://localhost:8080/swagger-ui/index.html            |
+| /profiles                                | Crear perfil                         | POST        | /profiles                                | Body: datos del perfil                    | http://localhost:8080/swagger-ui/index.html            |
+| /profiles                                | Obtener todos los perfiles           | GET         | /profiles                                | Ninguno                                   | http://localhost:8080/swagger-ui/index.html            |
+| /profiles/{id}                           | Obtener perfil por ID                | GET         | /profiles/{id}                           | Path: id                                  | http://localhost:8080/swagger-ui/index.html            |
+| /profiles/{id}                           | Actualizar perfil                    | PUT         | /profiles/{id}                           | Path: id, Body: datos del perfil          | http://localhost:8080/swagger-ui/index.html            |
+| /profiles/{id}                           | Eliminar perfil                      | DELETE      | /profiles/{id}                           | Path: id                                  | http://localhost:8080/swagger-ui/index.html            |
+| /api/notificaciones                      | Consultar notificaciones             | GET         | /api/notificaciones                      | Ninguno                                   | http://localhost:8080/swagger-ui/index.html            |
+| /api/notificaciones                      | Crear notificación                   | POST        | /api/notificaciones                      | Body: profesionalId, título, mensaje      | http://localhost:8080/swagger-ui/index.html            |
+| /api/notificaciones/{id}/read            | Marcar notificación como leída       | POST        | /api/notificaciones/{id}/read            | Path: id                                  | http://localhost:8080/swagger-ui/index.html            |
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
