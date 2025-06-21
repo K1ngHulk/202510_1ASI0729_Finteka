@@ -2677,7 +2677,7 @@ Link del video: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/pers
 
 Este video resume el trabajo realizado por el equipo Nova Asesores durante el proyecto, mostrando narración del proceso y testimonios individuales sobre las tareas realizadas, logros obtenidos y competencias desarrolladas.
 
-Link del video: [Disponible aquí]()
+Link del video: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWWk28W-GclFq-PVX_vynhwBHUWf_AAOeywu33OGBu-WcQ?e=2umqwC)
 
 ## Bibliografía
 
@@ -2728,6 +2728,8 @@ Link del video: [Disponible aquí]()
 #### Video TB2: [Disponible aquí]()
 
 #### Video About The Product: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EcygEa7XScBFtINvCnGpDV4BSFzu3jXYQjoOB3AcC9MxHA?e=bDaZNn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+#### Video About The Team: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWWk28W-GclFq-PVX_vynhwBHUWf_AAOeywu33OGBu-WcQ?e=2umqwC)
 
 
 #### Trello de los sprints:
