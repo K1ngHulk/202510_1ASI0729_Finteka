@@ -1900,7 +1900,13 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Deployamos la app usando Netlify.
 
+<img src="./img/q1.png" width="100%" height="100%">
+
+<img src="./img/w2.png" width="100%" height="100%">
+
+<img src="./img/w3.png" width="100%" height="100%">
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
