@@ -2143,7 +2143,9 @@ A continuación se presenta un screenshot del Board de Sprint 3 en Trello, junto
 
 En el presente Sprint 3 se avanzó significativamente en el desarrollo del backend de la plataforma FinTeka. Se implementaron funcionalidades clave para la gestión de usuarios, sesiones y reservas, además de la integración de servicios REST que permiten la comunicación eficiente entre frontend y backend. También se trabajó en la validación de datos, manejo de errores y aseguramiento de la integridad de los procesos de negocio, preparando la base para futuras funcionalidades y escalabilidad.
 
-[Link del repositorio Commits](https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka/commits/main/)
+[Link del repositorio Commits main](https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka/commits/main/)
+
+[Link del repositorio Commits session-management](https://github.com/RussellUPC/202510_1ASI0729_WebService_Finteka/commits/session-management/)
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
@@ -2155,6 +2157,9 @@ En el presente Sprint 3 se avanzó significativamente en el desarrollo del backe
 | |session-management| ec57447 | Add files via upload | added session-management files | 16/06/2025 |
 | |session-management| 269426d | Create SessionEntity.java | created the SessionEntity | 16/06/2025 |
 | |session-management| 351c9a3 | Create maven-wrapper.properties | created the maven-wrapper | 16/06/2025 |
+| |session-management| 568d0a3 | Update: Merge profile with sessions | created the profile and sessions endpoint | 19/06/2025 |
+| |session-management| e631689 | Update: Added Notification | created the notifications endpoint | 20/06/2025 |
+| |session-management| 9e22381 | Update: Notification | update the notifications endpoint | 20/06/2025 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review 
 
@@ -2234,7 +2239,9 @@ Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend si
 
 <img src="./img/ev2.png" width="100%" height="100%">
 
-<img src="./img/ev3.png" width="100%" height="100%">
+<img src="./img/evev.png" width="100%" height="100%">
+
+<img src="./img/evev2.png" width="100%" height="100%">
 
 ## 5.3 Validation Interviews
 
