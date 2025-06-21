@@ -2187,6 +2187,28 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 ![a90ed9ec-d041-4982-84f2-22b61232aafe](https://github.com/user-attachments/assets/77915ba0-248c-427a-aaed-a42ef302b78f)
 
+![6360ba08-aaaa-4f61-b1c4-bf99f87dfa9e](https://github.com/user-attachments/assets/248599bf-a403-45b6-88ca-48155621f438)
+
+![461de640-3c54-4311-8009-a36c244aff12](https://github.com/user-attachments/assets/b3bb0914-7ddf-480d-90dd-a772a63964f3)
+
+![dc285f6a-c57a-48aa-8db3-05015cc11221](https://github.com/user-attachments/assets/f6284b71-e022-4a14-85d3-8da54bea327d)
+
+![539bbfd8-0369-44b4-a533-deccd0260327](https://github.com/user-attachments/assets/29f62a46-a635-492e-be57-4601c161642b)
+
+![539bbfd8-0369-44b4-a533-deccd0260327](https://github.com/user-attachments/assets/ea065fa5-6613-45a1-a25a-340b3b43d01c)
+
+![f955ad69-49b3-4db0-aade-9e3a791e1155](https://github.com/user-attachments/assets/3210ddd3-b513-424a-a5ab-cd8356ec6a07)
+
+![b554ca38-8251-4824-b4af-eb05be4e1cf1](https://github.com/user-attachments/assets/832eacab-a38f-40c9-888b-e901e245bdfe)
+
+![d7a2792d-5163-4225-b190-95fee9e8f7e6](https://github.com/user-attachments/assets/b6b1a4c3-d5b0-42d1-9dde-9b0a417e91cc)
+
+![a7d2d763-1920-4908-9f05-3733db08b44c](https://github.com/user-attachments/assets/c99d8253-6abd-4d34-83df-f5ff9faedd49)
+
+![2a8fcc7f-9e4e-46d0-bcbe-bc1ba1b58357](https://github.com/user-attachments/assets/95343526-e04c-4258-9987-6812a6965eb5)
+
+![b8ac54c2-b2e6-447d-8e59-0fe73d373369](https://github.com/user-attachments/assets/d80d5fa0-ff31-437c-baa9-b7760d27a9f8)
+
 ##### Database:
 
 <img src="./img/databasejson4.png" width="100%" height="100%">
