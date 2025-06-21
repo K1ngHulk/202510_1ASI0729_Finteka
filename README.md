@@ -1900,7 +1900,7 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-![image](https://github.com/user-attachments/assets/806d92f0-8de9-4634-8eaa-cf71ea5a8a2e)
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2228,7 +2228,7 @@ En este sprint, hemos logrado desplegar una aplicación web que consume datos en
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-
+![image](https://github.com/user-attachments/assets/806d92f0-8de9-4634-8eaa-cf71ea5a8a2e)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
