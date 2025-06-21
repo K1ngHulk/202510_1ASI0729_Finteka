@@ -2725,7 +2725,7 @@ Link del video: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/pers
 
 #### Video TB1: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EUg6WoJ7ROREgcGJ_JrZ-2cB9Es8mBlKXWiJdqw96yn73A?e=391fB2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-#### Video TB2: [Disponible aquí]()
+#### Video TB2: [Disponible aquí](https://upcedupe-my.sharepoint.com/personal/u202211043_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211043%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D06%2D19%2000%2D16%2D47%2Emkv&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E95548452%2D420e%2D46b3%2D95d6%2D66dfb07fcda0)
 
 #### Video About The Product: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EcygEa7XScBFtINvCnGpDV4BSFzu3jXYQjoOB3AcC9MxHA?e=bDaZNn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
