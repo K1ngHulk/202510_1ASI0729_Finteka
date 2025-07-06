@@ -11,7 +11,7 @@
 
 <br>
 
-<h1 align="center"> TF Report </h1>
+<h1 align="center"> TF1 Report </h1>
 
 <h3 align="center"> Desarrollo de Aplicaciones Open Source - 4348 </h3>
 
@@ -40,8 +40,20 @@
 |TB1|24/04/25|Todos|Se añadió los capítulos 1 al 5|
 |TP1|14/05/25|Todos|Se añadió parte del capítulo 5 y se realizaron correcciones generales|
 |TB2|27/05/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió desde el punto 5.2.3 hasta el 5.4 y se realizaron correcciones generales|
+|TF1|05/07/25|Daiki Oshiro, Sergio Aguirre, Russell Romero| Se añadió el sprint 4 y se realizaron correcciones generales|
 
 # Project Report Collaboration Insights
+
+Link del repositorio del reporte: https://github.com/K1ngHulk/202510_1ASI0729_Finteka
+
+Link del repositorio de la landing page: https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
+
+Daiki Oshiro:
+
+Sergio Aguirre:
+
+Russell Romero:
+
 
 <div style="page-break-after: always;"></div>
 
@@ -170,7 +182,7 @@
       
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
-- [Video About-the-Team]#Video-About-the-Team
+- [Video About-the-Team]#Video-About-the-Team)
   
 - [Bibliografía](#bibliografia)
 
@@ -179,6 +191,8 @@
 <div style="page-break-after: always;"></div>
 
 # Student Outcome
+
+Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|--------------------------|------------------|
@@ -2683,7 +2697,9 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc
 
 Este video resume el trabajo realizado por el equipo Nova Asesores durante el proyecto, mostrando narración del proceso y testimonios individuales sobre las tareas realizadas, logros obtenidos y competencias desarrolladas.
 
-Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWWk28W-GclFq-PVX_vynhwBHUWf_AAOeywu33OGBu-WcQ?e=2umqwC
+Link del video: 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWWk28W-GclFq-PVX_vynhwBHUWf_AAOeywu33OGBu-WcQ?e=2umqwC
 
 ## Bibliografía
 
@@ -2721,30 +2737,51 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc
 
 ## Anexos
 
-#### Impact Mapping: https://miro.com/app/board/uXjVIFzfVes=/?share_link_id=918091555760
+#### Impact Mapping: 
 
-#### Web Applications Wireframes https://www.figma.com/design/3qhQohmZ9HITfayBaVMYxz/Device-Mockups-Library--100--devices----Community-?node-id=142-5&t=Ytq4jJfQ4IYo4nVj-1
+https://miro.com/app/board/uXjVIFzfVes=/?share_link_id=918091555760
 
-#### Link Landing Page: https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
+#### Web Applications Wireframes 
 
-#### Miro del Canva: https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxvVFJuaElPR3JwWFNUU0hPODNkSHhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=236710430542
+https://www.figma.com/design/3qhQohmZ9HITfayBaVMYxz/Device-Mockups-Library--100--devices----Community-?node-id=142-5&t=Ytq4jJfQ4IYo4nVj-1
 
-#### Video TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EUg6WoJ7ROREgcGJ_JrZ-2cB9Es8mBlKXWiJdqw96yn73A?e=391fB2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+#### Link Landing Page: 
 
-#### Video TB2: https://upcedupe-my.sharepoint.com/personal/u202211043_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211043%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D06%2D19%2000%2D16%2D47%2Emkv&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E95548452%2D420e%2D46b3%2D95d6%2D66dfb07fcda0
+https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
 
-#### Video About The Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EcygEa7XScBFtINvCnGpDV4BSFzu3jXYQjoOB3AcC9MxHA?e=bDaZNn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+#### Miro del Canva: 
 
-#### Video About The Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWWk28W-GclFq-PVX_vynhwBHUWf_AAOeywu33OGBu-WcQ?e=2umqwC
+https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxvVFJuaElPR3JwWFNUU0hPODNkSHhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=236710430542
 
+#### Video TB1: 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EUg6WoJ7ROREgcGJ_JrZ-2cB9Es8mBlKXWiJdqw96yn73A?e=391fB2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+#### Video TB2: 
+
+https://upcedupe-my.sharepoint.com/personal/u202211043_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211043%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D06%2D19%2000%2D16%2D47%2Emkv&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E95548452%2D420e%2D46b3%2D95d6%2D66dfb07fcda0
+
+#### Video About The Product: 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EcygEa7XScBFtINvCnGpDV4BSFzu3jXYQjoOB3AcC9MxHA?e=bDaZNn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+#### Video About The Team: 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWWk28W-GclFq-PVX_vynhwBHUWf_AAOeywu33OGBu-WcQ?e=2umqwC
 
 #### Trello de los sprints:
 
-- [Sprint 1](https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1)<br>
+- Sprint 1
+  
+https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1
 
-- [Sprint 2](https://trello.com/invite/b/683932529cb1d8f20c3ca2c2/ATTI4e1ba0be018690215bee933f1975b81dDF274A2E/sprint2)<br>
+- Sprint 2
+  
+https://trello.com/invite/b/683932529cb1d8f20c3ca2c2/ATTI4e1ba0be018690215bee933f1975b81dDF274A2E/sprint2
 
-- [Sprint 3](https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f583262c8cdc4f4ED3A6617/sprint3)<br>
+- Sprint 3
+
+https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f583262c8cdc4f4ED3A6617/sprint3
 
 #### Entrevistas:
 
@@ -2770,20 +2807,26 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc
 #### Entrevistas de validación:
 
 - Entrevista 1
+
   https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EdcWGl-qMnpJlAV98L1635gBi0Bx7avDc7XL5r1Vits_qA?e=xa5WaZ<br>
 
 - Entrevista 2
+  
   https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWIzSKpVwGRDmQPpYeX_TOwBVBsB-0XUOPYJwUDQI9ZcPA?e=Rie1vF<br>
 
 - Entrevista 3
+  
   https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EahPQV6qJqZCh8rV1Vraa2sBwtG2KBw0nPjiXdxJctkHCg?e=3zqQeu<br>
 
 - Entrevista 4
+  
   https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20%2D%20Kaled%20Arrellano%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eda103fc9%2D9709%2D49ca%2D837a%2Da91b23d433ef<br>
 
 - Entrevista 5
+  
   https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%202%20%2D%20Augusto%20Montes%20%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E24be4629%2D73b6%2D4aa7%2D8dc9%2D205f38776275<br>
 
--Entrevista 6
+- Entrevista 6
+  
   https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%203%20%2DMaria%20Fernanda%20Castillo%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E98fbbccd%2D05d1%2D4001%2D85cd%2D267f7fb3494f<br>
 
