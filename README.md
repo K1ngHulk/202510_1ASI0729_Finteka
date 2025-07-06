@@ -29,7 +29,7 @@
 | Aguirre Castillo, Sergio Cesar | U202310425  |
 | Romero Qwistgaard, Russell Stephen | U202211043 |
 
-<h3 align="center">Abril, 2025</h3>
+<h3 align="center">Julio, 2025</h3>
 
 <div style="page-break-after: always;"></div>
 
@@ -37,22 +37,114 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-------: | :---------: | :----------------: | :----------------------:|
-|TB1|24/04/25|Todos|Se añadió los capítulos 1 al 5|
-|TP1|14/05/25|Todos|Se añadió parte del capítulo 5 y se realizaron correcciones generales|
+|TB1|24/04/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió los capítulos 1 al 5|
+|TP1|14/05/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió parte del capítulo 5 y se realizaron correcciones generales|
 |TB2|27/05/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió desde el punto 5.2.3 hasta el 5.4 y se realizaron correcciones generales|
 |TF1|05/07/25|Daiki Oshiro, Sergio Aguirre, Russell Romero| Se añadió el sprint 4 y se realizaron correcciones generales|
 
 # Project Report Collaboration Insights
 
-Link del repositorio del reporte: https://github.com/K1ngHulk/202510_1ASI0729_Finteka
+#### Link del repositorio del reporte: 
 
-Link del repositorio de la landing page: https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
+https://github.com/K1ngHulk/202510_1ASI0729_Finteka
 
-Daiki Oshiro:
+#### Link del repositorio de la landing page: 
 
-Sergio Aguirre:
+https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
 
-Russell Romero:
+#### Link del repositorio deL frontend: 
+
+https://github.com/K1ngHulk/pruebas
+
+### Entrega TB1:
+
+Durante esta entrega se redactaron los capítulos 1 al 5. El trabajo fue distribuido equitativamente y cada integrante subió sus avances al repositorio de GitHub.
+
+<img src="./img/tb1e.png" width="100%" height="100%">
+
+##### Participación por integrante:
+
+- Mathias Murillo: Redactó el Capítulo 1 (Startup Profile) y parte del Capítulo 4.
+
+  <img src="./img/tb1em.png" width="100%" height="100%">
+
+- Sergio Aguirre: Redactó el Capítulo 2 (Requirements Analysis) y colaboró en el Capítulo 4.
+
+  <img src="./img/tb1es.png" width="100%" height="100%">
+
+- Russell Romero: Documentó entrevistas, user stories, el product backlog.
+
+  <img src="./img/tb1er.png" width="100%" height="100%">
+
+- Daiki Oshiro: Apoyó en los capítulos 2 y 3, y en la estructura general del documento.
+
+  <img src="./img/tb1ed.png" width="100%" height="100%">
+
+### Entrega TP1:
+
+En esta fase se desarrollaron los subdominios de negocio mediante Bounded Contexts. Cada integrante trabajó en ramas separadas.
+
+<img src="./img/tp1e.png" width="100%" height="100%">
+
+##### Participación por integrante:
+
+- Mathias Murillo: Desarrolló el Bounded Context del Login.
+
+  <img src="./img/tp1em.png" width="100%" height="100%">
+
+- Daiki Oshiro: Trabajó en el Bounded Context de Session, además de mejorar estructura y redacción.
+
+  <img src="./img/tp1ed.png" width="100%" height="100%">
+
+- Sergio Aguirre: Desarrolló el Bounded Context del Buscador de Profesionales.
+
+  <img src="./img/tp1es.png" width="100%" height="100%">
+
+- Russell Romero: Trabajó en los Bounded Contexts de Profesionales y Notificaciones.
+
+  <img src="./img/tp1er.png" width="100%" height="100%">
+
+### Entrega TB2:
+
+En la tercera entrega, el equipo documentó el comportamiento técnico de cada subdominio y finalizó la estructura del informe.
+
+<img src="./img/tb2e.png" width="100%" height="100%">
+
+##### Participación por integrante:
+
+- Mathias Murillo: Documentó el subdominio de Login y revisó todo el documento final.
+
+  <img src="./img/tb2em.png" width="100%" height="100%">
+
+- Daiki Oshiro: Estructuró y explicó los endpoints del subdominio de sesiones, clarificando flujos para el equipo.
+
+  <img src="./img/tb2ed.png" width="100%" height="100%">
+
+- Sergio Aguirre: Documentó el endpoints de notificaciones, además de ayudar en pruebas y validaciones.
+
+  <img src="./img/tb2es.png" width="100%" height="100%">
+
+- Russell Romero: Desarrolló endpoints de profiles, además de juntar todo el backend.
+
+  <img src="./img/tb2er.png" width="100%" height="100%">
+
+### Entrega TF1:
+
+Para la entrega final, el equipo realizó las mejoras pendientes del informe y desarrolló la versión final del frontend y backend, con su respectiva integración.
+
+<img src="./img/tf1e.png" width="100%" height="100%">
+
+##### Participación por integrante:
+
+- Daiki Oshiro: Corrección y mejoras del reporte.
+
+  <img src="./img/tf1ed.png" width="100%" height="100%">
+
+- Sergio Aguirre: Corrección y mejoras del reporte.
+
+  <img src="./img/tf1es.png" width="100%" height="100%">
+
+- Russell Romero: Despliegue del backend.
 
 
 <div style="page-break-after: always;"></div>
@@ -182,7 +274,7 @@ Russell Romero:
       
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
-- [Video About-the-Team]#Video-About-the-Team)
+- [Video About-the-Team](#Video-About-the-Team)
   
 - [Bibliografía](#bibliografia)
 
