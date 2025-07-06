@@ -11,7 +11,7 @@
 
 <br>
 
-<h1 align="center"> TB2 Report </h1>
+<h1 align="center"> TF Report </h1>
 
 <h3 align="center"> Desarrollo de Aplicaciones Open Source - 4348 </h3>
 
@@ -170,7 +170,7 @@
       
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
-- [Video About-the-Team](#Video-About-the-Team)
+- [Video About-the-Team]#Video-About-the-Team
   
 - [Bibliografía](#bibliografia)
 
@@ -326,7 +326,7 @@ Creemos que si incorporamos funciones de seguimiento post-sesión y canales de c
 #### 1.2.2.4. Lean UX Canvas
 
 <img src="./img/Lean UX Canvas.jpg" width="900" height="900">
-[Link del Miro](https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxIdHVPSDJRbUZ5cHdYOTdTTExUQkFhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=632309792327)
+https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxIdHVPSDJRbUZ5cHdYOTdTTExUQkFhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=632309792327
 
 # 1.3. Segmentos Objetivo
 #### 1. Personas Naturales (usuario en búsqueda de asesoría profesional)
@@ -522,9 +522,9 @@ Preguntas principales:
 - Edad: 53
 - Distrito: San Miguel
   
-![image](https://github.com/user-attachments/assets/0e0c9687-49cf-4163-bb94-7e8062090cac)
+https://github.com/user-attachments/assets/0e0c9687-49cf-4163-bb94-7e8062090cac
 
-**Link**: [**Entrevista \- Sara Qwistgaard**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EVYdPYP9cX9MiTBSGHLo4GUBJtHK2wys0_JpZmdVYRUM0w?e=fs9CDq)
+**Link**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EVYdPYP9cX9MiTBSGHLo4GUBJtHK2wys0_JpZmdVYRUM0w?e=fs9CDq
 
 En la entrevista, la señora Sara Qwistgaard menciona que busca asesoría en el área de marketing. Además, nos cuenta cómo le gustaría su página de asesoría ideal y su mayor problema con las asesorías en general: los horarios. 
 
@@ -533,9 +533,9 @@ En la entrevista, la señora Sara Qwistgaard menciona que busca asesoría en el 
 - Edad: 59
 - Distrito: San Miguel
   
-![image](https://github.com/user-attachments/assets/10ba027c-e24e-43aa-9cb2-c8bb14c064be)
+https://github.com/user-attachments/assets/10ba027c-e24e-43aa-9cb2-c8bb14c064be
 
-**Link: [Entrevista \- Orlando Romero](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EYP9U3OGc01Gujd5mFLQbX0BpU9LbBkQxUcc4cTjnzzlow?e=w2r4b6)**
+**Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EYP9U3OGc01Gujd5mFLQbX0BpU9LbBkQxUcc4cTjnzzlow?e=w2r4b6**
 
 El entrevistado Orlando Romero, quien busca asesoría para administración de equipos de redes, nos relata cómo le gustaría que fuera su experiencia con asesorías online y con la plataforma en general, además de explicar cómo debería funcionar el foco principal de la plataforma.
 
@@ -543,10 +543,10 @@ El entrevistado Orlando Romero, quien busca asesoría para administración de eq
 - Nombre: Ingrid Noelia Zabala Lasso
 - Edad: 33
 - Distrito: San Miguel
-  
-![image](https://github.com/user-attachments/assets/47c6166f-b129-4886-aabc-7f1110e1e900)
 
-**Link: [Entrevista \- Noelia Zavala](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EZ0tkhJhqUNPoif3FfjPq3EB7JYo7yh4uep_1xHiHiJyHA?e=aYGCbv)**
+https://github.com/user-attachments/assets/47c6166f-b129-4886-aabc-7f1110e1e900
+
+**Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EZ0tkhJhqUNPoif3FfjPq3EB7JYo7yh4uep_1xHiHiJyHA?e=aYGCbv**
 
 La entrevistada busca asesoría en el área de defensoría médica para el tema legal de las prácticas médicas, y a partir de la entrevista nos da su punto de vista sobre lo indispensable de una asesoría en línea y cuál es el mayor problema que se tiene con los asesores en general.
 
@@ -556,9 +556,9 @@ La entrevistada busca asesoría en el área de defensoría médica para el tema 
 - Edad: 20
 - Distrito: Jesus Maria
   
-![image](https://github.com/user-attachments/assets/95e8c874-a899-4e98-82f4-31870a74b1bb)
+https://github.com/user-attachments/assets/95e8c874-a899-4e98-82f4-31870a74b1bb
 
-**Link: [Entrevista \- Augusto Montes](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ER1bky1UOyJAg3cpdsr8B_cB7PC0ldS4rWW8wMJZ0iLEBg?e=XLb7Nq)**
+**Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ER1bky1UOyJAg3cpdsr8B_cB7PC0ldS4rWW8wMJZ0iLEBg?e=XLb7Nq**
 
 La entrevista con Augusto Montes muestra que, para optimizar su negocio de asesoría profesional, busca una plataforma que combine la generación de leads cualificados con una agenda automatizada, lo que permitiría una reserva sin fricciones y recordatorios automáticos. Prefiere una interfaz equilibrada entre simplicidad y personalización, que permita etiquetar clientes, editar notas privadas y realizar integraciones con otras aplicaciones. En cuanto a pagos, valora la flexibilidad de contar con diferentes modalidades como pago por sesión, suscripciones recurrentes, facturación automática y pagos multimoneda para facilitar transacciones globales. Además, considera importante un sistema de marketing digital basado en referidos para atraer nuevos clientes. Para gestionar solicitudes urgentes, le gustaría contar con una opción de disponibilidad inmediata y la posibilidad de cobrar tarifas premium por consultas urgentes. También está interesado en organizar eventos grupales como seminarios o masterclasses, lo que podría generar más interacción y demanda para sus servicios.
 
@@ -567,9 +567,9 @@ La entrevista con Augusto Montes muestra que, para optimizar su negocio de aseso
 - Edad: 22
 - Distrito: Los olivos
   
-![image](https://github.com/user-attachments/assets/6b1b0eb2-35c1-4dbe-a263-fee7b6745f79)
+https://github.com/user-attachments/assets/6b1b0eb2-35c1-4dbe-a263-fee7b6745f79
 
-**Link: [Entrevista \- Maria Fernanda Castillo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Ec0MXBN9DxFKrw3UfgGMxg4Bm7eXlDgRxgWpqW-nbPKJdQ?e=QzRkA3)**
+**Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Ec0MXBN9DxFKrw3UfgGMxg4Bm7eXlDgRxgWpqW-nbPKJdQ?e=QzRkA3**
 
 La entrevista con María Fernanda Castillo destaca sus necesidades para optimizar su negocio de asesoría profesional. Busca una plataforma automatizada que permita a los clientes encontrar su perfil, ver disponibilidad en tiempo real y agendar directamente. Para ofrecer el mejor servicio, necesita conocer el tema que el cliente desea tratar, sus objetivos, si ha tenido asesorías previas y cualquier material relevante. Prefiere una interfaz sencilla, pero con opciones de personalización si es necesario. En cuanto al proceso de pagos, valora opciones como pago por sesión, suscripciones mensuales y facturación automática, con la prioridad de que los pagos se depositen rápidamente en su cuenta. Además, le gustaría que la plataforma ofreciera herramientas de marketing digital, como publicidad segmentada, posicionamiento en buscadores, creación de contenido y analítica de rendimiento. Para consultas urgentes, necesita una plataforma que permita ver y gestionar solicitudes en tiempo real, aceptar o reagendar desde su celular y recibir notificaciones eficientes. También está interesada en organizar eventos grupales como seminarios o masterclasses.
 
@@ -579,9 +579,9 @@ La entrevista con María Fernanda Castillo destaca sus necesidades para optimiza
 - Edad: 24
 - Distrito: Pueblo libre
   
-![image](https://github.com/user-attachments/assets/301f2480-1a5e-4671-bbed-48b7ab80f0fb)
+https://github.com/user-attachments/assets/301f2480-1a5e-4671-bbed-48b7ab80f0fb
 
-**Link: [Entrevista \- Julio Castro](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ESMQ04_B3O1Mtk9thyfHcLIB7kGs5JMUo5jBmbX4S4A8Ng?e=hraZSp)**
+**Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ESMQ04_B3O1Mtk9thyfHcLIB7kGs5JMUo5jBmbX4S4A8Ng?e=hraZSp**
 
 Julio Castro busca una plataforma para gestionar eficientemente su negocio de asesorías. Identifica la necesidad de filtros que faciliten encontrar clientes adecuados y organizar sesiones con datos claros como fechas, duración y métodos de pago. Prefiere una interfaz sencilla pero con opciones avanzadas para personalizar su experiencia. Valora funcionalidades como pagos por sesión y suscripciones, además de integración con herramientas de marketing como Facebook Ads y YouTube. También destaca la utilidad de notificaciones para evitar conflictos de agenda y opciones para crear y gestionar eventos como seminarios. Finalmente, menciona la importancia de incluir elementos visuales como videos y portafolios para presentar propuestas a nuevos clientes.
 
@@ -657,7 +657,7 @@ A continuación se muestra el proceso para la realización del Empathy Mapping p
 
 **Segmento #1: Solicitante de Servicios**
 
-![image](https://github.com/user-attachments/assets/873df9e2-1944-4993-896c-e7d8525fdb85)
+https://github.com/user-attachments/assets/873df9e2-1944-4993-896c-e7d8525fdb85
 
 **Segmento #2: Proveedores de Servicios**
 
@@ -772,7 +772,7 @@ Impact map de nuestros segmentos objetivos:
 
 <img src="./img/imp.png" width="100%" height="100%">
 
-Link del Impact Mapping: [Disponible aquí](https://miro.com/app/board/uXjVIFzfVes=/?share_link_id=918091555760)
+Link del Impact Mapping: https://miro.com/app/board/uXjVIFzfVes=/?share_link_id=918091555760
 
 ## 3.4. Product Backlog
 
@@ -873,14 +873,14 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 
 | Ícono             | Descripción                                                                                                                                                                                 |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/47716d47-ce5d-4731-bd93-c4cbe72823d7) | **Mi Perfil**      En Fin Teka, el ícono de perfil permitirá a los usuarios acceder a su información personal, modificar sus datos personales, ver su historial de sesiones de asesoría o clientes asesorados. |
-|![image](https://github.com/user-attachments/assets/86cd5b9c-8111-4461-ad08-028634590971) |  **Mensajes** Los usuarios lo usarán para comunicarse entre sí, tanto Cliente como Expertos, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.             |
-| ![image](https://github.com/user-attachments/assets/d726fe44-e2f0-4a31-b9d1-e7effab99b7f) | **Áreas de asesoría** Menú desplegable con categorías de los distintos expertos. |
-| ![image](https://github.com/user-attachments/assets/ed589078-f727-4ac4-81e8-4ed2d4844bff) |  **Buscar experto** Un ícono para buscar expertos para asesoría de algún tema en específico. |
-|    ![image](https://github.com/user-attachments/assets/68a6fe53-e96f-44bb-a3cb-48335860e650) | **Reseñas** Un ícono para acceder a las reseñas que diversos clientes han dejado a los expertos y su valoración. |
-|  ![image](https://github.com/user-attachments/assets/8e9bdc03-af6d-4af7-94a3-b136f7aa6c0c)  | **Configuración** Un ícono de engranaje que permita a los usuarios acceder a las opciones de configuración de su cuenta, como la gestión de preferencias de notificación o personalización del perfil. |
-| ![image](https://github.com/user-attachments/assets/ba52c8c6-1c0b-4bb0-85e0-7b53fbb1b7cc) | **Home** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. |
-| ![image](https://github.com/user-attachments/assets/25ff6af8-2ba7-4d7b-b5ff-3b6b6b224bc1) | **Notificaciones** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.|
+| https://github.com/user-attachments/assets/47716d47-ce5d-4731-bd93-c4cbe72823d7 | **Mi Perfil**      En Fin Teka, el ícono de perfil permitirá a los usuarios acceder a su información personal, modificar sus datos personales, ver su historial de sesiones de asesoría o clientes asesorados. |
+|https://github.com/user-attachments/assets/86cd5b9c-8111-4461-ad08-028634590971 |  **Mensajes** Los usuarios lo usarán para comunicarse entre sí, tanto Cliente como Expertos, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.             |
+| https://github.com/user-attachments/assets/d726fe44-e2f0-4a31-b9d1-e7effab99b7f | **Áreas de asesoría** Menú desplegable con categorías de los distintos expertos. |
+| https://github.com/user-attachments/assets/ed589078-f727-4ac4-81e8-4ed2d4844bff |  **Buscar experto** Un ícono para buscar expertos para asesoría de algún tema en específico. |
+|    https://github.com/user-attachments/assets/68a6fe53-e96f-44bb-a3cb-48335860e650 | **Reseñas** Un ícono para acceder a las reseñas que diversos clientes han dejado a los expertos y su valoración. |
+|  https://github.com/user-attachments/assets/8e9bdc03-af6d-4af7-94a3-b136f7aa6c0c  | **Configuración** Un ícono de engranaje que permita a los usuarios acceder a las opciones de configuración de su cuenta, como la gestión de preferencias de notificación o personalización del perfil. |
+| https://github.com/user-attachments/assets/ba52c8c6-1c0b-4bb0-85e0-7b53fbb1b7cc | **Home** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. |
+| https://github.com/user-attachments/assets/25ff6af8-2ba7-4d7b-b5ff-3b6b6b224bc1 | **Notificaciones** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.|
 
 
 
@@ -1065,11 +1065,11 @@ El usuario puede abandonar el formulario, ingresar datos inválidos, enfrentar p
 
 ### 4.6.1. Software Architecture Contexte Diagram
 
-![image](https://github.com/user-attachments/assets/b286ea18-69dc-4a58-aa24-ae5203eef24d)
+https://github.com/user-attachments/assets/b286ea18-69dc-4a58-aa24-ae5203eef24d
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-![image](https://github.com/user-attachments/assets/cb0f38c0-43b7-4c8a-940b-38eda86dc75a)
+https://github.com/user-attachments/assets/cb0f38c0-43b7-4c8a-940b-38eda86dc75a
 
 ### 4.6.3. Software Architecture Components Diagrams
 
@@ -1077,7 +1077,7 @@ El usuario puede abandonar el formulario, ingresar datos inválidos, enfrentar p
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-![diagrama de clases finteka](https://github.com/user-attachments/assets/76e9abdb-6b78-4305-9b60-52ceee1f2817)
+https://github.com/user-attachments/assets/76e9abdb-6b78-4305-9b60-52ceee1f2817
 
 ### 4.7.2 Class Dictionary
 
@@ -1159,7 +1159,7 @@ El usuario puede abandonar el formulario, ingresar datos inválidos, enfrentar p
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![image](https://github.com/user-attachments/assets/28d0912a-4cc0-4d6e-80c5-fe49fdda9fd8)
+https://github.com/user-attachments/assets/28d0912a-4cc0-4d6e-80c5-fe49fdda9fd8
 
 
 ## 5.1. Software Configuration Management.
@@ -1167,24 +1167,24 @@ El usuario puede abandonar el formulario, ingresar datos inválidos, enfrentar p
 ### 5.1.1. Software Development Enviroment Configuration
 
 #### Requirements Management
-1. Canva: Es una herramienta de diseño utilizada para realizar los user persona, empathy mapping, Lean UX Canvas, As-is Scenario Mapping y otros elementos importantes más. Esta aplicación está basada en un sistema de diseño simple en el cual puedes mover y editar objetos para lograr el objetivo de diseñar nuestras piezas escenciales de análisis de mercado para nuestra aplicación. Ruta de referencia: [Canva](https://www.canva.com/es_es/).
-2. Figma: Plataforma de elaboración de prototipos y edición gráfica, que usamos principalmente para nuestra Landing Page y Web Application, tanto para los Wireframes y los MockUps, al igual que para nuestros Wireflows Diagrams. Ruta de referencia: [Figma](https://www.figma.com/).
-3. Vertabelo: Plataforma basada en creación, gestión y realización de gráficos para organizar las herencias y dependencias de nuestros programas y/o bases de datos. Como en nuestro caso fue implementada para realizar nuestros Class Diagrams y nuestra Database Diagrams. Ruta de referencia [Vertabelo](https://vertabelo.com/).
+1. Canva: Es una herramienta de diseño utilizada para realizar los user persona, empathy mapping, Lean UX Canvas, As-is Scenario Mapping y otros elementos importantes más. Esta aplicación está basada en un sistema de diseño simple en el cual puedes mover y editar objetos para lograr el objetivo de diseñar nuestras piezas escenciales de análisis de mercado para nuestra aplicación. Ruta de referencia: https://www.canva.com/es_es/.
+2. Figma: Plataforma de elaboración de prototipos y edición gráfica, que usamos principalmente para nuestra Landing Page y Web Application, tanto para los Wireframes y los MockUps, al igual que para nuestros Wireflows Diagrams. Ruta de referencia: https://www.figma.com/.
+3. Vertabelo: Plataforma basada en creación, gestión y realización de gráficos para organizar las herencias y dependencias de nuestros programas y/o bases de datos. Como en nuestro caso fue implementada para realizar nuestros Class Diagrams y nuestra Database Diagrams. Ruta de referencia https://vertabelo.com/.
 
 #### Software Devlopment
 
-1. JetBrains WebStorm: Es un entorno de desarrollo integrado (IDE) enfocado en el desarrollo web. Ofrece herramientas que facilitan la prueba del proyecto en diversos navegadores como Chrome, Microsoft Edge, Safari y Mozilla Firefox. El uso de WebStorm aporta un valor agregado al desarrollo, ya que permite visualizar cómo funciona la aplicación en múltiples plataformas y proporciona soporte avanzado para la edición de código en varios lenguajes compatibles. Ruta de Referencia: [JetBrains-WebStorm](https://www.jetbrains.com/es-es/webstorm/).
-2. HTML5: Lenguaje de marcado utilizado para estructurar y presentar contenido en la web. Es una herramienta fundamental en nuestro proyecto, ya que se emplea para construir la base del contenido de la aplicación. Ruta de Referencia: [HTML5](https://www.w3schools.com/html/).
-3. CSS: Conocido como Hojas de Estilo en Cascada (Cascading Style Sheets), este lenguaje trabaja en conjunto con HTML5 para definir el diseño y la presentación visual de la aplicación. Permite personalizar estilos como colores, tipografías y distribución de los elementos. Ruta de Referencia: [CCS](https://developer.mozilla.org/es/docs/Web/CSS).
-4. JavaScript: Lenguaje de programación orientado a objetos e interpretado en el navegador. Se utilizará principalmente para desarrollar la interfaz dinámica de usuario en nuestro proyecto, facilitando la interactividad dentro de la aplicación. Ruta de Referencia: [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript).
+1. JetBrains WebStorm: Es un entorno de desarrollo integrado (IDE) enfocado en el desarrollo web. Ofrece herramientas que facilitan la prueba del proyecto en diversos navegadores como Chrome, Microsoft Edge, Safari y Mozilla Firefox. El uso de WebStorm aporta un valor agregado al desarrollo, ya que permite visualizar cómo funciona la aplicación en múltiples plataformas y proporciona soporte avanzado para la edición de código en varios lenguajes compatibles. Ruta de Referencia: https://www.jetbrains.com/es-es/webstorm/.
+2. HTML5: Lenguaje de marcado utilizado para estructurar y presentar contenido en la web. Es una herramienta fundamental en nuestro proyecto, ya que se emplea para construir la base del contenido de la aplicación. Ruta de Referencia: https://www.w3schools.com/html/.
+3. CSS: Conocido como Hojas de Estilo en Cascada (Cascading Style Sheets), este lenguaje trabaja en conjunto con HTML5 para definir el diseño y la presentación visual de la aplicación. Permite personalizar estilos como colores, tipografías y distribución de los elementos. Ruta de Referencia: https://developer.mozilla.org/es/docs/Web/CSS.
+4. JavaScript: Lenguaje de programación orientado a objetos e interpretado en el navegador. Se utilizará principalmente para desarrollar la interfaz dinámica de usuario en nuestro proyecto, facilitando la interactividad dentro de la aplicación. Ruta de Referencia: https://developer.mozilla.org/es/docs/Web/JavaScript.
 
 #### Software Deployment
 
-1. Git: Es una herramienta de control de versiones diseñada para mejorar la eficiencia, confiabilidad y compatibilidad en la gestión de versiones de software. Su uso permite a los integrantes del equipo acceder y trabajar con el proyecto desde la línea de comandos, facilitando la colaboración y el seguimiento de cambios en el desarrollo. Ruta de Referencia: [Git](https://git-scm.com/).
+1. Git: Es una herramienta de control de versiones diseñada para mejorar la eficiencia, confiabilidad y compatibilidad en la gestión de versiones de software. Su uso permite a los integrantes del equipo acceder y trabajar con el proyecto desde la línea de comandos, facilitando la colaboración y el seguimiento de cambios en el desarrollo. Ruta de Referencia: https://git-scm.com/.
 
 #### Software Documentation and Project Management
 
-1. GitHub: Es una plataforma que permite alojar proyectos y gestionarlos mediante el control de versiones de Git, utilizando repositorios. Facilita la colaboración en tiempo real entre los miembros del equipo, así como la revisión y seguimiento de los aportes individuales en el desarrollo del proyecto. Ruta de Referencia: [GitHub](https://github.com/).
+1. GitHub: Es una plataforma que permite alojar proyectos y gestionarlos mediante el control de versiones de Git, utilizando repositorios. Facilita la colaboración en tiempo real entre los miembros del equipo, así como la revisión y seguimiento de los aportes individuales en el desarrollo del proyecto. Ruta de Referencia: https://github.com/.
 
 ### 5.1.2. Source Code Management
 
@@ -1384,7 +1384,7 @@ El objetivo principal del Sprint 1 fue establecer la base del proyecto FinTeka, 
 
 A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto con el enlace público correspondiente:
 
-[Link del Trello](https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1)<br>
+https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1<br>
 
 <img src="./img/trello1.png" width="100%" height="100%">
 
@@ -1474,7 +1474,7 @@ A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto
 
 En el presente sprint se logró desarrollar la primera versión del Landing Page para nuestra plataforma, la información presentada en la página busca retratar el objetivo que tenemos como aplicación, así como las necesidades que buscamos satisfacer con los usuarios, tomando en cuenta que esta sea clara y sea acompañada con assets que complementan la información. Además, tomamos en cuenta el diseño que se ha elegido para que sea atractivo para nuestros usuarios.
 
-[Link del repositorio Commits](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka/commits)
+https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka/commits
 
 Principales avances en implementación con relación a el Landing Page:
 
@@ -1522,7 +1522,7 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
 
-[Link de la Landing Page](https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/)<br>
+https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/<br>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1560,7 +1560,7 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
 
-[Evidencia del despliegue]( https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/)
+ https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -1711,7 +1711,7 @@ El objetivo principal del Sprint 2 fue implementar funcionalidades clave para la
 
 A continuación se presenta un screenshot del Board de Sprint 2 en Trello, junto con el enlace público correspondiente:
 
-[Link del Trello](https://trello.com/invite/b/683932529cb1d8f20c3ca2c2/ATTI4e1ba0be018690215bee933f1975b81dDF274A2E/sprint2)<br>
+https://trello.com/invite/b/683932529cb1d8f20c3ca2c2/ATTI4e1ba0be018690215bee933f1975b81dDF274A2E/sprint2<br>
 
 <img src="./img/trello2.png" width="900" height="600">
 
@@ -1815,7 +1815,7 @@ A continuación se presenta un screenshot del Board de Sprint 2 en Trello, junto
 
 En el presente sprint se logró desarrollar la primera versión de la Web Application de nuestra plataforma. La interfaz implementada busca reflejar de manera clara y funcional los objetivos de Finteka, así como facilitar la interacción del usuario con las principales funcionalidades del sistema. Se prioriza una experiencia intuitiva, acompañada de un diseño coherente con la identidad visual de la marca y de elementos visuales (assets) que complementan y enriquecen la navegación. Todo esto con el fin de ofrecer una plataforma atractiva, accesible y alineada con las necesidades de nuestros usuarios.
 
-[Link del repositorio Commits](https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka/commits/main/)
+https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka/commits/main/
 
 
 | Repository | Branch             | Commit Id | Commit Message                                | Commit Message Body                | Commited on (Date) |
@@ -2009,7 +2009,7 @@ El objetivo principal del Sprint 3 fue fortalecer la lógica del backend de la p
 
 A continuación se presenta un screenshot del Board de Sprint 3 en Trello, junto con el enlace público correspondiente:
 
-[Link del Trello](https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f583262c8cdc4f4ED3A6617/sprint3)<br>
+https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f583262c8cdc4f4ED3A6617/sprint3<br>
 
 <img src="./img/SprintBacklog3.png" width="900" height="600">
 
@@ -2149,9 +2149,9 @@ A continuación se presenta un screenshot del Board de Sprint 3 en Trello, junto
 
 En el presente Sprint 3 se avanzó significativamente en el desarrollo del backend de la plataforma FinTeka. Se implementaron funcionalidades clave para la gestión de usuarios, sesiones y reservas, además de la integración de servicios REST que permiten la comunicación eficiente entre frontend y backend. También se trabajó en la validación de datos, manejo de errores y aseguramiento de la integridad de los procesos de negocio, preparando la base para futuras funcionalidades y escalabilidad.
 
-[Link del repositorio Commits main](https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka/commits/main/)
+https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka/commits/main/
 
-[Link del repositorio Commits session-management](https://github.com/RussellUPC/202510_1ASI0729_WebService_Finteka/commits/session-management/)
+https://github.com/RussellUPC/202510_1ASI0729_WebService_Finteka/commits/session-management/
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
@@ -2185,7 +2185,7 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 <img src="./img/swagger_sessions2.png" width="100%" height="100%">
 
-![a90ed9ec-d041-4982-84f2-22b61232aafe](https://github.com/user-attachments/assets/77915ba0-248c-427a-aaed-a42ef302b78f)
+https://github.com/user-attachments/assets/77915ba0-248c-427a-aaed-a42ef302b78f
 
 ##### Session management:
 
@@ -2199,17 +2199,17 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 ##### Notification:
 
-![a7d2d763-1920-4908-9f05-3733db08b44c](https://github.com/user-attachments/assets/c99d8253-6abd-4d34-83df-f5ff9faedd49)
+https://github.com/user-attachments/assets/c99d8253-6abd-4d34-83df-f5ff9faedd49
 
-![2a8fcc7f-9e4e-46d0-bcbe-bc1ba1b58357](https://github.com/user-attachments/assets/95343526-e04c-4258-9987-6812a6965eb5)
+https://github.com/user-attachments/assets/95343526-e04c-4258-9987-6812a6965eb5
 
-![b8ac54c2-b2e6-447d-8e59-0fe73d373369](https://github.com/user-attachments/assets/d80d5fa0-ff31-437c-baa9-b7760d27a9f8)
+https://github.com/user-attachments/assets/d80d5fa0-ff31-437c-baa9-b7760d27a9f8
 
 ##### Database:
 
 <img src="./img/databasejson4.png" width="100%" height="100%">
 
-![7f527300-360f-483d-8bc1-604c3a16e52b](https://github.com/user-attachments/assets/0a3ac459-5b16-4dc1-88c5-1027a0d0eaee)
+https://github.com/user-attachments/assets/0a3ac459-5b16-4dc1-88c5-1027a0d0eaee
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -2234,7 +2234,7 @@ En este sprint, hemos logrado desplegar una aplicación web que consume datos en
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-![image](https://github.com/user-attachments/assets/806d92f0-8de9-4634-8eaa-cf71ea5a8a2e)
+https://github.com/user-attachments/assets/806d92f0-8de9-4634-8eaa-cf71ea5a8a2e
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -2433,7 +2433,7 @@ Recoger feedback sobre las herramientas de gestión de servicios (agenda, perfil
   
 <img src="./img/Entrevista - Validación - Sara.png" width="858" height="480">
 
-**Link: [**Entrevista \- Sara Qwistgaard](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EdcWGl-qMnpJlAV98L1635gBi0Bx7avDc7XL5r1Vits_qA?e=xa5WaZ)**
+**Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EdcWGl-qMnpJlAV98L1635gBi0Bx7avDc7XL5r1Vits_qA?e=xa5WaZ**
 
 Anteriormente, la señora Sara Qwistgaard menciona que buscaba asesoría en el área de marketing. Ahora, luego de usar la aplicación, nos cuenta los problemas y virtudes que encontro con nuestro servicio, reflejando que nos falta para terminar este proyecto. 
 
@@ -2445,7 +2445,7 @@ Anteriormente, la señora Sara Qwistgaard menciona que buscaba asesoría en el �
   
 <img src="./img/Entrevista - Validación - Orlando.png" width="858" height="480">
 
-**Link: [Entrevista \- Orlando Romero](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWIzSKpVwGRDmQPpYeX_TOwBVBsB-0XUOPYJwUDQI9ZcPA?e=Rie1vF)**
+**Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWIzSKpVwGRDmQPpYeX_TOwBVBsB-0XUOPYJwUDQI9ZcPA?e=Rie1vF**
 
 El entrevistado Orlando Romero, quien buscó asesoría para administración de equipos de redes, nos relata su experiencia al intentar utilizar la aplicación, demostrando de que, aunque funcional, todavía le falta bastante como para ser ideal para los clientes como él.
 
@@ -2457,7 +2457,7 @@ El entrevistado Orlando Romero, quien buscó asesoría para administración de e
   
 <img src="./img/Entrevista - Validación - Noelia.png" width="858" height="480">
 
-**Link: [Entrevista \- Noelia Zavala](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EahPQV6qJqZCh8rV1Vraa2sBwtG2KBw0nPjiXdxJctkHCg?e=3zqQeu)**
+**Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EahPQV6qJqZCh8rV1Vraa2sBwtG2KBw0nPjiXdxJctkHCg?e=3zqQeu**
 
 La entrevistada buscaba asesoría en el área de defensoría médica para el tema legal de las prácticas médicas, y a utilizando nuestra aplicación, nos cuenta el cómo esta le ayudo en conseguirla, teniendo una recepción mayormente positiva de la misma.
 
@@ -2469,9 +2469,9 @@ La entrevistada buscaba asesoría en el área de defensoría médica para el tem
 - **Edad:** 18
 - **Distrito:** San Miguel 
 
-![b5e626a6-19a9-48c3-8363-2accf13c4184](https://github.com/user-attachments/assets/2321ad26-89e8-422b-ba04-0cc64e3052b8)
+https://github.com/user-attachments/assets/2321ad26-89e8-422b-ba04-0cc64e3052b8
 
-**Link: [Entrevista \- Kaled Arellano](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Ec8idwwgk9NDuuNmKqgJR3IBOoUDrZ9CrDapsvUj_nRCgw?e=22VQZO)**
+**Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Ec8idwwgk9NDuuNmKqgJR3IBOoUDrZ9CrDapsvUj_nRCgw?e=22VQZO**
 
 La entrevistada propuso como mejora la implementación de una función que permita guardar servicios o asesorías como “favoritos”, para acceder a ellos fácilmente más adelante. Consideró que esto ayudaría a los usuarios a organizar mejor las opciones que les interesan y a tomar decisiones con mayor claridad, especialmente si están comparando entre varias alternativas.
 
@@ -2481,9 +2481,9 @@ La entrevistada propuso como mejora la implementación de una función que permi
 - **Edad:** 20
 - **Distrito:** Pueblo Libre 
 
-![image](https://github.com/user-attachments/assets/d7ed68d4-57d2-4e82-8b43-c614c2668785)
+https://github.com/user-attachments/assets/d7ed68d4-57d2-4e82-8b43-c614c2668785
 
-**Link: [Entrevista \- Augusto Montes](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/EckIcshih4FDt6eFztsxWT4B6USc-q5iHlc-101nclGNNQ?e=cM7sTv)**
+**Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/EckIcshih4FDt6eFztsxWT4B6USc-q5iHlc-101nclGNNQ?e=cM7sTv**
 
 La entrevistada comentó que una de las funcionalidades más interesantes de la aplicación fue su capacidad para identificar patrones de uso entre los usuarios. Gracias a esto, fue posible detectar cuáles personas mostraban mayor compromiso con el servicio, lo que abre la posibilidad de ofrecerles un modelo de suscripción enfocado en quienes tienen mayor potencial de convertirse en clientes a largo plazo.
 
@@ -2493,9 +2493,9 @@ La entrevistada comentó que una de las funcionalidades más interesantes de la 
 - **Edad:** 21
 - **Distrito:** Los Olivos 
 
-![image](https://github.com/user-attachments/assets/7e37248e-688b-49e2-be2a-f7fb3fc24acf)
+https://github.com/user-attachments/assets/7e37248e-688b-49e2-be2a-f7fb3fc24acf
 
-**Link: [Entrevista \- Maria Fernanda Castillo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ERcR626z_F5FipWIxFr_shIByPKZqNWMansf_Z82kjq3Gw?e=gIvCPa)**
+**Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ERcR626z_F5FipWIxFr_shIByPKZqNWMansf_Z82kjq3Gw?e=gIvCPa**
 
 La entrevistada destacó que una de las funciones que más le ayudó al usar nuestra aplicación fueron las notificaciones sonoras, ya que le permitieron mantenerse informada en tiempo real sin necesidad de estar revisando constantemente. Gracias a esto, pudo recibir la asesoría legal que necesitaba de manera oportuna, valorando positivamente su experiencia con la plataforma.
 
@@ -2646,7 +2646,7 @@ En este breve video te mostramos cómo funciona FinTeka, para quién está pensa
 
 <img src="./img/aproduct.png" width="100%" height="100%">
 
-Link del video: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EcygEa7XScBFtINvCnGpDV4BSFzu3jXYQjoOB3AcC9MxHA?e=bDaZNn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EcygEa7XScBFtINvCnGpDV4BSFzu3jXYQjoOB3AcC9MxHA?e=bDaZNn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ### Conclusiones y recomendaciones
 
@@ -2683,59 +2683,59 @@ Link del video: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/pers
 
 Este video resume el trabajo realizado por el equipo Nova Asesores durante el proyecto, mostrando narración del proceso y testimonios individuales sobre las tareas realizadas, logros obtenidos y competencias desarrolladas.
 
-Link del video: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWWk28W-GclFq-PVX_vynhwBHUWf_AAOeywu33OGBu-WcQ?e=2umqwC)
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWWk28W-GclFq-PVX_vynhwBHUWf_AAOeywu33OGBu-WcQ?e=2umqwC
 
 ## Bibliografía
 
-- Flanagan, D. (2020). *JavaScript: The Definitive Guide* (7th ed.). O'Reilly Media. [Disponible aquí](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952023/)
+- Flanagan, D. (2020). *JavaScript: The Definitive Guide* (7th ed.). O'Reilly Media. https://www.oreilly.com/library/view/javascript-the-definitive/9781491952023/
 
-- Freeman, E., & Robson, E. (2019). *Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages* (2nd ed.). O'Reilly Media. [Disponible aquí](https://www.oreilly.com/library/view/head-first-html/9781491950180/)
+- Freeman, E., & Robson, E. (2019). *Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages* (2nd ed.). O'Reilly Media. https://www.oreilly.com/library/view/head-first-html/9781491950180/
 
-- Osmani, A. (2018). *Learning JavaScript Design Patterns* (2nd ed.). O'Reilly Media. [Disponible aquí](https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/)
+- Osmani, A. (2018). *Learning JavaScript Design Patterns* (2nd ed.). O'Reilly Media. https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/
 
-- Duckett, J. (2014). *HTML and CSS: Design and Build Websites*. Wiley. [Disponible aquí](https://www.wiley.com/en-us/HTML+and+CSS%3A+Design+and+Build+Websites-p-9781118008188)
+- Duckett, J. (2014). *HTML and CSS: Design and Build Websites*. Wiley.https://www.wiley.com/en-us/HTML+and+CSS%3A+Design+and+Build+Websites-p-9781118008188
 
-- Cederholm, D. (2012). *CSS3 for Web Designers*. A Book Apart. [Disponible aquí](https://abookapart.com/products/css3-for-web-designers)
+- Cederholm, D. (2012). *CSS3 for Web Designers*. A Book Apart. https://abookapart.com/products/css3-for-web-designers
 
-- Ejsmont, A. (2014). *Web Scalability for Startup Engineers*. Apress. [Disponible aquí](https://link.springer.com/book/10.1007/978-1-4842-0547-7)
+- Ejsmont, A. (2014). *Web Scalability for Startup Engineers*. Apress. https://link.springer.com/book/10.1007/978-1-4842-0547-7
 
-- Eich, B. (2011). *JavaScript: The Good Parts*. O'Reilly Media. [Disponible aquí](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
+- Eich, B. (2011). *JavaScript: The Good Parts*. O'Reilly Media. https://www.oreilly.com/library/view/javascript-the-good/9780596517748/
 
-- Krasner, D., & Pope, S. T. (1988). *A Cookbook for Using the Model-View-Controller User Interface Paradigm in Smalltalk-80*. *Journal of Object-Oriented Programming*. [Disponible aquí](https://dl.acm.org/doi/10.5555/62383.62384)
+- Krasner, D., & Pope, S. T. (1988). *A Cookbook for Using the Model-View-Controller User Interface Paradigm in Smalltalk-80*. *Journal of Object-Oriented Programming*.https://dl.acm.org/doi/10.5555/62383.62384
 
-- Crockford, D. (2008). *JavaScript: The Good Parts*. O'Reilly Media. [Disponible aquí](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
+- Crockford, D. (2008). *JavaScript: The Good Parts*. O'Reilly Media. https://www.oreilly.com/library/view/javascript-the-good/9780596517748/
 
-- Resig, J., & Bibeault, B. (2013). *Secrets of the JavaScript Ninja* (2nd ed.). Manning Publications. [Disponible aquí](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
+- Resig, J., & Bibeault, B. (2013). *Secrets of the JavaScript Ninja* (2nd ed.). Manning Publications. https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition
 
-- *Eloquent JavaScript: A Modern Introduction to Programming* (3rd ed.). No Starch Press. [Disponible aquí](https://eloquentjavascript.net/)
+- *Eloquent JavaScript: A Modern Introduction to Programming* (3rd ed.). No Starch Press. https://eloquentjavascript.net/
 
-- Katz, Y., & Sirota, J. (2021). *You Don’t Know JS Yet: Scope & Closures* (2nd ed.). O'Reilly Media. [Disponible aquí](https://www.oreilly.com/library/view/you-dont-know/9781492083740/)
+- Katz, Y., & Sirota, J. (2021). *You Don’t Know JS Yet: Scope & Closures* (2nd ed.). O'Reilly Media.https://www.oreilly.com/library/view/you-dont-know/9781492083740/
 
-- Simpson, K. (2017). *You Don’t Know JS: Async & Performance*. O'Reilly Media. [Disponible aquí](https://www.oreilly.com/library/view/you-dont-know/9781491904237/)
+- Simpson, K. (2017). *You Don’t Know JS: Async & Performance*. O'Reilly Media. https://www.oreilly.com/library/view/you-dont-know/9781491904237/
 
-- Murray, S. (2017). *Responsive Web Design with HTML5 and CSS3* (3rd ed.). Packt Publishing. [Disponible aquí](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css3-third-edition/9781787123458)
+- Murray, S. (2017). *Responsive Web Design with HTML5 and CSS3* (3rd ed.). Packt Publishing. https://www.packtpub.com/product/responsive-web-design-with-html5-and-css3-third-edition/9781787123458
 
-- Marcotte, E. (2011). *Responsive Web Design*. A Book Apart. [Disponible aquí](https://abookapart.com/products/responsive-web-design)
+- Marcotte, E. (2011). *Responsive Web Design*. A Book Apart. https://abookapart.com/products/responsive-web-design
 
-- Simpson, K. (2015). *You Don’t Know JS: ES6 & Beyond*. O'Reilly Media. [Disponible aquí](https://www.oreilly.com/library/view/you-dont-know/9781491905241/)
+- Simpson, K. (2015). *You Don’t Know JS: ES6 & Beyond*. O'Reilly Media. https://www.oreilly.com/library/view/you-dont-know/9781491905241/
 
 ## Anexos
 
-#### Impact Mapping: [Disponible aquí](https://miro.com/app/board/uXjVIFzfVes=/?share_link_id=918091555760)
+#### Impact Mapping: https://miro.com/app/board/uXjVIFzfVes=/?share_link_id=918091555760
 
-#### Web Applications Wireframes [Disponible aquí](https://www.figma.com/design/3qhQohmZ9HITfayBaVMYxz/Device-Mockups-Library--100--devices----Community-?node-id=142-5&t=Ytq4jJfQ4IYo4nVj-1)
+#### Web Applications Wireframes https://www.figma.com/design/3qhQohmZ9HITfayBaVMYxz/Device-Mockups-Library--100--devices----Community-?node-id=142-5&t=Ytq4jJfQ4IYo4nVj-1
 
-#### Link Landing Page: [Disponible aquí](https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka)
+#### Link Landing Page: https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
 
-#### Miro del Canva: [Disponible aquí](https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxvVFJuaElPR3JwWFNUU0hPODNkSHhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=236710430542)
+#### Miro del Canva: https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxvVFJuaElPR3JwWFNUU0hPODNkSHhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=236710430542
 
-#### Video TB1: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EUg6WoJ7ROREgcGJ_JrZ-2cB9Es8mBlKXWiJdqw96yn73A?e=391fB2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+#### Video TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EUg6WoJ7ROREgcGJ_JrZ-2cB9Es8mBlKXWiJdqw96yn73A?e=391fB2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-#### Video TB2: [Disponible aquí](https://upcedupe-my.sharepoint.com/personal/u202211043_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211043%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D06%2D19%2000%2D16%2D47%2Emkv&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E95548452%2D420e%2D46b3%2D95d6%2D66dfb07fcda0)
+#### Video TB2: https://upcedupe-my.sharepoint.com/personal/u202211043_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211043%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D06%2D19%2000%2D16%2D47%2Emkv&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E95548452%2D420e%2D46b3%2D95d6%2D66dfb07fcda0
 
-#### Video About The Product: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EcygEa7XScBFtINvCnGpDV4BSFzu3jXYQjoOB3AcC9MxHA?e=bDaZNn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+#### Video About The Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EcygEa7XScBFtINvCnGpDV4BSFzu3jXYQjoOB3AcC9MxHA?e=bDaZNn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-#### Video About The Team: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWWk28W-GclFq-PVX_vynhwBHUWf_AAOeywu33OGBu-WcQ?e=2umqwC)
+#### Video About The Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWWk28W-GclFq-PVX_vynhwBHUWf_AAOeywu33OGBu-WcQ?e=2umqwC
 
 
 #### Trello de los sprints:
@@ -2748,30 +2748,42 @@ Link del video: [Disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/pers
 
 #### Entrevistas:
 
-- [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EVYdPYP9cX9MiTBSGHLo4GUBJtHK2wys0_JpZmdVYRUM0w?e=fs9CDq)<br>
+- Entrevista 1
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EVYdPYP9cX9MiTBSGHLo4GUBJtHK2wys0_JpZmdVYRUM0w?e=fs9CDq<br>
 
-- [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EYP9U3OGc01Gujd5mFLQbX0BpU9LbBkQxUcc4cTjnzzlow?e=w2r4b6)<br>
+- Entrevista 2
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EYP9U3OGc01Gujd5mFLQbX0BpU9LbBkQxUcc4cTjnzzlow?e=w2r4b6<br>
 
-- [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EZ0tkhJhqUNPoif3FfjPq3EB7JYo7yh4uep_1xHiHiJyHA?e=aYGCbv)<br>
+- Entrevista 3
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EZ0tkhJhqUNPoif3FfjPq3EB7JYo7yh4uep_1xHiHiJyHA?e=aYGCbv<br>
 
-- [Entrevista 4](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTA%20%231%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ecc3a535c%2Dd3ba%2D4609%2Dbfaa%2D95cb647ff76e)<br>
+- Entrevista 4
+  https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTA%20%231%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ecc3a535c%2Dd3ba%2D4609%2Dbfaa%2D95cb647ff76e<br>
 
-- [Entrevista 5](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVIS%20%232%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6523c3e5%2Da67c%2D42be%2Daca3%2Def191d7b696a)<br>
+- Entrevista 5
+  https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVIS%20%232%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6523c3e5%2Da67c%2D42be%2Daca3%2Def191d7b696a<br>
 
-- [Entrevista 6](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTA%20%233%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E599e9ee2%2Dc53d%2D4f30%2Dbcea%2Deb16d35e9cc4)
+- Entrevista 6
+  https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTA%20%233%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E599e9ee2%2Dc53d%2D4f30%2Dbcea%2Deb16d35e9cc4
 
 
 #### Entrevistas de validación:
 
-- [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EdcWGl-qMnpJlAV98L1635gBi0Bx7avDc7XL5r1Vits_qA?e=xa5WaZ)<br>
+- Entrevista 1
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EdcWGl-qMnpJlAV98L1635gBi0Bx7avDc7XL5r1Vits_qA?e=xa5WaZ<br>
 
-- [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWIzSKpVwGRDmQPpYeX_TOwBVBsB-0XUOPYJwUDQI9ZcPA?e=Rie1vF)<br>
+- Entrevista 2
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWIzSKpVwGRDmQPpYeX_TOwBVBsB-0XUOPYJwUDQI9ZcPA?e=Rie1vF<br>
 
-- [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EahPQV6qJqZCh8rV1Vraa2sBwtG2KBw0nPjiXdxJctkHCg?e=3zqQeu)<br>
+- Entrevista 3
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EahPQV6qJqZCh8rV1Vraa2sBwtG2KBw0nPjiXdxJctkHCg?e=3zqQeu<br>
 
-- [Entrevista 4](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20%2D%20Kaled%20Arrellano%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eda103fc9%2D9709%2D49ca%2D837a%2Da91b23d433ef)<br>
+- Entrevista 4
+  https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20%2D%20Kaled%20Arrellano%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eda103fc9%2D9709%2D49ca%2D837a%2Da91b23d433ef<br>
 
-- [Entrevista 5](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%202%20%2D%20Augusto%20Montes%20%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E24be4629%2D73b6%2D4aa7%2D8dc9%2D205f38776275)<br>
+- Entrevista 5
+  https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%202%20%2D%20Augusto%20Montes%20%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E24be4629%2D73b6%2D4aa7%2D8dc9%2D205f38776275<br>
 
-- [Entrevista 6](https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%203%20%2DMaria%20Fernanda%20Castillo%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E98fbbccd%2D05d1%2D4001%2D85cd%2D267f7fb3494f)<br>
+-Entrevista 6
+  https://upcedupe-my.sharepoint.com/personal/u202310425_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310425%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%203%20%2DMaria%20Fernanda%20Castillo%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E98fbbccd%2D05d1%2D4001%2D85cd%2D267f7fb3494f<br>
 
