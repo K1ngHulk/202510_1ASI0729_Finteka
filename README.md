@@ -2459,12 +2459,12 @@ Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend si
 
 Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka para cada aspecto clave del Sprint 4, con el objetivo de mejorar la coordinación y eficiencia del trabajo. Los aspectos seleccionados responden a tareas prioritarias como validación con usuarios, evaluación de heurísticas y elaboración de videos del proyecto.
 
-| Team Member                   | Github Username | Sprint 3 | Validation Interviews | Heuristic Evaluations | Session Management | Notifications | Sidebar Search | Profiles |
-|------------------------------|-----------------|----------|----------------------|----------------------|--------------------|---------------|----------------|----------|
-| Javier Murillo Mathias        | K1ngHulk       | C        | C                    | L                    | C                  | C             | L              | C        |
-| Oshiro Yamashita Daiki Oscar | DaikiOY         | L        | C                    | C                    | L                  | C             | C              | C        |
-| Aguirre Castillo Sergio Cesar| Aguirrat157     | C        | L                    | C                    | C                  | C             | C              | C        |
-| Romero Qwistgaard Russel Stephen | RussellUPC  | C        | C                    | C                    | C                  | L             | C              | L        |
+| Team Member                   | Github Username | Sprint 3 |  Heuristic Evaluations | Session Management | Notifications | Sidebar Search | Profiles |
+|------------------------------|-----------------|----------|--------------------------------------------|--------------------|---------------|----------------|----------|
+| Mendoza Solis Javier Kenyi        | Kenyi-Mendoza-Solis       | C        |                      L                    | C                  | C             | L              | C        |
+| Oshiro Yamashita Daiki Oscar | DaikiOY         | L        |                     C                    | L                  | C             | C              | C        |
+| Aguirre Castillo Sergio Cesar| Aguirrat157     | C        |                      C                    | C                  | C             | C              | C        |
+| Romero Qwistgaard Russel Stephen | RussellUPC  | C        |                      C                    | C                  | L             | C              | L        |
 
 ## 5.3 Validation Interviews
 
