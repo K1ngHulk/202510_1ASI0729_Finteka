@@ -2397,14 +2397,14 @@ Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend si
 <table align="center" border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td><b>Sprint #</b></td>
-        <td><b>Sprint 3</b></td>
+        <td><b>Sprint 4</b></td>
     </tr>
     <tr align="left">
         <td colspan="2"><b>Sprint Planning Background</b></td>
     </tr>
     <tr align="left">
         <td><b>Date</b></td>
-        <td>07/06/2025</td>
+        <td>07/07/2025</td>
     </tr>
     <tr align="left">
         <td><b>Time</b></td>
@@ -2472,7 +2472,7 @@ El objetivo principal del Sprint 4 fue consolidar la integración entre el front
 
 https://trello.com/invite/b/6869e21270db00c50390be16/ATTIe132daead233cbc46b41b02607375f0595A387EE/sprint4
 
-<img src="./img/SprintBacklog4.png" width="900" height="600">
+<img src="./img/trello4.png" width="900" height="600">
 
 ## 5.3 Validation Interviews
 
