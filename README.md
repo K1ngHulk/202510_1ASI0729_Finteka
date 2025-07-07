@@ -2557,6 +2557,66 @@ https://trello.com/invite/b/6869e21270db00c50390be16/ATTIe132daead233cbc46b41b02
   </tr>
 </table>
 
+#### 5.2.4.4. Evidencia de desarrollo para la revisión del sprint
+
+En el presente Sprint 4 se avanzó significativamente en la integración y despliegue de los componentes principales de la plataforma FinTeka. Se realizaron correcciones críticas en el backend, optimizando los endpoints implementados en el sprint anterior, y se completó su despliegue en un entorno en línea funcional. Paralelamente, se desarrollaron e integraron las vistas principales del frontend con dichos endpoints, permitiendo una experiencia de usuario conectada y fluida.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
+| ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
+|Landing Page|main| 0c8aeea | Make Landing Page apply Responsive Web Design principles | update content in the scripts section | 27/05/2025 |
+|            |main| b714b09 | Feedback correction | update content in the scripts section | 28/05/2025 |
+|            |main| 090c4fa | add the video section about the team and about the product | added content in the section Home | 30/05/2025 |
+|Web Services|main| 52e6baf | Initial commit | created the web services content | 30/05/2025 |
+| |main| 7a2645c | creation of web services and creation of the snakecasephysicalnamingstrategy | created the snakecasephysicalnamingstrategy | 30/05/2025 |
+| |session-management| ec57447 | Add files via upload | added session-management files | 16/06/2025 |
+| |session-management| 269426d | Create SessionEntity.java | created the SessionEntity | 16/06/2025 |
+| |session-management| 351c9a3 | Create maven-wrapper.properties | created the maven-wrapper | 16/06/2025 |
+| |session-management| 568d0a3 | Update: Merge profile with sessions | created the profile and sessions endpoint | 19/06/2025 |
+| |session-management| e631689 | Update: Added Notification | created the notifications endpoint | 20/06/2025 |
+| |session-management| 9e22381 | Update: Notification | update the notifications endpoint | 20/06/2025 |
+
+#### 5.2.4.5. Evidencia de ejecución para la revisión del sprint
+
+#### 5.2.4.6. Documentación de Servicios: Evidencia para la Revisión del Sprint
+
+#### 5.2.4.7. Evidencia de implementación de software para la revisión del sprint
+
+#### 5.2.4.8. Perspectivas sobre la colaboración en equipo durante el sprint
+
+Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integración final del sistema, combinando el frontend y el backend previamente desarrollados. Se continuó utilizando la metodología GitFlow, manteniendo una estructura ordenada de ramas por funcionalidad, tanto para correcciones en el backend como para el desarrollo de vistas. Las tareas se distribuyeron equitativamente y se gestionaron mediante pull requests, lo que permitió mantener la trazabilidad de cambios y facilitar la revisión cruzada del código. 
+
+<table border="1" width="100%" style="text-align:left;">
+  <tr>
+    <th>Author</th>
+    <th>Tasks Completed</th>
+  </tr>
+  <tr>
+    <td>Mathias Javier</td>
+    <td>
+      
+    </td>
+  </tr>
+  <tr>
+    <td>Daiki Oshiro</td>
+    <td>
+      
+    </td>
+  </tr>
+  <tr>
+    <td>Sergio Aguirre</td>
+    <td>
+      
+    </td>
+  </tr>
+  <tr>
+    <td>Russell Romero</td>
+    <td>
+      
+    </td>
+  </tr>
+</table>
+
+
 ## 5.3 Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
