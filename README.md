@@ -2390,6 +2390,82 @@ Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend si
 
 <img src="./img/evev2.png" width="100%" height="100%">
 
+### 5.2.4 Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td><b>Sprint #</b></td>
+        <td><b>Sprint 3</b></td>
+    </tr>
+    <tr align="left">
+        <td colspan="2"><b>Sprint Planning Background</b></td>
+    </tr>
+    <tr align="left">
+        <td><b>Date</b></td>
+        <td>07/06/2025</td>
+    </tr>
+    <tr align="left">
+        <td><b>Time</b></td>
+        <td>13:00</td>
+    </tr>
+    <tr align="left">
+        <td><b>Location</b></td>
+        <td>Modalidad Remota por Discord</td>
+    </tr>
+    <tr align="left">
+        <td><b>Prepared By</b></td>
+        <td>Equipo Nova Asesores</td>
+    </tr>
+    <tr align="left">
+        <td><b>Attendees (to planning meeting)</b></td>
+        <td>
+            - Mendoza Solis, Javier Kenyi – U201824550 <br>
+            - Oshiro Yamashita, Daiki Oscar – U20201F846 <br>
+            - Aguirre Castillo, Sergio Cesar – U202310425 <br>
+            - Russell Stephen Romero Qwistgaard – U202211043 <br>
+        </td>
+    </tr>
+    <tr align="left">
+        <td><b>Sprint 3</b> <br><b>Review Summary</b></td>
+        <td>
+            Durante el Sprint 3 se desarrollaron y probaron los principales endpoints del backend de FinTeka, abordando funcionalidades clave como la autenticación de usuarios, gestión de sesiones activas, manejo de notificaciones y pruebas automatizadas para asegurar su funcionamiento. Esta implementación permitió establecer una base sólida para el consumo desde el frontend y validar la arquitectura general de los servicios. Además, se inició la integración con bases de datos y se dejaron sentadas algunas rutas para próximas funcionalidades.
+        </td>
+    </tr>
+    <tr align="left">
+        <td><b>Sprint 3</b> <br><b>Retrospective Summary</b></td>
+        <td>
+            Durante el Sprint 3, centrado en el desarrollo del backend, el equipo destacó como principal logro la correcta implementación técnica de los endpoints y la incorporación efectiva de pruebas automatizadas. Sin embargo, se identificaron oportunidades de mejora relacionadas con la documentación de los endpoints, y se resaltó la necesidad de mejorar la comunicación entre desarrolladores para optimizar la integración futura con el frontend.
+        </td>
+    </tr>
+    <tr align="left">
+        <td><b>Sprint 4 Goal</b></td>
+        <td>
+            Finalizar las tareas pendientes del frontend, realizar correcciones en el backend, y desplegar ambos módulos en un entorno accesible en línea. Además, se actualizará la información de la landing page con los datos actuales del equipo, dejando lista la plataforma para su presentación final con una experiencia de usuario integrada.
+        </td>
+    </tr>
+    <tr align="left">
+        <td><b>Sprint 4 Velocity</b></td>
+        <td>14</td>
+    </tr>
+    <tr align="left">
+        <td><b>Sum of Story Points</b></td>
+        <td>22</td>
+    </tr>
+</table>
+
+#### 5.2.4.2. Líderes de Aspecto y Colaboradores
+
+Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka para cada aspecto clave del Sprint 4, con el objetivo de mejorar la coordinación y eficiencia del trabajo. Los aspectos seleccionados responden a tareas prioritarias como validación con usuarios, evaluación de heurísticas y elaboración de videos del proyecto.
+
+| Team Member                   | Github Username | Sprint 3 | Validation Interviews | Heuristic Evaluations | Session Management | Notifications | Sidebar Search | Profiles |
+|------------------------------|-----------------|----------|----------------------|----------------------|--------------------|---------------|----------------|----------|
+| Javier Murillo Mathias        | K1ngHulk       | C        | C                    | L                    | C                  | C             | L              | C        |
+| Oshiro Yamashita Daiki Oscar | DaikiOY         | L        | C                    | C                    | L                  | C             | C              | C        |
+| Aguirre Castillo Sergio Cesar| Aguirrat157     | C        | L                    | C                    | C                  | C             | C              | C        |
+| Romero Qwistgaard Russel Stephen | RussellUPC  | C        | C                    | C                    | C                  | L             | C              | L        |
+
 ## 5.3 Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
