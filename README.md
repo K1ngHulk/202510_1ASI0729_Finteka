@@ -2483,6 +2483,80 @@ https://trello.com/invite/b/6869e21270db00c50390be16/ATTIe132daead233cbc46b41b02
 
 <img src="./img/trello4.png" width="900" height="600">
 
+<table align="center" border="1" width="100%" style="text-align:center;">
+  <tr align="left">
+    <th>User Story</th>
+    <th>Work-Item / Task</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Student Code</th>
+    <th>Status</th>
+  </tr>
+
+  <tr align="left">
+    <td rowspan="1">US10</td>
+    <td>Corregir errores en backend</td>
+    <td>T03</td>
+    <td>Correcciones backend</td>
+    <td>Ajustes de errores en rutas, controladores y validaciones del backend.</td>
+    <td>3</td>
+    <td></td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+
+  <tr align="left">
+    <td rowspan="1">US11</td>
+    <td>Desplegar backend</td>
+    <td>T04</td>
+    <td>Despliegue backend</td>
+    <td>Publicar backend en entorno remoto (Railway, Render, etc.).</td>
+    <td>3</td>
+    <td></td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+
+  <tr align="left">
+    <td rowspan="1">US12</td>
+    <td>Desplegar frontend</td>
+    <td>T05</td>
+    <td>Despliegue frontend</td>
+    <td>Publicar el frontend con conexión funcional al backend.</td>
+    <td>3</td>
+    <td></td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+
+  <tr align="left">
+    <td rowspan="1">US13</td>
+    <td>Integrar vistas del frontend</td>
+    <td>T06</td>
+    <td>Integración visual con lógica</td>
+    <td>Conectar componentes frontend con datos reales desde backend.</td>
+    <td>5</td>
+    <td></td>
+    <td></td>
+    <td>In Progress</td>
+  </tr>
+
+  <tr align="left">
+    <td>-</td>
+    <td>Actualizar información en landing page</td>
+    <td>T07</td>
+    <td>Landing actualizada</td>
+    <td>Reemplazar nombres, fotos y detalles del equipo en la página principal.</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td>In Progress</td>
+  </tr>
+</table>
+
 ## 5.3 Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
