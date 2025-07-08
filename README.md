@@ -65,89 +65,89 @@ https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka
 
 Durante esta entrega se redactaron los capítulos 1 al 5. El trabajo fue distribuido equitativamente y cada integrante subió sus avances al repositorio de GitHub.
 
-<img src="img/tb1e.png" width="100%" height="100%">
+<img src="img/tb1e.png" >
 
 ##### Participación por integrante:
 
 - Mathias Murillo: Redactó el Capítulo 1 (Startup Profile) y parte del Capítulo 4.
 
-  <img src="img/tb1em.png" width="100%" height="100%">
+  <img src="img/tb1em.png" >
 
 - Sergio Aguirre: Redactó el Capítulo 2 (Requirements Analysis) y colaboró en el Capítulo 4.
 
-  <img src="img/tb1es.png" width="100%" height="100%">
+  <img src="img/tb1es.png">
 
 - Russell Romero: Documentó entrevistas, user stories, el product backlog.
 
-  <img src="img/tb1er.png" width="100%" height="100%">
+  <img src="img/tb1er.png">
 
 - Daiki Oshiro: Apoyó en los capítulos 2 y 3, y en la estructura general del documento.
 
-  <img src="img/tb1ed.png" width="100%" height="100%">
+  <img src="img/tb1ed.png" >
 
 ### Entrega TP1:
 
 En esta fase se desarrollaron los subdominios de negocio mediante Bounded Contexts. Cada integrante trabajó en ramas separadas.
 
-<img src="img/tp1e.png" width="100%" height="100%">
+<img src="img/tp1e.png" >
 
 ##### Participación por integrante:
 
 - Mathias Murillo: Desarrolló el Bounded Context del Login.
 
-  <img src="img/tp1em.png" width="100%" height="100%">
+  <img src="img/tp1em.png" >
 
 - Daiki Oshiro: Trabajó en el Bounded Context de Session, además de mejorar estructura y redacción.
 
-  <img src="img/tp1ed.png" width="100%" height="100%">
+  <img src="img/tp1ed.png" >
 
 - Sergio Aguirre: Desarrolló el Bounded Context del Buscador de Profesionales.
 
-  <img src="img/tp1es.png" width="100%" height="100%">
+  <img src="img/tp1es.png" >
 
 - Russell Romero: Trabajó en los Bounded Contexts de Profesionales y Notificaciones.
 
-  <img src="img/tp1er.png" width="100%" height="100%">
+  <img src="img/tp1er.png" >
 
 ### Entrega TB2:
 
 En la tercera entrega, el equipo documentó el comportamiento técnico de cada subdominio y finalizó la estructura del informe.
 
-<img src="img/tb2e.png" width="100%" height="100%">
+<img src="img/tb2e.png" >
 
 ##### Participación por integrante:
 
 - Mathias Murillo: Documentó el subdominio de Login y revisó todo el documento final.
 
-  <img src="img/tb2em.png" width="100%" height="100%">
+  <img src="img/tb2em.png" >
 
 - Daiki Oshiro: Estructuró y explicó los endpoints del subdominio de sesiones, clarificando flujos para el equipo.
 
-  <img src="img/tb2ed.png" width="100%" height="100%">
+  <img src="img/tb2ed.png" >
 
 - Sergio Aguirre: Documentó el endpoints de notificaciones, además de ayudar en pruebas y validaciones.
 
-  <img src="img/tb2es.png" width="100%" height="100%">
+  <img src="img/tb2es.png" >
 
 - Russell Romero: Desarrolló endpoints de profiles, además de juntar todo el backend.
 
-  <img src="img/tb2er.png" width="100%" height="100%">
+  <img src="img/tb2er.png">
 
 ### Entrega TF1:
 
 Para la entrega final, el equipo realizó las mejoras pendientes del informe y desarrolló la versión final del frontend y backend, con su respectiva integración.
 
-<img src="img/tf1e.png" width="100%" height="100%">
+<img src="img/tf1e.png" >
 
 ##### Participación por integrante:
 
 - Daiki Oshiro: Corrección y mejoras del reporte.
 
-  <img src="img/tf1ed.png" width="100%" height="100%">
+  <img src="img/tf1ed.png">
 
 - Sergio Aguirre: Corrección y mejoras del reporte.
 
-  <img src="img/tf1es.png" width="100%" height="100%">
+  <img src="img/tf1es.png" >
 
 - Russell Romero: Despliegue del backend.
 
@@ -654,7 +654,7 @@ En la entrevista, la señora Sara Qwistgaard menciona que busca asesoría en el 
 - Edad: 59
 - Distrito: San Miguel
   
-https://github.com/user-attachments/assets/10ba027c-e24e-43aa-9cb2-c8bb14c064be
+<img src="https://github.com/user-attachments/assets/10ba027c-e24e-43aa-9cb2-c8bb14c064be">
 
 **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EYP9U3OGc01Gujd5mFLQbX0BpU9LbBkQxUcc4cTjnzzlow?e=w2r4b6**
 
@@ -665,7 +665,7 @@ El entrevistado Orlando Romero, quien busca asesoría para administración de eq
 - Edad: 33
 - Distrito: San Miguel
 
-https://github.com/user-attachments/assets/47c6166f-b129-4886-aabc-7f1110e1e900
+<img src="https://github.com/user-attachments/assets/47c6166f-b129-4886-aabc-7f1110e1e900">
 
 **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EZ0tkhJhqUNPoif3FfjPq3EB7JYo7yh4uep_1xHiHiJyHA?e=aYGCbv**
 
@@ -677,7 +677,7 @@ La entrevistada busca asesoría en el área de defensoría médica para el tema 
 - Edad: 20
 - Distrito: Jesus Maria
   
-https://github.com/user-attachments/assets/95e8c874-a899-4e98-82f4-31870a74b1bb
+<img src="https://github.com/user-attachments/assets/95e8c874-a899-4e98-82f4-31870a74b1bb">
 
 **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ER1bky1UOyJAg3cpdsr8B_cB7PC0ldS4rWW8wMJZ0iLEBg?e=XLb7Nq**
 
@@ -688,7 +688,7 @@ La entrevista con Augusto Montes muestra que, para optimizar su negocio de aseso
 - Edad: 22
 - Distrito: Los olivos
   
-https://github.com/user-attachments/assets/6b1b0eb2-35c1-4dbe-a263-fee7b6745f79
+<img src="https://github.com/user-attachments/assets/6b1b0eb2-35c1-4dbe-a263-fee7b6745f79">
 
 **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Ec0MXBN9DxFKrw3UfgGMxg4Bm7eXlDgRxgWpqW-nbPKJdQ?e=QzRkA3**
 
@@ -700,7 +700,7 @@ La entrevista con María Fernanda Castillo destaca sus necesidades para optimiza
 - Edad: 24
 - Distrito: Pueblo libre
   
-https://github.com/user-attachments/assets/301f2480-1a5e-4671-bbed-48b7ab80f0fb
+<img src="https://github.com/user-attachments/assets/301f2480-1a5e-4671-bbed-48b7ab80f0fb">
 
 **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ESMQ04_B3O1Mtk9thyfHcLIB7kGs5JMUo5jBmbX4S4A8Ng?e=hraZSp**
 
