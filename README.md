@@ -319,7 +319,7 @@ Permite a los consultores ofrecer sus servicios, gestionar reservas y recibir pa
 | Integrantes | Descripción | Conocimientos |
 | :---------- | :---------- | :------------ |
 | <div style="display: flex; align-items: center;"><img src="img/Daiki.png" alt="Daiki" width="100" height="120">&nbsp;&nbsp;<br>**Daiki Oscar Oshiro Yamashita**<br>u20201f846</div> | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. | Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL. |
-| <div style="display: flex; align-items: center;"><img src="img/Gonzalo.jpg" alt="Gonzalo" width="100" height="120">&nbsp;&nbsp;<br>**Gonzalo Alonso Carhuancote Dominguez**<br>u202210720</div> | "Soy estudiante de Ingeniería de Software. Me gusta asumir nuevos retos relacionados con el desarrollo de software, como aprender nuevas tecnologías. | Tengo conocimientos en lenguajes como HTML, C++, Python, SQL y en teconlogias como Cisco Packet Tracer y Linux |
+| <div style="display: flex; align-items: center;"><img src="img/Gonzalo.jpg" alt="Gonzalo" width="100" height="120">&nbsp;&nbsp;<br>**Gonzalo Alonso Carhuancote Dominguez**<br>u202210720</div> | Soy estudiante de Ingeniería de Software. Me gusta asumir nuevos retos relacionados con el desarrollo de software, como aprender nuevas tecnologías. | Tengo conocimientos en lenguajes como HTML, C++, Python, SQL y en teconlogias como Cisco Packet Tracer y Linux |
 | <div style="display: flex; align-items: center;"><img src="img/Sergio-Aguirre.jpg" alt="Sergio" width="100" height="150">&nbsp;&nbsp;<br>**Sergio Cesar Aguirre Castillo**<br>u202310425</div> | Soy estudiante de Ingenieraía de Software. Me gusta los desafios se me atraviece durante los cilos que voy pasando con el pasar de los tiempos, soy una persona bien responsable y amable. | Tengo conociemitos con los sigueintes lenguajes de programacion HTML, C++, Java, MySQ, Phyton.|
 | <div style="display: flex; align-items: center;"><img src="img/Russell-Romero.png" alt="Russell" width="100" height="150">&nbsp;&nbsp;<br>**Russell Stephen Romero Qwistgaard**<br>u202211043</div> | Estudio la carrera de ingeniería de software, actualmente en el 7 ciclo de esta. Me apasiona crear programas en entornos distintos para poder ampliar mi conocimiento en las muchas áreas que dependen de mi formación. | He aprendido a programar en lenguajes como HTML, C++, Java, SQL y en frameworks como React, .Net, Angular CLI, Vue.js y Node.js |
 | <div style="display: flex; align-items: center;"><img src="img/Kenyi-Mendoza.jpg" alt="Kenyi" width="100" height="150">&nbsp;&nbsp;<br>**Javier Kenyi Mendoza Solis**<br>u201824550</div> | Estudio la carrera de ingeniería de software. Crear programas en entornos distintos para poder ampliar mi conocimiento es de las cosas que me apaasionan. | He aprendido a programar en lenguajes como HTML, C++, Java, SQL y Python |
@@ -2017,13 +2017,11 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Deployamos la app usando Netlify.
+Deployamos la app usando Vercel.
 
-<img src="./img/q1.png" width="100%" height="100%">
+<img src="./img/DeployVercelFrontEnd.png" width="100%" height="100%">
 
-<img src="./img/w2.png" width="100%" height="100%">
-
-<img src="./img/w3.png" width="100%" height="100%">
+<img src="./img/DeployFrontEndGitHub.png" width="100%" height="100%">
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2599,6 +2597,8 @@ Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pa
 https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
 
 Front End:
+
+Para el despliegue del ForntEnd, hemos utilizado la herramienta Vercel, se conecto al repositorio 
 
 Back End:
 
