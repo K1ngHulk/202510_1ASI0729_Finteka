@@ -2592,6 +2592,7 @@ En este sprint, hemos logrado tanto completar la plataforma web con sus endopoin
 
 #### 5.2.4.7. Evidencia de implementación de software para la revisión del sprint
 Se evidencia que tanto el landing page, como la plataforma frontend y el backend fueron desplegados correctamente
+
 Landing Page:
 
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
