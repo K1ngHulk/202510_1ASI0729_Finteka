@@ -28,6 +28,7 @@
 | Oshiro Yamashita, Daiki Oscar | U20201F846 |
 | Aguirre Castillo, Sergio Cesar | U202310425  |
 | Romero Qwistgaard, Russell Stephen | U202211043 |
+| Chamorro Acero, Salvador Edward | U201914367 |
 
 <h3 align="center">Julio, 2025</h3>
 
@@ -40,7 +41,7 @@
 |TB1|24/04/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió los capítulos 1 al 5|
 |TP1|14/05/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió parte del capítulo 5 y se realizaron correcciones generales|
 |TB2|27/05/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió desde el punto 5.2.3 hasta el 5.4 y se realizaron correcciones generales|
-|TF1|05/07/25|Daiki Oshiro, Sergio Aguirre, Russell Romero| Se añadió el sprint 4 y se realizaron correcciones generales|
+|TF1|05/07/25|Daiki Oshiro, Sergio Aguirre, Russell Romero, Salvador Chamorro| Se añadió el sprint 4 y se realizaron correcciones generales|
 
 # Project Report Collaboration Insights
 
@@ -2470,10 +2471,11 @@ Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka
 
 | Team Member                   | Github Username | Sprint 4 |  Heuristic Evaluations | Session Management | Notifications | Sidebar Search | Profiles |
 |------------------------------|-----------------|----------|--------------------------------------------|--------------------|---------------|----------------|----------|
-| Mendoza Solis Javier Kenyi        | Kenyi-Mendoza-Solis       | C        |                      L                    | C                  | C             | L              | C        |
-| Oshiro Yamashita Daiki Oscar | DaikiOY         | L        |                     C                    | L                  | C             | C              | C        |
+| Mendoza Solis Javier Kenyi   | Kenyi-Mendoza-Solis| C     |                      L                    | C                  | C             | L              | C        |
+| Oshiro Yamashita Daiki Oscar | DaikiOY         | L        |                      C                    | L                  | C             | C              | C        |
 | Aguirre Castillo Sergio Cesar| Aguirrat157     | C        |                      C                    | C                  | C             | C              | C        |
 | Romero Qwistgaard Russel Stephen | RussellUPC  | C        |                      C                    | C                  | L             | C              | L        |
+| Chamorro Acero, Salvador Edward | SALVA1704  | L        |                      C                    | C                  | L             | C              | L        |
 
 #### 5.2.4.3. Sprint Backlog 4
 
@@ -2563,27 +2565,37 @@ En el presente Sprint 4 se avanzó significativamente en la integración y despl
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
-|Landing Page|main| 0c8aeea | Make Landing Page apply Responsive Web Design principles | update content in the scripts section | 27/05/2025 |
-|            |main| b714b09 | Feedback correction | update content in the scripts section | 28/05/2025 |
-|            |main| 090c4fa | add the video section about the team and about the product | added content in the section Home | 30/05/2025 |
-|Web Services|main| 52e6baf | Initial commit | created the web services content | 30/05/2025 |
-| |main| 7a2645c | creation of web services and creation of the snakecasephysicalnamingstrategy | created the snakecasephysicalnamingstrategy | 30/05/2025 |
-| |session-management| ec57447 | Add files via upload | added session-management files | 16/06/2025 |
-| |session-management| 269426d | Create SessionEntity.java | created the SessionEntity | 16/06/2025 |
-| |session-management| 351c9a3 | Create maven-wrapper.properties | created the maven-wrapper | 16/06/2025 |
-| |session-management| 568d0a3 | Update: Merge profile with sessions | created the profile and sessions endpoint | 19/06/2025 |
-| |session-management| e631689 | Update: Added Notification | created the notifications endpoint | 20/06/2025 |
-| |session-management| 9e22381 | Update: Notification | update the notifications endpoint | 20/06/2025 |
+|202510_1ASI0729_WebApplication_Finteka|main| 20e135b0c8ed45a64cbf0955c5a96de8d1aba4a8 | feat(notification): added notification reserve | - | 28/06/2025 |
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(profiles): added profile view | - | 29/06/2025 |
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(search): added search optimization | - | 29/06/2025 |
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(search): added filter experts | - | 30/062025 |    
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added reserve sessions | - | 2/07/2025 |    
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added take photos during sessions | - | 2/07/2025 |    
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added testimonies | - | 5/07/2025 |    
 
 #### 5.2.4.5. Evidencia de ejecución para la revisión del sprint
+En este sprint, hemos logrado desplegar tanto una aplicación web como una aplicacion de servicios en java que la aplicacion web utiliza como API. A continuación, se presenta el código correspondiente a dicha aplicación:
+
 
 #### 5.2.4.6. Documentación de Servicios: Evidencia para la Revisión del Sprint
 
 #### 5.2.4.7. Evidencia de implementación de software para la revisión del sprint
+Landing Page:
+
+Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
+https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
+
+Front End:
+
+Back End:
+
+Para el despliegue del Backend Web app, hemos utilizado la herramienta de Azure, vincúlandola con nuestro repositorio de GitHub para poder hacer un deployment.
+https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka
 
 #### 5.2.4.8. Perspectivas sobre la colaboración en equipo durante el sprint
 
 Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integración final del sistema, combinando el frontend y el backend previamente desarrollados. Se continuó utilizando la metodología GitFlow, manteniendo una estructura ordenada de ramas por funcionalidad, tanto para correcciones en el backend como para el desarrollo de vistas. Las tareas se distribuyeron equitativamente y se gestionaron mediante pull requests, lo que permitió mantener la trazabilidad de cambios y facilitar la revisión cruzada del código. 
+
 
 <table border="1" width="100%" style="text-align:left;">
   <tr>
