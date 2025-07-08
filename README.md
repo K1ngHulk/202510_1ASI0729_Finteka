@@ -327,6 +327,7 @@ Permite a los consultores ofrecer sus servicios, gestionar reservas y recibir pa
 | <div style="display: flex; align-items: center;"><img src="img/Sergio-Aguirre.jpg" alt="Sergio" width="100" height="150">&nbsp;&nbsp;<br>**Sergio Cesar Aguirre Castillo**<br>u202310425</div> | Soy estudiante de Ingenieraía de Software. Me gusta los desafios se me atraviece durante los cilos que voy pasando con el pasar de los tiempos, soy una persona bien responsable y amable. | Tengo conociemitos con los sigueintes lenguajes de programacion HTML, C++, Java, MySQ, Phyton.|
 | <div style="display: flex; align-items: center;"><img src="img/Russell-Romero.png" alt="Russell" width="100" height="150">&nbsp;&nbsp;<br>**Russell Stephen Romero Qwistgaard**<br>u202211043</div> | Estudio la carrera de ingeniería de software, actualmente en el 7 ciclo de esta. Me apasiona crear programas en entornos distintos para poder ampliar mi conocimiento en las muchas áreas que dependen de mi formación. | He aprendido a programar en lenguajes como HTML, C++, Java, SQL y en frameworks como React, .Net, Angular CLI, Vue.js y Node.js |
 | <div style="display: flex; align-items: center;"><img src="img/Kenyi-Mendoza.jpg" alt="Kenyi" width="100" height="150">&nbsp;&nbsp;<br>**Javier Kenyi Mendoza Solis**<br>u201824550</div> | Estudio la carrera de ingeniería de software. Crear programas en entornos distintos para poder ampliar mi conocimiento es de las cosas que me apaasionan. | He aprendido a programar en lenguajes como HTML, C++, Java, SQL y Python |
+| <div style="display: flex; align-items: center;"><img src="img/Salvador.jpg" alt="Kenyi" width="100" height="150">&nbsp;&nbsp;<br>**Salvador Chamorro Acero**<br>u201914367</div> | Estudio la carrera de ingeniería de software y son apasionado por el mundo de la tecnologia. | He aprendido a programar en lenguajes como C++ y Python |
 
 
 ## 1.2. Solution Profile
@@ -2577,10 +2578,10 @@ En el presente Sprint 4 se avanzó significativamente en la integración y despl
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
-|202510_1ASI0729_WebApplication_Finteka|main| 20e135b0c8ed45a64cbf0955c5a96de8d1aba4a8 | feat(notification): added notification reserve | - | 28/06/2025 |
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(profiles): added profile view | - | 29/06/2025 |
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added reserve sessions | - | 2/07/2025 |    
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added testimonies | - | 5/07/2025 |    
+|202510_1ASI0729_WebApplication_Finteka|main| 20e135b0c8ed45a64cbf0955c5a96de8d1aba4a8 | feat(notification): added notification reserve | Se agrego la funcionalidad de recibir notificaciones acerca de la reserva | 28/06/2025 |
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(profiles): added profile view | Se podrá visualizar el perfil del usuario | 29/06/2025 |
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added reserve sessions | Se agrego la funcionalidad de reservar sesiones | 2/07/2025 |    
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added testimonies | Se agrego la funcionalidad de agregar testimonios | 5/07/2025 |    
 
 #### 5.2.4.5. Evidencia de ejecución para la revisión del sprint
 En este sprint, hemos logrado tanto completar la plataforma web con sus endopoints necesario como el backend y su conexion para que el front utilice el backend como API.
