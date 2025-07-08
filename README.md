@@ -2486,77 +2486,74 @@ https://trello.com/invite/b/6869e21270db00c50390be16/ATTIe132daead233cbc46b41b02
 
 <img src="./img/trello4.png" width="900" height="600">
 
-<table align="center" border="1" width="100%" style="text-align:center;">
-  <tr align="left">
-    <th>User Story</th>
-    <th>Work-Item / Task</th>
-    <th>Id</th>
-    <th>Title</th>
-    <th>Description</th>
-    <th>Estimation (Hours)</th>
-    <th>Assigned To</th>
-    <th>Student Code</th>
-    <th>Status</th>
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 4</th>
   </tr>
-
-  <tr align="left">
-    <td rowspan="1">US10</td>
-    <td>Corregir errores en backend</td>
-    <td>T03</td>
-    <td>Correcciones backend</td>
-    <td>Ajustes de errores en rutas, controladores y validaciones del backend.</td>
-    <td>3</td>
-    <td></td>
-    <td></td>
-    <td>To Do</td>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
   </tr>
-
-  <tr align="left">
-    <td rowspan="1">US11</td>
-    <td>Desplegar backend</td>
-    <td>T04</td>
-    <td>Despliegue backend</td>
-    <td>Publicar backend en entorno remoto (Railway, Render, etc.).</td>
-    <td>3</td>
-    <td></td>
-    <td></td>
-    <td>To Do</td>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>   
+<tr>
+    <td colspan="1">US19</td>
+    <td colspan="2">Notificaciones sobre estado de reserva. </td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Se notifica cualquier cambio acerca de las reservas </td>
+    <td colspan="3">Yo,como usuario quiero recibir notificaciones sobre el estado de mi reserva para estar informado en todo momento. .</td>
+    <td colspan="1">3</td>
+    <td colspan="2"> - </td>
+    <td colspan="1">Done</td>
   </tr>
-
-  <tr align="left">
-    <td rowspan="1">US12</td>
-    <td>Desplegar frontend</td>
-    <td>T05</td>
-    <td>Despliegue frontend</td>
-    <td>Publicar el frontend con conexión funcional al backend.</td>
-    <td>3</td>
-    <td></td>
-    <td></td>
-    <td>To Do</td>
+<tr>
+    <td colspan="1">US06</td>
+    <td colspan="2">Ver detalles del profesional.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Se podran ver los datos del profesional</td>
+    <td colspan="3">Yo, como usuario, quiero poder ver el perfil completo de un profesional. Para conocer su experiencia, especialidades, disponibilidad, tarifas y calificaciones antes de tomar una decisión. .</td>
+    <td colspan="1">3</td>
+    <td colspan="2"> - </td>
+    <td colspan="1">Done</td>
   </tr>
-
-  <tr align="left">
-    <td rowspan="1">US13</td>
-    <td>Integrar vistas del frontend</td>
-    <td>T06</td>
-    <td>Integración visual con lógica</td>
-    <td>Conectar componentes frontend con datos reales desde backend.</td>
-    <td>5</td>
-    <td></td>
-    <td></td>
-    <td>In Progress</td>
+  <tr>
+    <td colspan="1">US26</td>
+    <td colspan="2">Integrar Frontend con Backend.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Desplegar Backend</td>
+    <td colspan="3">Yo, como desarrollador, quiero desplegar el Backend, para que la aplicacion web pueda utilizar y manipular datos. .</td>
+    <td colspan="1">3</td>
+    <td colspan="2"> - </td>
+    <td colspan="1">Done</td>
   </tr>
-
-  <tr align="left">
-    <td>-</td>
-    <td>Actualizar información en landing page</td>
-    <td>T07</td>
-    <td>Landing actualizada</td>
-    <td>Reemplazar nombres, fotos y detalles del equipo en la página principal.</td>
-    <td>2</td>
-    <td></td>
-    <td></td>
-    <td>In Progress</td>
+   <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Actualizar Frontend</td>
+    <td colspan="3">Yo, como desarrollador, quiero que el Frontend utilice los endpoints de la base de datos desplegada, para que la aplicacion web pueda utilizar y manipular datos. .</td>
+    <td colspan="1">3</td>
+    <td colspan="2"> - </td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">DesplegarFrontEd</td>
+    <td colspan="3">Yo, como desarrollador, quiero desplegar el Fronted, para que la aplicacion web pueda ser utilizada por los segmentos objetivos. .</td>
+    <td colspan="1">3</td>
+    <td colspan="2"> - </td>
+    <td colspan="1">Done</td>
   </tr>
 </table>
 
