@@ -29,7 +29,7 @@
 | Aguirre Castillo, Sergio Cesar | U202310425  |
 | Romero Qwistgaard, Russell Stephen | U202211043 |
 | Chamorro Acero, Salvador Edward | U201914367 |
-
+| Carhuancote Domniguez, Gonzalo Alonso | U202210720 |
 <h3 align="center">Julio, 2025</h3>
 
 <div style="page-break-after: always;"></div>
@@ -41,7 +41,7 @@
 |TB1|24/04/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió los capítulos 1 al 5|
 |TP1|14/05/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió parte del capítulo 5 y se realizaron correcciones generales|
 |TB2|27/05/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió desde el punto 5.2.3 hasta el 5.4 y se realizaron correcciones generales|
-|TF1|05/07/25|Daiki Oshiro, Sergio Aguirre, Russell Romero, Salvador Chamorro| Se añadió el sprint 4 y se realizaron correcciones generales|
+|TF1|05/07/25|Daiki Oshiro, Sergio Aguirre, Russell Romero, Salvador Chamorro, Gonzalo Carhuancote| Se añadió el sprint 4 y se realizaron correcciones generales|
 
 # Project Report Collaboration Insights
 
@@ -2476,6 +2476,7 @@ Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka
 | Aguirre Castillo Sergio Cesar| Aguirrat157     | C        |                      C                    | C                  | C             | C              | C        |
 | Romero Qwistgaard Russel Stephen | RussellUPC  | C        |                      C                    | C                  | L             | C              | L        |
 | Chamorro Acero, Salvador Edward | SALVA1704  | L        |                      C                    | C                  | L             | C              | L        |
+| Carhuancote Domniguez, Gonzalo Alonso - U202210720 | SALVA1704  | L        |                      C                    | C                  | L             | C              | L        |
 
 #### 5.2.4.3. Sprint Backlog 4
 
@@ -2578,6 +2579,21 @@ En este sprint, hemos logrado desplegar tanto una aplicación web como una aplic
 
 
 #### 5.2.4.6. Documentación de Servicios: Evidencia para la Revisión del Sprint
+En este sprint, hemos logrado desplegar una aplicación web que consume datos en formato JSON para mostrarlos al usuario. A continuación, se presenta el código correspondiente a dicha aplicación:
+
+| Endpoint                                  | Acción                               | Método HTTP | Sintaxis de llamada                     | Parámetros                                | URL Swagger                          |
+|------------------------------------------|--------------------------------------|-------------|------------------------------------------|-------------------------------------------|--------------------------------------|
+| /sessions                                | Crear sesión                         | POST        | /sessions                                | Body: detalles de sesión                  | `http://localhost:8080/swagger-ui/index.html` |
+| /sessions/reserve                        | Reservar una sesión                  | POST        | /sessions/reserve                        | Body: id_sesión, id_usuario               | `http://localhost:8080/swagger-ui/index.html` |
+| /sessions/available                      | Consultar sesiones disponibles       | GET         | /sessions/available                      | Query: fecha, id_profesional              | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles                                | Crear perfil                         | POST        | /profiles                                | Body: datos del perfil                    | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles                                | Obtener todos los perfiles           | GET         | /profiles                                | Ninguno                                   | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/{id}                           | Obtener perfil por ID                | GET         | /profiles/{id}                           | Path: id                                  | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/{id}                           | Actualizar perfil                    | PUT         | /profiles/{id}                           | Path: id, Body: datos del perfil          | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/{id}                           | Eliminar perfil                      | DELETE      | /profiles/{id}                           | Path: id                                  | `http://localhost:8080/swagger-ui/index.html` |
+| /api/notificaciones                      | Consultar notificaciones             | GET         | /api/notificaciones                      | Ninguno                                   | `http://localhost:8080/swagger-ui/index.html` |
+| /api/notificaciones                      | Crear notificación                   | POST        | /api/notificaciones                      | Body: profesionalId, título, mensaje      | `http://localhost:8080/swagger-ui/index.html` |
+| /api/notificaciones/{id}/read            | Marcar notificación como leída       | POST        | /api/notificaciones/{id}/read            | Path: id                                  | `http://localhost:8080/swagger-ui/index.html` |
 
 #### 5.2.4.7. Evidencia de implementación de software para la revisión del sprint
 Landing Page:
@@ -2622,6 +2638,18 @@ Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integra
   </tr>
   <tr>
     <td>Russell Romero</td>
+    <td>
+      
+    </td>
+  </tr>
+  <tr>
+    <td>Salvador Chamorro</td>
+    <td>
+      
+    </td>
+  </tr>
+  <tr>
+    <td>Gonzalo Carhuacote</td>
     <td>
       
     </td>
