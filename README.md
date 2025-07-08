@@ -2585,7 +2585,6 @@ En este sprint, hemos logrado tanto completar la plataforma web con sus endopoin
 
 
 #### 5.2.4.6. Documentación de Servicios: Evidencia para la Revisión del Sprint
-En este sprint, hemos logrado desplegar una aplicación web que consume datos en formato JSON para mostrarlos al usuario. A continuación, se presenta el código correspondiente a dicha aplicación:
 
 | Endpoint                                  | Acción                               | Método HTTP | Sintaxis de llamada                     | Parámetros                                | URL Swagger                          |
 |------------------------------------------|--------------------------------------|-------------|------------------------------------------|-------------------------------------------|--------------------------------------|
