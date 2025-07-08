@@ -2438,6 +2438,7 @@ Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend si
             - Oshiro Yamashita, Daiki Oscar – U20201F846 <br>
             - Aguirre Castillo, Sergio Cesar – U202310425 <br>
             - Russell Stephen Romero Qwistgaard – U202211043 <br>
+            - Chamorro Acero Salvador Edward - u201914367  <br>
         </td>
     </tr>
     <tr align="left">
@@ -2516,7 +2517,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Se podran relizar reservas de sesiones </td>
     <td colspan="3">Yo,como usuario, quiero poder reservar una sesión con un profesional, para asegurarme de contar con su tiempo disponible para recibir asesoría. .</td>
     <td colspan="1">3</td>
-    <td colspan="2"> - </td>
+    <td colspan="2"> Daiki </td>
     <td colspan="1">Done</td>
   </tr>
   
@@ -2527,7 +2528,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Se notifica cualquier cambio acerca de las reservas </td>
     <td colspan="3">Yo,como usuario quiero recibir notificaciones sobre el estado de mi reserva para estar informado en todo momento. .</td>
     <td colspan="1">3</td>
-    <td colspan="2"> - </td>
+    <td colspan="2"> Russell </td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -2537,7 +2538,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Se podran ver los datos del profesional</td>
     <td colspan="3">Yo, como usuario, quiero poder ver el perfil completo de un profesional, para conocer su experiencia, especialidades, disponibilidad, tarifas y calificaciones antes de tomar una decisión. .</td>
     <td colspan="1">3</td>
-    <td colspan="2"> - </td>
+    <td colspan="2"> Gonzalo </td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
@@ -2547,7 +2548,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Desplegar Backend</td>
     <td colspan="3">Yo, como desarrollador, quiero desplegar el Backend, para que la aplicacion web pueda utilizar y manipular datos. .</td>
     <td colspan="1">3</td>
-    <td colspan="2"> - </td>
+    <td colspan="2"> Salvador </td>
     <td colspan="1">Done</td>
   </tr>
    <tr>
@@ -2557,7 +2558,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Actualizar Frontend</td>
     <td colspan="3">Yo, como desarrollador, quiero que el Frontend utilice los endpoints de la base de datos desplegada, para que la aplicacion web pueda utilizar y manipular datos. .</td>
     <td colspan="1">3</td>
-    <td colspan="2"> - </td>
+    <td colspan="2"> Sergio </td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
@@ -2567,7 +2568,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">DesplegarFrontEd</td>
     <td colspan="3">Yo, como desarrollador, quiero desplegar el Fronted, para que la aplicacion web pueda ser utilizada por los segmentos objetivos. .</td>
     <td colspan="1">3</td>
-    <td colspan="2"> - </td>
+    <td colspan="2"> Matias </td>
     <td colspan="1">Done</td>
   </tr>
 </table>
