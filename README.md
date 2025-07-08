@@ -2478,7 +2478,7 @@ Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka
 | Aguirre Castillo Sergio Cesar| Aguirrat157     | C        |                      C                    | C                  | C             | C              | C        |
 | Romero Qwistgaard Russel Stephen | RussellUPC  | C        |                      C                    | C                  | L             | C              | L        |
 | Chamorro Acero, Salvador Edward | SALVA1704  | L        |                      C                    | C                  | L             | C              | L        |
-| Carhuancote Domniguez, Gonzalo Alonso - U202210720 | SALVA1704  | L        |                      C                    | C                  | L             | C              | L        |
+| Carhuancote Domniguez, Gonzalo Alonso - U202210720 | Gonzalo251104  | L        |                      C                    | C                  | L             | C              | L        |
 
 #### 5.2.4.3. Sprint Backlog 4
 
@@ -2590,6 +2590,12 @@ En este sprint, hemos logrado tanto completar la plataforma web con sus endopoin
 
 | Endpoint                                  | Acción                               | Método HTTP | Sintaxis de llamada                     | Parámetros                                | URL Swagger                          |
 |------------------------------------------|--------------------------------------|-------------|------------------------------------------|-------------------------------------------|--------------------------------------|
+| /api/notifications                       | Recibir notificacion                 | GET        | /notificacions                            | -                                         | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/{id}                           | Visualizar perfil                    | GET        | /profiles/{id}                            | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/{id}                           | Actualizar perfil                    | PATCH      | /profiles/{id}                            | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
+| /sessions                                | Agregar reserva de sesiones          | POST       | /sessions/reserve                         | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
+| /testimonies                             | Agregar testimonios                  | POST       | /testimonies                              | -                                         | `http://localhost:8080/swagger-ui/index.html` |
+| /testimonies                             | Obtener testimonios                  | GET        | /testimonies                              | -                                         | `http://localhost:8080/swagger-ui/index.html` |
 
 
 #### 5.2.4.7. Evidencia de implementación de software para la revisión del sprint
