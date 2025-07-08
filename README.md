@@ -2505,6 +2505,18 @@ https://trello.com/invite/b/6869e21270db00c50390be16/ATTIe132daead233cbc46b41b02
     <td colspan="2">Assigned To</td>
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>   
+
+<tr>
+    <td colspan="1">US12</td>
+    <td colspan="2">Realizar reserva de sesión. </td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Se podran relizar reservas de sesiones </td>
+    <td colspan="3">Yo,como usuario, quiero poder reservar una sesión con un profesional, para asegurarme de contar con su tiempo disponible para recibir asesoría. .</td>
+    <td colspan="1">3</td>
+    <td colspan="2"> - </td>
+    <td colspan="1">Done</td>
+  </tr>
+  
 <tr>
     <td colspan="1">US19</td>
     <td colspan="2">Notificaciones sobre estado de reserva. </td>
@@ -2520,7 +2532,7 @@ https://trello.com/invite/b/6869e21270db00c50390be16/ATTIe132daead233cbc46b41b02
     <td colspan="2">Ver detalles del profesional.</td>
     <td colspan="1">T01</td>
     <td colspan="2">Se podran ver los datos del profesional</td>
-    <td colspan="3">Yo, como usuario, quiero poder ver el perfil completo de un profesional. Para conocer su experiencia, especialidades, disponibilidad, tarifas y calificaciones antes de tomar una decisión. .</td>
+    <td colspan="3">Yo, como usuario, quiero poder ver el perfil completo de un profesional, para conocer su experiencia, especialidades, disponibilidad, tarifas y calificaciones antes de tomar una decisión. .</td>
     <td colspan="1">3</td>
     <td colspan="2"> - </td>
     <td colspan="1">Done</td>
@@ -2565,14 +2577,11 @@ En el presente Sprint 4 se avanzó significativamente en la integración y despl
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
 |202510_1ASI0729_WebApplication_Finteka|main| 20e135b0c8ed45a64cbf0955c5a96de8d1aba4a8 | feat(notification): added notification reserve | - | 28/06/2025 |
 |202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(profiles): added profile view | - | 29/06/2025 |
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(search): added search optimization | - | 29/06/2025 |
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(search): added filter experts | - | 30/062025 |    
 |202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added reserve sessions | - | 2/07/2025 |    
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added take photos during sessions | - | 2/07/2025 |    
 |202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added testimonies | - | 5/07/2025 |    
 
 #### 5.2.4.5. Evidencia de ejecución para la revisión del sprint
-En este sprint, hemos logrado desplegar tanto una aplicación web como una aplicacion de servicios en java que la aplicacion web utiliza como API. A continuación, se presenta el código correspondiente a dicha aplicación:
+En este sprint, hemos logrado tanto completar la plataforma web con sus endopoints necesario como el backend y su conexion para que el front utilice el backend como API.
 
 
 #### 5.2.4.6. Documentación de Servicios: Evidencia para la Revisión del Sprint
@@ -2580,19 +2589,10 @@ En este sprint, hemos logrado desplegar una aplicación web que consume datos en
 
 | Endpoint                                  | Acción                               | Método HTTP | Sintaxis de llamada                     | Parámetros                                | URL Swagger                          |
 |------------------------------------------|--------------------------------------|-------------|------------------------------------------|-------------------------------------------|--------------------------------------|
-| /sessions                                | Crear sesión                         | POST        | /sessions                                | Body: detalles de sesión                  | `http://localhost:8080/swagger-ui/index.html` |
-| /sessions/reserve                        | Reservar una sesión                  | POST        | /sessions/reserve                        | Body: id_sesión, id_usuario               | `http://localhost:8080/swagger-ui/index.html` |
-| /sessions/available                      | Consultar sesiones disponibles       | GET         | /sessions/available                      | Query: fecha, id_profesional              | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles                                | Crear perfil                         | POST        | /profiles                                | Body: datos del perfil                    | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles                                | Obtener todos los perfiles           | GET         | /profiles                                | Ninguno                                   | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/{id}                           | Obtener perfil por ID                | GET         | /profiles/{id}                           | Path: id                                  | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/{id}                           | Actualizar perfil                    | PUT         | /profiles/{id}                           | Path: id, Body: datos del perfil          | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/{id}                           | Eliminar perfil                      | DELETE      | /profiles/{id}                           | Path: id                                  | `http://localhost:8080/swagger-ui/index.html` |
-| /api/notificaciones                      | Consultar notificaciones             | GET         | /api/notificaciones                      | Ninguno                                   | `http://localhost:8080/swagger-ui/index.html` |
-| /api/notificaciones                      | Crear notificación                   | POST        | /api/notificaciones                      | Body: profesionalId, título, mensaje      | `http://localhost:8080/swagger-ui/index.html` |
-| /api/notificaciones/{id}/read            | Marcar notificación como leída       | POST        | /api/notificaciones/{id}/read            | Path: id                                  | `http://localhost:8080/swagger-ui/index.html` |
+
 
 #### 5.2.4.7. Evidencia de implementación de software para la revisión del sprint
+Se evidencia que tanto el landing page, como la plataforma frontend y el backend fueron desplegados correctamente
 Landing Page:
 
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
