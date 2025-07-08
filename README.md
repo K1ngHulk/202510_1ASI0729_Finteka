@@ -891,7 +891,7 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 Impact map de nuestros segmentos objetivos:
 
-<img src="./img/imp.png" width="100%" height="100%">
+<img src="./img/imp.png" >
 
 Link del Impact Mapping: https://miro.com/app/board/uXjVIFzfVes=/?share_link_id=918091555760
 
@@ -952,19 +952,19 @@ La tipografía organiza el lenguaje visual de las plataformas, garantizando legi
 
 **Head**
 
-<img src="./img/Head-Guide.png" width="100%" height="100%">
+<img src="./img/Head-Guide.png" >
 
 **Body**
 
-<img src="./img/Body-Guide.png" width="100%" height="100%">
+<img src="./img/Body-Guide.png" >
 
 **Colors**
 
-<img src="./img/Colors-Guide.png" width="100%" height="100%">
+<img src="./img/Colors-Guide.png" >
 
 **Spacing**
 
-<img src="./img/Spacing-Guide.png" width="100%" height="100%">
+<img src="./img/Spacing-Guide.png" >
 
 ### 4.1.2. Web Style Guidelines
 
@@ -1038,30 +1038,30 @@ A continuación, se mostrarán los sistemas de navegación que le permitirán a 
 ### 4.3.1. Landing Page Wireframe
 
 ### Home Wireframe
-<img src="./img/Home.png" width="100%" height="100%">
+<img src="./img/Home.png" >
 
 ### About Us Wireframe
-<img src="./img/About Us.png" width="100%" height="100%">
+<img src="./img/About Us.png" >
 
 ### Learn More Wireframe
-<img src="./img/Learn More.png" width="100%" height="100%">
+<img src="./img/Learn More.png" >
 
 ### Suscribe Wireframe
-<img src="./img/Suscribe.png" width="100%" height="100%">
+<img src="./img/Suscribe.png" >
 
 ### 4.3.2. Landing Page Mock-ups
 
 ### Home Mock-up
-<img src="./img/Home-Mock.png" width="100%" height="100%">
+<img src="./img/Home-Mock.png" >
 
 ### About Us Mock-up
-<img src="./img/About Us-Mock.png" width="100%" height="100%">
+<img src="./img/About Us-Mock.png" >
 
 ### Learn More Mock-up
-<img src="./img/Learn More-Mock.png" width="100%" height="100%">
+<img src="./img/Learn More-Mock.png" >
 
 ### Suscribe Mock-up
-<img src="./img/Suscribe-Mock.png" width="100%" height="100%">
+<img src="./img/Suscribe-Mock.png" >
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -1071,63 +1071,63 @@ A continuación, se mostrarán los sistemas de navegación que le permitirán a 
 
 Inicio de sesión y registro:
 
-<img src="./img/wi1.png" width="100%" height="100%">
+<img src="./img/wi1.png" >
 
 Búsqueda de profesionales:
 
-<img src="./img/wi2.png" width="100%" height="100%">
+<img src="./img/wi2.png" >
 
 Seleccionar y valorar profesional:
 
-<img src="./img/wi3.png" width="100%" height="100%">
+<img src="./img/wi3.png" >
 
 - Mobile Browser:
 
-<img src="./img/wi4.png" width="100%" height="100%">
+<img src="./img/wi4.png" >
 
-<img src="./img/wi5.png" width="100%" height="100%">
+<img src="./img/wi5.png" >
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 Usuario ingresa a la aplicación iniciando sesión o registrándose:
 
-<img src="./img/wi6.png" width="100%" height="100%">
+<img src="./img/wi6.png" >
 
 Usuario desea buscar un profesional:
 
-<img src="./img/wi7.png" width="100%" height="100%">
+<img src="./img/wi7.png" >
 
 Usuario desea contactar o valorar profesional:
 
-<img src="./img/wi8.png" width="100%" height="100%">
+<img src="./img/wi8.png" >
 
 ### 4.4.3. Web Applications Mock-ups
 
 Inicio de sesión y registro:
 
-<img src="./img/Desktop1.png" width="100%" height="100%">
+<img src="./img/Desktop1.png" >
 
 Vista de profesionales y búsqueda:
 
-<img src="./img/Desktop2.png" width="100%" height="100%">
+<img src="./img/Desktop2.png" >
 
 Vista del perfil del profesional y valoración:
 
-<img src="./img/Desktop3.png" width="100%" height="100%">
+<img src="./img/Desktop3.png" >
 
 Inicio y registro de sesión:
 
-<img src="./img/Mob1.png" width="100%" height="100%">
+<img src="./img/Mob1.png" >
 
 Perfil del profesional:
 
-<img src="./img/Mob2.png" width="100%" height="100%">
+<img src="./img/Mob2.png" >
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 #### **User Goal 1:** Acceder a la aplicación ya sea con registro o inicio de sesión.
 
-<img src="./img/Flow Diagrams1.png" width="100%" height="100%">
+<img src="./img/Flow Diagrams1.png" >
 
 **Descripción:** El objetivo del usuario es ingresar a la plataforma FinTeka para empezar a interactuar con los servicios disponibles. Para ello, necesita registrarse como nuevo usuario o iniciar sesión si ya tiene una cuenta. Este paso es fundamental, ya que permite personalizar la experiencia del usuario, garantizar la seguridad de la información y habilitar funciones como búsqueda de expertos, reservas, pagos y gestión de asesorías. El proceso debe ser rápido, intuitivo y seguro.
 
@@ -1141,7 +1141,7 @@ Errores en datos ingresados, correo ya registrado, o credenciales incorrectas qu
 
 #### **User Goal 2:** Poder realizar una búsqueda de profesional por medio de filtros.
 
-<img src="./img/Flow Diagrams2.png" width="100%" height="100%">
+<img src="./img/Flow Diagrams2.png" >
 
 **Descripción:** Este objetivo se centra en permitir que el usuario encuentre rápidamente al profesional adecuado para su necesidad específica mediante el uso de filtros avanzados. Esta funcionalidad mejora la eficiencia del proceso de búsqueda, reduce la frustración y aumenta la probabilidad de concretar una sesión satisfactoria. Una búsqueda bien implementada influye directamente en la percepción de calidad de la plataforma.
 
@@ -1155,7 +1155,7 @@ Filtros mal aplicados, sin resultados encontrados o errores de carga que muestra
 
 #### **User Goal 3:** Poder visualizar toda la información del profesional en su perfil.
 
-<img src="./img/Flow Diagrams3.png" width="100%" height="100%">
+<img src="./img/Flow Diagrams3.png" >
 
 **Descripción:** El usuario busca acceder a un perfil completo y detallado del profesional, que le permita evaluar si es la persona adecuada para brindarle la asesoría que necesita. Este perfil debe mostrar de forma clara y ordenada la experiencia, especialidades, tarifas por sesión, horarios disponibles, valoraciones y comentarios de otros usuarios, y certificaciones o logros relevantes. Una presentación transparente y profesional genera confianza, facilita la toma de decisiones y mejora la conversión de visitas en reservas efectivas.
 
@@ -1169,7 +1169,7 @@ Errores en carga de perfil o información incompleta que se comunican con mensaj
 
 #### **User Goal 4:** Poder valorar el profesional seleccionado
 
-<img src="./img/Flow Diagrams4.png" width="100%" height="100%">
+<img src="./img/Flow Diagrams4.png" >
 
 **Descripción:** El usuario desea dejar una valoración sobre el profesional que le brindó la asesoría, con el fin de compartir su experiencia y contribuir a la comunidad. El proceso debe ser simple, accesible y aparecer justo después de completada la sesión. Las valoraciones permiten fortalecer la confianza en la plataforma, reconocer a los mejores profesionales y brindar insumos valiosos para que otros usuarios tomen decisiones informadas.
 
@@ -1507,7 +1507,7 @@ A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto
 
 https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1<br>
 
-<img src="./img/trello1.png" width="100%" height="100%">
+<img src="./img/trello1.png" >
 
 <table align="center" border="1" width="95%" style="text-align:center">
   <tr>
@@ -1616,30 +1616,30 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-<img src="./img/sprint1_evidence_1.png" width="100%" height="100%">
+<img src="./img/sprint1_evidence_1.png" >
 
 * Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
   
-  <img src="./img/sprint1_evidence_2.png" width="100%" height="100%">    
+  <img src="./img/sprint1_evidence_2.png" >    
   
 * Imágenes del Landing Page:
    
   * Inicio:
   
-    <img src="./img/sprint1_evidence_2.png" width="100%" height="100%">
+    <img src="./img/sprint1_evidence_2.png" >
     
   * Sección Nosotros:
   
-    <img src="./img/sprint1_evidence_3.png" width="100%" height="100%">
+    <img src="./img/sprint1_evidence_3.png" >
     
   * Conocer más sobre el proyecto:   
   * Planes de subscripción:
   
-    <img src="./img/sprint1_evidence_4.png" width="100%" height="100%">
+    <img src="./img/sprint1_evidence_4.png" >
     
   * Sección de Cambio de Idioma:
   
-    <img src="./img/sprint1_evidence_5.png" width="100%" height="100%">
+    <img src="./img/sprint1_evidence_5.png">
 
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
 
@@ -1671,13 +1671,13 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    * Se subió el código de la Landing Page al repositorio en GitHub.  
    * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
      
-2. <img src="./img/sprint1_evidence_6.png" width="100%" height="100%">
+2. <img src="./img/sprint1_evidence_6.png" >
 
 3. Verificación del Despliegue:  
    * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
    * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
 
-4. <img src="./img/sprint1_evidence_2.png" width="100%" height="100%">
+4. <img src="./img/sprint1_evidence_2.png" >
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
 
@@ -1697,21 +1697,21 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
 
 Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Landing Page:
 
-<img src="./img/sprint1_evidence_7.png" width="100%" height="100%">
+<img src="./img/sprint1_evidence_7.png" >
 
-<img src="./img/sprint1_evidence_8.png" width="100%" height="100%">
+<img src="./img/sprint1_evidence_8.png" >
 
-<img src="./img/sprint1_evidence_9.png" width="100%" height="100%">
+<img src="./img/sprint1_evidence_9.png" >
 
-<img src="./img/sprint1_evidence_10.png" width="100%" height="100%">
+<img src="./img/sprint1_evidence_10.png">
 
-<img src="./img/sprint1_evidence_11.png" width="100%" height="100%">
+<img src="./img/sprint1_evidence_11.png" >
 
 ### 5.2.2 Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2
 
-<table align="center" border="1" width="90%" style="text-align:center;">
+<table align="center" border="1" width="95%" style="text-align:center;">
     <tr align="left">
         <td>
             <b>Sprint #</b>
@@ -1958,39 +1958,39 @@ Durante el segundo sprint, se lograron varios hitos importantes en el desarrollo
 
 Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-<img src="./img/sprint1_evidence_14.png" width="100%" height="100%">
+<img src="./img/sprint1_evidence_14.png" >
 
 #### Login & Register: 
-<img src="./img/LoginFront.png" width="100%" height="100%">
-<img src="./img/RegistroFront.png" width="100%" height="100%">
+<img src="./img/LoginFront.png">
+<img src="./img/RegistroFront.png">
 
 #### Barra de búsqueda lateral:
-<img src="./img/BusquedaFront.png" width="100%" height="100%">
+<img src="./img/BusquedaFront.png">
 
 #### Búsqueda de Profesionales:
-<img src="./img/BusquedaProfesionales.png" width="100%" height="100%">
+<img src="./img/BusquedaProfesionales.png" >
 
 #### Notificaciones:
-<img src="./img/NotificacionesFront.png" width="100%" height="100%">
+<img src="./img/NotificacionesFront.png" >
 
 #### Perfil:
-<img src="./img/PerfilFront.png" width="100%" height="100%">
+<img src="./img/PerfilFront.png" >
 
 #### Editar Perfil:
-<img src="./img/EditarPerfil.png" width="100%" height="100%">
+<img src="./img/EditarPerfil.png" >
 
 #### Reservas:
-<img src="./img/ReservaFront.png" width="100%" height="100%">
+<img src="./img/ReservaFront.png" >
 
 #### Valoraciones:
-<img src="./img/Valoraciones.png" width="100%" height="100%">
+<img src="./img/Valoraciones.png" >
 
 #### db.json
-<img src="./img/databasejson.png" width="100%" height="100%">
+<img src="./img/databasejson.png" >
 
-<img src="./img/databasejson2.png" width="100%" height="100%">
+<img src="./img/databasejson2.png" >
 
-<img src="./img/databasejson3.png" width="100%" height="100%">
+<img src="./img/databasejson3.png" >
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2023,9 +2023,9 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 
 Deployamos la app usando Vercel.
 
-<img src="./img/DeployVercelFrontEnd.png" width="100%" height="100%">
+<img src="./img/DeployVercelFrontEnd.png" >
 
-<img src="./img/DeployFrontEndGitHub.png" width="100%" height="100%">
+<img src="./img/DeployFrontEndGitHub.png">
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2039,15 +2039,15 @@ Durante el Sprint 2, el equipo de FinTeka organizó el desarrollo del frontend u
 | Russell Romero   | added Notification and Profile bounded-context|          
 
 
-<img src="./img/sprint1_evidence_13.png" width="100%" height="100%">
+<img src="./img/sprint1_evidence_13.png" >
 
-<img src="./img/sprint1_evidence_12.png" width="100%" height="100%">
+<img src="./img/sprint1_evidence_12.png" >
 
 ### 5.2.3 Sprint 3
 
 #### 5.2.3.1. Sprint Planning 3
 
-<table align="center" border="1" width="90%" style="text-align:center;">
+<table align="center" border="1" width="95%" style="text-align:center;">
     <tr align="left">
         <td><b>Sprint #</b></td>
         <td><b>Sprint 3</b></td>
@@ -2132,7 +2132,7 @@ https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f58326
 
 <img src="./img/SprintBacklog3.png" width="900" height="600">
 
-<table align="center" border="1" width="100%" style="text-align:center;">
+<table align="center" border="1" width="95%" style="text-align:center;">
   <tr align="left">
     <th>User Story</th>
     <th>Work-Item / Task</th>
@@ -2292,29 +2292,29 @@ Durante el tercer sprint, se lograron varios hitos importantes en el desarrollo 
 
 Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-<img src="./img/repos.png" width="100%" height="100%">
+<img src="./img/repos.png" >
 
 ##### Endpoints del back-end:
 
-<img src="./img/swaggerui.jpeg" width="100%" height="100%">
+<img src="./img/swaggerui.jpeg">
 
 ##### Squemas:
 
-<img src="./img/squemasui.jpeg" width="100%" height="100%">
+<img src="./img/squemasui.jpeg" >
 
-<img src="./img/swagger_sessions2.png" width="100%" height="100%">
+<img src="./img/swagger_sessions2.png" >
 
 https://github.com/user-attachments/assets/77915ba0-248c-427a-aaed-a42ef302b78f
 
 ##### Session management:
 
-<img src="./img/sw1.png" width="100%" height="100%">
+<img src="./img/sw1.png" >
 
-<img src="./img/sw2.png" width="100%" height="100%">
+<img src="./img/sw2.png" >
 
-<img src="./img/sw3.png" width="100%" height="100%">
+<img src="./img/sw3.png" >
 
-<img src="./img/sw5.png" width="100%" height="100%">
+<img src="./img/sw5.png" >
 
 ##### Notification:
 
@@ -2326,7 +2326,7 @@ https://github.com/user-attachments/assets/d80d5fa0-ff31-437c-baa9-b7760d27a9f8
 
 ##### Database:
 
-<img src="./img/databasejson4.png" width="100%" height="100%">
+<img src="./img/databasejson4.png">
 
 https://github.com/user-attachments/assets/0a3ac459-5b16-4dc1-88c5-1027a0d0eaee
 
@@ -2359,7 +2359,7 @@ https://github.com/user-attachments/assets/806d92f0-8de9-4634-8eaa-cf71ea5a8a2e
 
 Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend siguiendo la metodología GitFlow, utilizando ramas por endpoint. Esto permitió trabajar de forma paralela en distintos servicios como notificaciones, sesiones y perfiles, facilitando la integración progresiva. Cada miembro gestionó sus tareas y revisiones mediante pull requests en GitHub, asegurando control de calidad y colaboración eficiente
 
-<table border="1" width="100%" style="text-align:left;">
+<table border="1" width="95%" style="text-align:left;">
   <tr>
     <th>Author</th>
     <th>Tasks Completed</th>
@@ -2394,19 +2394,19 @@ Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend si
   </tr>
 </table>
 
-<img src="./img/ev1.png" width="100%" height="100%">
+<img src="./img/ev1.png" >
 
-<img src="./img/ev2.png" width="100%" height="100%">
+<img src="./img/ev2.png" >
 
-<img src="./img/evev.png" width="100%" height="100%">
+<img src="./img/evev.png" >
 
-<img src="./img/evev2.png" width="100%" height="100%">
+<img src="./img/evev2.png" >
 
 ### 5.2.4 Sprint 4
 
 #### 5.2.4.1. Sprint Planning 4
 
-<table align="center" border="1" width="90%" style="text-align:center;">
+<table align="center" border="1" width="95%" style="text-align:center;">
     <tr align="left">
         <td><b>Sprint #</b></td>
         <td><b>Sprint 4</b></td>
@@ -2614,7 +2614,7 @@ https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka
 Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integración final del sistema, combinando el frontend y el backend previamente desarrollados. Se continuó utilizando la metodología GitFlow, manteniendo una estructura ordenada de ramas por funcionalidad, tanto para correcciones en el backend como para el desarrollo de vistas. Las tareas se distribuyeron equitativamente y se gestionaron mediante pull requests, lo que permitió mantener la trazabilidad de cambios y facilitar la revisión cruzada del código. 
 
 
-<table border="1" width="100%" style="text-align:left;">
+<table border="1" width="95%" style="text-align:left;">
   <tr>
     <th>Author</th>
     <th>Tasks Completed</th>
@@ -2844,7 +2844,7 @@ La entrevistada buscaba asesoría en el área de defensoría médica para el tem
 - **Edad:** 18
 - **Distrito:** San Miguel 
 
-https://github.com/user-attachments/assets/2321ad26-89e8-422b-ba04-0cc64e3052b8
+<img src="https://github.com/user-attachments/assets/2321ad26-89e8-422b-ba04-0cc64e3052b8">
 
 **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Ec8idwwgk9NDuuNmKqgJR3IBOoUDrZ9CrDapsvUj_nRCgw?e=22VQZO**
 
@@ -2856,7 +2856,7 @@ La entrevistada propuso como mejora la implementación de una función que permi
 - **Edad:** 20
 - **Distrito:** Pueblo Libre 
 
-https://github.com/user-attachments/assets/d7ed68d4-57d2-4e82-8b43-c614c2668785
+<img src="https://github.com/user-attachments/assets/d7ed68d4-57d2-4e82-8b43-c614c2668785">
 
 **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/EckIcshih4FDt6eFztsxWT4B6USc-q5iHlc-101nclGNNQ?e=cM7sTv**
 
@@ -2868,7 +2868,7 @@ La entrevistada comentó que una de las funcionalidades más interesantes de la 
 - **Edad:** 21
 - **Distrito:** Los Olivos 
 
-https://github.com/user-attachments/assets/7e37248e-688b-49e2-be2a-f7fb3fc24acf
+<img src="https://github.com/user-attachments/assets/7e37248e-688b-49e2-be2a-f7fb3fc24acf">
 
 **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/ERcR626z_F5FipWIxFr_shIByPKZqNWMansf_Z82kjq3Gw?e=gIvCPa**
 
@@ -2939,7 +2939,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** Durante el registro, el sistema no valida en tiempo real si el correo ya ha sido usado. El usuario solo se entera del error después de enviar el formulario, lo que genera frustración y pérdida de tiempo.
 
-<img src="./img/RegistroFront.png" width="100%" height="100%">
+<img src="./img/RegistroFront.png" >
 
 - **Recomendación:** Implementar validación en tiempo real del campo de correo electrónico, con mensajes claros y visibles para evitar el intento de registro con correos duplicados.
 
@@ -2951,7 +2951,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** Al reservar una sesión con un consultor, no se muestra un mensaje claro que confirme que la acción fue completada. Esto puede generar incertidumbre o reservas repetidas por parte del usuario.
 
-<img src="./img/ReservaFront.png" width="100%" height="100%">
+<img src="./img/ReservaFront.png" >
 
 - **Recomendación:** Mostrar una confirmación inmediata al completar la reserva, incluyendo fecha, hora y nombre del profesional. También se puede incluir un acceso directo al historial de sesiones.
 
@@ -2963,7 +2963,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:**   La sección de Búsqueda de Profesionales y la Barra de búsqueda lateral no permiten aplicar filtros avanzados como especialidad, disponibilidad horaria, o valoración mínima.
 
-<img src="./img/BusquedaProfesionales.png" width="100%" height="100%">
+<img src="./img/BusquedaProfesionales.png" >
 
 - **Recomendación:** Incorporar filtros que permitan refinar resultados según criterios clave, mejorando la experiencia de búsqueda.
 
@@ -2975,7 +2975,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** Al dejar una valoración, no se indican claramente los criterios que se deben considerar.
 
-<img src="./img/Valoraciones.png" width="100%" height="100%">
+<img src="./img/Valoraciones.png" >
 
 - **Recomendación:** Incluir etiquetas o categorías orientadoras junto a la calificación. Esto ayuda al usuario a estructurar mejor su feedback y mejora la utilidad de las valoraciones.
 
@@ -2987,7 +2987,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** Al modificar datos o subir una nueva foto en Editar Perfil, no se ofrece una vista previa de cómo quedará el perfil.
 
-<img src="./img/EditarPerfil.png" width="100%" height="100%">
+<img src="./img/EditarPerfil.png" >
 
 - **Recomendación:** Incluir una sección de previsualización que muestre cómo quedarán los cambios antes de confirmarlos, especialmente para la foto y campos visuales.
 
@@ -2999,7 +2999,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** Las notificaciones no incluyen enlaces o botones que permitan al usuario responder o acceder directamente al contenido relacionado.
   
-<img src="./img/NotificacionesFront.png" width="100%" height="100%">
+<img src="./img/NotificacionesFront.png" >
 
 - **Recomendación:** Agregar botones o enlaces en cada notificación para que el usuario pueda interactuar directamente, agilizando la experiencia.
 
@@ -3011,7 +3011,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** La barra de búsqueda lateral solo muestra un número limitado de resultados sin ofrecer sugerencias o correcciones para posibles errores tipográficos.
 
-<img src="./img/BusquedaFront.png" width="100%" height="100%">
+<img src="./img/BusquedaFront.png" >
 
 - **Recomendación:** Implementar sugerencias dinámicas y corrección automática de errores comunes, además de mostrar más resultados paginados o mediante scroll infinito.
 
@@ -3019,7 +3019,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 En este breve video te mostramos cómo funciona FinTeka, para quién está pensada y cómo puede ayudarte a encontrar al experto ideal en tan solo unos pasos.
 
-<img src="./img/aproduct.png" width="100%" height="100%">
+<img src="./img/aproduct.png" >
 
 Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/EcygEa7XScBFtINvCnGpDV4BSFzu3jXYQjoOB3AcC9MxHA?e=bDaZNn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
