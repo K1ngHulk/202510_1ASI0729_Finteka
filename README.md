@@ -2457,6 +2457,10 @@ Durante el Sprint 3, se realizó el despliegue del backend de FinTeka en la plat
 - Se comprobó la comunicación efectiva entre backend y database, asegurando la integración completa del sistema.
 - Se monitoreó el estado del servicio en Azure para detectar posibles fallos o degradación de rendimiento.
 
+###### Evidencia del backend:
+
+<img src="./img/backback1.png">
+
 Link del backend:
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
@@ -2695,7 +2699,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
   <tr>
     <td>US32</td>
     <td colspan="2">Actualizar landing page</td>
-    <td>T06</td>
+    <td>T01</td>
     <td colspan="2">Editar información del equipo y proyecto</td>
     <td colspan="3">Actualizar la sección del equipo y enlaces del sistema en la landing page.</td>
     <td>2</td>
@@ -2707,7 +2711,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
   <tr>
     <td>US40</td>
     <td colspan="2">Mejorar experiencia visual</td>
-    <td>T07</td>
+    <td>T01</td>
     <td colspan="2">Ajustes de diseño y navegación</td>
     <td colspan="3">Aplicar mejoras de diseño para una experiencia más intuitiva y fluida.</td>
     <td>3</td>
@@ -2803,6 +2807,8 @@ Se evidencia que tanto de la plataforma frontend y el backend fueron desplegados
 
 Para el despliegue del FrontEnd, hemos utilizado la herramienta Vercel, se conecto al repositorio.
 
+<img src="./img/DeployFrontEndGitHub.png">
+
 <img src="https://github.com/user-attachments/assets/806d92f0-8de9-4634-8eaa-cf71ea5a8a2e">
 
 <img src="./img/f02.png">
@@ -2877,6 +2883,8 @@ Commits:
 Informe:
 
  <img src="img/sprint4informe.jpg">
+
+ <img src="img/a1.png" >
 
  Backend:
 
