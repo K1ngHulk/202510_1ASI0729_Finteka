@@ -2720,57 +2720,61 @@ https://trello.com/b/tiL6HJYD/sprint-4
 
 En el presente Sprint 4 se avanzó significativamente en la integración y despliegue de los componentes principales de la plataforma FinTeka. Se realizaron correcciones críticas en el backend, optimizando los endpoints implementados en el sprint anterior, y se completó su despliegue en un entorno en línea funcional. Paralelamente, se desarrollaron e integraron las vistas principales del frontend con dichos endpoints, permitiendo una experiencia de usuario conectada y fluida.
 
-https://github.com/RussellUPC/202510_1ASI0729_WebService_Finteka/tree/main
+https://github.com/RussellUPC/202510_1ASI0729_WebService_Finteka/commits/session-management
 
-https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka
+https://github.com/RussellUPC/pruebas/commits/main/
+
+https://github.com/Gonzalo251104/Finteka-FrontEnd/commits/main/
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b2 | feat(profiles): added profile view | Create the profile view section| 29/06/2025 |
+|202510_1ASI0729_WebService_Finteka|session-management| 0c4e098 | feat: update profile view | Update the profile view section| 09/07/2025 |
+|pruebas|main| 9346916 | feat: update frontend | Update the frontend content| 08/07/2025 |
+|Finteka-FrontEnd|main| cc318a5 | fix: matching version @angular/animations for Angular 19 | Deploy the frontend app| 05/07/2025 |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
-Durante el cuarto sprint, se lograron varios hitos importantes en el desarrollo del back-end para Finteka. A continuación, se presenta un resumen de los logros alcanzados:
+Durante el Sprint 4, se logró completar la integración entre el frontend y el backend de la plataforma FinTeka, consolidando así la funcionalidad completa del sistema. Esta integración permitió que las vistas del frontend consumieran datos reales desde los endpoints del backend, desplegado en Azure, asegurando una experiencia de usuario funcional y coherente.
 
+##### Logros alcanzados:
 
-##### Endpoints del back-end:
+- Actualización del Frontend: Se actualizaron las vistas para consumir los datos reales desde el backend desplegado en Azure, eliminando el uso de db.json.
+
+###### Evidencia del frontend:
+
+<img src="./img/f02.png">
+
+- Integración con Backend: Los formularios y componentes ya interactúan con los endpoints reales del backend, lo que permite registrar usuarios, reservar sesiones, consultar perfiles y gestionar notificaciones.
+
+###### Evidencia del backend:
 
 <img src="img/endpoints4.jpg">
 
-##### Squemas:
-
 <img src="./img/squemasui.jpeg" >
-
-<img src="./img/swagger_sessions2.png" >
-
-<img src="https://github.com/user-attachments/assets/77915ba0-248c-427a-aaed-a42ef302b78f">
-
-##### Session management:
 
 <img src="./img/sw1.png" >
 
 <img src="./img/sw2.png" >
 
-<img src="./img/sw3.png" >
+##### Despliegue en Producción:
 
-<img src="./img/sw5.png" >
+- Frontend: Se desplegó exitosamente en Vercel, garantizando accesibilidad en línea.
 
-##### Notification:
+###### Evidencia del frontend:
 
-<img src="https://github.com/user-attachments/assets/c99d8253-6abd-4d34-83df-f5ff9faedd49">
+<img src="./img/DeployVercelFrontEnd.png">
 
-<img src="https://github.com/user-attachments/assets/95343526-e04c-4258-9987-6812a6965eb5">
+- Backend: Se desplegó en Azure, integrando servicios REST para comunicación con el frontend.
 
-<img src="https://github.com/user-attachments/assets/d80d5fa0-ff31-437c-baa9-b7760d27a9f8">
+###### Evidencia del backend:
 
-##### Database:
-
-<img src="./img/databasejson4.png">
-
-<img src="https://github.com/user-attachments/assets/0a3ac459-5b16-4dc1-88c5-1027a0d0eaee">
-
+<img src="./img/backback1.png">
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se integró y desplegó exitosamente una Web Application funcional para FinTeka, conectada a un backend real hospedado en Microsoft Azure. A diferencia de sprints anteriores que utilizaron db.json como fuente de datos simulada, en este sprint los endpoints REST reales fueron consumidos por el frontend a través de peticiones HTTP, validando la interacción completa entre capas.
+
+A continuación, se resumen los endpoints consumidos desde el frontend, indicando su funcionalidad, método HTTP:
 
 | Endpoint                                  | Acción                               | Método HTTP | Sintaxis de llamada                     | Parámetros                                | URL Swagger                                   |
 |------------------------------------------|--------------------------------------|-------------|------------------------------------------|-------------------------------------------|-----------------------------------------------|
