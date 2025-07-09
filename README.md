@@ -2685,6 +2685,7 @@ Informe:
 
  Frontend:
 
+<img src="img/sprint4frontend.jpg">
 
 ## 5.3 Validation Interviews
 
