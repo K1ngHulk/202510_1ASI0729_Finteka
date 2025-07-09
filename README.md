@@ -2742,6 +2742,10 @@ https://github.com/Gonzalo251104/Finteka-FrontEnd/commits/main/
 
 Durante el Sprint 4, se logró completar la integración entre el frontend y el backend de la plataforma FinTeka, consolidando así la funcionalidad completa del sistema. Esta integración permitió que las vistas del frontend consumieran datos reales desde los endpoints del backend, desplegado en Azure, asegurando una experiencia de usuario funcional y coherente.
 
+Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
+
+<img src="./img/repo11.png" >
+
 ##### Logros alcanzados:
 
 - Actualización del Frontend: Se actualizaron las vistas para consumir los datos reales desde el backend desplegado en Azure, eliminando el uso de db.json.
