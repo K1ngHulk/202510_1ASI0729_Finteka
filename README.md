@@ -2783,7 +2783,7 @@ Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integra
     <td>Gonzalo Carhuancote</td>
     <td>
       - Update document<br>
-      - Deploy frent-end
+      - Deploy front-end
     </td>
   </tr>
   <tr>
