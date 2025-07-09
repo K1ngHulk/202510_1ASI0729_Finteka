@@ -137,20 +137,37 @@ En la tercera entrega, el equipo documentó el comportamiento técnico de cada s
 
 Para la entrega final, el equipo realizó las mejoras pendientes del informe y desarrolló la versión final del frontend y backend, con su respectiva integración.
 
-<img src="img/tf1e.png" >
+<img src="img/insightstf1.jpg" >
+
+<img src="img/insightstf2.png" >
 
 ##### Participación por integrante:
 
 - Daiki Oshiro: Corrección y mejoras del reporte.
 
-  <img src="img/tf1ed.png">
+  <img src="iimg/insightsd.jpg">
 
 - Sergio Aguirre: Corrección y mejoras del reporte.
 
-  <img src="img/tf1es.png" >
+  <img src="img/insightsa.jpg" >
 
-- Russell Romero: Despliegue del backend.
+-Salvador Chamorro: Corrección y mejoras del reporte.
 
+  <img src="img/insightstfs.png" >
+
+- Gonzalo Carhuancote: Corrección y mejoras del reporte.
+
+  <img src="img/insightstfg.jpg" >
+
+- Kenyi Mendoza: Corrección y mejoras del reporte.
+
+  <img src="img/insightstfk.png" >
+
+- Russell Romero: Despliegue del backend y mejora del reporte.
+  
+  <img src="img/insightsr2.jpg" >
+  
+  <img src="img/insightstfr.png" >
 
 <div style="page-break-after: always;"></div>
 
