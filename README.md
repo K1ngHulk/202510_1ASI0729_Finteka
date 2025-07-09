@@ -2598,65 +2598,122 @@ https://trello.com/b/tiL6HJYD/sprint-4
 
 <img src="./img/sprintb4.jpg">
 
-<table>
-<tr>
-    <th colspan="3">Sprint #</th>
-    <th colspan="10">Sprint 4</th>
+<table border="1" width="100%" style="border-collapse: collapse; text-align: center;">
+  <tr style="background-color: #f0f0f0;">
+    <th colspan="14">Sprint Backlog - Sprint 4</th>
   </tr>
-      <tr>
-    <td colspan="3">User Story</td>
-    <td colspan="10">Work-Item/Task</td>
+  <tr style="background-color: #e0e0e0;">
+    <th colspan="3">User Story</th>
+    <th colspan="11">Work-Item / Task</th>
   </tr>
+  <tr style="background-color: #e8e8e8;">
+    <th>Id</th>
+    <th colspan="2">Title</th>
+    <th>Id</th>
+    <th colspan="2">Title</th>
+    <th colspan="3">Description</th>
+    <th>Estimation (Hours)</th>
+    <th colspan="1">Assigned To</th>
+    <th>Student Code</th>
+    <th>Status</th>
+  </tr>
+
   <tr>
-    <td colspan="1">Id</td>
-    <td colspan="2">Title</td>
-    <td colspan="1">Id</td>
-    <td colspan="2">Title</td>
-    <td colspan="3">Description</td>
-    <td colspan="1"> Estimation</td>
-    <td colspan="2">Assigned To</td>
-    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
-</tr>   
-<tr>
-    <td colspan="1">US08</td>
-    <td colspan="2">Actualizar perfil de usuario.</td>
-    <td colspan="1">T01</td>
-    <td colspan="2">Se podran ver editar y eliminar datos de un usuario. </td>
-    <td colspan="3">Yo como usuario, quiero poder actualizar mi perfil en la plataforma, para mantener mi información personal, preferencias y detalles de contacto actualizados. </td>
-    <td colspan="1">3</td>
-    <td colspan="2"> Gonzalo Carhuancote Domniguez</td>
-    <td colspan="1">Done</td>
+    <td>US08</td>
+    <td colspan="2">Actualizar perfil de usuario</td>
+    <td>T01</td>
+    <td colspan="2">Ver, editar y eliminar perfil</td>
+    <td colspan="3">Actualizar el endpoint de gestión de perfiles.</td>
+    <td>3</td>
+    <td>Sergio Aguirre Castillo</td>
+    <td>U202310425</td>
+    <td>Done</td>
   </tr>
+
   <tr>
-    <td colspan="1">US26</td>
-    <td colspan="2">Integrar Frontend con Backend.</td>
-    <td colspan="1">T01</td>
-    <td colspan="2">Desplegar Backend</td>
-    <td colspan="3">Yo, como desarrollador, quiero desplegar el Backend, para que la aplicacion web pueda utilizar y manipular datos. </td>
-    <td colspan="1">3</td>
-    <td colspan="2"> Salvador Chamorro Acero</td>
-    <td colspan="1">Done</td>
+    <td>US26</td>
+    <td colspan="2">Integrar Frontend con Backend</td>
+    <td>T01</td>
+    <td colspan="2">Desplegar backend en Azure</td>
+    <td colspan="3">Publicar el despliegue del backend en Azure para que sea accesible en producción.</td>
+    <td>3</td>
+    <td>Russell Romero Qwistgaard</td>
+    <td>U202211043</td>
+    <td>Done</td>
   </tr>
-   <tr>
-    <td colspan="1"></td>
+
+  <tr>
+    <td></td>
     <td colspan="2"></td>
-    <td colspan="1">T02</td>
+    <td>T02</td>
+    <td colspan="2">Actualizar endpoints del backend</td>
+    <td colspan="3">Modificar y actualizar los endpoints para mejorar la integridad y funcionalidad.</td>
+    <td>4</td>
+    <td>Russell Romero Qwistgaard</td>
+    <td>U202211043</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td colspan="2"></td>
+    <td>T03</td>
+    <td colspan="2">Comprobar conexión Frontend - Backend</td>
+    <td colspan="3">Validar desde el frontend que los endpoints desplegados funcionen correctamente.</td>
+    <td>2</td>
+    <td>Javier Kenyi Mendoza</td>
+    <td>U201824550</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td colspan="2"></td>
+    <td>T04</td>
     <td colspan="2">Actualizar Frontend</td>
-    <td colspan="3">Yo, como desarrollador, quiero que el Frontend utilice los endpoints de la base de datos desplegada, para que la aplicacion web pueda utilizar y manipular datos. </td>
-    <td colspan="1">3</td>
-    <td colspan="2"> Sergio Aguirre Castillo</td>
-    <td colspan="1">Done</td>
+    <td colspan="3">Modificar vistas del frontend para que consuman los datos del backend desplegado.</td>
+    <td>3</td>
+    <td>Salvador Chamorro Acero</td>
+    <td>U201914367</td>
+    <td>Done</td>
   </tr>
+
   <tr>
-    <td colspan="1"></td>
+    <td></td>
     <td colspan="2"></td>
-    <td colspan="1">T03</td>
-    <td colspan="2">DesplegarFrontend</td>
-    <td colspan="3">Yo, como desarrollador, quiero desplegar el Frontend, para que la aplicacion web pueda ser utilizada por los segmentos objetivos. </td>
-    <td colspan="1">3</td>
-    <td colspan="2"> Gonzalo Carhuancote Dominguez</td>
-    <td colspan="1">Done</td>
+    <td>T05</td>
+    <td colspan="2">Desplegar frontend</td>
+    <td colspan="3">Publicar el frontend en Vercel para que sea accesible a los usuarios finales.</td>
+    <td>2</td>
+    <td>Gonzalo Carhuancote Dominguez</td>
+    <td>U202210720</td>
+    <td>Done</td>
   </tr>
+
+  <tr>
+    <td>US32</td>
+    <td colspan="2">Actualizar landing page</td>
+    <td>T06</td>
+    <td colspan="2">Editar información del equipo y proyecto</td>
+    <td colspan="3">Actualizar la sección del equipo y enlaces del sistema en la landing page.</td>
+    <td>2</td>
+    <td>Daiki Oshiro Yamashita</td>
+    <td>U20201F846</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US40</td>
+    <td colspan="2">Mejorar experiencia visual</td>
+    <td>T07</td>
+    <td colspan="2">Ajustes de diseño y navegación</td>
+    <td colspan="3">Aplicar mejoras de diseño para una experiencia más intuitiva y fluida.</td>
+    <td>3</td>
+    <td>Daiki Oshiro Yamashita</td>
+    <td>U20201F846</td>
+    <td>Done</td>
+  </tr>
+
 </table>
 
 #### 5.2.4.4. Development Evidence for Sprint Review 
