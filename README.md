@@ -2447,7 +2447,8 @@ Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend si
             - Oshiro Yamashita, Daiki Oscar – U20201F846 <br>
             - Aguirre Castillo, Sergio Cesar – U202310425 <br>
             - Russell Stephen Romero Qwistgaard – U202211043 <br>
-            - Chamorro Acero Salvador Edward - u201914367  <br>
+            - Chamorro Acero Salvador Edward - U201914367  <br>
+            - Carhuancote Domniguez Gonzalo Alonso - U202210720 <br>
         </td>
     </tr>
     <tr align="left">
