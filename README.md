@@ -2616,11 +2616,11 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>   
 <tr>
-    <td colspan="1">US06</td>
-    <td colspan="2">Ver detalles del profesional.</td>
+    <td colspan="1">US08</td>
+    <td colspan="2">Actualizar perfil de usuario.</td>
     <td colspan="1">T01</td>
-    <td colspan="2">Se podran ver los datos del profesional</td>
-    <td colspan="3">Yo, como usuario, quiero poder ver el perfil completo de un profesional, para conocer su experiencia, especialidades, disponibilidad, tarifas y calificaciones antes de tomar una decisión. </td>
+    <td colspan="2">Se podran ver editar y eliminar datos de un usuario.l</td>
+    <td colspan="3">Yo como usuario, quiero poder actualizar mi perfil en la plataforma, para mantener mi información personal, preferencias y detalles de contacto actualizados. </td>
     <td colspan="1">3</td>
     <td colspan="2"> Gonzalo Carhuancote Domniguez</td>
     <td colspan="1">Done</td>
@@ -2676,7 +2676,7 @@ Durante el cuarto sprint, se lograron varios hitos importantes en el desarrollo 
 
 ##### Endpoints del back-end:
 
-<img src="./img/swaggerui.jpeg">
+<img src="img/endpoints4.jpg">
 
 ##### Squemas:
 
@@ -2713,11 +2713,22 @@ Durante el cuarto sprint, se lograron varios hitos importantes en el desarrollo 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-| Endpoint                                  | Acción                               | Método HTTP | Sintaxis de llamada                     | Parámetros                                | URL Swagger                          |
-|------------------------------------------|--------------------------------------|-------------|------------------------------------------|-------------------------------------------|--------------------------------------|
-| /profiles/{id}                           | Visualizar perfil                    | GET        | /profiles/{id}                            | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/{id}                           | Actualizar perfil                    | PUT      | /profiles/{id}                            | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
-
+| Endpoint                                  | Acción                               | Método HTTP | Sintaxis de llamada                     | Parámetros                                | URL Swagger                                   |
+|------------------------------------------|--------------------------------------|-------------|------------------------------------------|-------------------------------------------|-----------------------------------------------|
+| /profiles/profesionales/{id}             | Visualizar perfil                    | GET         | /profiles/profesionales/{id}             | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/profesionales/{id}             | Actualizar perfil                    | PUT         | /profiles/profesionales/{id}             | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/profesionales/{id}             | Actualizar perfil                    | DELETE      | /profiles/profesionales/{id}             | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/clientes/{id}                  | Actualizar perfil                    | GET         | /profiles/clientes/{id}                  | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/clientes/{id}                  | Actualizar perfil                    | PUT         | /profiles/clientes/{id}                  | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/clientes/{id}                  | Actualizar perfil                    | DELETE      | /profiles/clientes/{id}                  | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/profesionales                  | Actualizar perfil                    | GET         | /profiles/profesionales                  | -                                         | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/profesionales                  | Actualizar perfil                    | POST        | /profiles/profesionales                  | -                                         | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/clientes                       | Actualizar perfil                    | GET         | /profiles/clientes                       | -                                         | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/clientes                       | Actualizar perfil                    | POST        | /profiles/clientes                       | -                                         | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/profesionales/public           | Actualizar perfil                    | GET         | /profiles/profesionales/public           | -                                         | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/profesionales/login            | Actualizar perfil                    | GET         | /profiles/profesionales/login            | -                                         | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/clientes/public                | Actualizar perfil                    | GET         | /profiles/clientes/public                | -                                         | `http://localhost:8080/swagger-ui/index.html` |
+| /profiles/clientes/login                 | Actualizar perfil                    | GET         | /profiles/clientes/login                 | -                                         | `http://localhost:8080/swagger-ui/index.html` |
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
