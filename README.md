@@ -2633,6 +2633,8 @@ Se evidencia que tanto el landing page, como la plataforma frontend y el backend
 
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
 
+<img src="./img/landingpage.jpg" >
+
 Link del Landing Page: https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/
 
 Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
@@ -2641,10 +2643,14 @@ Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Fi
 
 Para el despliegue del FrontEnd, hemos utilizado la herramienta Vercel, se conecto al repositorio.
 
+<img src="https://github.com/user-attachments/assets/806d92f0-8de9-4634-8eaa-cf71ea5a8a2e">
+
 Link del fronEnd: https://finteka-front-end.vercel.app/
 
 Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka
 
+
+Link del frontend: https://finteka-front-end.vercel.app/
 ###### Back End:
 
 Para el despliegue del Backend Web app, hemos utilizado la herramienta de Azure, vincúlandola con nuestro repositorio de GitHub para poder hacer un deployment.
