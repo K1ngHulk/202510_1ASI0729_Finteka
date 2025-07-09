@@ -2782,7 +2782,8 @@ Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integra
   <tr>
     <td>Gonzalo Carhuancote</td>
     <td>
-      - Update front-end<br>
+      - Update document<br>
+      - Deploy frent-end
     </td>
   </tr>
   <tr>
@@ -2795,21 +2796,19 @@ Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integra
     <td>Daiki Oshiro</td>
     <td>
       - Update document<br>
-      - Added session-management endpoint
     </td>
   </tr>
   <tr>
     <td>Sergio Aguirre</td>
     <td>
-      - Added rating endpoint<br>
-      - Added search endpoint
+      - Update document<br>
     </td>
   </tr>
   <tr>
     <td>Russell Romero</td>
     <td>
-      - Added notifications endpoint<br>
-      - Update back-end
+      - Deploy back-end<br>
+      - Update document
     </td>
   </tr>
 </table>
