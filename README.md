@@ -45,21 +45,33 @@
 
 # Project Report Collaboration Insights
 
-#### Link del repositorio del reporte: 
+A lo largo del desarrollo del trabajo, se ha evidenciado una participación activa, coordinada y progresiva por parte de todos los integrantes del equipo. Cada fase fue abordada de manera estructurada, siguiendo las buenas prácticas de trabajo colaborativo con control de versiones en GitHub, planificación por entregables, y asignación clara de responsabilidades según las competencias de cada integrante.
+
+El uso de repositorios específicos por subcomponente también contribuyó a mantener una mejor trazabilidad del trabajo colaborativo, integrando ramas por entregables y controlando versiones según el avance de cada sprint.
+
+A continuación, se detallan los repositorios utilizados a lo largo del proyecto:
+
+#### Link del repositorio del Reporte: 
 
 https://github.com/K1ngHulk/202510_1ASI0729_Finteka
 
-#### Link del repositorio de la landing page: 
+#### Link del repositorio de la Landing Page: 
 
 https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
 
-#### Link del repositorio deL frontend: 
+#### Link del repositorio deL Frontend : 
 
-https://github.com/K1ngHulk/pruebas
+https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka
 
-#### Link del repositorio deL backend:
+https://github.com/RussellUPC/pruebas
+
+https://github.com/Gonzalo251104/Finteka-FrontEnd
+
+#### Link del repositorio deL Backend:
 
 https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka
+
+https://github.com/RussellUPC/202510_1ASI0729_WebService_Finteka 
 
 ### Entrega TB1:
 
@@ -135,39 +147,35 @@ En la tercera entrega, el equipo documentó el comportamiento técnico de cada s
 
 ### Entrega TF1:
 
-Para la entrega final, el equipo realizó las mejoras pendientes del informe y desarrolló la versión final del frontend y backend, con su respectiva integración.
+Para la entrega final, el equipo realizó el sprint 4, las mejoras pendientes del informe y desarrolló y desplegó la versión final del frontend y backend, con su respectiva integración.
 
-<img src="img/insightstf1.jpg" >
-
-<img src="img/insightstf2.png" >
+<img src="img/a1.jpg" >
 
 ##### Participación por integrante:
 
 - Daiki Oshiro: Corrección y mejoras del reporte.
 
-  <img src="iimg/insightsd.jpg">
+  <img src="img/a2.jpg">
 
 - Sergio Aguirre: Corrección y mejoras del reporte.
 
-  <img src="img/insightsa.jpg" >
+  <img src="img/a3.jpg" >
 
--Salvador Chamorro: Corrección y mejoras del reporte.
+-Salvador Chamorro: Desarrollo del sprint 4.
 
-  <img src="img/insightstfs.png" >
+  <img src="img/a4.png" >
 
-- Gonzalo Carhuancote: Corrección y mejoras del reporte.
+- Gonzalo Carhuancote: Despliegue del frontend y mejoras del reporte.
 
-  <img src="img/insightstfg.jpg" >
+  <img src="img/a5.jpg" >
 
-- Kenyi Mendoza: Corrección y mejoras del reporte.
+- Kenyi Mendoza: Desarrollo del sprint 4.
 
-  <img src="img/insightstfk.png" >
+  <img src="img/a6.png" >
 
 - Russell Romero: Despliegue del backend y mejora del reporte.
   
-  <img src="img/insightsr2.jpg" >
-  
-  <img src="img/insightstfr.png" >
+  <img src="img/a7.jpg" >
 
 <div style="page-break-after: always;"></div>
 
@@ -319,8 +327,8 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|--------------------------|------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** |**Salvador Edward Chamorro Acero**<br>**TF1**: Se coordino mediante reuniones la programación del sprint 4 y sus respectivas correcciones.<br><br>**Daiki Oscar Oshiro Yamashita**<br>**TB1**: Participé activamente en reuniones remotas que realizamos en varias ocasiones para coordinar avances e informar el progreso del trabajo.<br>**TP1**: <br>Comunico con claridad el análisis del bounded context del sistema de asesorías, distinguiendo los dominios funcionales del cliente y del asesor. Esta comunicación permitió al equipo alinear criterios y establecer límites precisos para el desarrollo desde las primeras fases del proyecto.<br>**TB2**: <br> Expliqué con claridad el diseño de los endpoints relacionados a sesiones, lo cual permitió al equipo comprender la lógica de negocio e integrarla correctamente con otros subdominios.<br>**TF1**: <br> Coordiné con el equipo las correcciones necesarias del informe final, comunicando observaciones de forma clara durante las reuniones.<br><br>**Mathias Javier Murillo**<br>**TB1**: Durante esta primera entrega, nos comunicamos eficazmente mediante llamadas grupales y mensajes de texto, lo que permitió una buena coordinación.<br>**TP1**: Durante esta primera entrega, logramos una comunicación eficaz a través de llamadas grupales y mensajes de texto, lo que facilitó una excelente coordinación entre los miembros del equipo.<br>**TB2**: Durante esta etapa, participé activamente en reuniones técnicas donde expuse los avances del backend relacionados al subdominio de login y autentificación. Gracias a una comunicación clara, el equipo pudo entender el flujo de acceso de usuarios, lo que permitió una integración efectiva con los demás subdominios. Además, mantuve contacto constante con los integrantes para coordinar entregas parciales y resolver dudas técnicas de forma oportuna.<br><br>**Sergio Aguirre Castillo**<br>**TB1**: La comunicación dentro del equipo fue eficaz durante esta etapa inicial. Utilizamos videoconferencias y mensajería para resolver problemas y mantenernos alineados.<br>**TP1**: La comunicación dentro del equipo fue eficaz durante esta etapa de la TP1. Utilizamos videoconferencias y mensajería para resolver problemas y mantenernos alineados.<br>**TB2**: Mantuve reuniones constantes para explicar y validar avances en la implementación, lo que ayudó a evitar errores y asegurar el cumplimiento de objetivos comunes.<br><br>**Russell Stephen Romero Qwistgaard**<br>**TB1**: En la primera entrega destaque por comunicarme abiertamente con mis compañeros al momento de repartirnos las tareas y más importante, buscar ayuda cuando se complicaba partes del trabajo para poder evitar retrasos.<br>**TP1**:En la primera entrega, me destaqué por mantener una comunicación abierta con mis compañeros al repartir las tareas y, lo más importante, por buscar ayuda cuando algunas partes del trabajo se complicaban. Esto me permitió evitar retrasos y asegurar que el proyecto avanzara sin contratiempos.<br>**TB2**: Sostuve reuniones periódicas para comunicar los avances en la implementación y validar cada etapa del desarrollo, lo que permitió prevenir errores y garantizar el cumplimiento de los objetivos del equipo.<br><br>**Gonzalo Carhuancote**<br> **TF**: Participé en las reuniones de manera activa para poder difinir claramente nuestros objetivos y metas para esta entrega final, sobretodo por la integración de ambos grupos.<br><br>**Javier Kenyi Mendoza Solis**<br> **TF**: Participé activamente en las reuniones para definir bien los objetivos del equipo, sobre todo porque fue importante al momento de integrarnos con el otro grupo para esta entrega final.|**Daiki Oscar Oshiro Yamashita**<br>**TB1**: La comunicación fluida permitió el cumplimiento de los objetivos establecidos en esta primera etapa.<br>**TP1**: <br>La capacidad de comunicar con claridad el análisis del bounded context fue clave para asegurar una comprensión compartida dentro del equipo, lo que permitió una planificación más eficiente, la asignación adecuada de responsabilidades y una base sólida para el desarrollo coherente del sistema.<br>**TB2**: <br> La explicación clara del comportamiento de los endpoints relacionados a sesiones permitió al equipo comprender la lógica de negocio implementada. Esto ayudó a identificar posibles conflictos en la planificación y asegurar una correcta integración con los demás subdominios.<br>**TF1**: <br> Gracias a una comunicación oral clara y oportuna, contribuí al alineamiento del equipo en cuanto a los cambios requeridos, lo que permitió realizar correcciones eficientes y mantener la coherencia general del documento. <br><br>**Mathias Javier Murillo**<br>**TB1**: Gracias a las reuniones constantes y el seguimiento por mensajería, logramos completar la entrega de manera efectiva.<br>**TP1**:Gracias a las reuniones constantes y al seguimiento a través de mensajería, logramos completar la entrega de manera efectiva y dentro de los plazos establecidos.<br>**TB2**: La comunicación efectiva en esta fase fue clave para mantener la coherencia en la lógica de acceso y seguridad del sistema. Al explicar con claridad el funcionamiento del login y los endpoints correspondientes, se evitaron errores de integración y se fortaleció la colaboración técnica entre los miembros del equipo.<br><br>**Sergio Aguirre Castillo**<br>**TB1**: Las reuniones continuas facilitaron un buen trabajo en equipo y el logro de los objetivos planteados.<br>**TP1**: Las reuniones continuas facilitaron un buen trabajo en equipo y el logro de los objetivos planteados durante la TP1.<br>**TB2**:La exposición clara de ideas y la participación en reuniones técnicas permitió validar los avances, resolver bloqueos de forma colaborativa y garantizar una integración efectiva entre subdominios del sistema.<br>**TB2**: Logré comunicar efectivamente para el desarrollo del backend y para las mejoras correspondientes del frontend.<br><br>**Russell Stephen Romero Qwistgaard**<br>**TB1**: Las reuniones frecuentes y el seguimiento directo de las actividades realizadas dentro y fuera del horario de clase ayudó a que podamos completar este entregable eficientemente.<br>**TP1**:Las reuniones frecuentes y el seguimiento directo de las actividades, tanto dentro como fuera del horario de clase, nos permitieron completar este entregable de manera eficiente y a tiempo.<br>**TB2**:Mantuve una comunicación efectiva que facilitó el desarrollo del backend y contribuyó a implementar mejoras clave en el frontend, asegurando una integración fluida entre ambos componentes del sistema.<br><br>**Gonzalo Carhuancote**<br> **TF**: Gracias a la buena comunicacion entre los nuevos miembros del grupo logramos acordar las actividades y resolvelas en el tiempo esperado para el Sprint 4 y las activididades individuales asignadas.<br><br>**Salvador Edward Chamorro Acero**<br>**TF1**: Se coordino mediante reuniones la programación del sprint 4 y sus respectivas correcciones.<br><br>**Javier Kenyi Mendoza Solis**<br>**TF1**: En el Sprint 4, gracias a la buena comunicación con los nuevos compañeros del grupo, pudimos organizarnos bien y cumplir con las actividades asignadas a tiempo, tanto en equipo como de forma individual.
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Salvador Edward Chamorro Acero**<br>**TF1**: Resumen y documentación de cada artefacto incluido en el proyecto.<br><br>**Daiki Oscar Oshiro Yamashita**<br>**TB1**: Contribuí con el desarrollo de los capítulos 2 y 3 del informe.<br>**TP1**: <br>Contribuí con la redacción y mejora del informe, incluyendo la elaboración del bounded context del subdominio session, lo cual permitió delimitar claramente sus responsabilidades dentro del sistema. <br>**TB2**: <br> Documenté todo lo avanzado y actualizado tanto en los sprints pasados como en el resto del documento, facilitando la lectura técnica por parte del equipo.<br>**TF1**: <br> Realicé correcciones de redacción, gramática y formato en el informe final, asegurando claridad y coherencia.<br><br>**Mathias Javier Murillo**<br>**TB1**: Desarrollé el capítulo 1 y parte del capítulo 4, aportando contenido clave para la presentación de la startup.<br>**TP1**:Desarrollé el Bounded Context del Login.<br>**TB2**: En esta fase, documenté el comportamiento del subdominio de login, incluyendo sus casos de uso, endpoints y flujos de error. Esta documentación fue elaborada con un enfoque técnico claro, lo que facilitó su comprensión por parte del equipo y permitió validar correctamente su integración con otros módulos del sistema. También participé en la revisión general del documento final, corrigiendo errores de redacción y asegurando la cohesión entre capítulos.<br><br>**Sergio Aguirre Castillo**<br>**TB1**: Redacté la totalidad del capítulo 2 y gran parte del capítulo 4, en colaboración con otro miembro del grupo.<br>**TP1**: Redacté la el Bounded Context Buscador de profesionales, corregi el informe del primer entregable (TB1), ayude a avanzar con los demas Bounded context en colaboracion con otro miembro del grupo.<br>**TB2**: Documenté el comportamiento de las notificaciones en el sistema, estructurando el contenido de forma clara para facilitar el desarrollo y pruebas por parte del equipo.<br><br>**Russell Stephen Romero Qwistgaard**<br>**TB1**: Redacte el registro y análisis de entrevista, además de los User Stories, el Product Backlog y el Landing Page, asegurándome de obtener y clasificar toda la información requerida para poder realizar la aplicación final.<br>**TP1**:Pude realizar con existo la resolucion del Bounded Context de Profesionales y notificaiones.<br>**TB2**: Me encargué de redactar el registro y el análisis de la entrevista, además de elaborar los User Stories, el Product Backlog y la Landing Page. Para ello, me aseguré de recopilar, organizar y clasificar toda la información necesaria que sirviera como base para el desarrollo de la aplicación final.<br><br>**Gonzalo Carhuancote**<br> **TF**: Contribui con el despliegue de la nueva version del FrontEnd, asi como la presentacion de Diapositivas y correciones menores del Sprint 4.<br><br>**Javier Kenyi Mendoza Solis**<br>**TF**: Realize el sprint 4, la primera version del sprint backlog y ayuda a documentar las evidencias del trabajo  | **Daiki Oscar Oshiro Yamashita**<br>**TB1**: La participación en la redacción permitió un avance significativo en los capítulos asignados.<br>**TP1**: <br>Mi participación en la redacción contribuyó de manera significativa al progreso de los capítulos asignados, adaptando el contenido según los requisitos del proyecto, lo que incluyó el análisis del bounded context de session y la mejora en la estructura y redacción del informe.<br> **TB2**: <br> Mi contribución escrita permitió organizar la documentación del backend de forma coherente, mejorando la comprensión de los flujos por parte del equipo. Esta claridad favoreció una integración más eficiente del sistema.<br> **TF1**: <br> Mejoré la calidad escrita del documento, facilitando su comprensión tanto técnica como académica.<br><br>**Mathias Javier Murillo**<br>**TB1**: Pude describir con claridad la propuesta de la startup, además de diseñar la interfaz inicial mediante wireframes y mockups.<br>**TP1**:Pude describir con claridad la propuesta del Bounded Context con existo.<br>**TB2**: La documentación detallada del subdominio de login permitió al equipo comprender su lógica de funcionamiento e integrarlo eficientemente con los demás subdominios. La redacción clara y técnica contribuyó a mejorar la calidad del informe final y fortaleció la base escrita del proyecto.<br><br>**Sergio Aguirre Castillo**<br>**TB1**: Logré cerrar satisfactoriamente los capítulos asignados, demostrando capacidad de redacción técnica y estructurada.<br>**TP1**: Logré cerrar satisfactoriamente los capítulos asignados durante la TP1, demostrando capacidad de redacción técnica y estructurada.<br>**TB2**: La documentación del subdominio a mi cargo se realizó con un lenguaje técnico claro y estructurado, facilitando su comprensión para otros integrantes y permitiendo una integración precisa en el backend.<br><br>**Russell Stephen Romero Qwistgaard**<br>**TB1**: Cerré cada parte trabajada con detalle y orden, permitiendo su fácil comprensión y mejorando sus uso futuro para la aplicación.<br>**TP1**:Cerre cada parte trabajada con detalle y orden, permitiendome su fácil compresión y mejorando sus uso futuro para la aplicación.<br>**TB2**: Tuve que ser cuidadoso con cada detalle en mi parte del trabajo, ya que me encargué del backend, lo cual me permitió comprender mejor la aplicación y mejorarla significativamente.<br><br>**Gonzalo Carhuancote**<br>**TF**: La participación me ermitió comunicar efectivamente el contenido técnico y los resultados obtenidos. Se logró adaptar el lenguaje escrito a una audiencia diversa, cumpliendo con los estándares de claridad, coherencia y estructura del trabajo académico.<br><br>**Javier Kenyi Mendoza Solis**<br>**TF**: Al participar pude explicar bien el contenido técnico y los resultados del trabajo. También logré adaptar lo que escribí para que sea claro y entendible para todos, manteniendo una buena estructura y coherencia en el informe final. |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Daiki Oscar Oshiro Yamashita**<br>**TB1**: Participé activamente en reuniones remotas que realizamos en varias ocasiones para coordinar avances e informar el progreso del trabajo.<br>**TP1**: <br>Comunico con claridad el análisis del bounded context del sistema de asesorías, distinguiendo los dominios funcionales del cliente y del asesor. Esta comunicación permitió al equipo alinear criterios y establecer límites precisos para el desarrollo desde las primeras fases del proyecto.<br>**TB2**: <br> Expliqué con claridad el diseño de los endpoints relacionados a sesiones, lo cual permitió al equipo comprender la lógica de negocio e integrarla correctamente con otros subdominios.<br>**TF1**: <br> Coordiné con el equipo las correcciones necesarias del informe final, comunicando observaciones de forma clara durante las reuniones.<br>**Mathias Javier Murillo**<br>**TB1**: Durante esta primera entrega, nos comunicamos eficazmente mediante llamadas grupales y mensajes de texto, lo que permitió una buena coordinación.<br>**TP1**: Durante esta primera entrega, logramos una comunicación eficaz a través de llamadas grupales y mensajes de texto, lo que facilitó una excelente coordinación entre los miembros del equipo.<br>**TB2**: Durante esta etapa, participé activamente en reuniones técnicas donde expuse los avances del backend relacionados al subdominio de login y autentificación. Gracias a una comunicación clara, el equipo pudo entender el flujo de acceso de usuarios, lo que permitió una integración efectiva con los demás subdominios. Además, mantuve contacto constante con los integrantes para coordinar entregas parciales y resolver dudas técnicas de forma oportuna.<br><br>**Sergio Aguirre Castillo**<br>**TB1**: La comunicación dentro del equipo fue eficaz durante esta etapa inicial. Utilizamos videoconferencias y mensajería para resolver problemas y mantenernos alineados.<br>**TP1**: La comunicación dentro del equipo fue eficaz durante esta etapa de la TP1. Utilizamos videoconferencias y mensajería para resolver problemas y mantenernos alineados.<br>**TB2**: Mantuve reuniones constantes para explicar y validar avances en la implementación, lo que ayudó a evitar errores y asegurar el cumplimiento de objetivos comunes.<br><br> **Russell Stephen Romero Qwistgaard**<br>**TB1**: En la primera entrega destaque por comunicarme abiertamente con mis compañeros al momento de repartirnos las tareas y más importante, buscar ayuda cuando se complicaba partes del trabajo para poder evitar retrasos.<br>**TP1**:En la primera entrega, me destaqué por mantener una comunicación abierta con mis compañeros al repartir las tareas y, lo más importante, por buscar ayuda cuando algunas partes del trabajo se complicaban. Esto me permitió evitar retrasos y asegurar que el proyecto avanzara sin contratiempos.<br>**TB2**: Sostuve reuniones periódicas para comunicar los avances en la implementación y validar cada etapa del desarrollo, lo que permitió prevenir errores y garantizar el cumplimiento de los objetivos del equipo.<br>**Gonzalo Carhuancote**<br> **TF1**: Participé en las reuniones de manera activa para poder difinir claramente nuestros objetivos y metas para esta entrega final, sobretodo por la integración de ambos grupos.<br> **Salvador Edward Chamorro Acero**<br>**TF1**: Se coordino mediante reuniones la programación del sprint 4 y sus respectivas correcciones.<br> |**Daiki Oscar Oshiro Yamashita**<br>**TB1**: La comunicación fluida permitió el cumplimiento de los objetivos establecidos en esta primera etapa.<br>**TP1**: <br>La capacidad de comunicar con claridad el análisis del bounded context fue clave para asegurar una comprensión compartida dentro del equipo, lo que permitió una planificación más eficiente, la asignación adecuada de responsabilidades y una base sólida para el desarrollo coherente del sistema.<br>**TB2**: <br> La explicación clara del comportamiento de los endpoints relacionados a sesiones permitió al equipo comprender la lógica de negocio implementada. Esto ayudó a identificar posibles conflictos en la planificación y asegurar una correcta integración con los demás subdominios.<br>**TF1**: <br> Gracias a una comunicación oral clara y oportuna, contribuí al alineamiento del equipo en cuanto a los cambios requeridos, lo que permitió realizar correcciones eficientes y mantener la coherencia general del documento. <br> **Mathias Javier Murillo**<br>**TB1**: Gracias a las reuniones constantes y el seguimiento por mensajería, logramos completar la entrega de manera efectiva.<br>**TP1**:Gracias a las reuniones constantes y al seguimiento a través de mensajería, logramos completar la entrega de manera efectiva y dentro de los plazos establecidos.<br>**TB2**: La comunicación efectiva en esta fase fue clave para mantener la coherencia en la lógica de acceso y seguridad del sistema. Al explicar con claridad el funcionamiento del login y los endpoints correspondientes, se evitaron errores de integración y se fortaleció la colaboración técnica entre los miembros del equipo.<br><br>**Sergio Aguirre Castillo**<br>**TB1**: Las reuniones continuas facilitaron un buen trabajo en equipo y el logro de los objetivos planteados.<br>**TP1**: Las reuniones continuas facilitaron un buen trabajo en equipo y el logro de los objetivos planteados durante la TP1.<br>**TB2**:La exposición clara de ideas y la participación en reuniones técnicas permitió validar los avances, resolver bloqueos de forma colaborativa y garantizar una integración efectiva entre subdominios del sistema.<br>**TB2**: Logré comunicar efectivamente para el desarrollo del backend y para las mejoras correspondientes del frontend.<br> **Russell Stephen Romero Qwistgaard**<br>**TB1**: Las reuniones frecuentes y el seguimiento directo de las actividades realizadas dentro y fuera del horario de clase ayudó a que podamos completar este entregable eficientemente.<br>**TP1**:Las reuniones frecuentes y el seguimiento directo de las actividades, tanto dentro como fuera del horario de clase, nos permitieron completar este entregable de manera eficiente y a tiempo.<br>**TB2**:Mantuve una comunicación efectiva que facilitó el desarrollo del backend y contribuyó a implementar mejoras clave en el frontend, asegurando una integración fluida entre ambos componentes del sistema.<br> **Gonzalo Carhuancote**<br> **TF1**: Gracias a la buena comunicacion entre los nuevos miembros del grupo logramos acordar las actividades y resolvelas en el tiempo esperado para el Sprint 4 y las activididaes individuales asignadas.<br> **Salvador Edward Chamorro Acero**<br>**TF1**: Se coordino mediante reuniones la programación del sprint 4 y sus respectivas correcciones.<br>|
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Daiki Oscar Oshiro Yamashita**<br>**TB1**: Contribuí con el desarrollo de los capítulos 2 y 3 del informe.<br>**TP1**: <br>Contribuí con la redacción y mejora del informe, incluyendo la elaboración del bounded context del subdominio session, lo cual permitió delimitar claramente sus responsabilidades dentro del sistema. <br>**TB2**: <br> Documenté todo lo avanzado y actualizado tanto en los sprints pasados como en el resto del documento, facilitando la lectura técnica por parte del equipo.<br>**TF1**: <br> Realicé correcciones de redacción, gramática y formato en el informe final, asegurando claridad y coherencia.<br> **Mathias Javier Murillo**<br>**TB1**: Desarrollé el capítulo 1 y parte del capítulo 4, aportando contenido clave para la presentación de la startup.<br>**TP1**:Desarrollé el Bounded Context del Login.<br>**TB2**: En esta fase, documenté el comportamiento del subdominio de login, incluyendo sus casos de uso, endpoints y flujos de error. Esta documentación fue elaborada con un enfoque técnico claro, lo que facilitó su comprensión por parte del equipo y permitió validar correctamente su integración con otros módulos del sistema. También participé en la revisión general del documento final, corrigiendo errores de redacción y asegurando la cohesión entre capítulos.<br><br>**Sergio Aguirre Castillo**<br>**TB1**: Redacté la totalidad del capítulo 2 y gran parte del capítulo 4, en colaboración con otro miembro del grupo.<br>**TP1**: Redacté la el Bounded Context Buscador de profesionales, corregi el informe del primer entregable (TB1), ayude a avanzar con los demas Bounded context en colaboracion con otro miembro del grupo.<br>**TB2**: Documenté el comportamiento de las notificaciones en el sistema, estructurando el contenido de forma clara para facilitar el desarrollo y pruebas por parte del equipo.<br><br>**Russell Stephen Romero Qwistgaard**<br>**TB1**: Redacte el registro y análisis de entrevista, además de los User Stories, el Product Backlog y el Landing Page, asegurándome de obtener y clasificar toda la información requerida para poder realizar la aplicación final.<br>**TP1**:Pude realizar con existo la resolucion del Bounded Context de Profesionales y notificaiones.<br>**TB2**: Me encargué de redactar el registro y el análisis de la entrevista, además de elaborar los User Stories, el Product Backlog y la Landing Page. Para ello, me aseguré de recopilar, organizar y clasificar toda la información necesaria que sirviera como base para el desarrollo de la aplicación final.<br> **Gonzalo Carhuancote**<br> **TF1**: Contribui con el despliegue de la nueva version del FrontEnd, asi como la presentacion de Daipositivas y correciones menores del Sprint 4.<br> **Salvador Edward Chamorro Acero**<br>**TF1**: Resumen y documentación de cada artefacto incluido en el proyecto.<br>| **Daiki Oscar Oshiro Yamashita**<br>**TB1**: La participación en la redacción permitió un avance significativo en los capítulos asignados.<br>**TP1**: <br>Mi participación en la redacción contribuyó de manera significativa al progreso de los capítulos asignados, adaptando el contenido según los requisitos del proyecto, lo que incluyó el análisis del bounded context de session y la mejora en la estructura y redacción del informe.<br> **TB2**: <br> Mi contribución escrita permitió organizar la documentación del backend de forma coherente, mejorando la comprensión de los flujos por parte del equipo. Esta claridad favoreció una integración más eficiente del sistema.<br> **TF1**: <br> Mejoré la calidad escrita del documento, facilitando su comprensión tanto técnica como académica.<br> **Mathias Javier Murillo**<br>**TB1**: Pude describir con claridad la propuesta de la startup, además de diseñar la interfaz inicial mediante wireframes y mockups.<br>**TP1**:Pude describir con claridad la propuesta del Bounded Context con existo.<br>**TB2**: La documentación detallada del subdominio de login permitió al equipo comprender su lógica de funcionamiento e integrarlo eficientemente con los demás subdominios. La redacción clara y técnica contribuyó a mejorar la calidad del informe final y fortaleció la base escrita del proyecto.<br><br>**Sergio Aguirre Castillo**<br>**TB1**: Logré cerrar satisfactoriamente los capítulos asignados, demostrando capacidad de redacción técnica y estructurada.<br>**TP1**: Logré cerrar satisfactoriamente los capítulos asignados durante la TP1, demostrando capacidad de redacción técnica y estructurada.<br>**TB2**: La documentación del subdominio a mi cargo se realizó con un lenguaje técnico claro y estructurado, facilitando su comprensión para otros integrantes y permitiendo una integración precisa en el backend.<br><br> **Russell Stephen Romero Qwistgaard**<br>**TB1**: Cerré cada parte trabajada con detalle y orden, permitiendo su fácil comprensión y mejorando sus uso futuro para la aplicación.<br>**TP1**:Cerre cada parte trabajada con detalle y orden, permitiendome su fácil compresión y mejorando sus uso futuro para la aplicación.<br>**TB2**: Tuve que ser cuidadoso con cada detalle en mi parte del trabajo, ya que me encargué del backend, lo cual me permitió comprender mejor la aplicación y mejorarla significativamente.<br> **Gonzalo Carhuancote**<br>**TF1**: La participación me ermitió comunicar efectivamente el contenido técnico y los resultados obtenidos. Se logró adaptar el lenguaje escrito a una audiencia diversa, cumpliendo con los estándares de claridad, coherencia y estructura del trabajo académico.<br>|
 
 
 <div style="page-break-after: always;"></div>
@@ -330,37 +338,40 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 # Capitulo I: Introduccion
 
 ## 1.1. StartUp Profile
-En un mundo cada vez más interconectado, donde el acceso al conocimiento y la experiencia marca la diferencia en la toma de decisiones, surge **Nova Asesores**.
-Con una propuesta centrada en la **innovación** y la **excelencia**, esta plataforma nace para transformar la forma en que individuos y organizaciones acceden a **consultoría especializada**.
+
+En un mundo cada vez más interconectado, donde el acceso al conocimiento y la experiencia marca la diferencia en la toma de decisiones, surge Nova Asesores. Con una propuesta centrada en la innovación y la excelencia, esta plataforma nace para transformar la forma en que individuos y organizaciones acceden a consultoría especializada.
+
 ### 1.1.1. Description de la StartUp
-Una plataforma digital que conecta a expertos de diversas áreas con personas y empresas que buscan asesoría profesional. 
-Permite a los consultores ofrecer sus servicios, gestionar reservas y recibir pagos de forma segura, mientras los usuarios pueden encontrar especialistas verificados, reservar sesiones fácilmente y acceder a consultoría personalizada desde cualquier lugar. 
+
+Una plataforma digital que conecta a expertos de diversas áreas con personas y empresas que buscan asesoría profesional. Permite a los consultores ofrecer sus servicios, gestionar reservas y recibir pagos de forma segura, mientras los usuarios pueden encontrar especialistas verificados, reservar sesiones fácilmente y acceder a consultoría personalizada desde cualquier lugar. 
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 | Integrantes | Descripción | Conocimientos |
 | :---------- | :---------- | :------------ |
-| <div style="display: flex; align-items: center;"><img src="img/Daiki.png" alt="Daiki" width="100" height="120">&nbsp;&nbsp;<br>**Daiki Oscar Oshiro Yamashita**<br>u20201f846</div> | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. | Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL. |
-| <div style="display: flex; align-items: center;"><img src="img/Gonzalo.jpg" alt="Gonzalo" width="100" height="120">&nbsp;&nbsp;<br>**Gonzalo Alonso Carhuancote Dominguez**<br>u202210720</div> | Soy estudiante de Ingeniería de Software. Me gusta asumir nuevos retos relacionados con el desarrollo de software, como aprender nuevas tecnologías. | Tengo conocimientos en lenguajes como HTML, C++, Python, SQL y en teconlogias como Cisco Packet Tracer y Linux |
-| <div style="display: flex; align-items: center;"><img src="img/Sergio-Aguirre.jpg" alt="Sergio" width="100" height="150">&nbsp;&nbsp;<br>**Sergio Cesar Aguirre Castillo**<br>u202310425</div> | Soy estudiante de Ingenieraía de Software. Me gusta los desafios se me atraviece durante los cilos que voy pasando con el pasar de los tiempos, soy una persona bien responsable y amable. | Tengo conociemitos con los sigueintes lenguajes de programacion HTML, C++, Java, MySQ, Phyton.|
-| <div style="display: flex; align-items: center;"><img src="img/Russell-Romero.png" alt="Russell" width="100" height="150">&nbsp;&nbsp;<br>**Russell Stephen Romero Qwistgaard**<br>u202211043</div> | Estudio la carrera de ingeniería de software, actualmente en el 7 ciclo de esta. Me apasiona crear programas en entornos distintos para poder ampliar mi conocimiento en las muchas áreas que dependen de mi formación. | He aprendido a programar en lenguajes como HTML, C++, Java, SQL y en frameworks como React, .Net, Angular CLI, Vue.js y Node.js |
-| <div style="display: flex; align-items: center;"><img src="img/Kenyi-Mendoza.jpg" alt="Kenyi" width="100" height="150">&nbsp;&nbsp;<br>**Javier Kenyi Mendoza Solis**<br>u201824550</div> | Estudio la carrera de ingeniería de software. Crear programas en entornos distintos para poder ampliar mi conocimiento es de las cosas que me apaasionan. | He aprendido a programar en lenguajes como HTML, C++, Java, SQL y Python |
-| <div style="display: flex; align-items: center;"><img src="img/Salvador.jpg" alt="Kenyi" width="100" height="150">&nbsp;&nbsp;<br>**Salvador Chamorro Acero**<br>u201914367</div> | Estudio la carrera de ingeniería de software y son apasionado por el mundo de la tecnologia. | He aprendido a programar en lenguajes como C++ y Python |
+| <div style="display: flex; align-items: center;"><img src="img/Daiki.png" alt="Daiki" width="100" height="120">&nbsp;&nbsp;<br>**Daiki Oscar Oshiro Yamashita**<br>U20201F846</div> | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. | Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL. |
+| <div style="display: flex; align-items: center;"><img src="img/Gonzalo.jpg" alt="Gonzalo" width="100" height="120">&nbsp;&nbsp;<br>**Gonzalo Alonso Carhuancote Dominguez**<br>U202210720</div> | Soy estudiante de Ingeniería de Software. Me gusta asumir nuevos retos relacionados con el desarrollo de software, como aprender nuevas tecnologías. | Tengo conocimientos en lenguajes como HTML, C++, Python, SQL y en teconlogias como Cisco Packet Tracer y Linux |
+| <div style="display: flex; align-items: center;"><img src="img/Sergio-Aguirre.jpg" alt="Sergio" width="100" height="150">&nbsp;&nbsp;<br>**Sergio Cesar Aguirre Castillo**<br>U202310425</div> | Soy estudiante de Ingenieraía de Software. Me gusta los desafios se me atraviece durante los cilos que voy pasando con el pasar de los tiempos, soy una persona bien responsable y amable. | Tengo conociemitos con los sigueintes lenguajes de programacion HTML, C++, Java, MySQ, Phyton.|
+| <div style="display: flex; align-items: center;"><img src="img/Russell-Romero.png" alt="Russell" width="100" height="150">&nbsp;&nbsp;<br>**Russell Stephen Romero Qwistgaard**<br>U202211043</div> | Estudio la carrera de ingeniería de software, actualmente en el 7 ciclo de esta. Me apasiona crear programas en entornos distintos para poder ampliar mi conocimiento en las muchas áreas que dependen de mi formación. | He aprendido a programar en lenguajes como HTML, C++, Java, SQL y en frameworks como React, .Net, Angular CLI, Vue.js y Node.js |
+| <div style="display: flex; align-items: center;"><img src="img/Kenyi-Mendoza.jpg" alt="Kenyi" width="100" height="150">&nbsp;&nbsp;<br>**Javier Kenyi Mendoza Solis**<br>U201824550</div> | Estudio la carrera de ingeniería de software. Crear programas en entornos distintos para poder ampliar mi conocimiento es de las cosas que me apaasionan. | He aprendido a programar en lenguajes como HTML, C++, Java, SQL y Python |
+| <div style="display: flex; align-items: center;"><img src="img/Salvador.jpg" alt="Kenyi" width="100" height="150">&nbsp;&nbsp;<br>**Salvador Chamorro Acero**<br>U201914367</div> | Estudio la carrera de ingeniería de software y son apasionado por el mundo de la tecnologia. | He aprendido a programar en lenguajes como C++ y Python |
 
 
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
+
 #### Antecedentes y problemática
 
-En los últimos años, el crecimiento acelerado del entorno digital ha generado nuevas formas de trabajar, colaborar y acceder al conocimiento. Sin embargo, este avance también ha evidenciado una **brecha importante en el acceso ágil y confiable a asesoría profesional especializada**.
+En los últimos años, el crecimiento acelerado del entorno digital ha generado nuevas formas de trabajar, colaborar y acceder al conocimiento. Sin embargo, este avance también ha evidenciado una brecha importante en el acceso ágil y confiable a asesoría profesional especializada.
 
-Muchas personas y empresas enfrentan desafíos personales, técnicos o estratégicos que requieren respuestas expertas, pero se ven limitadas por la **falta de canales efectivos para contactar a profesionales confiables**, la **dispersión de la oferta de servicios** o la **falta de plataformas que centralicen la experiencia de manera organizada y segura**.
+Muchas personas y empresas enfrentan desafíos personales, técnicos o estratégicos que requieren respuestas expertas, pero se ven limitadas por la falta de canales efectivos para contactar a profesionales confiables, la dispersión de la oferta de servicios o la falta de plataformas que centralicen la experiencia de manera organizada y segura.
 
 Por otro lado, miles de profesionales independientes con amplia experiencia carecen de herramientas adecuadas para ofrecer sus servicios de forma profesional, gestionar sus horarios y garantizar una experiencia óptima para sus clientes.
 
 #### What?
 
-**Nova Asesores** es una plataforma diseñada para facilitar y optimizar la conexión entre expertos de diversas áreas y personas o empresas que buscan asesoría profesional. La plataforma proporciona herramientas que simplifican la búsqueda, reserva y gestión de sesiones de consultoría, ofreciendo un entorno seguro, eficiente y accesible para ambas partes.
+Nova Asesores es una plataforma diseñada para facilitar y optimizar la conexión entre expertos de diversas áreas y personas o empresas que buscan asesoría profesional. La plataforma proporciona herramientas que simplifican la búsqueda, reserva y gestión de sesiones de consultoría, ofreciendo un entorno seguro, eficiente y accesible para ambas partes.
 
 #### Why?
 
@@ -380,38 +391,41 @@ Las partes más afectadas son, por un lado, los consultores independientes y pro
 
 #### How?
 
-Nova Asesores resuelve esta problemática mediante una **plataforma digital todo-en-uno** que permite a los usuarios buscar expertos según su necesidad, reservar sesiones con disponibilidad en tiempo real y realizar pagos seguros. Al mismo tiempo, los expertos pueden ofrecer sus servicios, gestionar sus horarios y construir una reputación basada en valoraciones reales.
+Nova Asesores resuelve esta problemática mediante una plataforma digital todo-en-uno que permite a los usuarios buscar expertos según su necesidad, reservar sesiones con disponibilidad en tiempo real y realizar pagos seguros. Al mismo tiempo, los expertos pueden ofrecer sus servicios, gestionar sus horarios y construir una reputación basada en valoraciones reales.
 
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
-#### Finteka - Solución a la Asesoría Profesional
+
+#### FinTeka - Solución a la Asesoría Profesional
 
 El estado actual del acceso a servicios de asesoría profesional, tanto para personas como para empresas, se caracteriza por una oferta fragmentada, informal y poco eficiente. Aunque existen opciones en línea para contactar con expertos, estas no lograban abordar completamente las necesidades de quienes buscan orientación confiable, segura y fácil de gestionar, ni las de los profesionales que desean ofrecer sus servicios de manera estructurada y rentable.
 
 Lo que los productos y servicios existentes no logran resolver es la falta de una plataforma centralizada y especializada que conecte a expertos con usuarios que requieren asesoría, cubriendo todo el proceso: desde la búsqueda y reserva, hasta el pago y seguimiento. Actualmente, muchas personas recurren a recomendaciones informales o servicios genéricos, mientras que los expertos independientes dependen de redes sociales u otras plataformas no diseñadas para este fin, lo que genera ineficiencias y pérdida de oportunidades.
 
-Nuestro producto, **Finteka**, abordará esta brecha creando un ecosistema confiable que facilite el encuentro entre expertos y usuarios, ofreciendo herramientas que profesionalicen la experiencia de consultoría. Permitiremos a los usuarios encontrar fácilmente al especialista adecuado, agendar sesiones, realizar pagos seguros y dejar valoraciones. Al mismo tiempo, los consultores podrán ofrecer sus servicios de forma organizada, gestionar su disponibilidad y construir una reputación digital sólida.
+Nuestro producto, FinTeka, abordará esta brecha creando un ecosistema confiable que facilite el encuentro entre expertos y usuarios, ofreciendo herramientas que profesionalicen la experiencia de consultoría. Permitiremos a los usuarios encontrar fácilmente al especialista adecuado, agendar sesiones, realizar pagos seguros y dejar valoraciones. Al mismo tiempo, los consultores podrán ofrecer sus servicios de forma organizada, gestionar su disponibilidad y construir una reputación digital sólida.
 
 Sabremos que hemos tenido éxito cuando nuestros usuarios utilicen la plataforma de manera regular, se multipliquen las sesiones agendadas y observemos una alta retención tanto de consultores como de clientes, junto a un aumento en las valoraciones positivas y recomendaciones orgánicas del servicio.
+
 #### 1.2.2.2. Lean UX Assumptions
-#### Finteka - Información del Producto
+
+#### FinTeka - Información del Producto
 
 #### ¿Quién es el usuario?
 
-Los usuarios de **Finteka** son principalmente dos grupos:
+Los usuarios de FinTeka son principalmente dos grupos:
 
-1. **Personas** (profesionales, emprendedores, estudiantes, etc.) y **empresas** que necesitan asesoría especializada en diversas áreas como derecho, salud mental, finanzas, tecnología, entre otras.
+1. **Personas** (profesionales, emprendedores, estudiantes, etc.) y empresas que necesitan asesoría especializada en diversas áreas como derecho, salud mental, finanzas, tecnología, entre otras.
 2. **Consultores y expertos profesionales** que desean ofrecer sus servicios, llegar a nuevos clientes y gestionar su trabajo de forma digital y eficiente.
 
 #### ¿Dónde encaja nuestro producto, en su trabajo o en su vida?
 
-- Para quienes buscan asesoría, **Finteka** se convierte en una herramienta clave en su proceso de toma de decisiones personales o empresariales.
+- Para quienes buscan asesoría, FinTeka se convierte en una herramienta clave en su proceso de toma de decisiones personales o empresariales.
 - Para los expertos, es parte central de su vida profesional, ayudándoles a generar ingresos, organizar su agenda y expandir su reputación online.
 
 #### ¿Qué problema resuelve nuestro producto?
 
-**Finteka** resuelve la dificultad de encontrar, contactar y contratar fácilmente a profesionales calificados para necesidades específicas. También resuelve la falta de herramientas profesionales para que los consultores gestionen reservas, pagos y relaciones con clientes desde un solo lugar.
+FinTeka resuelve la dificultad de encontrar, contactar y contratar fácilmente a profesionales calificados para necesidades específicas. También resuelve la falta de herramientas profesionales para que los consultores gestionen reservas, pagos y relaciones con clientes desde un solo lugar.
 
 #### ¿Cuándo y cómo se utiliza nuestro producto?
 
@@ -587,7 +601,7 @@ Implementar estrategias de marketing digital avanzadas para aumentar la visibili
 - ¿A qué se dedica profesionalmente y qué tipo de asesoría está buscando?
 
 **Preguntas Específicas**
-Segmento de ciudadano:
+
 Soy (nombre y apellido) del curso de Desarrollo de Aplicaciones Open Source haciendo una entrevista a (entrevistado), quien es (trabajo) y que está buscando una plataforma de asesoría profesional. Bueno, para empezar con la entrevista:
 
 ##### 1. Personas Naturales (Usuarios en búsqueda de asesoría profesional)
@@ -659,6 +673,7 @@ Soy (nombre y apellido) del curso de Desarrollo de Aplicaciones Open Source haci
 
 
 ### 2.2.2. Registro de entrevistas
+
 - Segmento 1: Personas Naturales
 - Entrevista 1:
 - Nombre: Sara Giovanna Qwistgaard Horna
@@ -667,7 +682,7 @@ Soy (nombre y apellido) del curso de Desarrollo de Aplicaciones Open Source haci
   
 <img src="https://github.com/user-attachments/assets/0e0c9687-49cf-4163-bb94-7e8062090cac">
 
-**Link**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EVYdPYP9cX9MiTBSGHLo4GUBJtHK2wys0_JpZmdVYRUM0w?e=fs9CDq
+**Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EVYdPYP9cX9MiTBSGHLo4GUBJtHK2wys0_JpZmdVYRUM0w?e=fs9CDq**
 
 En la entrevista, la señora Sara Qwistgaard menciona que busca asesoría en el área de marketing. Además, nos cuenta cómo le gustaría su página de asesoría ideal y su mayor problema con las asesorías en general: los horarios. 
 
@@ -943,22 +958,24 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
-Las guías de estilo son fundamentales para asegurar una comunicación clara, coherente y profesional en todos los aspectos del proyecto. 
-En esta sección, definiremos las pautas que el equipo utilizará para diseñar la aplicación FinTeka. 
-Estas directrices abarcarán aspectos como la selección de colores, tipografía y la estructura general del diseño.
-Para el desarrollo de FinTeka, utilizaremos plataformas como Figma para crear la interfaz web y la página de inicio. 
-La paleta de colores estará compuesta por tonos plomos y azules, que transmiten modernidad, confianza y accesibilidad, reflejando el objetivo de la aplicación de conectar a los usuarios con asesores profesionales de manera eficiente y amigable. 
+
+Las guías de estilo son fundamentales para asegurar una comunicación clara, coherente y profesional en todos los aspectos del proyecto. En esta sección, definiremos las pautas que el equipo utilizará para diseñar la aplicación FinTeka. Estas directrices abarcarán aspectos como la selección de colores, tipografía y la estructura general del diseño.
+
+Para el desarrollo de FinTeka, utilizaremos plataformas como Figma para crear la interfaz web y la página de inicio.  La paleta de colores estará compuesta por tonos plomos y azules, que transmiten modernidad, confianza y accesibilidad, reflejando el objetivo de la aplicación de conectar a los usuarios con asesores profesionales de manera eficiente y amigable. 
+
 A continuación, se detallan los aspectos clave de este enfoque de diseño.
+
 ### 4.1.1. General Style Guidelines
+
 #### Branding
 
 #### Brand Overview:
 
-**FinTeka** es una plataforma innovadora dedicada a conectar usuarios con profesionales expertos en diversas áreas, especialmente en el ámbito de las asesorías tecnológicas. A través de nuestra aplicación web, los usuarios podrán encontrar profesionales disponibles para recibir asesorías personalizadas, basadas en sus necesidades específicas. Ya sea que necesiten ayuda con desarrollo de software, diseño de interfaces o problemas tecnológicos, **FinTeka** ofrece un espacio donde tanto clientes como profesionales pueden interactuar, colaborar y crecer en sus proyectos.
+FinTeka es una plataforma innovadora dedicada a conectar usuarios con profesionales expertos en diversas áreas, especialmente en el ámbito de las asesorías tecnológicas. A través de nuestra aplicación web, los usuarios podrán encontrar profesionales disponibles para recibir asesorías personalizadas, basadas en sus necesidades específicas. Ya sea que necesiten ayuda con desarrollo de software, diseño de interfaces o problemas tecnológicos, FinTeka ofrece un espacio donde tanto clientes como profesionales pueden interactuar, colaborar y crecer en sus proyectos.
 
 #### Misión:
 
-La misión de **FinTeka** es ofrecer una plataforma accesible y fácil de usar que permita a los usuarios encontrar y conectarse con los profesionales adecuados para recibir asesorías especializadas. Nos enfocamos en crear una experiencia eficiente, facilitando el acceso a expertos en diversas áreas y promoviendo la colaboración entre usuarios y consultores. Nuestro compromiso es ofrecer un entorno en el que las personas puedan adquirir conocimientos y resolver desafíos de manera dinámica, permitiendo el crecimiento tanto personal como profesional de nuestros usuarios.
+La misión de FinTeka es ofrecer una plataforma accesible y fácil de usar que permita a los usuarios encontrar y conectarse con los profesionales adecuados para recibir asesorías especializadas. Nos enfocamos en crear una experiencia eficiente, facilitando el acceso a expertos en diversas áreas y promoviendo la colaboración entre usuarios y consultores. Nuestro compromiso es ofrecer un entorno en el que las personas puedan adquirir conocimientos y resolver desafíos de manera dinámica, permitiendo el crecimiento tanto personal como profesional de nuestros usuarios.
 
 #### Visión:
 
@@ -966,7 +983,7 @@ Nuestra visión es convertirnos en la plataforma de referencia para encontrar as
 
 #### Brand Name:
 
-El nombre de nuestra plataforma, **FinTeka**, refleja nuestra visión de conectar a las personas con los mejores profesionales en el campo tecnológico, fusionando la eficiencia de una plataforma digital con la cercanía de una red de expertos accesibles. A través de **FinTeka**, buscamos ofrecer un espacio donde los usuarios puedan encontrar la mejor asesoría para sus proyectos y objetivos personales o profesionales.
+El nombre de nuestra plataforma, FinTeka, refleja nuestra visión de conectar a las personas con los mejores profesionales en el campo tecnológico, fusionando la eficiencia de una plataforma digital con la cercanía de una red de expertos accesibles. A través de FinTeka, buscamos ofrecer un espacio donde los usuarios puedan encontrar la mejor asesoría para sus proyectos y objetivos personales o profesionales.
 
 <img src="./img/FinTeka.png" width="400" height="400">
 
@@ -1007,7 +1024,9 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
+
 A continuación, explicaremos en qué grupos de información se aplicaron los distintos tipos de organización visual para ambos segmentos objetivo, así como en cuáles se utiliza algún tipo de categorización.
+
 - *Por categorías de asesoría:* Derecho, Finanzas, Salud mental, Tecnología, Marketing, etc.
 - *Por tipo de usuario:* Consultores o Clientes.
 - *Por nivel de especialización:* Junior, Senior, Experto.
@@ -1027,30 +1046,45 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 | <img src="https://github.com/user-attachments/assets/ba52c8c6-1c0b-4bb0-85e0-7b53fbb1b7cc"> | **Home** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. |
 | <img src="https://github.com/user-attachments/assets/25ff6af8-2ba7-4d7b-b5ff-3b6b6b224bc1"> | **Notificaciones** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.|
 
-
-
 ### 4.2.3. SEO Tags and Meta Tags
+
 <.title>Finteka | Conecta con Expertos en Asesoría Profesional</title><br>
+
 <.meta name="description" content="Encuentra consultores verificados en derecho, finanzas, salud mental y más. Reserva, paga y recibe asesoría personalizada desde cualquier lugar."><br>
+
 <.meta name="keywords" content="asesoría, consultoría online, expertos, derecho, finanzas, salud mental, reservar asesoría, Finteka"><br>
+
 <.meta name="robots" content="index, follow"><br>
+
 <.meta property="og:title" content="Finteka - Asesoría profesional en un clic"><br>
+
 <.meta property="og:description" content="La plataforma todo-en-uno para encontrar expertos, reservar sesiones y recibir orientación profesional."><br>
+
 <.meta property="og:image" content="https://finteka.com/og-image.jpg"><br>
+
 <.meta property="og:url" content="https://finteka.com"><br>
 
 ### 4.2.4. Searching Systems
+
 A continuación, se mostrarán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la asesoría personalizada que están buscando.
+
 - Buscador global con:
+  
     - Autocompletado (sugerencias de expertos y categorías).
     - Filtros por especialidad, disponibilidad, precio y calificación.
+      
 - Búsqueda avanzada:
+  
     - Filtros combinables (Ej. “Finanzas” + “Disponible hoy” + “< 50 soles”).
+      
 - Historial de búsqueda
+  
 - Resultados con vista previa de perfil del consultor y botón de acción rápida
 
 ### 4.2.5 Navigation Systems
+
 A continuación, se mostrarán los sistemas de navegación que le permitirán a nuestros usuarios moverse a través de las distintas piezas de contenido o información.
+
 - **Header fijo** con accesos rápidos: Inicio, Áreas de asesoría, Buscar experto, Iniciar sesión ,Registrarse.
 - **Menú lateral** (en paneles de usuario/consultor): Dashboard, Mis sesiones, Agenda, Perfil, Pagos, Configuración. 
 - **Breadcrumbs:** Para categorías y subcategorías de asesoría.
@@ -1061,90 +1095,77 @@ A continuación, se mostrarán los sistemas de navegación que le permitirán a 
 
 ### 4.3.1. Landing Page Wireframe
 
-### Home Wireframe
+#### Home Wireframe
 <img src="./img/Home.png" >
 
-### About Us Wireframe
+#### About Us Wireframe
 <img src="./img/About Us.png" >
 
-### Learn More Wireframe
+#### Learn More Wireframe
 <img src="./img/Learn More.png" >
 
-### Suscribe Wireframe
+#### Suscribe Wireframe
 <img src="./img/Suscribe.png" >
 
 ### 4.3.2. Landing Page Mock-ups
 
-### Home Mock-up
+#### Home Mock-up
 <img src="./img/Home-Mock.png" >
 
-### About Us Mock-up
+#### About Us Mock-up
 <img src="./img/About Us-Mock.png" >
 
-### Learn More Mock-up
+#### Learn More Mock-up
 <img src="./img/Learn More-Mock.png" >
 
-### Suscribe Mock-up
+#### Suscribe Mock-up
 <img src="./img/Suscribe-Mock.png" >
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
-- Desktop Browser:
+#### Desktop Browser:
 
-Inicio de sesión y registro:
-
+#### Inicio de sesión y registro:
 <img src="./img/wi1.png" >
 
-Búsqueda de profesionales:
-
+#### Búsqueda de profesionales:
 <img src="./img/wi2.png" >
 
-Seleccionar y valorar profesional:
-
+#### Seleccionar y valorar profesional:
 <img src="./img/wi3.png" >
 
-- Mobile Browser:
-
+#### Mobile Browser:
 <img src="./img/wi4.png" >
-
 <img src="./img/wi5.png" >
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-Usuario ingresa a la aplicación iniciando sesión o registrándose:
-
+#### Usuario ingresa a la aplicación iniciando sesión o registrándose:
 <img src="./img/wi6.png" >
 
-Usuario desea buscar un profesional:
-
+#### Usuario desea buscar un profesional:
 <img src="./img/wi7.png" >
 
-Usuario desea contactar o valorar profesional:
-
+#### Usuario desea contactar o valorar profesional:
 <img src="./img/wi8.png" >
 
 ### 4.4.3. Web Applications Mock-ups
 
-Inicio de sesión y registro:
-
+#### Inicio de sesión y registro:
 <img src="./img/Desktop1.png" >
 
-Vista de profesionales y búsqueda:
-
+#### Vista de profesionales y búsqueda:
 <img src="./img/Desktop2.png" >
 
-Vista del perfil del profesional y valoración:
-
+#### Vista del perfil del profesional y valoración:
 <img src="./img/Desktop3.png" >
 
-Inicio y registro de sesión:
-
+#### Inicio y registro de sesión:
 <img src="./img/Mob1.png" >
 
-Perfil del profesional:
-
+#### Perfil del profesional:
 <img src="./img/Mob2.png" >
 
 ### 4.4.4. Web Applications User Flow Diagrams
@@ -1205,7 +1226,6 @@ El usuario accede al formulario de valoración, completa y envía su opinión; e
   
 El usuario puede abandonar el formulario, ingresar datos inválidos, enfrentar problemas de envío o intentar valorar dos veces la misma sesión.
 
-
 ## 4.6. Domain -Driven Software Architecture
 
 ### 4.6.1. Software Architecture Contexte Diagram
@@ -1221,6 +1241,7 @@ El usuario puede abandonar el formulario, ingresar datos inválidos, enfrentar p
 <img src="./img/componentes.png" width="900" height="600">
 
 ## 4.7. Software Object-Oriented Design
+
 ### 4.7.1. Class Diagrams
 
 <img src="https://github.com/user-attachments/assets/76e9abdb-6b78-4305-9b60-52ceee1f2817">
@@ -1304,6 +1325,7 @@ El usuario puede abandonar el formulario, ingresar datos inválidos, enfrentar p
 </table>
 
 ## 4.8. Database Design
+
 ### 4.8.1. Database Diagram
 
 <img src="https://github.com/user-attachments/assets/28d0912a-4cc0-4d6e-80c5-fe49fdda9fd8">
@@ -1313,15 +1335,21 @@ El usuario puede abandonar el formulario, ingresar datos inválidos, enfrentar p
 ### 5.1.1. Software Development Enviroment Configuration
 
 #### Requirements Management
+
 1. Canva: Es una herramienta de diseño utilizada para realizar los user persona, empathy mapping, Lean UX Canvas, As-is Scenario Mapping y otros elementos importantes más. Esta aplicación está basada en un sistema de diseño simple en el cual puedes mover y editar objetos para lograr el objetivo de diseñar nuestras piezas escenciales de análisis de mercado para nuestra aplicación. Ruta de referencia: https://www.canva.com/es_es/.
+
 2. Figma: Plataforma de elaboración de prototipos y edición gráfica, que usamos principalmente para nuestra Landing Page y Web Application, tanto para los Wireframes y los MockUps, al igual que para nuestros Wireflows Diagrams. Ruta de referencia: https://www.figma.com/.
+
 3. Vertabelo: Plataforma basada en creación, gestión y realización de gráficos para organizar las herencias y dependencias de nuestros programas y/o bases de datos. Como en nuestro caso fue implementada para realizar nuestros Class Diagrams y nuestra Database Diagrams. Ruta de referencia https://vertabelo.com/.
 
 #### Software Devlopment
 
 1. JetBrains WebStorm: Es un entorno de desarrollo integrado (IDE) enfocado en el desarrollo web. Ofrece herramientas que facilitan la prueba del proyecto en diversos navegadores como Chrome, Microsoft Edge, Safari y Mozilla Firefox. El uso de WebStorm aporta un valor agregado al desarrollo, ya que permite visualizar cómo funciona la aplicación en múltiples plataformas y proporciona soporte avanzado para la edición de código en varios lenguajes compatibles. Ruta de Referencia: https://www.jetbrains.com/es-es/webstorm/.
+
 2. HTML5: Lenguaje de marcado utilizado para estructurar y presentar contenido en la web. Es una herramienta fundamental en nuestro proyecto, ya que se emplea para construir la base del contenido de la aplicación. Ruta de Referencia: https://www.w3schools.com/html/.
+
 3. CSS: Conocido como Hojas de Estilo en Cascada (Cascading Style Sheets), este lenguaje trabaja en conjunto con HTML5 para definir el diseño y la presentación visual de la aplicación. Permite personalizar estilos como colores, tipografías y distribución de los elementos. Ruta de Referencia: https://developer.mozilla.org/es/docs/Web/CSS.
+
 4. JavaScript: Lenguaje de programación orientado a objetos e interpretado en el navegador. Se utilizará principalmente para desarrollar la interfaz dinámica de usuario en nuestro proyecto, facilitando la interactividad dentro de la aplicación. Ruta de Referencia: https://developer.mozilla.org/es/docs/Web/JavaScript.
 
 #### Software Deployment
@@ -1339,7 +1367,12 @@ El proyecto sigue las convenciones del modelo GitFlow como flujo de trabajo para
 #### Repositorio de GitHub:
 
 - URL para acceder a nuestro reporte en GitHub: https://github.com/K1ngHulk/202510_1ASI0729_Finteka
+
 - URL para acceder nuestro repositorio de Landing Page: https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
+
+- URL para acceder nuestro repositorio de Frontend: https://github.com/RussellUPC/pruebas
+
+- URL para acceder nuestro repositorio de Backend: https://github.com/RussellUPC/202510_1ASI0729_WebService_Finteka 
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -1395,7 +1428,7 @@ Gherkin es un lenguaje de texto estructurado utilizado para definir pruebas de c
 
 ### **Configuraciones de despliegue del proyecto**
 
-Para la puesta en línea de nuestro proyecto, utilizamos **Netlify**, una plataforma especializada en el alojamiento web y despliegue continuo de aplicaciones y sitios estáticos. Esta herramienta simplifica enormemente el proceso de publicación y actualización de nuestros desarrollos. Su funcionamiento se basa en los siguientes puntos:
+Para la puesta en línea de nuestro proyecto, utilizamos Netlify, una plataforma especializada en el alojamiento web y despliegue continuo de aplicaciones y sitios estáticos. Esta herramienta simplifica enormemente el proceso de publicación y actualización de nuestros desarrollos. Su funcionamiento se basa en los siguientes puntos:
 
 - **Integración con repositorios Git**: Netlify se enlaza fácilmente con plataformas como GitHub, GitLab o Bitbucket. Cada vez que actualizamos el código y lo subimos a nuestro repositorio, Netlify detecta los cambios y comienza automáticamente el proceso de construcción del sitio.
 - **Compilación automatizada del sitio**: Durante el proceso de build, Netlify transforma el código fuente (HTML, CSS, JavaScript) en una versión optimizada del sitio estático. Además, realiza tareas como la compilación de archivos, minificación y optimización de imágenes.
@@ -1622,7 +1655,7 @@ En el presente sprint se logró desarrollar la primera versión del Landing Page
 
 https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka/commits
 
-Principales avances en implementación con relación a el Landing Page:
+Principales avances en implementación con relación al Sprint:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
@@ -1657,7 +1690,6 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
   
     <img src="./img/sprint1_evidence_3.png" >
     
-  * Conocer más sobre el proyecto:   
   * Planes de subscripción:
   
     <img src="./img/sprint1_evidence_4.png" >
@@ -1667,8 +1699,6 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
     <img src="./img/sprint1_evidence_5.png">
 
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
-
-https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/<br>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1684,7 +1714,8 @@ Durante este Sprint, se llevaron a cabo las siguientes actividades clave relacio
 
 1. Creación de Repositorios y Configuración en GitHub:  
    * Se crearon repositorios en GitHub para gestionar el código fuente y el seguimiento de cambios. Estos repositorios incluyeron la Landing Page y otros componentes del proyecto.  
-   * Se configuraron los repositorios para permitir el despliegue de la Landing Page.  
+   * Se configuraron los repositorios para permitir el despliegue de la Landing Page.
+     
 2. Configuración del Proceso de Despliegue:  
    * GitHub Pages: Se configuró GitHub Pages para el despliegue de la Landing Page. Este servicio proporciona una manera sencilla de alojar el sitio web directamente desde un repositorio de GitHub.
 
@@ -1706,7 +1737,7 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
 
- https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/
+ Link del Landing Page: https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -1720,7 +1751,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
 | Russell Romero   | added Section Home and i18n.js file           |
 | Luis Montañez    | added Toolbar and Footer content              |
 
-Captura de Analíticos de Colaboración en GitHub \-En el repositorio de la Landing Page:
+Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
 <img src="./img/sprint1_evidence_7.png" >
 
@@ -1963,6 +1994,7 @@ En el presente sprint se logró desarrollar la primera versión de la Web Applic
 
 https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka/commits/main/
 
+Principales avances en implementación con relación al Sprint:
 
 | Repository | Branch             | Commit Id | Commit Message                                | Commit Message Body                | Commited on (Date) |
 |------------|--------------------|-----------|-----------------------------------------------|------------------------------------|--------------------|
@@ -2024,11 +2056,11 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 <img src="./img/databasejson2.png" >
 
-<img src="./img/databasejson3.png" >
-
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
+Durante este sprint, se desarrolló y desplegó una Web Application para FinTeka que simula el consumo de servicios REST utilizando un archivo db.json como fuente de datos. A través del uso de JSON Server, fue posible exponer endpoints falsos que permitieron probar la lógica del frontend y validar flujos clave como login, visualización de profesionales, sesiones y notificaciones.
+
+A continuación, se resumen los endpoints simulados con JSON Server indicando su funcionalidad, método HTTP y parámetros principales:
 
 | Endpoint             | Acción                                       | Método HTTP | Sintaxis de llamada               | Parámetros Principales                          | URL Swagger                           |
 |----------------------|----------------------------------------------|-------------|-----------------------------------|--------------------------------------------------|----------------------------------------|
@@ -2055,15 +2087,35 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Como parte del proceso de inspección y demostración del incremento desarrollado durante el sprint, se procedió con el despliegue del frontend del sistema FinTeka en un entorno accesible en la web mediante la plataforma Vercel. El despliegue continuo automatizado, integrado con el repositorio GitHub del proyecto, garantiza que cada actualización en la rama principal se refleje inmediatamente en el entorno de producción, permitiendo una revisión eficiente y transparente de los avances alcanzados en el sprint.
+Durante este Sprint, se llevaron a cabo diversas actividades clave relacionadas con el despliegue del frontend de la aplicación FinTeka, utilizando la plataforma Vercel. Este proceso permitió poner en producción una versión funcional del sistema, accesible desde la web, facilitando las validaciones y demostraciones durante la Sprint Review.
 
-A continuación, se presenta la evidencia del despliegue realizado incluyendo capturas de pantalla y el enlace público al entorno en funcionamiento.
+##### Creación de Repositorios y Configuración en GitHub
 
-<img src="./img/DeployVercelFrontEnd.png" >
+- Se crearon y gestionaron repositorios específicos en GitHub para el frontend de la aplicación.
+- Se configuró la integración con Vercel, permitiendo la conexión directa con el repositorio principal.
+- Se habilitó el despliegue automático desde la rama principal, asegurando un flujo eficiente.
+
+<img src="./img/f01.png" >
+
+##### Proceso de Despliegue en Vercel
+
+- Se subió y mantuvo el código actualizado en el repositorio de GitHub.
 
 <img src="./img/DeployFrontEndGitHub.png">
 
-Link del frontend: https://finteka-front-end.vercel.app/
+- Vercel detectó automáticamente los cambios y ejecutó el proceso de build y despliegue.
+- Se asignó una URL pública y personalizada para el acceso a la aplicación.
+
+<img src="./img/DeployVercelFrontEnd.png">
+
+##### Verificación del Despliegue
+
+- Se probaron distintos dispositivos y navegadores para asegurar compatibilidad y rendimiento.
+- Se corrigieron pequeños errores de estilo detectados durante la revisión en línea.
+
+<img src="./img/f02.png">
+
+Link del Frontend: https://finteka-front-end.vercel.app/
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2074,8 +2126,9 @@ Durante el Sprint 2, el equipo de FinTeka organizó el desarrollo del frontend u
 | Mathias Javier   | added Login/Register bounded-context          |
 | Daiki Oshiro     | added session-management bounded-context      |
 | Sergio Aguirre   | added Search bounded-context                  |
-| Russell Romero   | added Notification and Profile bounded-context|          
+| Russell Romero   | added Notification and Profile bounded-context|   
 
+Captura de Analíticos de Colaboración en GitHub en el repositorio del Frontend:
 
 <img src="./img/sprint1_evidence_13.png" >
 
@@ -2308,6 +2361,8 @@ https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka/commits/main/
 
 https://github.com/RussellUPC/202510_1ASI0729_WebService_Finteka/commits/session-management/
 
+Principales avances en implementación con relación al Sprint:
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
 |Landing Page|main| 0c8aeea | Make Landing Page apply Responsive Web Design principles | update content in the scripts section | 27/05/2025 |
@@ -2330,7 +2385,7 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 <img src="./img/repos.png" >
 
-##### Endpoints del back-end:
+##### Endpoints del Backend:
 
 <img src="./img/swaggerui.jpeg">
 
@@ -2368,7 +2423,9 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-En este sprint, hemos logrado desplegar una aplicación web que consume datos en formato JSON para mostrarlos al usuario. A continuación, se presenta el código correspondiente a dicha aplicación:
+Durante el Sprint 3, se documentaron y validaron los principales servicios del backend de FinTeka, los cuales permiten la interacción entre los diferentes usuarios del sistema. A través de endpoints RESTful, el backend gestiona operaciones como la creación de sesiones, reserva de citas, administración de perfiles y gestión de notificaciones.
+
+A continuación, se presenta un resumen de los endpoints implementados indicando su funcionalidad, método HTTP, parámetros requeridos y su disponibilidad en la documentación Swagger:
 
 | Endpoint                                  | Acción                               | Método HTTP | Sintaxis de llamada                     | Parámetros                                | URL Swagger                          |
 |------------------------------------------|--------------------------------------|-------------|------------------------------------------|-------------------------------------------|--------------------------------------|
@@ -2386,9 +2443,19 @@ En este sprint, hemos logrado desplegar una aplicación web que consume datos en
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-Se realizó el despliegue del backend del sistema FinTeka utilizando los servicios en la nube de Microsoft Azure. Este despliegue permitió poner en funcionamiento las API necesarias para la interacción con el frontend y habilitar las funcionalidades clave del sistema en un entorno productivo accesible. La infraestructura en Azure se configuró para garantizar alta disponibilidad, escalabilidad y seguridad, permitiendo que el backend esté disponible para su consumo en tiempo real durante la Sprint Review. Además, se integró el proceso de despliegue con GitHub Actions, lo que permitió implementar una estrategia de Integración y Entrega Continua de forma automatizada y controlada.
+Durante el Sprint 3, se realizó el despliegue del backend de FinTeka en la plataforma en la nube Microsoft Azure, asegurando que las API del sistema estuvieran disponibles en un entorno productivo y accesible para el frontend y usuarios finales.
 
-A continuación, se detallan las evidencias del despliegue, incluyendo la URL del backend y capturas del portal de Azure.
+##### Configuración y Despliegue en Azure:
+
+- Se configuró un servicio de Azure App Service para alojar la aplicación backend desarrollada en Spring Boot.
+- Se definieron variables de entorno y se aseguraron las conexiones a la base de datos para garantizar la integridad y seguridad de los datos.
+- Se habilitaron mecanismos de monitoreo y escalabilidad para mantener la disponibilidad y el rendimiento bajo demanda.
+
+##### Validación y Verificación:
+
+- Se realizaron pruebas funcionales en el entorno desplegado para validar la correcta operación de los endpoints REST.
+- Se comprobó la comunicación efectiva entre backend y database, asegurando la integración completa del sistema.
+- Se monitoreó el estado del servicio en Azure para detectar posibles fallos o degradación de rendimiento.
 
 Link del backend:
 
@@ -2690,54 +2757,6 @@ Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_WebService_Fin
 
 Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integración final del sistema, combinando el frontend y el backend previamente desarrollados. Se continuó utilizando la metodología GitFlow, manteniendo una estructura ordenada de ramas por funcionalidad, tanto para correcciones en el backend como para el desarrollo de vistas. Las tareas se distribuyeron equitativamente y se gestionaron mediante pull requests, lo que permitió mantener la trazabilidad de cambios y facilitar la revisión cruzada del código. 
 
-<table border="1" width="95%" style="text-align:left;">
-  <tr>
-    <th>Author</th>
-    <th>Tasks Completed</th>
-  </tr>
-    <tr>
-    <td>Gonzalo Carhuancote</td>
-    <td>
-      - Update front-end<br>
-      - 
-    </td>
-  </tr>
-    <tr>
-    <td>Salvador Chamorro</td>
-    <td>
-      - Update document<br>
-      - 
-    </td>
-  </tr>
-  <tr>
-    <td>Kenyi Meendoza</td>
-    <td>
-      - Update document<br>
-      - 
-    </td>
-  </tr>
-  <tr>
-    <td>Daiki Oshiro</td>
-    <td>
-      - Update document<br>
-      - Added session-management endpoint
-    </td>
-  </tr>
-  <tr>
-    <td>Sergio Aguirre</td>
-    <td>
-      - Added rating endpoint<br>
-      - Added search endpoint
-    </td>
-  </tr>
-  <tr>
-    <td>Russell Romero</td>
-    <td>
-      - Added notifications endpoint<br>
-      - Added profile endpoint
-    </td>
-  </tr>
-</table>
 Commits:
 
 Informe:
