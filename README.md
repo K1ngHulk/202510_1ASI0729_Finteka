@@ -2521,28 +2521,6 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Assigned To</td>
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>   
-
-<tr>
-    <td colspan="1">US12</td>
-    <td colspan="2">Realizar reserva de sesión. </td>
-    <td colspan="1">T01</td>
-    <td colspan="2">Se podran relizar reservas de sesiones </td>
-    <td colspan="3">Yo,como usuario, quiero poder reservar una sesión con un profesional, para asegurarme de contar con su tiempo disponible para recibir asesoría. </td>
-    <td colspan="1">3</td>
-    <td colspan="2"> Daiki Oshiro Yamashita</td>
-    <td colspan="1">Done</td>
-  </tr>
-  
-<tr>
-    <td colspan="1">US19</td>
-    <td colspan="2">Notificaciones sobre estado de reserva. </td>
-    <td colspan="1">T01</td>
-    <td colspan="2">Se notifica cualquier cambio acerca de las reservas </td>
-    <td colspan="3">Yo,como usuario quiero recibir notificaciones sobre el estado de mi reserva para estar informado en todo momento. </td>
-    <td colspan="1">3</td>
-    <td colspan="2"> Russell Romero Qwistgaard</td>
-    <td colspan="1">Done</td>
-  </tr>
 <tr>
     <td colspan="1">US06</td>
     <td colspan="2">Ver detalles del profesional.</td>
@@ -2595,25 +2573,56 @@ https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
-|202510_1ASI0729_WebApplication_Finteka|main| 20e135b | feat(notification): added notification reserve | Create the funtion of notifications reserve section | 28/06/2025 |
 |202510_1ASI0729_WebApplication_Finteka|main| 5af33b2 | feat(profiles): added profile view | Create the profile view section| 29/06/2025 |
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b2 | feat(session-management): added reserve sessions | Create the reserver sessions section| 2/07/2025 |    
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b2 | feat(session-management): added testimonies | Create the testimonies section | 5/07/2025 |    
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
-En este sprint, hemos logrado tanto completar la plataforma web con sus endopoints necesario como el backend y su conexion para que el front utilice el backend como API.
+Durante el cuarto sprint, se lograron varios hitos importantes en el desarrollo del back-end para Finteka. A continuación, se presenta un resumen de los logros alcanzados:
+
+
+##### Endpoints del back-end:
+
+<img src="./img/swaggerui.jpeg">
+
+##### Squemas:
+
+<img src="./img/squemasui.jpeg" >
+
+<img src="./img/swagger_sessions2.png" >
+
+<img src="https://github.com/user-attachments/assets/77915ba0-248c-427a-aaed-a42ef302b78f">
+
+##### Session management:
+
+<img src="./img/sw1.png" >
+
+<img src="./img/sw2.png" >
+
+<img src="./img/sw3.png" >
+
+<img src="./img/sw5.png" >
+
+##### Notification:
+
+<img src="https://github.com/user-attachments/assets/c99d8253-6abd-4d34-83df-f5ff9faedd49">
+
+<img src="https://github.com/user-attachments/assets/95343526-e04c-4258-9987-6812a6965eb5">
+
+<img src="https://github.com/user-attachments/assets/d80d5fa0-ff31-437c-baa9-b7760d27a9f8">
+
+##### Database:
+
+<img src="./img/databasejson4.png">
+
+<img src="https://github.com/user-attachments/assets/0a3ac459-5b16-4dc1-88c5-1027a0d0eaee">
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 | Endpoint                                  | Acción                               | Método HTTP | Sintaxis de llamada                     | Parámetros                                | URL Swagger                          |
 |------------------------------------------|--------------------------------------|-------------|------------------------------------------|-------------------------------------------|--------------------------------------|
-| /api/notifications                       | Recibir notificacion                 | GET        | /notificacions                            | -                                         | `http://localhost:8080/swagger-ui/index.html` |
 | /profiles/{id}                           | Visualizar perfil                    | GET        | /profiles/{id}                            | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
 | /profiles/{id}                           | Actualizar perfil                    | PATCH      | /profiles/{id}                            | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
-| /sessions                                | Agregar reserva de sesiones          | POST       | /sessions/reserve                         | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
-| /testimonies                             | Agregar testimonios                  | POST       | /testimonies                              | -                                         | `http://localhost:8080/swagger-ui/index.html` |
-| /testimonies                             | Obtener testimonios                  | GET        | /testimonies                              | -                                         | `http://localhost:8080/swagger-ui/index.html` |
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
