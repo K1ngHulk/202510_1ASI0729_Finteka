@@ -2250,7 +2250,7 @@ https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f58326
     <td>Generar una reserva</td>
     <td>Permitir que el cliente seleccione una sesión disponible y la reserve.</td>
     <td>4</td>
-    <td>Daiki Oshiro Yamashitad</td>
+    <td>Daiki Oshiro Yamashita</td>
     <td>U202211043</td>
     <td>Done</td>
   </tr>
@@ -2517,7 +2517,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Se podran relizar reservas de sesiones </td>
     <td colspan="3">Yo,como usuario, quiero poder reservar una sesión con un profesional, para asegurarme de contar con su tiempo disponible para recibir asesoría. .</td>
     <td colspan="1">3</td>
-    <td colspan="2"> Daiki </td>
+    <td colspan="2"> Daiki Oshiro Yamashita</td>
     <td colspan="1">Done</td>
   </tr>
   
@@ -2528,7 +2528,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Se notifica cualquier cambio acerca de las reservas </td>
     <td colspan="3">Yo,como usuario quiero recibir notificaciones sobre el estado de mi reserva para estar informado en todo momento. .</td>
     <td colspan="1">3</td>
-    <td colspan="2"> Russell </td>
+    <td colspan="2"> Russell Romero Qwistgaard</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -2538,7 +2538,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Se podran ver los datos del profesional</td>
     <td colspan="3">Yo, como usuario, quiero poder ver el perfil completo de un profesional, para conocer su experiencia, especialidades, disponibilidad, tarifas y calificaciones antes de tomar una decisión. .</td>
     <td colspan="1">3</td>
-    <td colspan="2"> Gonzalo </td>
+    <td colspan="2"> Gonzalo Carhuancote Domniguez</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
@@ -2548,7 +2548,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Desplegar Backend</td>
     <td colspan="3">Yo, como desarrollador, quiero desplegar el Backend, para que la aplicacion web pueda utilizar y manipular datos. .</td>
     <td colspan="1">3</td>
-    <td colspan="2"> Salvador </td>
+    <td colspan="2"> Salvador Chamorro Acero</td>
     <td colspan="1">Done</td>
   </tr>
    <tr>
@@ -2558,7 +2558,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Actualizar Frontend</td>
     <td colspan="3">Yo, como desarrollador, quiero que el Frontend utilice los endpoints de la base de datos desplegada, para que la aplicacion web pueda utilizar y manipular datos. .</td>
     <td colspan="1">3</td>
-    <td colspan="2"> Sergio </td>
+    <td colspan="2"> Sergio Aguirre Castillo</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
@@ -2568,7 +2568,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">DesplegarFrontEd</td>
     <td colspan="3">Yo, como desarrollador, quiero desplegar el Fronted, para que la aplicacion web pueda ser utilizada por los segmentos objetivos. .</td>
     <td colspan="1">3</td>
-    <td colspan="2"> Matias </td>
+    <td colspan="2"> Javier Mendoza Solis</td>
     <td colspan="1">Done</td>
   </tr>
 </table>
@@ -2579,10 +2579,10 @@ En el presente Sprint 4 se avanzó significativamente en la integración y despl
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
-|202510_1ASI0729_WebApplication_Finteka|main| 20e135b0c8ed45a64cbf0955c5a96de8d1aba4a8 | feat(notification): added notification reserve | Se agrego la funcionalidad de recibir notificaciones acerca de la reserva | 28/06/2025 |
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(profiles): added profile view | Se podrá visualizar el perfil del usuario | 29/06/2025 |
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added reserve sessions | Se agrego la funcionalidad de reservar sesiones | 2/07/2025 |    
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added testimonies | Se agrego la funcionalidad de agregar testimonios | 5/07/2025 |    
+|202510_1ASI0729_WebApplication_Finteka|main| 20e135b0c8ed45a64cbf0955c5a96de8d1aba4a8 | feat(notification): added notification reserve | Create the funtion of notifications reserve section | 28/06/2025 |
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(profiles): added profile view | Create the profile view section| 29/06/2025 |
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added reserve sessions | Create the reserver sessions section| 2/07/2025 |    
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added testimonies | Create the testimonies section | 5/07/2025 |    
 
 #### 5.2.4.5. Evidencia de ejecución para la revisión del sprint
 En este sprint, hemos logrado tanto completar la plataforma web con sus endopoints necesario como el backend y su conexion para que el front utilice el backend como API.
