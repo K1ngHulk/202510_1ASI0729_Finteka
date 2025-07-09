@@ -644,7 +644,7 @@ Preguntas principales:
 - Edad: 53
 - Distrito: San Miguel
   
-https://github.com/user-attachments/assets/0e0c9687-49cf-4163-bb94-7e8062090cac
+<img src="https://github.com/user-attachments/assets/0e0c9687-49cf-4163-bb94-7e8062090cac">
 
 **Link**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EVYdPYP9cX9MiTBSGHLo4GUBJtHK2wys0_JpZmdVYRUM0w?e=fs9CDq
 
@@ -995,14 +995,14 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 
 | Ícono             | Descripción                                                                                                                                                                                 |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| https://github.com/user-attachments/assets/47716d47-ce5d-4731-bd93-c4cbe72823d7 | **Mi Perfil**      En Fin Teka, el ícono de perfil permitirá a los usuarios acceder a su información personal, modificar sus datos personales, ver su historial de sesiones de asesoría o clientes asesorados. |
-|https://github.com/user-attachments/assets/86cd5b9c-8111-4461-ad08-028634590971 |  **Mensajes** Los usuarios lo usarán para comunicarse entre sí, tanto Cliente como Expertos, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.             |
-| https://github.com/user-attachments/assets/d726fe44-e2f0-4a31-b9d1-e7effab99b7f | **Áreas de asesoría** Menú desplegable con categorías de los distintos expertos. |
-| https://github.com/user-attachments/assets/ed589078-f727-4ac4-81e8-4ed2d4844bff |  **Buscar experto** Un ícono para buscar expertos para asesoría de algún tema en específico. |
-|    https://github.com/user-attachments/assets/68a6fe53-e96f-44bb-a3cb-48335860e650 | **Reseñas** Un ícono para acceder a las reseñas que diversos clientes han dejado a los expertos y su valoración. |
-|  https://github.com/user-attachments/assets/8e9bdc03-af6d-4af7-94a3-b136f7aa6c0c  | **Configuración** Un ícono de engranaje que permita a los usuarios acceder a las opciones de configuración de su cuenta, como la gestión de preferencias de notificación o personalización del perfil. |
-| https://github.com/user-attachments/assets/ba52c8c6-1c0b-4bb0-85e0-7b53fbb1b7cc | **Home** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. |
-| https://github.com/user-attachments/assets/25ff6af8-2ba7-4d7b-b5ff-3b6b6b224bc1 | **Notificaciones** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.|
+| <img src="https://github.com/user-attachments/assets/47716d47-ce5d-4731-bd93-c4cbe72823d7"> | **Mi Perfil**      En Fin Teka, el ícono de perfil permitirá a los usuarios acceder a su información personal, modificar sus datos personales, ver su historial de sesiones de asesoría o clientes asesorados. |
+| <img src="https://github.com/user-attachments/assets/86cd5b9c-8111-4461-ad08-028634590971"> |  **Mensajes** Los usuarios lo usarán para comunicarse entre sí, tanto Cliente como Expertos, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.             |
+| <img src="https://github.com/user-attachments/assets/d726fe44-e2f0-4a31-b9d1-e7effab99b7f"> | **Áreas de asesoría** Menú desplegable con categorías de los distintos expertos. |
+| <img src="https://github.com/user-attachments/assets/ed589078-f727-4ac4-81e8-4ed2d4844bff"> |  **Buscar experto** Un ícono para buscar expertos para asesoría de algún tema en específico. |
+| <img src="https://github.com/user-attachments/assets/68a6fe53-e96f-44bb-a3cb-48335860e650"> | **Reseñas** Un ícono para acceder a las reseñas que diversos clientes han dejado a los expertos y su valoración. |
+| <img src="https://github.com/user-attachments/assets/8e9bdc03-af6d-4af7-94a3-b136f7aa6c0c"> | **Configuración** Un ícono de engranaje que permita a los usuarios acceder a las opciones de configuración de su cuenta, como la gestión de preferencias de notificación o personalización del perfil. |
+| <img src="https://github.com/user-attachments/assets/ba52c8c6-1c0b-4bb0-85e0-7b53fbb1b7cc"> | **Home** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. |
+| <img src="https://github.com/user-attachments/assets/25ff6af8-2ba7-4d7b-b5ff-3b6b6b224bc1"> | **Notificaciones** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.|
 
 
 
@@ -1187,11 +1187,11 @@ El usuario puede abandonar el formulario, ingresar datos inválidos, enfrentar p
 
 ### 4.6.1. Software Architecture Contexte Diagram
 
-https://github.com/user-attachments/assets/b286ea18-69dc-4a58-aa24-ae5203eef24d
+<img src="https://github.com/user-attachments/assets/b286ea18-69dc-4a58-aa24-ae5203eef24d">
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-https://github.com/user-attachments/assets/cb0f38c0-43b7-4c8a-940b-38eda86dc75a
+<img src="https://github.com/user-attachments/assets/cb0f38c0-43b7-4c8a-940b-38eda86dc75a">
 
 ### 4.6.3. Software Architecture Components Diagrams
 
@@ -1199,7 +1199,8 @@ https://github.com/user-attachments/assets/cb0f38c0-43b7-4c8a-940b-38eda86dc75a
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-https://github.com/user-attachments/assets/76e9abdb-6b78-4305-9b60-52ceee1f2817
+
+<img src="https://github.com/user-attachments/assets/76e9abdb-6b78-4305-9b60-52ceee1f2817">
 
 ### 4.7.2 Class Dictionary
 
@@ -1281,8 +1282,8 @@ https://github.com/user-attachments/assets/76e9abdb-6b78-4305-9b60-52ceee1f2817
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-https://github.com/user-attachments/assets/28d0912a-4cc0-4d6e-80c5-fe49fdda9fd8
 
+<img src="https://github.com/user-attachments/assets/28d0912a-4cc0-4d6e-80c5-fe49fdda9fd8">
 
 ## 5.1. Software Configuration Management.
 
@@ -1962,31 +1963,40 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 <img src="./img/sprint1_evidence_14.png" >
 
 #### Login & Register: 
+
 <img src="./img/LoginFront.png">
 <img src="./img/RegistroFront.png">
 
 #### Barra de búsqueda lateral:
+
 <img src="./img/BusquedaFront.png">
 
 #### Búsqueda de Profesionales:
+
 <img src="./img/BusquedaProfesionales.png" >
 
 #### Notificaciones:
+
 <img src="./img/NotificacionesFront.png" >
 
 #### Perfil:
+
 <img src="./img/PerfilFront.png" >
 
 #### Editar Perfil:
+
 <img src="./img/EditarPerfil.png" >
 
 #### Reservas:
+
 <img src="./img/ReservaFront.png" >
 
 #### Valoraciones:
+
 <img src="./img/Valoraciones.png" >
 
 #### db.json
+
 <img src="./img/databasejson.png" >
 
 <img src="./img/databasejson2.png" >
@@ -2305,7 +2315,7 @@ Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHu
 
 <img src="./img/swagger_sessions2.png" >
 
-https://github.com/user-attachments/assets/77915ba0-248c-427a-aaed-a42ef302b78f
+<img src="https://github.com/user-attachments/assets/77915ba0-248c-427a-aaed-a42ef302b78f">
 
 ##### Session management:
 
@@ -2319,17 +2329,17 @@ https://github.com/user-attachments/assets/77915ba0-248c-427a-aaed-a42ef302b78f
 
 ##### Notification:
 
-https://github.com/user-attachments/assets/c99d8253-6abd-4d34-83df-f5ff9faedd49
+<img src="https://github.com/user-attachments/assets/c99d8253-6abd-4d34-83df-f5ff9faedd49">
 
-https://github.com/user-attachments/assets/95343526-e04c-4258-9987-6812a6965eb5
+<img src="https://github.com/user-attachments/assets/95343526-e04c-4258-9987-6812a6965eb5">
 
-https://github.com/user-attachments/assets/d80d5fa0-ff31-437c-baa9-b7760d27a9f8
+<img src="https://github.com/user-attachments/assets/d80d5fa0-ff31-437c-baa9-b7760d27a9f8">
 
 ##### Database:
 
 <img src="./img/databasejson4.png">
 
-https://github.com/user-attachments/assets/0a3ac459-5b16-4dc1-88c5-1027a0d0eaee
+<img src="https://github.com/user-attachments/assets/0a3ac459-5b16-4dc1-88c5-1027a0d0eaee">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
