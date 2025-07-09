@@ -2498,6 +2498,8 @@ Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend si
   </tr>
 </table>
 
+Captura de Analíticos de Colaboración en GitHub en el repositorio del backend:
+
 <img src="./img/ev1.png" >
 
 <img src="./img/ev2.png" >
@@ -2776,36 +2778,26 @@ Durante este sprint, se integró y desplegó exitosamente una Web Application fu
 
 A continuación, se resumen los endpoints consumidos desde el frontend, indicando su funcionalidad, método HTTP:
 
-| Endpoint                                  | Acción                               | Método HTTP | Sintaxis de llamada                     | Parámetros                                | URL Swagger                                   |
-|------------------------------------------|--------------------------------------|-------------|------------------------------------------|-------------------------------------------|-----------------------------------------------|
-| /profiles/profesionales/{id}             | Visualizar perfil                    | GET         | /profiles/profesionales/{id}             | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/profesionales/{id}             | Actualizar perfil                    | PUT         | /profiles/profesionales/{id}             | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/profesionales/{id}             | Actualizar perfil                    | DELETE      | /profiles/profesionales/{id}             | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/clientes/{id}                  | Actualizar perfil                    | GET         | /profiles/clientes/{id}                  | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/clientes/{id}                  | Actualizar perfil                    | PUT         | /profiles/clientes/{id}                  | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/clientes/{id}                  | Actualizar perfil                    | DELETE      | /profiles/clientes/{id}                  | Body: id                                  | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/profesionales                  | Actualizar perfil                    | GET         | /profiles/profesionales                  | -                                         | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/profesionales                  | Actualizar perfil                    | POST        | /profiles/profesionales                  | -                                         | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/clientes                       | Actualizar perfil                    | GET         | /profiles/clientes                       | -                                         | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/clientes                       | Actualizar perfil                    | POST        | /profiles/clientes                       | -                                         | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/profesionales/public           | Actualizar perfil                    | GET         | /profiles/profesionales/public           | -                                         | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/profesionales/login            | Actualizar perfil                    | GET         | /profiles/profesionales/login            | -                                         | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/clientes/public                | Actualizar perfil                    | GET         | /profiles/clientes/public                | -                                         | `http://localhost:8080/swagger-ui/index.html` |
-| /profiles/clientes/login                 | Actualizar perfil                    | GET         | /profiles/clientes/login                 | -                                         | `http://localhost:8080/swagger-ui/index.html` |
+| Endpoint                                 | Acción                                | Método HTTP | Sintaxis de llamada                    | Parámetros principales                     | URL Swagger                                 |
+|------------------------------------------|-------------------------------------|-------------|--------------------------------------|--------------------------------------------|---------------------------------------------|
+| /profiles/profesionales                   | Listar profesionales                 | GET         | /profiles/profesionales               | Ninguno                                    | http://localhost:8080/swagger-ui/index.html |
+| /profiles/profesionales                   | Crear profesional                    | POST        | /profiles/profesionales               | nombre, email, especialidad, teléfono      | http://localhost:8080/swagger-ui/index.html |
+| /profiles/profesionales/{id}              | Obtener profesional por ID           | GET         | /profiles/profesionales/{id}          | Path: id                                   | http://localhost:8080/swagger-ui/index.html |
+| /profiles/profesionales/{id}              | Actualizar profesional               | PUT         | /profiles/profesionales/{id}          | Path: id + Body: datos del profesional     | http://localhost:8080/swagger-ui/index.html |
+| /profiles/profesionales/{id}              | Eliminar profesional                 | DELETE      | /profiles/profesionales/{id}          | Path: id                                   | http://localhost:8080/swagger-ui/index.html |
+| /profiles/profesionales/public            | Ver perfiles públicos (profesionales) | GET       | /profiles/profesionales/public        | Ninguno                                    | http://localhost:8080/swagger-ui/index.html |
+| /profiles/profesionales/login             | Login de profesional                 | GET         | /profiles/profesionales/login         | Query: email, password                      | http://localhost:8080/swagger-ui/index.html |
+| /profiles/clientes                        | Listar clientes                     | GET         | /profiles/clientes                    | Ninguno                                    | http://localhost:8080/swagger-ui/index.html |
+| /profiles/clientes                        | Crear cliente                      | POST        | /profiles/clientes                    | nombre, email, teléfono                     | http://localhost:8080/swagger-ui/index.html |
+| /profiles/clientes/{id}                   | Obtener cliente por ID              | GET         | /profiles/clientes/{id}               | Path: id                                   | http://localhost:8080/swagger-ui/index.html |
+| /profiles/clientes/{id}                   | Actualizar cliente                  | PUT         | /profiles/clientes/{id}               | Path: id + Body: datos del cliente         | http://localhost:8080/swagger-ui/index.html |
+| /profiles/clientes/{id}                   | Eliminar cliente                    | DELETE      | /profiles/clientes/{id}               | Path: id                                   | http://localhost:8080/swagger-ui/index.html |
+| /profiles/clientes/public                 | Ver perfiles públicos (clientes)   | GET         | /profiles/clientes/public             | Ninguno                                    | http://localhost:8080/swagger-ui/index.html |
+| /profiles/clientes/login                  | Login de cliente                   | GET         | /profiles/clientes/login              | Query: email, password                      | http://localhost:8080/swagger-ui/index.html |
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
-Se evidencia que tanto el landing page, como la plataforma frontend y el backend fueron desplegados correctamente
-
-###### Landing Page:
-
-Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
-
-<img src="./img/landingpage.jpg" >
-
-Link del Landing Page: https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/
-
-Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
+Se evidencia que tanto de la plataforma frontend y el backend fueron desplegados correctamente
 
 ###### Front End:
 
@@ -2813,20 +2805,21 @@ Para el despliegue del FrontEnd, hemos utilizado la herramienta Vercel, se conec
 
 <img src="https://github.com/user-attachments/assets/806d92f0-8de9-4634-8eaa-cf71ea5a8a2e">
 
-Link del fronEnd: https://finteka-front-end.vercel.app/
-
-Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka
-
+<img src="./img/f02.png">
 
 Link del frontend: https://finteka-front-end.vercel.app/
+
+Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka
 
 ###### Back End:
 
 Para el despliegue del Backend Web app, hemos utilizado la herramienta de Azure, vincúlandola con nuestro repositorio de GitHub para poder hacer un deployment.
 
+<img src="./img/backback1.png">
+
 Link del BackEnd: 
 
-Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka
+Link del repositorio: https://github.com/RussellUPC/202510_1ASI0729_WebService_Finteka
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
@@ -2877,6 +2870,7 @@ Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integra
   </tr>
 </table>
 
+Captura de Analíticos de Colaboración en GitHub en los repositorios:
 
 Commits:
 
