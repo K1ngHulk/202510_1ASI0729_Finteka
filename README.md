@@ -2490,7 +2490,7 @@ Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka
 | Aguirre Castillo Sergio Cesar| Aguirrat157     | C        |                      C                    | C                  | C             | C              | C        |
 | Romero Qwistgaard Russel Stephen | RussellUPC  | C        |                      C                    | C                  | L             | C              | L        |
 | Chamorro Acero, Salvador Edward | SALVA1704  | L        |                      C                    | C                  | L             | C              | L        |
-| Carhuancote Dominguez, Gonzalo Alonso - U202210720 | Gonzalo251104  | L        |                      C                    | C                  | L             | C              | L        |
+| Carhuancote Dominguez, Gonzalo Alonso | Gonzalo251104  | L        |                      C                    | C                  | L             | C              | L        |
 
 #### 5.2.4.3. Sprint Backlog 4
 
