@@ -41,7 +41,7 @@
 |TB1|24/04/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió los capítulos 1 al 5|
 |TP1|14/05/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió parte del capítulo 5 y se realizaron correcciones generales|
 |TB2|27/05/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió desde el punto 5.2.3 hasta el 5.4 y se realizaron correcciones generales|
-|TF1|05/07/25|Daiki Oshiro, Sergio Aguirre, Russell Romero, Salvador Chamorro, Gonzalo Carhuancote, Kenyi Mendoza| Se añadió el sprint 4 y se realizaron correcciones generales|
+|TF1|05/07/25|Daiki Oshiro, Sergio Aguirre, Russell Romero, Salvador Chamorro, Gonzalo Carhuancote| Se añadió el sprint 4 y se realizaron correcciones generales|
 
 # Project Report Collaboration Insights
 
@@ -779,7 +779,7 @@ A continuación se muestra el proceso para la realización del Empathy Mapping p
 
 **Segmento #1: Solicitante de Servicios**
 
-https://github.com/user-attachments/assets/873df9e2-1944-4993-896c-e7d8525fdb85
+<img src="https://github.com/user-attachments/assets/873df9e2-1944-4993-896c-e7d8525fdb85">
 
 **Segmento #2: Proveedores de Servicios**
 
@@ -2032,11 +2032,15 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Deployamos la app usando Vercel.
+Como parte del proceso de inspección y demostración del incremento desarrollado durante el sprint, se procedió con el despliegue del frontend del sistema FinTeka en un entorno accesible en la web mediante la plataforma Vercel. El despliegue continuo automatizado, integrado con el repositorio GitHub del proyecto, garantiza que cada actualización en la rama principal se refleje inmediatamente en el entorno de producción, permitiendo una revisión eficiente y transparente de los avances alcanzados en el sprint.
+
+A continuación, se presenta la evidencia del despliegue realizado incluyendo capturas de pantalla y el enlace público al entorno en funcionamiento.
 
 <img src="./img/DeployVercelFrontEnd.png" >
 
 <img src="./img/DeployFrontEndGitHub.png">
+
+Link del frontend: https://finteka-front-end.vercel.app/
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2130,8 +2134,6 @@ Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka
 | Oshiro Yamashita Daiki Oscar | DaikiOY         | L        | C                    | C                    | L                  | C             | C              | C        |
 | Aguirre Castillo Sergio Cesar| Aguirrat157     | C        | L                    | C                    | C                  | C             | C              | C        |
 | Romero Qwistgaard Russel Stephen | RussellUPC  | C        | C                    | C                    | C                  | L             | C              | L        |
-
-
 
 #### 5.2.3.3. Sprint Backlog 3
 
@@ -2361,9 +2363,11 @@ En este sprint, hemos logrado desplegar una aplicación web que consume datos en
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-<img src="https://github.com/user-attachments/assets/806d92f0-8de9-4634-8eaa-cf71ea5a8a2e">
+Se realizó el despliegue del backend del sistema FinTeka utilizando los servicios en la nube de Microsoft Azure. Este despliegue permitió poner en funcionamiento las API necesarias para la interacción con el frontend y habilitar las funcionalidades clave del sistema en un entorno productivo accesible. La infraestructura en Azure se configuró para garantizar alta disponibilidad, escalabilidad y seguridad, permitiendo que el backend esté disponible para su consumo en tiempo real durante la Sprint Review. Además, se integró el proceso de despliegue con GitHub Actions, lo que permitió implementar una estrategia de Integración y Entrega Continua de forma automatizada y controlada.
 
-Link del frontend: https://finteka-front-end.vercel.app/
+A continuación, se detallan las evidencias del despliegue, incluyendo la URL del backend y capturas del portal de Azure.
+
+Link del backend:
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -2665,19 +2669,16 @@ Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integra
 
 Commits:
 
-
-
 Informe:
 
  <img src="img/sprint4informe.jpg">
 
-Backend:
+ Backend:
 
  <img src="img/sprint4backend.jpg">
 
-Frontend:
+ Frontend:
 
- <img src="img/sprint4frontend.jpg">
 
 ## 5.3 Validation Interviews
 
