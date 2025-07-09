@@ -2648,48 +2648,11 @@ Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_WebService_Fin
 
 Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integración final del sistema, combinando el frontend y el backend previamente desarrollados. Se continuó utilizando la metodología GitFlow, manteniendo una estructura ordenada de ramas por funcionalidad, tanto para correcciones en el backend como para el desarrollo de vistas. Las tareas se distribuyeron equitativamente y se gestionaron mediante pull requests, lo que permitió mantener la trazabilidad de cambios y facilitar la revisión cruzada del código. 
 
-<table border="1" width="95%" style="text-align:left;">
-  <tr>
-    <th>Author</th>
-    <th>Tasks Completed</th>
-  </tr>
-  <tr>
-    <td>Mathias Javier</td>
-    <td>
-      
-    </td>
-  </tr>
-  <tr>
-    <td>Daiki Oshiro</td>
-    <td>
-      
-    </td>
-  </tr>
-  <tr>
-    <td>Sergio Aguirre</td>
-    <td>
-      
-    </td>
-  </tr>
-  <tr>
-    <td>Russell Romero</td>
-    <td>
-      
-    </td>
-  </tr>
-  <tr>
-    <td>Salvador Chamorro</td>
-    <td>
-      
-    </td>
-  </tr>
-  <tr>
-    <td>Gonzalo Carhuacote</td>
-    <td>
-      
-    </td>
-  </tr>
-</table>
+Commits:
+
+ <img src="img/sprint4informe.jpg">
+
+ <img src="img/sprint4backend.jpg">
 
 
 ## 5.3 Validation Interviews
