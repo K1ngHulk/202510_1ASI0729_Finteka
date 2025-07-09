@@ -2774,20 +2774,21 @@ Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integra
     <th>Tasks Completed</th>
   </tr>
   <tr>
-    <td>Salvador Chamorro </td>
+    <td>Salvador Chamorro</td>
     <td>
       - Update document<br>
-      -  
     </td>
-      <td>Gonzalo Carhuancote </td>
+  </tr>
+  <tr>
+    <td>Gonzalo Carhuancote</td>
     <td>
       - Update front-end<br>
-      - 
     </td>
-      <td>Kenyi Mendoza</td>
+  </tr>
+  <tr>
+    <td>Kenyi Mendoza</td>
     <td>
       - Update document<br>
-      -  
     </td>
   </tr>
   <tr>
@@ -2812,6 +2813,7 @@ Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integra
     </td>
   </tr>
 </table>
+
 
 Commits:
 
