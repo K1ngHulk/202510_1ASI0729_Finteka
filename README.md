@@ -2619,7 +2619,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="1">US08</td>
     <td colspan="2">Actualizar perfil de usuario.</td>
     <td colspan="1">T01</td>
-    <td colspan="2">Se podran ver editar y eliminar datos de un usuario.l</td>
+    <td colspan="2">Se podran ver editar y eliminar datos de un usuario. </td>
     <td colspan="3">Yo como usuario, quiero poder actualizar mi perfil en la plataforma, para mantener mi información personal, preferencias y detalles de contacto actualizados. </td>
     <td colspan="1">3</td>
     <td colspan="2"> Gonzalo Carhuancote Domniguez</td>
