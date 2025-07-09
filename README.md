@@ -2484,7 +2484,9 @@ Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka
 
 #### 5.2.4.3. Sprint Backlog 4
 
-El objetivo principal del Sprint 4 fue consolidar la integración entre el frontend y el backend de la plataforma FinTeka, corrigiendo errores críticos detectados en los endpoints existentes, y desplegando ambos componentes en un entorno en línea funcional. Durante este sprint se desarrollaron e integraron las vistas principales del sistema, enfocándose en la experiencia de usuario, la navegación y la presentación visual. Asimismo, se actualizó la información de la landing page con los datos actuales del equipo, y se aplicaron mejoras estéticas para preparar la plataforma de cara a su versión final. A continuación, se presenta una captura de pantalla del Board de Sprint 4 en Trello, junto con el enlace público correspondiente:
+El objetivo principal del Sprint 4 fue consolidar la integración entre el frontend y el backend de la plataforma FinTeka, corrigiendo errores críticos detectados en los endpoints existentes, y desplegando ambos componentes en un entorno en línea funcional. Durante este sprint se desarrollaron e integraron las vistas principales del sistema, enfocándose en la experiencia de usuario, la navegación y la presentación visual. Asimismo, se actualizó la información de la landing page con los datos actuales del equipo, y se aplicaron mejoras estéticas para preparar la plataforma de cara a su versión final. 
+
+A continuación, se presenta una captura de pantalla del Board de Sprint 4 en Trello, junto con el enlace público correspondiente:
 
 https://trello.com/b/tiL6HJYD/sprint-4
 
