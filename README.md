@@ -149,17 +149,17 @@ En la tercera entrega, el equipo documentó el comportamiento técnico de cada s
 
 Para la entrega final, el equipo realizó el sprint 4, las mejoras pendientes del informe y desarrolló y desplegó la versión final del frontend y backend, con su respectiva integración.
 
-<img src="img/a1.jpg" >
+<img src="img/a1.png" >
 
 ##### Participación por integrante:
 
 - Daiki Oshiro: Corrección y mejoras del reporte.
 
-  <img src="img/a2.jpg">
+  <img src="img/a2.png">
 
 - Sergio Aguirre: Corrección y mejoras del reporte.
 
-  <img src="img/a3.jpg" >
+  <img src="img/a3.png" >
 
 -Salvador Chamorro: Desarrollo del sprint 4.
 
@@ -167,7 +167,7 @@ Para la entrega final, el equipo realizó el sprint 4, las mejoras pendientes de
 
 - Gonzalo Carhuancote: Despliegue del frontend y mejoras del reporte.
 
-  <img src="img/a5.jpg" >
+  <img src="img/a5.png" >
 
 - Kenyi Mendoza: Desarrollo del sprint 4.
 
@@ -175,7 +175,7 @@ Para la entrega final, el equipo realizó el sprint 4, las mejoras pendientes de
 
 - Russell Romero: Despliegue del backend y mejora del reporte.
   
-  <img src="img/a7.jpg" >
+  <img src="img/a7.png" >
 
 <div style="page-break-after: always;"></div>
 
