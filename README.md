@@ -2359,12 +2359,11 @@ En este sprint, hemos logrado desplegar una aplicación web que consume datos en
 | /api/notificaciones                      | Crear notificación                   | POST        | /api/notificaciones                      | Body: profesionalId, título, mensaje      | `http://localhost:8080/swagger-ui/index.html` |
 | /api/notificaciones/{id}/read            | Marcar notificación como leída       | POST        | /api/notificaciones/{id}/read            | Path: id                                  | `http://localhost:8080/swagger-ui/index.html` |
 
-
-
-
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-https://github.com/user-attachments/assets/806d92f0-8de9-4634-8eaa-cf71ea5a8a2e
+<img src="https://github.com/user-attachments/assets/806d92f0-8de9-4634-8eaa-cf71ea5a8a2e">
+
+Link del frontend: https://finteka-front-end.vercel.app/
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -2585,9 +2584,13 @@ https://trello.com/b/tiL6HJYD/sprint-4
   </tr>
 </table>
 
-#### 5.2.4.4. Evidencia de desarrollo para la revisión del sprint
+#### 5.2.4.4. Development Evidence for Sprint Review 
 
 En el presente Sprint 4 se avanzó significativamente en la integración y despliegue de los componentes principales de la plataforma FinTeka. Se realizaron correcciones críticas en el backend, optimizando los endpoints implementados en el sprint anterior, y se completó su despliegue en un entorno en línea funcional. Paralelamente, se desarrollaron e integraron las vistas principales del frontend con dichos endpoints, permitiendo una experiencia de usuario conectada y fluida.
+
+https://github.com/RussellUPC/202510_1ASI0729_WebService_Finteka/tree/main
+
+https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
@@ -2596,11 +2599,11 @@ En el presente Sprint 4 se avanzó significativamente en la integración y despl
 |202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added reserve sessions | Create the reserver sessions section| 2/07/2025 |    
 |202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added testimonies | Create the testimonies section | 5/07/2025 |    
 
-#### 5.2.4.5. Evidencia de ejecución para la revisión del sprint
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
 En este sprint, hemos logrado tanto completar la plataforma web con sus endopoints necesario como el backend y su conexion para que el front utilice el backend como API.
 
-
-#### 5.2.4.6. Documentación de Servicios: Evidencia para la Revisión del Sprint
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 | Endpoint                                  | Acción                               | Método HTTP | Sintaxis de llamada                     | Parámetros                                | URL Swagger                          |
 |------------------------------------------|--------------------------------------|-------------|------------------------------------------|-------------------------------------------|--------------------------------------|
@@ -2612,27 +2615,37 @@ En este sprint, hemos logrado tanto completar la plataforma web con sus endopoin
 | /testimonies                             | Obtener testimonios                  | GET        | /testimonies                              | -                                         | `http://localhost:8080/swagger-ui/index.html` |
 
 
-#### 5.2.4.7. Evidencia de implementación de software para la revisión del sprint
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
 Se evidencia que tanto el landing page, como la plataforma frontend y el backend fueron desplegados correctamente
 
-Landing Page:
+###### Landing Page:
 
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
-https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
 
-Front End:
+Link del Landing Page: https://k1nghulk.github.io/202510_1ASI0729_LandingPage_Finteka/
 
-Para el despliegue del ForntEnd, hemos utilizado la herramienta Vercel, se conecto al repositorio 
+Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
 
-Back End:
+###### Front End:
+
+Para el despliegue del FrontEnd, hemos utilizado la herramienta Vercel, se conecto al repositorio.
+
+Link del fronEnd: https://finteka-front-end.vercel.app/
+
+Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka
+
+###### Back End:
 
 Para el despliegue del Backend Web app, hemos utilizado la herramienta de Azure, vincúlandola con nuestro repositorio de GitHub para poder hacer un deployment.
-https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka
 
-#### 5.2.4.8. Perspectivas sobre la colaboración en equipo durante el sprint
+Link del BackEnd: 
+
+Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_WebService_Finteka
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integración final del sistema, combinando el frontend y el backend previamente desarrollados. Se continuó utilizando la metodología GitFlow, manteniendo una estructura ordenada de ramas por funcionalidad, tanto para correcciones en el backend como para el desarrollo de vistas. Las tareas se distribuyeron equitativamente y se gestionaron mediante pull requests, lo que permitió mantener la trazabilidad de cambios y facilitar la revisión cruzada del código. 
-
 
 <table border="1" width="95%" style="text-align:left;">
   <tr>
