@@ -29,7 +29,7 @@
 | Aguirre Castillo, Sergio Cesar | U202310425  |
 | Romero Qwistgaard, Russell Stephen | U202211043 |
 | Chamorro Acero, Salvador Edward | U201914367 |
-| Carhuancote Domniguez, Gonzalo Alonso | U202210720 |
+| Carhuancote Dominguez, Gonzalo Alonso | U202210720 |
 <h3 align="center">Julio, 2025</h3>
 
 <div style="page-break-after: always;"></div>
@@ -2448,7 +2448,7 @@ Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend si
             - Aguirre Castillo, Sergio Cesar – U202310425 <br>
             - Russell Stephen Romero Qwistgaard – U202211043 <br>
             - Chamorro Acero Salvador Edward - U201914367  <br>
-            - Carhuancote Domniguez Gonzalo Alonso - U202210720 <br>
+            - Carhuancote Dominguez Gonzalo Alonso - U202210720 <br>
         </td>
     </tr>
     <tr align="left">
@@ -2490,7 +2490,7 @@ Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka
 | Aguirre Castillo Sergio Cesar| Aguirrat157     | C        |                      C                    | C                  | C             | C              | C        |
 | Romero Qwistgaard Russel Stephen | RussellUPC  | C        |                      C                    | C                  | L             | C              | L        |
 | Chamorro Acero, Salvador Edward | SALVA1704  | L        |                      C                    | C                  | L             | C              | L        |
-| Carhuancote Domniguez, Gonzalo Alonso - U202210720 | Gonzalo251104  | L        |                      C                    | C                  | L             | C              | L        |
+| Carhuancote Dominguez, Gonzalo Alonso - U202210720 | Gonzalo251104  | L        |                      C                    | C                  | L             | C              | L        |
 
 #### 5.2.4.3. Sprint Backlog 4
 
@@ -2527,7 +2527,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Realizar reserva de sesión. </td>
     <td colspan="1">T01</td>
     <td colspan="2">Se podran relizar reservas de sesiones </td>
-    <td colspan="3">Yo,como usuario, quiero poder reservar una sesión con un profesional, para asegurarme de contar con su tiempo disponible para recibir asesoría. .</td>
+    <td colspan="3">Yo,como usuario, quiero poder reservar una sesión con un profesional, para asegurarme de contar con su tiempo disponible para recibir asesoría. </td>
     <td colspan="1">3</td>
     <td colspan="2"> Daiki Oshiro Yamashita</td>
     <td colspan="1">Done</td>
@@ -2538,7 +2538,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Notificaciones sobre estado de reserva. </td>
     <td colspan="1">T01</td>
     <td colspan="2">Se notifica cualquier cambio acerca de las reservas </td>
-    <td colspan="3">Yo,como usuario quiero recibir notificaciones sobre el estado de mi reserva para estar informado en todo momento. .</td>
+    <td colspan="3">Yo,como usuario quiero recibir notificaciones sobre el estado de mi reserva para estar informado en todo momento. </td>
     <td colspan="1">3</td>
     <td colspan="2"> Russell Romero Qwistgaard</td>
     <td colspan="1">Done</td>
@@ -2548,7 +2548,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Ver detalles del profesional.</td>
     <td colspan="1">T01</td>
     <td colspan="2">Se podran ver los datos del profesional</td>
-    <td colspan="3">Yo, como usuario, quiero poder ver el perfil completo de un profesional, para conocer su experiencia, especialidades, disponibilidad, tarifas y calificaciones antes de tomar una decisión. .</td>
+    <td colspan="3">Yo, como usuario, quiero poder ver el perfil completo de un profesional, para conocer su experiencia, especialidades, disponibilidad, tarifas y calificaciones antes de tomar una decisión. </td>
     <td colspan="1">3</td>
     <td colspan="2"> Gonzalo Carhuancote Domniguez</td>
     <td colspan="1">Done</td>
@@ -2558,7 +2558,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2">Integrar Frontend con Backend.</td>
     <td colspan="1">T01</td>
     <td colspan="2">Desplegar Backend</td>
-    <td colspan="3">Yo, como desarrollador, quiero desplegar el Backend, para que la aplicacion web pueda utilizar y manipular datos. .</td>
+    <td colspan="3">Yo, como desarrollador, quiero desplegar el Backend, para que la aplicacion web pueda utilizar y manipular datos. </td>
     <td colspan="1">3</td>
     <td colspan="2"> Salvador Chamorro Acero</td>
     <td colspan="1">Done</td>
@@ -2568,7 +2568,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2"></td>
     <td colspan="1">T02</td>
     <td colspan="2">Actualizar Frontend</td>
-    <td colspan="3">Yo, como desarrollador, quiero que el Frontend utilice los endpoints de la base de datos desplegada, para que la aplicacion web pueda utilizar y manipular datos. .</td>
+    <td colspan="3">Yo, como desarrollador, quiero que el Frontend utilice los endpoints de la base de datos desplegada, para que la aplicacion web pueda utilizar y manipular datos. </td>
     <td colspan="1">3</td>
     <td colspan="2"> Sergio Aguirre Castillo</td>
     <td colspan="1">Done</td>
@@ -2578,7 +2578,7 @@ https://trello.com/b/tiL6HJYD/sprint-4
     <td colspan="2"></td>
     <td colspan="1">T03</td>
     <td colspan="2">DesplegarFrontEd</td>
-    <td colspan="3">Yo, como desarrollador, quiero desplegar el Fronted, para que la aplicacion web pueda ser utilizada por los segmentos objetivos. .</td>
+    <td colspan="3">Yo, como desarrollador, quiero desplegar el Fronted, para que la aplicacion web pueda ser utilizada por los segmentos objetivos. </td>
     <td colspan="1">3</td>
     <td colspan="2"> Javier Mendoza Solis</td>
     <td colspan="1">Done</td>
