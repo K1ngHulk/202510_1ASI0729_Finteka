@@ -573,8 +573,10 @@ Implementar estrategias de marketing digital avanzadas para aumentar la visibili
 Segmento de ciudadano:
 Soy (nombre y apellido) del curso de Desarrollo de Aplicaciones Open Source haciendo una entrevista a (entrevistado), quien es (trabajo) y que está buscando una plataforma de asesoría profesional. Bueno, para empezar con la entrevista:
 
-1. Personas Naturales (Usuarios en búsqueda de asesoría profesional)
-Preguntas principales:
+##### 1. Personas Naturales (Usuarios en búsqueda de asesoría profesional)
+
+**Preguntas principales:**
+
 - Imagina que pudieras pedirle consejo a un experto en cualquier área de tu vida profesional (por ejemplo, carrera, emprendimiento, desarrollo personal), ¿qué área elegirías y qué te gustaría lograr con ese consejo?
 
 
@@ -605,8 +607,10 @@ Preguntas principales:
 - Piensa en la última vez que buscaste un experto para resolver un problema profesional o personal. ¿Qué te molestó más del proceso y qué características o mejoras te habrían facilitado la búsqueda de ese experto?
 
 
-2. Consultores y Profesionales (Proveedores de asesoría)
-Preguntas principales:
+##### 2. Consultores y Profesionales (Proveedores de asesoría)
+
+**Preguntas principales:**
+
 - Si pudieras organizar tu negocio de asesoría de la manera más eficiente posible, ¿qué herramientas o procesos específicos usarías para atraer clientes y organizar las sesiones de manera efectiva?
 
 
@@ -710,8 +714,7 @@ Julio Castro busca una plataforma para gestionar eficientemente su negocio de as
 
 ### 2.2.3. Análisis de entrevistas
 
-| Sara Giovanna Qwistgaard Horna | Sara prefiere basarse más en el currículum de los asesores y en las recomendaciones específicas sobre su experiencia, que en la opinión pública. Ella opina que, para una buena asesoría online, se deberían incluir recursos didácticos como artículos o fotos que mejoren la experiencia y aprendizaje del usuario. Además, le gustaría que las asesorías fueran más personales, rápidas y puntuales, y que la plataforma fuera más sencilla de utilizar, sin necesidad de herramientas complejas. Finalmente, se queja de que en su última experiencia con la plataforma X, no pudo encontrar fácilmente al asesor debido a una falta de funcionalidad de búsqueda adecuada, lo cual retrasó considerablemente la cita. |
-| :---: | :---- |
+| **Sara Giovanna Qwistgaard Horna** | Sara prefiere basarse más en el currículum de los asesores y en las recomendaciones específicas sobre su experiencia, que en la opinión pública. Ella opina que, para una buena asesoría online, se deberían incluir recursos didácticos como artículos o fotos que mejoren la experiencia y aprendizaje del usuario. Además, le gustaría que las asesorías fueran más personales, rápidas y puntuales, y que la plataforma fuera más sencilla de utilizar, sin necesidad de herramientas complejas. Finalmente, se queja de que en su última experiencia con la plataforma X, no pudo encontrar fácilmente al asesor debido a una falta de funcionalidad de búsqueda adecuada, lo cual retrasó considerablemente la cita. |
 | **Orlando Romero Flores**  | Orlando también prefiere confiar más en el currículum de los asesores que en la opinión pública. Para él, una buena plataforma de asesoría online debe incluir un sistema de recomendaciones según las necesidades del usuario. Además, considera que la plataforma debe facilitar recursos interactivos y equipos de prueba para mejorar su experiencia de aprendizaje. Le gustaría que las asesorías fueran más formales en el área profesional y que la plataforma permita una mejor coordinación entre el asesor y el cliente. En su última experiencia, se encontró con dificultades para coordinar los horarios con el asesor, lo cual causó retrasos significativos. |
 | **Ingrid Noelia Zabala Lasso**  | Ingrid prefiere basarse más en el currículum de los asesores que en la opinión pública. Cree que, para una buena asesoría online, se deberían incluir recursos didácticos como artículos, fotos y recursos interactivos para mejorar la experiencia. Ingrid también valora la capacidad de personalización en la plataforma para adaptarse mejor a sus necesidades. Le gustaría que las asesorías fueran más formales en el área profesional y que la plataforma fuera más fácil de usar, sin tantas herramientas complicadas. En su última experiencia, tuvo problemas para localizar al asesor, lo que generó desconfianza en la plataforma. |
 | **Augusto Montes** | Augusto busca una plataforma que automatice la generación de clientes cualificados y gestione su agenda de manera eficiente. Prefiere un sistema que ofrezca información detallada sobre el cliente antes de la sesión, incluyendo sus objetivos e historial de la empresa. Además, le interesa que la plataforma ofrezca opciones avanzadas como pagos por sesión, suscripciones y facturación automática, lo que facilitaría la gestión de su negocio. También valora que la plataforma permita realizar marketing digital a través de sistemas de referidos y campañas segmentadas. |
