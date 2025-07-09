@@ -2461,7 +2461,7 @@ Durante el Sprint 3, se realizó el despliegue del backend de FinTeka en la plat
 
 <img src="./img/backback1.png">
 
-Link del backend:
+Link del backend: https://finteka-backend.azurewebsites.net/swagger-ui/index.html#/
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -2826,8 +2826,8 @@ Link del repositorio: https://github.com/K1ngHulk/202510_1ASI0729_WebApplication
 Para el despliegue del Backend Web app, hemos utilizado la herramienta de Azure, vincúlandola con nuestro repositorio de GitHub para poder hacer un deployment.
 
 <img src="./img/backback1.png">
-
-Link del BackEnd: 
+ 
+Link del BackEnd: https://finteka-backend.azurewebsites.net/swagger-ui/index.html#/
 
 Link del repositorio: https://github.com/RussellUPC/202510_1ASI0729_WebService_Finteka
 
@@ -3355,6 +3355,10 @@ https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
 #### Link Frontend:
 
 https://finteka-front-end.vercel.app/ 
+
+#### Link Backend:
+
+https://finteka-backend.azurewebsites.net/swagger-ui/index.html#/
 
 #### Miro del Canva: 
 
