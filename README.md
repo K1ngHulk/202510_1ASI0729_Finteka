@@ -41,7 +41,7 @@
 |TB1|24/04/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió los capítulos 1 al 5|
 |TP1|14/05/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió parte del capítulo 5 y se realizaron correcciones generales|
 |TB2|27/05/25|Mathias Javier, Daiki Oshiro, Sergio Aguirre, Russell Romero|Se añadió desde el punto 5.2.3 hasta el 5.4 y se realizaron correcciones generales|
-|TF1|05/07/25|Daiki Oshiro, Sergio Aguirre, Russell Romero, Salvador Chamorro, Gonzalo Carhuancote| Se añadió el sprint 4 y se realizaron correcciones generales|
+|TF1|05/07/25|Daiki Oshiro, Sergio Aguirre, Russell Romero, Salvador Chamorro, Gonzalo Carhuancote, Kenyi Mendoza| Se añadió el sprint 4 y se realizaron correcciones generales|
 
 # Project Report Collaboration Insights
 
