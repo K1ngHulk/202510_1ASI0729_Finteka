@@ -2500,7 +2500,7 @@ A continuación, se presenta una captura de pantalla del Board de Sprint 4 en Tr
 
 https://trello.com/b/tiL6HJYD/sprint-4
 
-<img src="./img/TRELLO4.png" width="900" height="600">
+<img src="./img/sprintb4.jpg">
 
 <table>
 <tr>
