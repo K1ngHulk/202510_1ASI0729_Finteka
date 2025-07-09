@@ -3078,6 +3078,8 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc
 
 Este video resume el trabajo realizado por el equipo Nova Asesores durante el proyecto, mostrando narración del proceso y testimonios individuales sobre las tareas realizadas, logros obtenidos y competencias desarrolladas.
 
+<img src="./img/fotoabouthteteam.png" >
+
 Link del video: 
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211043_upc_edu_pe/EWWk28W-GclFq-PVX_vynhwBHUWf_AAOeywu33OGBu-WcQ?e=2umqwC
