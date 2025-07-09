@@ -2878,19 +2878,19 @@ Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integra
 
 Captura de Analíticos de Colaboración en GitHub en los repositorios:
 
-Commits:
+##### Commits:
 
-Informe:
+##### Informe:
 
  <img src="img/sprint4informe.jpg">
 
  <img src="img/a1.png" >
 
- Backend:
+ ##### Backend:
 
  <img src="img/sprint4backend.jpg">
 
- Frontend:
+##### Frontend:
 
 <img src="img/sprint4frontend.jpg">
 
@@ -3348,9 +3348,17 @@ https://www.figma.com/design/3qhQohmZ9HITfayBaVMYxz/Device-Mockups-Library--100-
 
 https://github.com/K1ngHulk/202510_1ASI0729_LandingPage_Finteka
 
+#### Link Frontend:
+
+https://finteka-front-end.vercel.app/ 
+
 #### Miro del Canva: 
 
 https://miro.com/welcomeonboard/UXoya0gvK2xpOHFZak4yaDRnME1qZ2Flak5qb0VCc0hnN3VEOGFiTXdIdjNvSXBRZ3Q2dWc1S2dwS1ZZSjRhRGN4cXpSdGhWZks3UDNseURydTJPd2xHVVA4c09zU3YrV1dGaFlMMjVZbUxvVFJuaElPR3JwWFNUU0hPODNkSHhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=236710430542
+
+#### Canva TF1: 
+
+https://www.canva.com/design/DAGstS1n8C0/hHC1MlhOoh6k6V0DfRzhlA/edit?utm_content=DAGstS1n8C0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 #### Video TB1: 
 
