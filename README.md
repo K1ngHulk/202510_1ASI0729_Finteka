@@ -2506,7 +2506,7 @@ Durante el Sprint 3, el equipo de FinTeka organizó el desarrollo del backend si
     </tr>
 </table>
 
-#### 5.2.4.2. Líderes de Aspecto y Colaboradores
+#### 5.2.4.2. Aspect Leaders and Collaborators
 
 Esta matriz identifica a los líderes (L) y colaboradores (C) del equipo FinTeka para cada aspecto clave del Sprint 4, con el objetivo de mejorar la coordinación y eficiencia del trabajo. Los aspectos seleccionados responden a tareas prioritarias como validación con usuarios, evaluación de heurísticas y elaboración de videos del proyecto.
 
