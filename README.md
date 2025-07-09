@@ -2665,9 +2665,15 @@ Durante el Sprint 4, el equipo de FinTeka enfocó su colaboración en la integra
 
 Commits:
 
+Informe:
+
  <img src="img/sprint4informe.jpg">
 
+Backend:
+
  <img src="img/sprint4backend.jpg">
+
+Frontend:
 
 
 ## 5.3 Validation Interviews
