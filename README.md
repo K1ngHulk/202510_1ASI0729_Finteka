@@ -2594,10 +2594,10 @@ https://github.com/K1ngHulk/202510_1ASI0729_WebApplication_Finteka
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
-|202510_1ASI0729_WebApplication_Finteka|main| 20e135b0c8ed45a64cbf0955c5a96de8d1aba4a8 | feat(notification): added notification reserve | Create the funtion of notifications reserve section | 28/06/2025 |
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(profiles): added profile view | Create the profile view section| 29/06/2025 |
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added reserve sessions | Create the reserver sessions section| 2/07/2025 |    
-|202510_1ASI0729_WebApplication_Finteka|main| 5af33b270f147a70b5e1ff6a7bef7bcff4e9a78b | feat(session-management): added testimonies | Create the testimonies section | 5/07/2025 |    
+|202510_1ASI0729_WebApplication_Finteka|main| 20e135b | feat(notification): added notification reserve | Create the funtion of notifications reserve section | 28/06/2025 |
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b2 | feat(profiles): added profile view | Create the profile view section| 29/06/2025 |
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b2 | feat(session-management): added reserve sessions | Create the reserver sessions section| 2/07/2025 |    
+|202510_1ASI0729_WebApplication_Finteka|main| 5af33b2 | feat(session-management): added testimonies | Create the testimonies section | 5/07/2025 |    
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
